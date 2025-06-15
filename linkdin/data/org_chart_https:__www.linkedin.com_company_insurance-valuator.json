@@ -1,0 +1,9 @@
+{
+  "nodes": [],
+  "edges": [],
+  "meta": {
+    "model": "gemini/gemini-2.0-flash",
+    "generated_at": "2025-06-15T00:10:41.741890+00:00",
+    "company": "Insurance Valuator"
+  }
+}

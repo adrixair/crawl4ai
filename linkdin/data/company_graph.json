@@ -1,0 +1,1019 @@
+{
+  "nodes": [
+    {
+      "id": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "name": "HEALTH INSURANCE TPA OF INDIA LIMITED",
+      "handle": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited/",
+      "about": "HealthInsuranceTPA of India Ltd is a joint venture of public sector Non-lifeinsurancecompanies –NationalInsuranceCo. Ltd, the OrientalInsuranceCo. Ltd, The New India Assurance Co. Ltd, United IndiaInsuranceCo. Ltd and GIC of India.  The Company was incorporated in the year 2013 and has its Corporate office...",
+      "people_url": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited/people/",
+      "industry": "Insurance",
+      "geoUrn": null,
+      "followers": 881,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "name": "Health Plus Home Health Care",
+      "handle": "https://www.linkedin.com/company/health-plus-home-health-care/",
+      "about": "Bringing Hospital-Quality Care to Your Home AtHealthPlus Home Healthcare, we believe that quality healthcare shouldn’t be limited to hospitals...",
+      "people_url": "https://www.linkedin.com/company/health-plus-home-health-care/people/",
+      "industry": "Home Health Care Services",
+      "geoUrn": null,
+      "followers": 614,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/fico",
+      "name": "FICO",
+      "handle": "https://www.linkedin.com/company/fico/",
+      "about": "..., customer satisfaction and growth for businesses in financial services,insurance, telecommunications,healthcare, retail and many other industries. Using FICO...",
+      "people_url": "https://www.linkedin.com/company/fico/people/",
+      "industry": "Software Development",
+      "geoUrn": null,
+      "followers": 1,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/health-quotient-india",
+      "name": "Health Quotient India",
+      "handle": "https://www.linkedin.com/company/health-quotient-india/",
+      "about": "AKHealthQuotient India Pvt. Ltd  is ahealthmanagementcompany founded by a seasoned Pathologist, people from  corporate India and abroad.Managementteam...",
+      "people_url": "https://www.linkedin.com/company/health-quotient-india/people/",
+      "industry": "Hospitals and Health Care",
+      "geoUrn": null,
+      "followers": 125,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "name": "Health Smarttech Pvt Ltd",
+      "handle": "https://www.linkedin.com/company/health-smarttech-pvt-ltd/",
+      "about": "Building Unified Interconnected Digital Healthcare Eco-system • Specialties:HealthInsurancecompanies",
+      "people_url": "https://www.linkedin.com/company/health-smarttech-pvt-ltd/people/",
+      "industry": "Hospitals and Health Care",
+      "geoUrn": null,
+      "followers": 53,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/health-it-news.direct-",
+      "name": "Health IT NEWS.Direct!",
+      "handle": "https://www.linkedin.com/company/health-it-news.direct-/",
+      "about": "HealthIT NEWS.Direct! is a global Healthcare Information Technology (HealthIT) portal providing research, news, and business intelligence services.Health...",
+      "people_url": "https://www.linkedin.com/company/health-it-news.direct-/people/",
+      "industry": "IT Services and IT Consulting",
+      "geoUrn": null,
+      "followers": 66,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "name": "Omega Healthcare Management Services",
+      "handle": "https://www.linkedin.com/company/omega-healthcare-management-services/",
+      "about": ".... For more information, visit www.omegahms.com  End-to-End Revenue CycleManagementSolutions: Patient Access - Scheduling & Registration -Insurance...",
+      "people_url": "https://www.linkedin.com/company/omega-healthcare-management-services/people/",
+      "industry": "Hospitals and Health Care",
+      "geoUrn": null,
+      "followers": 1,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "name": "The Liberty Company Insurance Brokers, LLC",
+      "handle": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers/",
+      "about": "The Liberty CompanyInsuranceBrokers is an independently ownedinsurancebroker handling the commercial, personal and employee benefitsinsuranceneeds...",
+      "people_url": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers/people/",
+      "industry": "Insurance",
+      "geoUrn": null,
+      "followers": 1,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/insurance-mitra",
+      "name": "Insurance Mitra",
+      "handle": "https://www.linkedin.com/company/insurance-mitra/",
+      "about": "IMHealthConsultancy Services LLP branded asInsuranceMitra is India's leading hospital revenuemanagementcompany.",
+      "people_url": "https://www.linkedin.com/company/insurance-mitra/people/",
+      "industry": "Insurance",
+      "geoUrn": null,
+      "followers": 89,
+      "desc_embed": []
+    },
+    {
+      "id": "https://www.linkedin.com/company/insurance-valuator",
+      "name": "Insurance Valuator",
+      "handle": "https://www.linkedin.com/company/insurance-valuator/",
+      "about": "Welcome toInsuranceValuator, where we empower individuals and families to achieve their financial dreams. With expert guidance and personalized strategies, we navigate the complexities of finance to secure your future. From retirement planning to investmentmanagement, we're your trusted partner every step...",
+      "people_url": "https://www.linkedin.com/company/insurance-valuator/people/",
+      "industry": "Financial Services",
+      "geoUrn": null,
+      "followers": 32,
+      "desc_embed": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.8283,
+      "drivers": {
+        "embed_sim": 0.6733,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.5506,
+      "drivers": {
+        "embed_sim": 0.4976,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.6059,
+      "drivers": {
+        "embed_sim": 0.4558,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.4992,
+      "drivers": {
+        "embed_sim": 0.4474,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.5026,
+      "drivers": {
+        "embed_sim": 0.4455,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.4867,
+      "drivers": {
+        "embed_sim": 0.433,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.4027,
+      "drivers": {
+        "embed_sim": 0.3526,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.4093,
+      "drivers": {
+        "embed_sim": 0.3245,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.2777,
+      "drivers": {
+        "embed_sim": 0.2276,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.5041,
+      "drivers": {
+        "embed_sim": 0.4497,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.4656,
+      "drivers": {
+        "embed_sim": 0.4102,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.4402,
+      "drivers": {
+        "embed_sim": 0.3902,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.4459,
+      "drivers": {
+        "embed_sim": 0.3857,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.4093,
+      "drivers": {
+        "embed_sim": 0.3245,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.3582,
+      "drivers": {
+        "embed_sim": 0.3055,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.3623,
+      "drivers": {
+        "embed_sim": 0.305,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.2682,
+      "drivers": {
+        "embed_sim": 0.2181,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.2605,
+      "drivers": {
+        "embed_sim": 0.2104,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.3877,
+      "drivers": {
+        "embed_sim": 0.3367,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.4155,
+      "drivers": {
+        "embed_sim": 0.3155,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.2919,
+      "drivers": {
+        "embed_sim": 0.2404,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.2777,
+      "drivers": {
+        "embed_sim": 0.2276,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.2704,
+      "drivers": {
+        "embed_sim": 0.2198,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.2605,
+      "drivers": {
+        "embed_sim": 0.2104,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.2963,
+      "drivers": {
+        "embed_sim": 0.1963,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.1996,
+      "drivers": {
+        "embed_sim": 0.1489,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/fico",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.179,
+      "drivers": {
+        "embed_sim": 0.1286,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.5026,
+      "drivers": {
+        "embed_sim": 0.4455,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.5137,
+      "drivers": {
+        "embed_sim": 0.4281,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.4459,
+      "drivers": {
+        "embed_sim": 0.3857,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.4378,
+      "drivers": {
+        "embed_sim": 0.3614,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.4589,
+      "drivers": {
+        "embed_sim": 0.3085,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.3423,
+      "drivers": {
+        "embed_sim": 0.2795,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.3551,
+      "drivers": {
+        "embed_sim": 0.1839,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.2188,
+      "drivers": {
+        "embed_sim": 0.1684,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-quotient-india",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.179,
+      "drivers": {
+        "embed_sim": 0.1286,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.5506,
+      "drivers": {
+        "embed_sim": 0.4976,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.5041,
+      "drivers": {
+        "embed_sim": 0.4497,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.5878,
+      "drivers": {
+        "embed_sim": 0.4368,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.5174,
+      "drivers": {
+        "embed_sim": 0.4272,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.4988,
+      "drivers": {
+        "embed_sim": 0.419,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.4976,
+      "drivers": {
+        "embed_sim": 0.4174,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.4395,
+      "drivers": {
+        "embed_sim": 0.3886,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.3877,
+      "drivers": {
+        "embed_sim": 0.3367,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.3551,
+      "drivers": {
+        "embed_sim": 0.1839,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.4867,
+      "drivers": {
+        "embed_sim": 0.433,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.5174,
+      "drivers": {
+        "embed_sim": 0.4272,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.4656,
+      "drivers": {
+        "embed_sim": 0.4102,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.4378,
+      "drivers": {
+        "embed_sim": 0.3614,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.4264,
+      "drivers": {
+        "embed_sim": 0.3394,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.3584,
+      "drivers": {
+        "embed_sim": 0.3076,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.3487,
+      "drivers": {
+        "embed_sim": 0.2745,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.2793,
+      "drivers": {
+        "embed_sim": 0.2286,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/health-it-news.direct-",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.1996,
+      "drivers": {
+        "embed_sim": 0.1489,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.5878,
+      "drivers": {
+        "embed_sim": 0.4368,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.4402,
+      "drivers": {
+        "embed_sim": 0.3902,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.4027,
+      "drivers": {
+        "embed_sim": 0.3526,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.3957,
+      "drivers": {
+        "embed_sim": 0.3441,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.3739,
+      "drivers": {
+        "embed_sim": 0.3234,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.4155,
+      "drivers": {
+        "embed_sim": 0.3155,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.4104,
+      "drivers": {
+        "embed_sim": 0.3104,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.4589,
+      "drivers": {
+        "embed_sim": 0.3085,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.3584,
+      "drivers": {
+        "embed_sim": 0.3076,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.5871,
+      "drivers": {
+        "embed_sim": 0.5356,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.6059,
+      "drivers": {
+        "embed_sim": 0.4558,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.5781,
+      "drivers": {
+        "embed_sim": 0.4276,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.4395,
+      "drivers": {
+        "embed_sim": 0.3886,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.4104,
+      "drivers": {
+        "embed_sim": 0.3104,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.2793,
+      "drivers": {
+        "embed_sim": 0.2286,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.2682,
+      "drivers": {
+        "embed_sim": 0.2181,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.2963,
+      "drivers": {
+        "embed_sim": 0.1963,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.2188,
+      "drivers": {
+        "embed_sim": 0.1684,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.8283,
+      "drivers": {
+        "embed_sim": 0.6733,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/insurance-valuator",
+      "weight": 0.5774,
+      "drivers": {
+        "embed_sim": 0.5094,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.5137,
+      "drivers": {
+        "embed_sim": 0.4281,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.5781,
+      "drivers": {
+        "embed_sim": 0.4276,
+        "industry_match": 0.1,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.4988,
+      "drivers": {
+        "embed_sim": 0.419,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.4264,
+      "drivers": {
+        "embed_sim": 0.3394,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.3739,
+      "drivers": {
+        "embed_sim": 0.3234,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.3623,
+      "drivers": {
+        "embed_sim": 0.305,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-mitra",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.2704,
+      "drivers": {
+        "embed_sim": 0.2198,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/the-liberty-company-insurance-brokers",
+      "weight": 0.5871,
+      "drivers": {
+        "embed_sim": 0.5356,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/insurance-mitra",
+      "weight": 0.5774,
+      "drivers": {
+        "embed_sim": 0.5094,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/health-insurance-tpa-of-india-limited",
+      "weight": 0.4992,
+      "drivers": {
+        "embed_sim": 0.4474,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/health-smarttech-pvt-ltd",
+      "weight": 0.4976,
+      "drivers": {
+        "embed_sim": 0.4174,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/omega-healthcare-management-services",
+      "weight": 0.3957,
+      "drivers": {
+        "embed_sim": 0.3441,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/health-plus-home-health-care",
+      "weight": 0.3582,
+      "drivers": {
+        "embed_sim": 0.3055,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/health-quotient-india",
+      "weight": 0.3423,
+      "drivers": {
+        "embed_sim": 0.2795,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/health-it-news.direct-",
+      "weight": 0.3487,
+      "drivers": {
+        "embed_sim": 0.2745,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    },
+    {
+      "source": "https://www.linkedin.com/company/insurance-valuator",
+      "target": "https://www.linkedin.com/company/fico",
+      "weight": 0.2919,
+      "drivers": {
+        "embed_sim": 0.2404,
+        "industry_match": 0,
+        "geo_overlap": 0.05
+      }
+    }
+  ],
+  "meta": {
+    "generated_at": "2025-06-15T00:09:58.921386+00:00"
+  }
+}

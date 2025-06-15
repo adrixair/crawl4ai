@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "linkedin_member_1",
+      "name": "LinkedIn Member",
+      "title": "Business Analyst",
+      "dept": null,
+      "yoe_total": null,
+      "yoe_current": null,
+      "seniority_score": 0.2,
+      "decision_score": 0.6,
+      "avatar_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+      "profile_url": null
+    }
+  ],
+  "edges": [],
+  "meta": {
+    "model": "gemini/gemini-2.0-flash",
+    "generated_at": "2025-06-15T00:10:35.038834+00:00",
+    "company": "Health Smarttech Pvt Ltd"
+  }
+}

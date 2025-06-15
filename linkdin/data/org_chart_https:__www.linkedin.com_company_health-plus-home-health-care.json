@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "linkedin_member_1",
+      "name": "LinkedIn Member",
+      "title": "Billing Manager",
+      "dept": null,
+      "yoe_total": null,
+      "yoe_current": null,
+      "seniority_score": 0.3,
+      "decision_score": 0.6,
+      "avatar_url": "https://media.licdn.com/dms/image/v2/D5603AQG7DYbkWGbokw/profile-displayphoto-shrink_200_200/B56ZXy.3fvGcAc-/0/1743538321622?e=1755129600&v=beta&t=nXygocO-S41kwmKkU8OKxtCsdWFhIk5qjBrsyffCkKg",
+      "profile_url": null
+    }
+  ],
+  "edges": [],
+  "meta": {
+    "model": "gemini/gemini-2.0-flash",
+    "generated_at": "2025-06-15T00:10:15.639884+00:00",
+    "company": "Health Plus Home Health Care"
+  }
+}
