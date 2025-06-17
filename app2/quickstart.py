@@ -13,7 +13,13 @@ import re
 from typing import Dict
 from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
+
 from crawl4ai import AsyncWebCrawler, CacheMode, BrowserConfig, CrawlerRunConfig
+
+from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
+from crawl4ai.deep_crawling import BFSDeepCrawlStrategy
+from crawl4ai.content_scraping_strategy import LXMLWebScrapingStrategy
+
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 from crawl4ai.content_filter_strategy import PruningContentFilter
 from crawl4ai.extraction_strategy import (
@@ -33,13 +39,42 @@ print("Website: https://crawl4ai.com")
 async def simple_crawl():
     print("\n--- Basic Usage ---")
     browser_config = BrowserConfig(headless=True)
-    crawler_config = CrawlerRunConfig(cache_mode=CacheMode.BYPASS)
+    crawler_config = CrawlerRunConfig(
+        cache_mode=CacheMode.BYPASS,
+        deep_crawl_strategy=BFSDeepCrawlStrategy(max_depth=2,include_external=False),
+        scraping_strategy=LXMLWebScrapingStrategy(),
+        verbose=True
+        )
 
     async with AsyncWebCrawler(config=browser_config) as crawler:
         result = await crawler.arun(
-            url="https://www.nbcnews.com/business", config=crawler_config
+            url="https://www.workally.com.br", 
+            config=crawler_config,
         )
-        print(result.markdown[:500])
+        print(result.markdown)
+
+async def simple_crawl2():
+    # Configure a 2-level deep crawl
+    config = CrawlerRunConfig(
+        stream=True,
+        deep_crawl_strategy=BFSDeepCrawlStrategy(
+            max_depth=2, 
+            include_external=False, 
+            max_pages=50,
+        ),
+        scraping_strategy=LXMLWebScrapingStrategy(),
+        verbose=True
+    )
+
+    async with AsyncWebCrawler() as crawler:
+        results = await crawler.arun("https://www.workally.com.br", config=config)
+
+        print(f"Crawled {len(results)} pages in total")
+
+        # Access individual results
+        for result in results[:3]:  # Show first 3 results
+            print(f"URL: {result.url}")
+            print(f"Depth: {result.metadata.get('depth', 0)}")
 
 
 async def clean_content():
@@ -56,11 +91,12 @@ async def clean_content():
     )
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(
-            url="https://en.wikipedia.org/wiki/Apple",
+            url="https://www.workally.com.br",
             config=crawler_config,
         )
         full_markdown_length = len(result.markdown.raw_markdown)
         fit_markdown_length = len(result.markdown.fit_markdown)
+        print(result.markdown)
         print(f"Full Markdown Length: {full_markdown_length}")
         print(f"Fit Markdown Length: {fit_markdown_length}")
 
@@ -73,7 +109,7 @@ async def link_analysis():
     )
     async with AsyncWebCrawler() as crawler:
         result = await crawler.arun(
-            url="https://www.nbcnews.com/business",
+            url="https://www.workally.com.br",
             config=crawler_config,
         )
         print(f"Found {len(result.links['internal'])} internal links")
@@ -140,7 +176,6 @@ async def custom_hook_workflow(verbose=True):
         # Perform the crawl operation
         result = await crawler.arun(url="https://crawl4ai.com")
         print(result.markdown.raw_markdown[:500].replace("\n", " -- "))
-
 
 # Proxy Example
 async def use_proxy():
@@ -536,7 +571,8 @@ async def ssl_certification():
 # Main execution
 async def main():
     # Basic examples
-    await simple_crawl()
+    await simple_crawl2()
+    """
     await simple_example_with_running_js_code()
     await simple_example_with_css_selector()
 
@@ -556,7 +592,7 @@ async def main():
         "https://www.example.com",
         os.path.join(__location__, "tmp/example_screenshot.jpg")
     )
-
-
+    """
 if __name__ == "__main__":
     asyncio.run(main())
+
