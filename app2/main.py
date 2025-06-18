@@ -23,9 +23,10 @@ from crawl4ai.deep_crawling.filters import FilterChain, DomainFilter, URLPattern
 from crawl4ai.deep_crawling.scorers import KeywordRelevanceScorer
 from crawl4ai.extraction_strategy import JsonCssExtractionStrategy, LLMExtractionStrategy
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
+from crawl4ai.async_dispatcher import MemoryAdaptiveDispatcher
 
 #Main Crawler Function
-async def main():
+async def main(url):
 
     ### Create a sophisticated filter chain
     filter_chain = FilterChain([
@@ -43,6 +44,10 @@ async def main():
     browser_cfg = BrowserConfig(headless=True)
 
     config = CrawlerRunConfig(
+        exclude_all_images=True,
+        exclude_external_links=False,
+        wait_for_images=True,   
+        exclude_external_images=True,
         deep_crawl_strategy=BestFirstCrawlingStrategy(
             max_depth=2,
             max_pages=50,
@@ -53,7 +58,7 @@ async def main():
         cache_mode=CacheMode.BYPASS,
         scraping_strategy=LXMLWebScrapingStrategy(),
         stream=True,
-        verbose=True,
+        verbose=False,
 
         markdown_generator=DefaultMarkdownGenerator(
             content_filter=PruningContentFilter(
@@ -63,29 +68,37 @@ async def main():
             ),
             options={
                 "citations": True,         # ajoute des citations numérotées
-                "body_width": 90,          # largeur de paragraphe
-                "ignore_links": False,     # supprime les liens cliquables
+                #"body_width": 90,          # largeur de paragraphe
+                "ignore_links": True,     # supprime les liens cliquables
                 "skip_internal_links": True, # ignore les liens internes
                 "ignore_images": True,     # supprime toutes les images
                 "ignore_tables": True,     # supprime tables <table>
-                "protect_links": True      # garde l’ancre brute sans http://
+                "protect_links": True ,     # garde l’ancre brute sans http://
+                "include_sup_sub": True 
             }
         ),
     )
 
     ### Execute the crawl
     results = []
-
     async with AsyncWebCrawler(config=browser_cfg) as crawler:
-        async for result in await crawler.arun("https://www.workally.com.br", config=config):
-            results.append(result)
-        print(results)
-
-    # Combine all page markdowns
-    combined_markdown = "\n\n".join([res.markdown for res in results if res.markdown])
-
-if __name__ == "__main__":
-    asyncio.run(main())
-
-
-
+        async for result in await crawler.arun(url, config=config):
+            if not result.success:
+                print("Crawl error:", result.error_message)
+                return
+            if result.markdown:
+                external_links = result.links.get("external", [])
+                if external_links:
+                    formatted_links = []
+                    for item in external_links:
+                        # item peut être soit un dict (cas Crawl4AI) soit déjà une chaîne
+                        href = item.get("href") if isinstance(item, dict) else str(item)
+                        # Nettoie les liens mailto pour ne garder que l’adresse e‑mail
+                        if href.startswith("mailto:"):
+                            href = href.replace("mailto:", "")
+                        formatted_links.append(f"- {href}")
+                    external_links_md = "\n\n# Liens externes trouvés\n" + "\n".join(formatted_links)
+                else:
+                    external_links_md = ""
+                results.append(result.markdown + external_links_md)
+    return results
