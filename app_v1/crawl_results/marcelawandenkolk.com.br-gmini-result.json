@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://marcelawandenkolk.com.br",
+    "emails": ["contato@mwarq.com.br"],
+    "phone_numbers": ["+55 11 3525-7236", "+551135257236"],
+    "addresses": ["Alameda Lorena, 800 – Cj. 1302, Jardim Paulista, São Paulo – SP, 01424-004"],
+    "social_links": [
+        "https://wa.me/+5511971013905",
+        "https://instagram.com/arquitetura.mw",
+        "https://br.pinterest.com/mwarquitetura/",
+        "https://facebook.com/marcelawarq",
+        "https://api.whatsapp.com/send?phone=5511971013905"
+    ]
+}
+```

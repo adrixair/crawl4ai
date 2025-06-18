@@ -1,0 +1,165 @@
+[
+  {
+    "website": "https://balaioarquitetura.com.br",
+    "emails": [
+      "contato@balaioarquitetura.com.br",
+      "parceiros@balaioarquitetura.com.br",
+      "portfolio@balaioarquitetura.com.br"
+    ],
+    "phone_numbers": [
+      "+55 11 96229-2868",
+      "+55 11 98051-3097"
+    ],
+    "addresses": [
+      "Rua da Consolação, 222 – Consolação, São Paulo/SP",
+      "Rua da Consolação, 222 - Consolação, São Paulo/SP"
+    ],
+    "social_links": [
+      "https://www.instagram.com/balaioarquitetura",
+      "https://www.facebook.com/balaioarquitetura",
+      "https://www.linkedin.com/company/balaio-arquitetura",
+      "https://br.pinterest.com/balaioarquitetura/",
+      "https://open.spotify.com/playlist/3lKMAsynv8BtcFBTA2raUq?si=rlzOLWkYT52pQR0JvPV7ig",
+      "https://www.youtube.com/channel/UC5u2gq6i5QS3-DTliSQJH6Q",
+      "https://api.whatsapp.com/send?phone=5511962292868&text=Ol%C3%A1,%20Balaio!%20Quero%20conversar%20com%20voc%C3%AAs.",
+      "https://api.whatsapp.com/send?phone=5511962292868&text=Ol%C3%A1%20Balaio,%20quero%20conversar%20com%20voc%C3%AAs!",
+      "https://web.whatsapp.com/send?phone=5511962292868&text=Olá, Balaio! Quero conversar com vocês!"
+    ]
+  },
+  {
+    "website": "https://www.saopauloarquitetos.com",
+    "emails": [
+      "pr@saopauloarquitetos.com",
+      "tc@saopauloarquitetos.com",
+      "mafe@saopauloarquitetos.com"
+    ],
+    "phone_numbers": [
+      "55 11 5081-7299"
+    ],
+    "addresses": [
+      "rua Afonso Braz, 864 cj.111 - Vila Nova Conceição"
+    ],
+    "social_links": [
+      "https://www.instagram.com/saopauloarquitetos/"
+    ]
+  },
+  {
+    "website": "https://marcelawandenkolk.com.br",
+    "emails": [
+      "contato@mwarq.com.br"
+    ],
+    "phone_numbers": [
+      "+55 11 3525-7236",
+      "+551135257236"
+    ],
+    "addresses": [
+      "Alameda Lorena, 800 – Cj. 1302, Jardim Paulista, São Paulo – SP, 01424-004"
+    ],
+    "social_links": [
+      "https://wa.me/+5511971013905",
+      "https://instagram.com/arquitetura.mw",
+      "https://br.pinterest.com/mwarquitetura/",
+      "https://facebook.com/marcelawarq",
+      "https://api.whatsapp.com/send?phone=5511971013905"
+    ]
+  },
+  {
+    "website": "https://marinacarvalho.com/",
+    "emails": [],
+    "phone_numbers": [
+      "+55 (11) 99126-1924"
+    ],
+    "addresses": [
+      "Alameda Lorena, 427 - CJ 56 • Jardim Paulista, São Paulo • SP, CEP: 01424-000"
+    ],
+    "social_links": [
+      "https://www.instagram.com/arqmarinacarvalho/",
+      "https://www.linkedin.com/company/18840690/admin/feed/posts/?feedType=following",
+      "https://www.youtube.com/channel/UCNs6L8sh4pKXttA0JSiffiw",
+      "https://br.pinterest.com/marinacarvalho0/marina-carvalho-arquitetura/"
+    ]
+  },
+  {
+    "error": "Invalid JSON structure",
+    "raw_result": "```json\n{\n    \"website\": \"https://archello.com\",\n    \"emails\": [],\n    \"phone_numbers\": [],\n    \"addresse\": [],\n    \"social_links\": []\n}\n```\n\n**Explication:**\n\nL'extrait Markdown fourni est très limité. Il indique que le site web `archello.com` est en cours de vérification de sécurité.  Il ne contient aucune information de contact (email, numéro de téléphone, adresse) ni de liens vers des réseaux sociaux ou des API.\n\nPar conséquent, le JSON résultant ne contient que l'URL du site web et des listes vides pour les autres champs.\n"
+  },
+  {
+    "website": "https://www.instagram.com/arquitetataynadurso/?hl=fr",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+      "SP - Zona Sul",
+      "Brooklin",
+      "W Residences",
+      "Cotia",
+      "São Paulo"
+    ],
+    "social_links": [
+      "https://www.threads.com/",
+      "https://developers.facebook.com/docs/instagram",
+      "https://www.facebook.com/help/instagram/261704639352628?hl=fr",
+      "https://about.meta.com/",
+      "https://www.facebook.com/privacy/policy"
+    ]
+  },
+  {
+    "website": "https://www.imoveispro.com.br",
+    "emails": [
+      "contato@imoveispro.com.br"
+    ],
+    "phone_numbers": [
+      "+55 (11) 4248-3000",
+      "+55 (11) 98000-6000"
+    ],
+    "addresses": [
+      "Av. Açocê, 308, Moema, São Paulo/SP, CEP 04075-021"
+    ],
+    "social_links": [
+      "https://www.facebook.com/imoveisPRO/",
+      "https://instagram.com/imoveispro",
+      "https://www.youtube.com/channel/UCAD0WxNIGrLum8BCP2OiMvA/videos",
+      "https://api.whatsapp.com/send?phone=5511980006000&text="
+    ]
+  },
+  {
+    "website": "https://www.estudiopiloti.arq.br",
+    "emails": [
+      "ola@estudiopiloti.arq.br"
+    ],
+    "phone_numbers": [],
+    "addresses": [
+      "19 Rua Piracuama,\nPompeia, SP, 05017-040,\nBrazil"
+    ],
+    "social_links": [
+      "https://www.instagram.com/estudio_piloti/",
+      "https://www.facebook.com/EstudioPiloti/",
+      "https://www.pinterest.com/estudiopilotiarquitetura/"
+    ]
+  },
+  {
+    "website": "https://bovearquitetura.com.br",
+    "emails": [
+      "contato@bovearquitetura.com.br"
+    ],
+    "phone_numbers": [
+      "+55 (11) 98322-5918"
+    ],
+    "addresses": [
+      "Escritório: São Paulo – SP"
+    ],
+    "social_links": [
+      "https://api.whatsapp.com/send?phone=5511983225918&text=sua%20mensagem",
+      "https://api.whatsapp.com/send?phone=5511983225918&text=Gostaria de um orçamento",
+      "https://api.whatsapp.com/send?phone=5511983225918&text=Acessei Seu Site e Gostaria de um Orçamento"
+    ]
+  },
+  {
+    "website": "https://www.instagram.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresse": [],
+    "social_links": [
+      "https://www.instagram.com/saopauloarquitetos/"
+    ]
+  }
+]

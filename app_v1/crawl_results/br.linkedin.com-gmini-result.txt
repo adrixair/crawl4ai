@@ -1,0 +1,13 @@
+```json
+{
+    "website": "http://workally.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Rua Augusta 1102 São Paulo, SP 01304-001, BR"
+    ],
+    "social_links": [
+        "https://br.linkedin.com/company/workally"
+    ]
+}
+```
