@@ -16,9 +16,25 @@ from main import main  # Importer la fonction main depuis le fichier main.py
 from googleS import run_google_search  # importe la fonction de recherche Google
 from gemini_markdown import gminimarkdown  # importe la fonction de recherche Gemini
 
-query = "arquiteto sao paulo" # requête pour la recherche Google
-urls = run_google_search(query, lang="fr", region="br", num_results=10, advanced=False) # liste des URLs à crawler
+#query = "arquiteto sao paulo" # requête pour la recherche Google
+#urls = run_google_search(query, lang="fr", region="br", num_results=3, advanced=False) # liste des URLs à crawler
 #urls = ["https://www.workally.com.br"]
+
+query_list = ["arquiteto sao paulo", "architecte sao paulo"]  # Liste de mots-clés
+
+all_urls = []
+
+for query in query_list:
+    print(f"🔍 Recherche Google pour : '{query}'")
+    urls_for_query = run_google_search(query, lang="fr", region="br", num_results=3, advanced=False)
+    all_urls.extend(urls_for_query)
+
+# Supprimer les doublons et garder un ordre stable
+unique_urls = list(dict.fromkeys(all_urls))
+
+print(f"🌐 Nombre total d'URLs : {len(unique_urls)}")
+
+
 
 prompt_template = """
 Vous êtes un assistant spécialisé dans l'extraction de contacts et de réseaux sociaux à partir de contenu Markdown provenant d'un sites web.
@@ -105,4 +121,4 @@ async def run_batch(urls: list[str]) -> None:
        
 
 if __name__ == "__main__":
-    asyncio.run(run_batch(urls))
+    asyncio.run(run_batch(unique_urls))

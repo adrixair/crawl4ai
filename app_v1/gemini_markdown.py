@@ -6,8 +6,8 @@ def gminimarkdown(prompt_template: str, url: str, markdown_content: str) -> str:
     client = genai.Client(api_key="AIzaSyAl_bK7SZR2-TZXHiJi8X7v-6cNnaMev-Y")
     full_prompt = prompt_template + "\n\nURL de recherche:\n" + url + "\n\n" + markdown_content
 
-    max_retries = 3
-    retry_delay = 5  # seconds
+    max_retries = 10
+    retry_delay = 5 #s
 
     for attempt in range(1, max_retries + 1):
         try:
