@@ -8,31 +8,28 @@ import json
 import ast
 
 
-sys.path.append(Path(__file__).parent.as_posix()) # Ajoute le répertoire parent au chemin de recherche
-OUTPUT_DIR = Path(__file__).parent / "crawl_results" # Répertoire de sortie pour les résultats du crawl
-OUTPUT_DIR.mkdir(exist_ok=True) # Crée le répertoire s'il n'existe pas
+sys.path.append(Path(__file__).parent.as_posix())  # Ajoute le répertoire parent au chemin de recherche
+OUTPUT_DIR = Path(__file__).parent / "crawl_results"  # Répertoire de sortie pour les résultats du crawl
+OUTPUT_DIR.mkdir(exist_ok=True)  # Crée le répertoire s'il n'existe pas
 
 from main import main  # Importer la fonction main depuis le fichier main.py
 from googleS import run_google_search  # importe la fonction de recherche Google
 from gemini_markdown import gminimarkdown  # importe la fonction de recherche Gemini
 
-#query = "arquiteto sao paulo" # requête pour la recherche Google
-#urls = run_google_search(query, lang="fr", region="br", num_results=3, advanced=False) # liste des URLs à crawler
-#urls = ["https://www.workally.com.br"]
+DEFAULT_QUERY_LIST = ["arquiteto sao paulo", "architecte sao paulo"]
 
-query_list = ["arquiteto sao paulo", "architecte sao paulo"]  # Liste de mots-clés
+def get_unique_urls(query_list: list[str]) -> list[str]:
+    """Launch Google searches and return a unique list of URLs."""
 
-all_urls = []
+    all_urls: list[str] = []
+    for query in query_list:
+        print(f"🔍 Recherche Google pour : '{query}'")
+        urls_for_query = run_google_search(query, lang="fr", region="br", num_results=3, advanced=False)
+        all_urls.extend(urls_for_query)
 
-for query in query_list:
-    print(f"🔍 Recherche Google pour : '{query}'")
-    urls_for_query = run_google_search(query, lang="fr", region="br", num_results=3, advanced=False)
-    all_urls.extend(urls_for_query)
-
-# Supprimer les doublons et garder un ordre stable
-unique_urls = list(dict.fromkeys(all_urls))
-
-print(f"🌐 Nombre total d'URLs : {len(unique_urls)}")
+    unique_urls = list(dict.fromkeys(all_urls))
+    print(f"🌐 Nombre total d'URLs : {len(unique_urls)}")
+    return unique_urls
 
 
 
@@ -118,7 +115,15 @@ async def run_batch(urls: list[str]) -> None:
 
     # Open the Excel file automatically (for MacOS)
     os.system(f"open '{excel_output_path}'")
-       
+
+
+async def run_xt(query_list: list[str] | None = None) -> None:
+    """Entry point used by both CLI and webapp."""
+    if query_list is None:
+        query_list = DEFAULT_QUERY_LIST
+    urls = get_unique_urls(query_list)
+    await run_batch(urls)
+
 
 if __name__ == "__main__":
-    asyncio.run(run_batch(unique_urls))
+    asyncio.run(run_xt())
