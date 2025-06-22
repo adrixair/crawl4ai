@@ -1,0 +1,36 @@
+```json
+{
+    "website": "https://www.metro.sp.gov.br",
+    "emails": ["ouvidoria@viaquatro.com.br"],
+    "phone_numbers": ["0800 770 7722", "11 97333 2252", "0800 770 7100", "0800-770-7106", "(11) 3866-1100"],
+    "addresses": [
+        "Rua Visconde de Ataíde, 315 – Jardim Textil",
+        "Av. Sapopemba com Rua Caxiúna (altura do nº 2.384)",
+        "Av. Montemagno, 230",
+        "Av. Guilherme Giorgi, 159",
+        "Rua Rodeio, 726",
+        "Av. Ragueb Chohfi nº 4.397 – Jardim Três Marias",
+        "Rua Bernardino de Campos, 1.351 – Campo Belo"
+    ],
+    "social_links": [
+        "https://www.flickr.com/governosp/",
+        "https://www.linkedin.com/company/governosp/",
+        "https://www.tiktok.com/@governosp",
+        "https://www.youtube.com/governosp/",
+        "https://www.instagram.com/governosp/",
+        "https://www.facebook.com/governosp/",
+        "https://br.linkedin.com/company/metro-de-sao-paulo",
+        "https://www.tiktok.com/@metrosp",
+        "https://www.youtube.com/metrospoficial/",
+        "https://www.x.com/metrosp_oficial/",
+        "https://www.instagram.com/metrospoficial/",
+        "https://www.facebook.com/metrosp/",
+        "https://whatsapp.com/channel/0029Va4tIbCFHWq7sOctpz23",
+        "https://www.threads.com/@governosp",
+        "https://transparencia.metrosp.com.br/dataset/relat%C3%B3rio-de-expans%C3%A3o-obras-e-moderniza%C3%A7%C3%A3o",
+        "https://governancacorporativa.metrosp.com.br/",
+        "https://transparencia.metrosp.com.br/",
+        "https://ri.metrosp.com.br"
+    ]
+}
+```

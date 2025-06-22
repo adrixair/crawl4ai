@@ -97,10 +97,14 @@ Next page (1 of 2)
 - https://www.instagram.com/saopauloarquitetos/
 - javascript:void(0)
 Running on Cargo
-Filter: **ProjetoPremiado 1ºLugar ConcursoPúblicodeArquitetura** view all
+Filter: **Estudo Preliminar** view all
 Sobre o São Paulo Arquitetos
 Instagram
 Following (1)
+Complexo de Uso Misto _ Campos do Jordão _ SP
+Estudo Preliminar
+Quiosques Praia da Enseada _ Guarujá _ SP
+Estudo Preliminar
   
 
 
@@ -116,28 +120,6 @@ MI
 
 # Liens externes trouvés
 - https://cargocollective.com/estudio-mi
-Running on Cargo
-Filter: **Obra Concluída** view all
-Sobre o São Paulo Arquitetos
-Instagram
-Following (1)
-Casa Vila Nova by Helbor _ São Paulo _ SP
-Obra Concluída
-Edifício Dina Vila Nova _ São Paulo _ SP
-Obra Concluída
-Residência W270 _ Bragança Paulista _ SP
-Obra concluída
-Ap modelo - Edifício Dina Vila Nova
-Obra Concluída
-Monsanto TechConnect _ São Paulo _ SP
-Centro Empresarial Nações Unidas - Obra concluída
-  
-
-
-
-# Liens externes trouvés
-- http://cargocollective.com
-- https://www.instagram.com/saopauloarquitetos/
 Running on Cargo
 Sobre o São Paulo Arquitetos
 Instagram
@@ -283,129 +265,27 @@ Next page (1 of 2)
 - https://www.instagram.com/saopauloarquitetos/
 - javascript:void(0)
 Running on Cargo
+Filter: **Obra Concluída** view all
 Sobre o São Paulo Arquitetos
 Instagram
 Following (1)
-index
-/ 
-Next project
-**Complexo de uso misto _ Capivari _ Campos do Jordão**  
-  
-  
-Dois corpos paralelos definem uma rua central de pedestres que articula as áreas comerciais, no nível térreo, e as unidades residenciais nos pisos superiores.  
-O elemento fundamental do projeto não são os corpos construídos, mas o generoso jardim que define o caráter deste espaço, e que equilibra a relação entre áreas de contemplação e os terraços das lojas e cafés, de uso efetivo.  
-  
-  
-Diagramas:  
-  
-  
-  
-  
-  
-  
-  
-  
-Imagens:  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Desenhos:  
-  
-  
-Térreo  
-  
-  
-1º Pavimento  
-  
-  
-2º Pavimento  
-  
-  
-3º Pavimento _ Sotão  
-  
-  
-Subsolo  
-  
-  
-  
-Cortes   
-  
-  
-  
-  
-  
-**Arquitetura**  
-São Paulo Arquitetos  
-  
-**Equipe** : Paulo Roberto dos Santos, Maria Fernanda Vita, Vinícius Gomes, Tais Cristina da Silva e Fabio Jorge  
-  
-  
-**Consultoria de Estrutura**  
-SP Project  
-  
-  
-**Imagens**  
-Vinícius Gomes _ São Paulo Arquitetos  
-  
----  
-  
-Área do lote: 4.380m²  
-Área construída: 9.940m²  
-Ano: 2021  
-Cidade: Campos do Jordão, SP 
-December 2021  Filed under Estudo Preliminar
 Casa Vila Nova by Helbor _ São Paulo _ SP
 Obra Concluída
-Complexo de Uso Misto _ Campos do Jordão _ SP
-Estudo Preliminar
-Sede do IAB/DF e CAU/BR _ Brasília _ DF
-Projeto Premiado - 1º Lugar - Concurso Público de Arquitetura
 Edifício Dina Vila Nova _ São Paulo _ SP
 Obra Concluída
 Residência W270 _ Bragança Paulista _ SP
 Obra concluída
-Casa da Sustentabilidade _ Campinas _ SP
-Projeto Premiado - 3º Lugar - Concurso Público de Arquitetura
-Edifício Anexo BNDES _ Rio de janeiro _ RJ
-Projeto Premiado - 3º Lugar - Concurso Público de Arquitetura
 Ap modelo - Edifício Dina Vila Nova
 Obra Concluída
-Quiosques Praia da Enseada _ Guarujá _ SP
-Estudo Preliminar
-Estação Antártica Comandante Ferraz _ Ilha do Rei George _ Antártida
-Menção honrosa - Concurso Internacional de Arquitetura
 Monsanto TechConnect _ São Paulo _ SP
 Centro Empresarial Nações Unidas - Obra concluída
-Residência W270 _ Bragança Paulista _ SP
-Projeto
-Welcome Center Alphaville Ceará
-Concurso Fechado
-Hotel Intercity Indaiatuba
-Concepção de Fachadas - Em desenvolvimento
-Campus FAM - Moinho Santo Antônio
-Desenvolvimento do Projeto de Arquitetura
-Colégio Cristo Rei
-Reforma e Ampliação (Coordenação de Projeto e Acompanhamento de Obra)
-Colaborações
-2003-2016
-São Paulo Arquitetos
-Equipe
   
 
-Next page (1 of 2)
 
 
 # Liens externes trouvés
 - http://cargocollective.com
 - https://www.instagram.com/saopauloarquitetos/
-- javascript:void(0)
 Running on Cargo
 Sobre o São Paulo Arquitetos
 Instagram
@@ -576,6 +456,142 @@ Next page (1 of 2)
 - https://www.instagram.com/saopauloarquitetos/
 - javascript:void(0)
 Running on Cargo
+Filter: **ProjetoPremiado 1ºLugar ConcursoPúblicodeArquitetura** view all
+Sobre o São Paulo Arquitetos
+Instagram
+Following (1)
+  
+
+
+
+# Liens externes trouvés
+- http://cargocollective.com
+- https://www.instagram.com/saopauloarquitetos/
+Running on Cargo
+Sobre o São Paulo Arquitetos
+Instagram
+Following (1)
+index
+/ 
+Next project
+**Complexo de uso misto _ Capivari _ Campos do Jordão**  
+  
+  
+Dois corpos paralelos definem uma rua central de pedestres que articula as áreas comerciais, no nível térreo, e as unidades residenciais nos pisos superiores.  
+O elemento fundamental do projeto não são os corpos construídos, mas o generoso jardim que define o caráter deste espaço, e que equilibra a relação entre áreas de contemplação e os terraços das lojas e cafés, de uso efetivo.  
+  
+  
+Diagramas:  
+  
+  
+  
+  
+  
+  
+  
+  
+Imagens:  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Desenhos:  
+  
+  
+Térreo  
+  
+  
+1º Pavimento  
+  
+  
+2º Pavimento  
+  
+  
+3º Pavimento _ Sotão  
+  
+  
+Subsolo  
+  
+  
+  
+Cortes   
+  
+  
+  
+  
+  
+**Arquitetura**  
+São Paulo Arquitetos  
+  
+**Equipe** : Paulo Roberto dos Santos, Maria Fernanda Vita, Vinícius Gomes, Tais Cristina da Silva e Fabio Jorge  
+  
+  
+**Consultoria de Estrutura**  
+SP Project  
+  
+  
+**Imagens**  
+Vinícius Gomes _ São Paulo Arquitetos  
+  
+---  
+  
+Área do lote: 4.380m²  
+Área construída: 9.940m²  
+Ano: 2021  
+Cidade: Campos do Jordão, SP 
+December 2021  Filed under Estudo Preliminar
+Casa Vila Nova by Helbor _ São Paulo _ SP
+Obra Concluída
+Complexo de Uso Misto _ Campos do Jordão _ SP
+Estudo Preliminar
+Sede do IAB/DF e CAU/BR _ Brasília _ DF
+Projeto Premiado - 1º Lugar - Concurso Público de Arquitetura
+Edifício Dina Vila Nova _ São Paulo _ SP
+Obra Concluída
+Residência W270 _ Bragança Paulista _ SP
+Obra concluída
+Casa da Sustentabilidade _ Campinas _ SP
+Projeto Premiado - 3º Lugar - Concurso Público de Arquitetura
+Edifício Anexo BNDES _ Rio de janeiro _ RJ
+Projeto Premiado - 3º Lugar - Concurso Público de Arquitetura
+Ap modelo - Edifício Dina Vila Nova
+Obra Concluída
+Quiosques Praia da Enseada _ Guarujá _ SP
+Estudo Preliminar
+Estação Antártica Comandante Ferraz _ Ilha do Rei George _ Antártida
+Menção honrosa - Concurso Internacional de Arquitetura
+Monsanto TechConnect _ São Paulo _ SP
+Centro Empresarial Nações Unidas - Obra concluída
+Residência W270 _ Bragança Paulista _ SP
+Projeto
+Welcome Center Alphaville Ceará
+Concurso Fechado
+Hotel Intercity Indaiatuba
+Concepção de Fachadas - Em desenvolvimento
+Campus FAM - Moinho Santo Antônio
+Desenvolvimento do Projeto de Arquitetura
+Colégio Cristo Rei
+Reforma e Ampliação (Coordenação de Projeto e Acompanhamento de Obra)
+Colaborações
+2003-2016
+São Paulo Arquitetos
+Equipe
+  
+
+Next page (1 of 2)
+
+
+# Liens externes trouvés
+- http://cargocollective.com
+- https://www.instagram.com/saopauloarquitetos/
+- javascript:void(0)
+Running on Cargo
 Sobre o São Paulo Arquitetos
 Instagram
 Following (1)
@@ -644,19 +660,3 @@ Next page (1 of 2)
 - http://cargocollective.com
 - https://www.instagram.com/saopauloarquitetos/
 - javascript:void(0)
-Running on Cargo
-Filter: **Estudo Preliminar** view all
-Sobre o São Paulo Arquitetos
-Instagram
-Following (1)
-Complexo de Uso Misto _ Campos do Jordão _ SP
-Estudo Preliminar
-Quiosques Praia da Enseada _ Guarujá _ SP
-Estudo Preliminar
-  
-
-
-
-# Liens externes trouvés
-- http://cargocollective.com
-- https://www.instagram.com/saopauloarquitetos/
