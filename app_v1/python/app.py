@@ -3,11 +3,12 @@ import asyncio
 from xt import run_batch  # on adapte run_batch pour qu’il prenne en argument une liste de keywords
 from googleS import run_google_search
 
-# Serve any asset under app_v1/site/** at the URL path /site/**
+# Serve static assets under app_v1/static/ and templates from app_v1/templates
 app = Flask(
     __name__,
-    static_folder="site",            # root folder containing sources, images, css…
-    static_url_path="/site"          # public URL prefix
+    static_folder="../static",
+    static_url_path="/static",
+    template_folder="../templates",
 )
 
 @app.route("/", methods=["GET"])
