@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.saopauloarquitetos.com",
+    "emails": [
+        "pr@saopauloarquitetos.com",
+        "tc@saopauloarquitetos.com",
+        "mafe@saopauloarquitetos.com"
+    ],
+    "phone_numbers": [
+        "55 11 5081-7299"
+    ],
+    "addresses": [
+        "rua Afonso Braz, 864 cj.111 - Vila Nova Conceição"
+    ],
+    "social_links": [
+        "https://www.instagram.com/saopauloarquitetos/"
+    ]
+}
+```

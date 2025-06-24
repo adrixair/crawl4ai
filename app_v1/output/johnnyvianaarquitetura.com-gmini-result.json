@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://johnnyvianaarquitetura.com/",
+    "emails": ["arquitetojohnny@gmail.com", "contato@johnnyvianaarquitetura.com"],
+    "phone_numbers": ["(11)2671-0608", "(11)99737-9297", "(11)99131-9296", "(11) 2227-2269"],
+    "addresses": ["Rua Joaquina Augusta Sá dos Anjos, 09 Cj. 01 - São Paulo - SP", "Rua Joaquina Augusta Sá dos Anjos, 09 Cj. 01 – Jd. Anália Franco / Tatuapé – São Paulo – SP"],
+    "social_links": [
+        "https://www.facebook.com/arquitetojohnny",
+        "https://www.instagram.com/arquitetojohnny",
+        "https://www.youtube.com/@arquitetojohnny",
+        "http://api.whatsapp.com/send?1=pt_BR&phone=5511991319296",
+        "http://api.whatsapp.com/send?1=pt_BR&phone=5511997379297",
+        "http://api.whatsapp.com/send?text=Quarto+de+casal+decorado%3A+Charme+e+eleg%C3%A2ncia+na+medida+certa %0A%0A https://johnnyvianaarquitetura.com/quarto-de-casal-decorado/",
+        "https://api.whatsapp.com/send?text=Cozinha+planejada+minimalista+de+alto+padr%C3%A3o %0A%0A https://johnnyvianaarquitetura.com/cozinha-planejada-minimalista/",
+        "https://api.whatsapp.com/send?text=Prepare+a+pipoca%21+Sala+de+TV+com+home+cinema+integrado %0A%0A https://johnnyvianaarquitetura.com/sala-de-tv-com-home-cinema/",
+        "https://api.whatsapp.com/send?text=Varanda+gourmet+r%C3%BAstica+e+contempor%C3%A2nea+de+alto+padr%C3%A3o %0A%0A https://johnnyvianaarquitetura.com/varanda-gourmet-rustica-e-contemporanea/"
+    ]
+}
+```

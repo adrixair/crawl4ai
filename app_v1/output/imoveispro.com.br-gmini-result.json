@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.imoveispro.com.br",
+    "emails": ["contato@imoveispro.com.br"],
+    "phone_numbers": ["+55 (11) 4248-3000", "+55 (11) 98000-6000"],
+    "addresses": ["Av. Açocê, 308, Moema, São Paulo/SP, CEP 04075-021"],
+    "social_links": [
+        "https://www.linkedin.com/company/imoveispro",
+        "https://www.facebook.com/imoveisPRO/",
+        "https://pinterest.com/imoveispro/",
+        "https://www.youtube.com/channel/UCAD0WxNIGrLum8BCP2OiMvA/videos",
+        "https://twitter.com/imoveispro",
+        "https://instagram.com/imoveispro",
+        "https://api.whatsapp.com/send?phone=5511980006000&text=",
+         "https://wa.me/5511920808000?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21"
+    ]
+}
+```

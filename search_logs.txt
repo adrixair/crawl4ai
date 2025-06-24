@@ -898,3 +898,22 @@ URLs Found:
 /search?num=3
 https://www.domaines-skiables.fr/
 ----------------------------------------
+Keywords:
+Workally
+architecture 
+maison luxe 
+
+Country: fr
+Language: fr
+Results: 3
+URLs Found:
+https://www.workally.eu/
+https://workally.ai/
+https://www.workally.eu/programme
+/search?num=5
+https://fr.wikipedia.org/wiki/Architecture
+https://www.onisep.fr/ressources/univers-metier/metiers/architecte
+https://www.lamaisondeluxe.com/
+https://www.bellesdemeures.com/vente/france/maison-luxe/tt-2-tb-2-pl-73/
+https://www.google.com/search?num=5
+----------------------------------------

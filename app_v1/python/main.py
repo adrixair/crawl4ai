@@ -29,9 +29,13 @@ async def main(url):
         exclude_all_images=True,
         exclude_external_links=False,
         exclude_external_images=True,
+        wait_for_images=True,             # Wait for images to fully load
+        scan_full_page=True,              # Force full-page scrolling for lazy loads
+        scroll_delay=0.5,                   # Delay between scroll steps
+
         deep_crawl_strategy=BestFirstCrawlingStrategy(
             max_depth=2,
-            max_pages=10,
+            max_pages=15,
             include_external=False,
             filter_chain=filter_chain,
             url_scorer=keyword_scorer
@@ -58,6 +62,9 @@ async def main(url):
                 "include_sup_sub": True 
             }
         ),
+        magic=True,
+        simulate_user=True,
+        override_navigator=True,
     )
 
     ### Execute the crawl
@@ -82,4 +89,25 @@ async def main(url):
                 else:
                     external_links_md = ""
                 results.append(result.markdown + external_links_md)
+
+                
+    # Clean up browser contexts and cache after each crawl
+    import shutil
+    import os
+    try:
+        # Clear any Playwright browser storage/cache folders if they exist
+        playwright_cache_path = os.path.expanduser("~/.cache/ms-playwright")
+        if os.path.exists(playwright_cache_path):
+            shutil.rmtree(playwright_cache_path)
+            print(f"✅ Playwright cache folder cleared: {playwright_cache_path}")
+    except Exception as cleanup_error:
+        print(f"⚠️ Error while clearing Playwright cache: {cleanup_error}")
+    # Clean up crawl4ai internal cache if it exists
+    try:
+        crawl4ai_cache_path = os.path.expanduser("~/.cache/crawl4ai")
+        if os.path.exists(crawl4ai_cache_path):
+            shutil.rmtree(crawl4ai_cache_path)
+            print(f"✅ Crawl4AI cache folder cleared: {crawl4ai_cache_path}")
+    except Exception as cleanup_error:
+        print(f"⚠️ Error while clearing Crawl4AI cache: {cleanup_error}")
     return "\n".join(results)

@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.takiguthiarquitetura.com.br",
+    "emails": ["contato@takiguthiarquitetura.com.br"],
+    "phone_numbers": ["(11) 5044-7390", "(11) 99796-7761"],
+    "addresses": ["Rua Constantino de Sousa, 1768 - Brooklin - São Paulo / SP"],
+    "social_links": [
+        "https://www.facebook.com/takiguthiarquitetura",
+        "https://www.instagram.com/takiguthi_arquitetura",
+        "https://wa.me/5511997967761",
+        "https://wa.me//+5511997967761?text=Olá,%20vim%20do%20site%20e%20preciso%20de%20informações!",
+        "https://www.homify.com.br/livros_de_ideias/6356741/um-antes-e-depois-transformador-veja-essa-reforma-de-sobrado-em-sao-paulo?fbclid=IwAR2NACwqNmRRmqoYXKgC39rKZlQosfpv0WPk4gBV_RYzPylNWKOk7ZXz5AA",
+        "https://www.homify.com.br/livros_de_ideias/6648643/transformacao-total-a-reforma-deste-incrivel-apartamento-em-sao-paulo",
+        "https://www.homify.com.br/livros_de_ideias/7140288/antes-e-depois-linda-reforma-de-apartamento-em-sao-paulo?fbclid=IwAR3baIrwO0vVPgJ900eGmwmdDpC8Moswgv54nh6RSldXdZlRcdrXNwuNvq8",
+        "https://www.homify.com.br/livros_de_ideias/7275405/projeto-antes-e-depois-de-reforma-de-apartamento-em-sp",
+        "https://www.homify.com.br/livros_de_ideias/7342097/antes-depois-projeto-de-reforma-para-agencia-de-publicidade-em-sao-paulo?fbclid=IwAR12t4VKMMlEtVulKb975y_2dLLTdvLyvDh6d5O_6XYEGtuiAByt8iUjNrU",
+        "https://www.homify.com.br/livros_de_ideias/7900219/sobrado-de-vila-conheca-o-antes-e-o-depois-desta-incrivel-reforma"
+    ]
+}
+```

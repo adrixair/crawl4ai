@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://studiomeraki.com.br",
+    "emails": ["contato@studiomeraki.com.br"],
+    "phone_numbers": ["+551143184249", "+551143184250", "11 4318-4249", "11 4318-4250", "11 99257-2098"],
+    "addresse": ["Alameda Terracota, 185 conj. 906, Cerâmica, São Caetano do Sul – SP"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511992572098&text=Ol%C3%A1!%20Gostaria%20de%20tirar%20algumas%20d%C3%BAvidas!%20(Mensagem%20enviada%20do%20site)",
+        "https://br.pinterest.com/studiomerakibr/",
+        "https://www.facebook.com/StudioMeraki.com.br",
+        "https://www.instagram.com/studiomerakibr/?hl=pt",
+        "https://api.whatsapp.com/send?phone=5511992572098&text=Ol%C3%A1,%20gostaria%20de%20um%20or%C3%A7amento%20(mensagem%20enviada%20atrav%C3%A9s%20do%20site).",
+        "https://goo.gl/maps/mQpjddUxZnXbyfgX6",
+        "https://api.whatsapp.com/send?phone=5511992572098&text=Ol%C3%A1,%20gostaria%20de%20um%20or%C3%A7amento%20sobre%20Gerenciamento de Obras%20(mensagem%20enviada%20atrav%C3%A9s%20do%20site).",
+        "https://api.whatsapp.com/send?phone=5511992572098&text=Ol%C3%A1,%20gostaria%20de%20um%20or%C3%A7amento%20sobre%20Projeto de arquitetura Corporativa e Comercial%20(mensagem%20enviada%20atrav%C3%A9s%20do%20site).",
+        "https://api.whatsapp.com/send?phone=5511992572098&text=Ol%C3%A1,%20gostaria%20de%20um%20or%C3%A7amento%20sobre%20Design Mobiliário%20(mensagem%20enviada%20atrav%C3%A9s%20do%20site)."
+    ]
+}
+```

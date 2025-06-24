@@ -24,6 +24,7 @@ def run_google_search(query_list, lang="fr", region="fr", num_results=10, advanc
 
     # Supprimer les doublons tout en gardant l'ordre initial
     unique_urls = list(dict.fromkeys(all_urls))
+    cleaned_urls = [url for url in unique_urls if url.startswith("http")]
 
-    print(f"🌐 Total unique URLs found: {len(unique_urls)}")
-    return unique_urls
+    print(f"🌐 Total unique URLs found: {len(cleaned_urls)}")
+    return cleaned_urls

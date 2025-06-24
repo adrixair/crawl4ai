@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://br.indeed.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/IndeedforBusiness/",
+        "https://www.linkedin.com/showcase/indeed-business/",
+        "https://www.youtube.com/channel/UCVZdPBjfsbzK3GVKdht_lFQ",
+        "https://www.instagram.com/indeedworks"
+    ]
+}
+```

@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://www.spestudio.com.br",
+    "emails": ["meuprojeto@spestudio.com.br"],
+    "phone_numbers": ["11 5084.1594"],
+    "addresses": ["Rua Bagé, 268 Vila Mariana São Paulo, Brasil CEP 04012-140"],
+    "social_links": [
+        "https://www.instagram.com/spestudio/",
+        "https://www.youtube.com/@spestudioarq",
+        "https://api.whatsapp.com/send/?phone=5511999835056&text&type=phone_number&app_absent=0"
+    ]
+}
+```

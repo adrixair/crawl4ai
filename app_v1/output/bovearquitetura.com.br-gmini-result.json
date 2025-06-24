@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://bovearquitetura.com.br",
+    "emails": ["contato@bovearquitetura.com.br"],
+    "phone_numbers": ["+55 (11) 98322-5918"],
+    "addresses": ["Escritório: São Paulo – SP"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511983225918&text=sua%20mensagem",
+        "https://api.whatsapp.com/send?phone=5511983225918&text=Gostaria de um orçamento"
+    ]
+}
+```

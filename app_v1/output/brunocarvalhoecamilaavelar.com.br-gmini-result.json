@@ -1,0 +1,16 @@
+```json
+{
+    "website": "http://brunocarvalhoecamilaavelar.com.br",
+    "emails": ["contato@bcarquitetos.com"],
+    "phone_numbers": ["+55 21 2511 5707", "+55 11 3360 1732"],
+    "addresses": [
+        "Rua General Urquiza, 263. Sala 103/104. Leblon. Rio de Janeiro. CEP 22431-040",
+        "Rua Artur de Azevedo, 1212. CONJUNTO COMERCIAL, 61 Pinheiros. São Paulo. CEP 05404-003"
+    ],
+    "social_links": [
+        "https://www.facebook.com/brunoecamilaarquitetura",
+        "https://instagram.com/bcarquitetos/",
+        "https://br.pinterest.com/bcaarquitetos/"
+    ]
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://forbes.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresse": [],
+    "social_links": [
+        "https://www.facebook.com/ForbesBrasil",
+        "https://twitter.com/forbesbr",
+        "https://www.instagram.com/forbesbr/",
+        "https://www.youtube.com/channel/UCGU7j8NZfhzJ2njwb2Fzcpw",
+        "https://www.linkedin.com/company/forbes-brasil",
+        "https://api.whatsapp.com/send?text=https://forbes.com.br/forbeslife/2025/01/471-anos-de-sao-paulo-arquitetos-destacam-os-edificios-mais-iconicos-da-cidade/",
+        "https://whatsapp.com/channel/0029Va9gQKwBFLgM96cJnu0u"
+    ]
+}
+```

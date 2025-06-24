@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.galeriadaarquitetura.com.br",
+    "emails": [],
+    "phone_numbers": ["(11) 98325-9747"],
+    "addresses": ["SÃO PAULO - SP, Brasil", "Rua Atílio Piffer, 571 - Casa Verde, São Paulo - SP"],
+    "social_links": [
+        "https://www.facebook.com/galeriadaarquitetura",
+        "https://www.youtube.com/user/GaleriaDaArquitetura",
+        "https://br.pinterest.com/garquitetura/",
+        "https://www.instagram.com/galeriadaarquitetura/"
+    ]
+}
+```

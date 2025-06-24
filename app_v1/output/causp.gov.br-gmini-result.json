@@ -1,0 +1,29 @@
+```json
+{
+    "website": "https://causp.gov.br",
+    "emails": [
+        "edital.parceria@causp.gov.br",
+        "dpo@causp.gov.br",
+        "atendimento@causp.gov.br",
+        "comunicacao@causp.gov.br"
+    ],
+    "phone_numbers": [
+        "(11) 3014-5900"
+    ],
+    "addresses": [
+        "Rua Quinze de Novembro, 194, 01013-000 São Paulo – SP",
+        "Rua Quinze de Novembro, 194  \n01013-000 São Paulo – SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/causpoficial/",
+        "https://www.instagram.com/causp_oficial/",
+        "https://www.youtube.com/@cau_sp",
+        "https://www.linkedin.com/company/conselhodearquiteturaeurbanismodesp",
+        "https://www.linkedin.com/company/conselhodearquiteturaeurbanismodesp/?originalSubdomain=br",
+        "https://acheumarquiteto.caubr.gov.br/",
+        "https://servicos.caubr.gov.br/",
+        "http://chat-caubr.aloatendimento.com.br:8585/dgchat/client/client.php",
+        "https://denuncia.caubr.gov.br/denuncia/anonima/incluir"
+    ]
+}
+```

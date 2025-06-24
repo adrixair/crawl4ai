@@ -22,17 +22,9 @@ from gemini_markdown import gminimarkdown  # importe la fonction de recherche Ge
 
 query_list = ["arquiteto sao paulo", "architecte sao paulo"]  # Liste de mots-clés
 
-all_urls = []
+unique_urls = run_google_search(query_list, lang="pt-br", region="br", num_results=3, advanced=False)
 
-for query in query_list:
-    print(f"🔍 Recherche Google pour : '{query}'")
-    urls_for_query = run_google_search(query, lang="fr", region="br", num_results=3, advanced=False)
-    all_urls.extend(urls_for_query)
 
-# Supprimer les doublons et garder un ordre stable
-unique_urls = list(dict.fromkeys(all_urls))
-
-print(f"🌐 Nombre total d'URLs : {len(unique_urls)}")
 
 
 
