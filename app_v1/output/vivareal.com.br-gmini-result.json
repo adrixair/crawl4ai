@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.vivareal.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Paulista 1.106 - Bela Vista, São Paulo - SP, 01310-914"
+    ],
+    "social_links": [
+        "https://www.facebook.com/VivaReal",
+        "https://www.instagram.com/vivareal",
+        "https://vr.vivareal.com/ios",
+        "https://vr.vivareal.com/android"
+    ]
+}
+```

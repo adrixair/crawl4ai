@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://armarquitetura.arq.br",
+    "emails": ["arm@armarquitetura.arq.br"],
+    "phone_numbers": ["+55 11 3791-4948", "11 3791-4948"],
+    "addresses": ["Rua Cotoxó, 303 - CJ 72 Perdizes - São Paulo - SP"],
+    "social_links": [
+        "https://www.facebook.com/ArmArquiteturaHospitalar",
+        "https://www.instagram.com/arm_hospitalar/"
+    ]
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://areaincorp.com.br",
+    "emails": ["vendas@areaincorp.com.br"],
+    "phone_numbers": ["1121296986", "+55 11 99717-6060"],
+    "addresses": [
+        "Rua Teixeira da Silva 660, cj. 12 – Paraíso – São Paulo – Brasil",
+        "RUA TEIXEIRA DA SILVA 660, CJ 101 - PARAISO, SÃO PAULO-SP, CEP: 04002011",
+        "RUA LABATUT, 989 – IPIRANGA – SÃO PAULO"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511997176060",
+        "https://facebook.com/areaincorp/",
+        "https://www.instagram.com/areaincorporadora/"
+    ]
+}
+```

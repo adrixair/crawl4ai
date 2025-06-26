@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://revistaprojeto.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://facebook.com/revistaprojeto",
+        "https://twitter.com/revistaprojeto",
+        "https://instagram.com/revistaprojeto",
+        "https://pinterest.com/revistaprojeto"
+    ]
+}
+```

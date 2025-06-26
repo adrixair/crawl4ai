@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://grupociasaopaulo.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 3815-3900"
+    ],
+    "addresses": [
+        "Rua Fiandeiras, 929, 5º andar - Vila Olímpia  São Paulo, SP, CEP: 04545-006",
+        "Av. São Bento, nº 140 Vila Rosália - Guarulhos - SP",
+        "Rua Curaçatuba, 2 - Maranhão, São Paulo - SP, Brasil",
+        "Rua Dona Tecla, 556 - Jardim Flor da Montanha, Guarulhos - SP, Brasil",
+        "Rua Santo Antônio, 190 Centro - Guarulhos - SP",
+        "R. Nossa Sra. de Lourdes, 64 - Vila Galvão, Guarulhos - SP, Brasil"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=1138153900"
+    ]
+}
+```

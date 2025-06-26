@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.olx.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": ["Rua do Catete, 359, Flamengo - 22220-001 - Rio de Janeiro, RJ"],
+    "social_links": [
+        "https://www.facebook.com/olxbrasil",
+        "https://www.youtube.com/user/OLXBrasil",
+        "https://www.tiktok.com/@olx_brasil",
+        "https://instagram.com/olxbr",
+        "https://twitter.com/olx_Brasil",
+        "https://www.linkedin.com/company/olx-brasil"
+    ]
+}
+```

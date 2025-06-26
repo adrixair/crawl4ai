@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://niss.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "11 5644-8109",
+        "11 98706-1584",
+        "551156448100"
+    ],
+    "addresses": [
+        "R. Amália de Noronha, 151 - Térreo CEP 05410-010 - São Paulo - SP",
+        "Rua Martiniano de Carvalho, 446 - Bela Vista, São Paulo"
+    ],
+    "social_links": [
+        "https://www.instagram.com/nissincorporadora",
+        "https://www.facebook.com/NissIncorporadora",
+        "https://br.linkedin.com/company/niss-incorporacoes-e-participacoes",
+        "https://www.youtube.com/channel/UCzsv9dpFto_tdyuc8rQJR8g",
+        "https://api.whatsapp.com/send?phone=11 98706-1584"
+    ]
+}
+```

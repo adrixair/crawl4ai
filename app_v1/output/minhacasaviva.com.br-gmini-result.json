@@ -1,0 +1,39 @@
+```json
+{
+    "website": "https://www.minhacasaviva.com.br",
+    "emails": [
+        "meuap@minhacasaviva.com.br",
+        "suprimentos@minhacasaviva.com.br",
+        "contato@minhacasaviva.com.br",
+        "privacidade@minhacasaviva.com.br",
+        "seguranca@minhacasaviva.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 50390900",
+        "+551150390800",
+        "+55 (11) 50390900",
+        "11 5039-0900",
+        "11 5039-0800"
+    ],
+    "addresses": [
+        "Avenida Eliseu de Almeida, 1415, sala 22, 1º andar. CEP: 05533-000 – Instituto de Previdência - São Paulo-SP",
+        "Avenida Queiroz Filho, 1700 – Sala 18 – Torre E. Vila Hamburguesa",
+        "Avenida Eliseu de Almeida, 1415 – Butantã – Sp",
+        "Av. Prof. Francisco Morato, 5070 - Vila Sonia, São Paulo - SP, Brasil",
+        "Av. Prof. Francisco Morato, 2802 - Butantã, São Paulo - State of São Paulo, Brazil",
+        "Av. Giovanni Gronchi, 7020 - Vila Andrade, São Paulo - State of São Paulo, Brazil",
+        "Rua André Saraiva, 375 - Vila Sonia, São Paulo - SP, Brasil",
+        "R. Nossa Sra. do Bom Conselho, 59 - Campo Limpo, São Paulo - SP, Brasil"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/minhacasaviva/",
+        "https://www.instagram.com/minha_casaviva/",
+        "https://www.facebook.com/casavivasp",
+        "https://www.tiktok.com/@minha_casaviva?is_from_webapp=1&sender_device=pc",
+        "https://open.spotify.com/user/31xurtctesj43kf5ve7nxnhpute4?si=bcd0788b8e8149fc",
+        "https://api.whatsapp.com/send?phone=551147103061&text=Ol%C3%A1%2C%20estou%20no%20site%20e%20quero%20conversar!",
+        "https://casaviva.hypnobox.com.br/?controle=Atendimento&acao=index&produto=8&tipo_atendente=whatsapp&midia=site-institucional&canal=whatsapp&subcanal=whatsapp&pre_chat=1",
+        "https://casaviva.hypnobox.com.br/?controle=Atendimento&id_produto=8&acao=entrar&midia=site-institucional"
+    ]
+}
+```

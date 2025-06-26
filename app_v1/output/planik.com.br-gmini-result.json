@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://planik.com.br",
+    "emails": ["atendimento@planik.com.br"],
+    "phone_numbers": ["11 5242-0204", "(11) 3151-2366", "(11) 99717-4433"],
+    "addresses": ["Av. Angélica, 2220 - 8º andar - Santa Cecilia, São Paulo - SP, 01227-200"],
+    "social_links": [
+        "https://www.instagram.com/planik_incorporadora/",
+        "https://www.facebook.com/PlanikEmpreendimentosImobiliarios",
+        "https://www.linkedin.com/company/planik-empreendimentos/",
+        "https://www.youtube.com/c/PlanikVendas",
+        "https://wa.me/5511997174433"
+    ]
+}
+```

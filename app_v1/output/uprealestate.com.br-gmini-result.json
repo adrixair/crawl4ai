@@ -1,0 +1,34 @@
+```json
+{
+    "website": "https://www.uprealestate.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+1 786 246 0484",
+        "11 3596-2620",
+        "11 985826460",
+        "11 94744-2063",
+        "19 9910-79677",
+        "11 98559-0032",
+        "11 98559-0893",
+        "11 98549-0050"
+    ],
+    "addresses": [
+        "Rua Tavares Cabral, 102 - 5º Andar Pinheiros São Paulo/SP",
+        "Avenida Sagitário, 138 Alphaville Conde II Barueri/SP",
+        "Rua Alecrins, 940 - Sala 1206 Cambuí Campinas/SP",
+        "Avenida Brickell Ave, 999 - Apartamento 401 Brickell Miami/FL"
+    ],
+    "social_links": [
+        "http://www.facebook.com/uprealestatebr",
+        "http://g.page/up-real-estate",
+        "https://www.youtube.com/channel/UC0dpOCeXZMJWsr29urLEy9g",
+        "http://www.instagram.com/up_real_estate",
+        "https://br.pinterest.com/up_real_estate_/",
+        "https://www.linkedin.com/company/up-real-estate-br?trk=biz-companies-cym",
+        "https://web.whatsapp.com/send?phone=5511985826460",
+        "https://web.whatsapp.com/send?phone=5511947442063",
+        "https://web.whatsapp.com/send?phone=5519991079677",
+        "https://wa.me/+5511985490093"
+    ]
+}
+```

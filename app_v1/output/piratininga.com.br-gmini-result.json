@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://www.piratininga.com.br",
+    "emails": ["contato@piratininga.com.br"],
+    "phone_numbers": ["+55 11 3122 7077"],
+    "addresses": ["Rua General Jardim, 482 conjunto 43, CEP 01223-010 São Paulo SP Brasil"],
+    "social_links": [
+        "https://www.instagram.com/piratiningaarquitetos/",
+        "https://br.linkedin.com/company/piratininga-arquitetos-associados",
+        "https://pt-br.facebook.com/piratiningaarquitetos/"
+    ]
+}
+```

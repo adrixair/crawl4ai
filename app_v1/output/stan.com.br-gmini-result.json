@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://stan.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "+55 11 3506-1440",
+        "11 2928-8431"
+    ],
+    "addresse": [
+        "Av. das Nações Unidas, 11541 - Cobertura Brooklin Novo - São Paulo - SP CEP: 04578-000"
+    ],
+    "social_links": [
+        "https://www.facebook.com/stanincorporadora",
+        "https://www.youtube.com/channel/UCrRb1_-MNi9p5R0mjNUaiEQ",
+        "https://www.instagram.com/stanincorporadora",
+        "https://api.whatsapp.com/send?phone=5511997054207"
+    ]
+}
+```

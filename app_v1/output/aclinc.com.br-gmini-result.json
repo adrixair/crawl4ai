@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://aclinc.com.br",
+    "emails": ["sac@aclinc.com.br"],
+    "phone_numbers": ["11 9 3494 8395", "+5511934948395"],
+    "addresses": ["Rua General Sócrates, 216 CJ 81 - São Paulo - SP - CEP 03632-040", "R. Dr. Suzano Brandão, 474 - São Paulo - SP", "Engenheiro Armando Arruda 3578 x R. Luiz Carlos Fachini, 12 - Jabaquara - SP"],
+    "social_links": [
+        "https://www.facebook.com/aclincorporadora",
+        "https://www.instagram.com/aclconstrutorasp",
+        "https://api.whatsapp.com/send?phone=5511934948395",
+        "https://api.whatsapp.com/send?phone=5511934948395&text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es."
+    ]
+}
+```

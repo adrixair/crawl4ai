@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.vagas.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": ["Rio de Janeiro"],
+    "social_links": [
+        "https://facebook.com/VAGAScom/",
+        "https://www.instagram.com/vagascom/?hl=pt-br",
+        "https://twitter.com/vagas",
+        "https://www.youtube.com/user/VAGAStecnologia",
+        "https://www.linkedin.com/company/vagascom",
+        "https://www.facebook.com/VAGASforbusiness",
+        "https://www.instagram.com/vagasforbusiness",
+        "https://www.youtube.com/channel/UCuvz5HnatmQh7z6b0vOcICA",
+        "https://www.linkedin.com/company/vagas-for-business"
+    ]
+}
+```

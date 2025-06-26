@@ -1,0 +1,32 @@
+```json
+{
+    "website": "https://www.sescsp.org.br",
+    "emails": [
+        "oportunidadesdetrabalho@sescsp.org.br",
+        "encarregado@sescsp.org.br",
+        "centrodemusica.consolacao@sescsp.org.br",
+        "centrodemusica.guarulhos@sescsp.org.br",
+        "centrodemusica.vilamariana@sescsp.org.br",
+        "comercial.edicoes@sescsp.org.br",
+        "comercialselo@sescsp.org.br",
+        "lojasesc@sescsp.org.br",
+        "sescmemorias@sescsp.org.br"
+    ],
+    "phone_numbers": [],
+    "addresses": [
+        "Avenida Álvaro Ramos, 991, São Paulo (SP), CEP 03331-000",
+        "Rua Álvaro Ramos, 991 Belenzinho – CEP 03331-000 São Paulo/SP"
+    ],
+    "social_links": [
+        "https://facebook.com/sescsp",
+        "https://twitter.com/sescsp",
+        "https://instagram.com/sescsp",
+        "https://youtube.com/sescsp",
+        "https://open.spotify.com/user/sescsp",
+        "https://www.deezer.com/br/profile/1831961286",
+        "https://itunes.apple.com/br/curator/sescsp/1445771241",
+        "https://itunes.apple.com/br/artist/sesc-sao-paulo/id575543142",
+        "https://play.google.com/store/apps/developer?id=Sesc%20SP&hl=pt_BR"
+    ]
+}
+```

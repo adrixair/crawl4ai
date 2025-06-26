@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.holmy.com.br",
+    "emails": ["concierge@holmy.com.br", "ola@holmy.com.br"],
+    "phone_numbers": ["+55 11 95629-7168", "+55 11 91250-9627"],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/holmy/",
+        "https://api.whatsapp.com/send?phone=5511956297168&text=Ol%C3%A1!%20Por%20favor,%20preciso%20de%20ajuda%20para%20encontrar%20a%20Holmy%20perfeita%20para%20a%20minha%20pr%C3%B3xima%20viagem.%20%F0%9F%8F%A1",
+        "https://instagram.com/triptofollow",
+        "https://www.instagram.com/anna.laura"
+    ]
+}
+```

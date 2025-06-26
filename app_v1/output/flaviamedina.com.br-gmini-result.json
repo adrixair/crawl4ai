@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://flaviamedina.com.br",
+    "emails": [
+        "arquiteta@flaviamedina.com.br",
+        "fornecedores@flaviamedina.com.br",
+        "curriculum@flaviamedina.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 4116-7330"
+    ],
+    "addresses": [
+        "Av. das Nações Unidas, 12555 - Cidade Monções, São Paulo - SP, 04578-903"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551141167330",
+        "https://www.youtube.com/channel/UCCw5RDeSXNCaY0qEQdsRt-Q/"
+    ]
+}
+```

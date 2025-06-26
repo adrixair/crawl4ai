@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://alphaville.com.br",
+    "emails": ["dpo@alphaville.com.br"],
+    "phone_numbers": ["+55 11 3030-5100", "0800 512 3399"],
+    "addresses": ["Av. das Nações Unidas 14.171 Vila Gertrudes, São Paulo - SP, 04794-000, Brasil.", "A. Gov. Valadares, 881, Centro, Betim"],
+    "social_links": [
+        "https://www.instagram.com/grupoalphaville",
+        "https://www.linkedin.com/company/alphaville-sa/",
+        "https://www.youtube.com/channel/UCrBTAdW7DQED3GTzDXPo9xw",
+        "https://api.whatsapp.com/send?phone=551130305100&text=Ol%C3%A1%2C%20gostaria%20de%20falar%20com%20a%20Alphaville"
+    ]
+}
+```

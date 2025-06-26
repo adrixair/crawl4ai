@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://www.lavvi.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 5242-1410",
+        "11 94064-8968",
+        "+551152421410",
+        "5511940648968",
+        "551152421410"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/lavviincorporadora/",
+        "https://www.linkedin.com/company/lavvi-construtora/?originalSubdomain=br",
+        "https://www.youtube.com/channel/UCXYm7ACFXCUPG8cldTjh2kQ",
+        "https://www.facebook.com/LavviIncorporadora/",
+        "https://twitter.com/rilavvi",
+        "https://lavvi.hypnobox.com.br/?controle=Atendimento&acao=index&produto=xx&tipo_atendente=whatsapp&canal=whatsapp&subcanal=whatsapp&pre_chat=1",
+        "https://api.mziq.com/mzfilemanager/v2/d/50f83e42-efa0-4e0d-b868-f60078bf8325/59fe7d45-abdd-5846-1f28-829524f27e24?origin=2",
+        "https://api.mziq.com/mzfilemanager/v2/d/50f83e42-efa0-4e0d-b868-f60078bf8325/c9594ac8-fced-2145-e9c9-7a49bbcb10a6?origin=2",
+        "https://api.mziq.com/mzfilemanager/v2/d/50f83e42-efa0-4e0d-b868-f60078bf8325/bd65afb9-d36b-20ee-138c-870692e7745b?origin=2",
+        "https://api.mziq.com/mzfilemanager/v2/d/50f83e42-efa0-4e0d-b868-f60078bf8325/fff2d58d-96a4-1f01-5607-499964f3abdc?origin=2",
+        "https://api.mziq.com/mzfilemanager/v2/d/50f83e42-efa0-4e0d-b868-f60078bf8325/9a9b6489-5a0c-84b3-657e-250df0d65c80?origin=1"
+    ]
+}
+```

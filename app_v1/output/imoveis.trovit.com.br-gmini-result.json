@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://imoveis.trovit.com.br",
+    "emails": [],
+    "phone_numbers": ["+55 47 3/"],
+    "addresses": [],
+    "social_links": [
+        "https://accounts.trovit.com/?cod=check_login&url=https%3A%2F%2Fimoveis.trovit.com.br%2Findex.php%2Fcod.mail_preferences&language=pt_BR&",
+        "https://www.facebook.com/trovit.search/",
+        "https://twitter.com/Trovit",
+        "https://play.google.com/store/apps/details?id=es.roid.and.trovit&hl=pt_BR",
+        "https://apps.apple.com/br/app/trovit-homes/id347012986",
+        "https://help.trovit.com/hc/pt",
+        "https://www.lifullconnect.com/cookie-policy-english/",
+        "https://www.lifullconnect.com/noticia-legal/",
+        "https://www.lifullconnect.com/global-privacy-policy-region-2-pt/"
+    ]
+}
+```

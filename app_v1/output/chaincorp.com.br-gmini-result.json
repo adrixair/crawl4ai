@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://chaincorp.com.br",
+    "emails": ["contato@chaincorp.com.br"],
+    "phone_numbers": ["+551155559326"],
+    "addresses": [],
+    "social_links": [
+        "http://facebook.com/chaincorpincorporadora",
+        "https://www.linkedin.com/company/incorporadorachaincorp/?originalSubdomain=br",
+        "http://instagram.com/chaincorpincorporadora",
+        "https://wa.me/message/QGLTPJSDXOT3B1",
+        "https://wa.me/551155559326"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://pt.linkedin.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": ["São Paulo, a metrópole vibrante e cosmopolita"],
+    "social_links": [
+        "https://www.linkedin.com",
+        "https://creativecommons.org/choose/",
+        "https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fhelp%2Flinkedin%2Fask%2Fts-adfrf&data=05%7C02%7Cmmills%40linkedin.com%7C48b37c3685a046ad7d8d08dc39876d09%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C638448501200430881%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=iSWx0d4TDMTU8%2BzjvQZmuHN1TtGnu0InmBUc3eOgxhs%3D&reserved=0",
+        "https://www.youtube.com/watch?v=zjFT5AlJV2E&feature=youtu.be"
+    ]
+}
+```

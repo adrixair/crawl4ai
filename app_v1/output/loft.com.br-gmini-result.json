@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://loft.com.br",
+    "emails": [
+        "meajuda@loft.com.br",
+        "imprensa@loft.com.br"
+    ],
+    "phone_numbers": [
+        "+55 4020-2208"
+    ],
+    "addresses": [
+        "Rua Tabapuã, 743 - Itaim Bibi, São Paulo - SP, 04533-012"
+    ],
+    "social_links": [
+        "https://loft.onelink.me/rhND/fc3b9f7e",
+        "https://loft.onelink.me/rhND/c31646d8",
+        "https://plataforma.gcertifica.com.br/loft/quero_ser_fornecedor",
+        "https://loft.com.mx/",
+        "https://www.instagram.com/loft_br/",
+        "https://hub.goadopt.io/privacy-hub/b2687fd4-1e08-40a8-826a-5aa7da8d8a27?language=pt&legislation=lgpd&websiteId=a70efd8d-9cf8-4aaa-9f70-fdb3aedb5a3d&disclaimerId=d1a236b2-88d1-477d-9347-0aebf4600194&visitorId=9228354e-89fb-4c69-9a23-81c1b0b97f34",
+        "https://goadopt.io/porque-aviso/?utm_content=main&utm_medium=cookie_banner_web&utm_source=cookie_banner_a70efd8d-9cf8-4aaa-9f70-fdb3aedb5a3d",
+        "https://simulador.credihome.com.br/loft?origin=LISTINGS"
+    ]
+}
+```

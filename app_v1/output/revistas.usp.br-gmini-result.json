@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://revistas.usp.br",
+    "emails": ["egida@usp.br"],
+    "phone_numbers": ["+55 (11) 2648 0456", "+55 (11) 2648 1706"],
+    "addresses": ["R. da Reitoria, 374 – Cidade Universitária, Butantã, São Paulo – SP, 05508-220"],
+    "social_links": [
+        "https://www.youtube.com/channel/UCN1ihdoKXeixzYi7Hyp4WwQ",
+        "https://www.facebook.com/usponline",
+        "https://twitter.com/usponline",
+        "https://www.linkedin.com/school/universidade-de-s-o-paulo/",
+        "https://www.instagram.com/usp.oficial/",
+        "https://www.youtube.com/canalusp",
+        "https://www.facebook.com/profile.php?id=100086444965735",
+        "https://www.instagram.com/egidausp/"
+    ]
+}
+```

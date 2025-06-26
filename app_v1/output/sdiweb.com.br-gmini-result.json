@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.sdiweb.com.br",
+    "emails": [],
+    "phone_numbers": ["+55 (11) 3095-4300"],
+    "addresses": ["R. Hungria, 514 - 10º andar, Jardim Europa | São Paulo-SP"],
+    "social_links": [
+        "https://www.instagram.com/sdi_desenvolvimento/",
+        "https://www.facebook.com/sdidesenvolvimentoimobiliario",
+        "https://www.linkedin.com/company/sdi-desenvolvimento-imobili-rio-ltda-/",
+        "https://www.youtube.com/channel/UCsckWDBVjZZvC53uu8BR91g",
+        "https://api.whatsapp.com/send?phone=5511993579021&text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20pelo%20site%20da%20SDI%20Desenvolvimento%20Imobili%C3%A1rio,%20gostaria%20de",
+        "https://api.whatsapp.com/send?phone=5511993579021&text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20pelo%20site%20da%20SDI%20Desenvolvimento%20Imobili%C3%A1rio,%20eu%20gostaria%20de%20saber%20mais%20sobre%20a%20loca%C3%A7%C3%A3o%20do%20im%C3%B3vel",
+        "https://api.whatsapp.com/send?phone=5511993579021&text=Ol%C3%A1,%20sou%20um%20fornecedor%20de%20%5BNome%20do%20Servi%C3%A7o%5D,%20estou%20entrando%20em%20contato%20pelo%20site%20da%20SDI%20Desenvolvimento%20Imobili%C3%A1rio",
+        "https://api.whatsapp.com/send?phone=5511993579021&text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20pelo%20site%20da%20SDI%20Desenvolvimento%20Imobili%C3%A1rio%20e%20gostaria%20de%20vender%20um%20terreno",
+        "https://api.whatsapp.com/send?phone=5511993579021&text=Ol%C3%A1,%20estou%20entrando%20em%20contato%20pelo%20site%20da%20SDI%20Desenvolvimento%20Imobili%C3%A1rio%20e%20estou%20procurando%20uma%20vaga%20de%20trabalho%20na%20%C3%A1rea%20de%20"
+    ]
+}
+```

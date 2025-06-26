@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://arqstyle.com.br",
+    "emails": ["contato@arqstyle.com.br"],
+    "phone_numbers": ["(19) 99238-6522"],
+    "addresses": ["Rua das Orquídeas, nº 859 - Indaiatuba - São Paulo", "Rua das Orquídeas, nº 859, Indaiatuba / SP"],
+    "social_links": [
+        "https://wa.me/5519992386522?text=%5BSite%5D%20Ol%C3%A1%2C%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20com%20voc%C3%AAs!",
+        "https://www.instagram.com/arq.style/",
+        "https://www.facebook.com/studio.arqstyle",
+        "https://www.youtube.com/@arqstyle",
+        "https://www.linkedin.com/company/arqstyle-arquitetura-design/",
+        "https://twitter.com/arqstyle"
+    ]
+}
+```

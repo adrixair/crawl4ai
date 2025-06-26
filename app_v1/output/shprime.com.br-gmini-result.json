@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://shprime.com.br",
+    "emails": ["sac@gruposhprime.com.br"],
+    "phone_numbers": ["+551147502300", "(11)4750-2300"],
+    "addresses": [
+        "Av. Professor Alfonso Bovero, 820 - Perdizes",
+        "Rua Conselheiro Saraiva, 718 - Santana",
+        "Alameda Ministro Rocha de Azevedo , 882 - 3° Andar - Jardins"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/shprimeimoveis",
+        "https://www.instagram.com/shprimeimoveis/",
+        "https://www.facebook.com/shprimeimoveis",
+        "https://www.youtube.com/channel/UC97P0lwof3isEDSQK0PcErw"
+    ]
+}
+```

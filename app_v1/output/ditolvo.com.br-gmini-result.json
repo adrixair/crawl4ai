@@ -1,0 +1,29 @@
+```json
+{
+    "website": "https://ditolvo.com.br/",
+    "emails": ["contato@ditolvo.com.br"],
+    "phone_numbers": ["11. 3845-0030", "11. 98381-8661"],
+    "addresses": [
+        "Av. Dr. Cardoso de Melo, 900 – Conj. 121  Vila Olímpia – São Paulo – SP",
+        "Av. Dep. João Sussumu Hirata, 180 Panamby – São Paulo – SP",
+        "Rua Paulo II, 160 - Jd. Vitoria Régia / SP",
+        "Rua Treze de Maio, 1.434 - Bela Vista/SP",
+        "R. Itatupã, 212 X R. Janga – Panamby",
+        "Morumbi - São Paulo / SP",
+        "Rua Jacamar, 94 - Vl. das Belezas / SP",
+        "Centro – São José dos Campos/SP",
+        "Rua Algeciras - Vila Andrade",
+        "Porto III - Vila Andrade",
+        "Av. Mal. Floriano Peixoto, 620 – Centro, São José dos Campos/SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/construtoraditolvo",
+        "https://wa.me/+5511985792812?text=Ol%C3%A1,%20gostaria%20de%20receber%20mais%20informa%C3%A7%C3%B5es%20da%20Semana%20D.",
+        "https://ditolvo.com.br/",
+        "https://ditolvo.com.br/a-ditolvo/",
+        "https://ditolvo.com.br/empreendimentos-2/",
+        "https://ditolvo.com.br/portfolio-ditolvo/",
+        "https://ditolvo.com.br/fale-conosco/"
+    ]
+}
+```

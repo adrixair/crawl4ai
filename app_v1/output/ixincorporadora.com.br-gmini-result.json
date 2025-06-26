@@ -1,0 +1,29 @@
+```json
+{
+    "website": "https://ixincorporadora.com.br/",
+    "emails": [
+        "atendimento@ixincorporadora.com.br"
+    ],
+    "phone_numbers": [
+        "11 98765 4321",
+        "11 3522-8400",
+        "11 4118-4008",
+        "551121104800"
+    ],
+    "addresses": [
+        "AV. DR. CARDOSO DE MELO, 1855 - 6º ANDAR, VILA OLÍMPIA - SÃO PAULO, SP, CEP 04548-005",
+        "Rua Dr. Zuquim, 1585, Santana, São Paulo, SP, CEP 02035-012",
+        "Rua Adelino de Almeida Castilho, 214, Tatuapé, São Paulo, SP, CEP 03073-050",
+        "Estr. Cabuçu de Baixo, 900, Guaratiba, Rio de Janeiro, RJ, CEP 23036-060"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551121104800",
+        "https://www.instagram.com/ixincorporadora/",
+        "https://www.facebook.com/p/Ix-100064094650160/",
+        "https://www.youtube.com/@ix.Incorporadora",
+        "https://www.linkedin.com/company/ix-incorporadora/",
+        "https://www.tiktok.com/@ixincorporadora",
+        "https://open.spotify.com/show/2DyBFyCgcOKvtnCACmVeAo?si=1b1c25fb56264d7c&nd=1&dlsi=9d0ae89de9194417"
+    ]
+}
+```

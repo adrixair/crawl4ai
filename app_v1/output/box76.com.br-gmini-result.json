@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://www.box76.com.br",
+    "emails": ["contato@box76.com.br"],
+    "phone_numbers": ["(11) 94504-0385"],
+    "addresses": ["Av. Jabaquara, 1771 - Mirandópolis Zona Sul - São Paulo - SP CEP: 04045-003"],
+    "social_links": [
+        "https://www.facebook.com/box76projetosereformas/photos",
+        "https://www.instagram.com/box76projetosereformas"
+    ]
+}
+```

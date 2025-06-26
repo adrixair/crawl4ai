@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.paulomauro.com.br",
+    "emails": ["dpo@paulomauro.com.br"],
+    "phone_numbers": ["(11) 3864-9811", "(11) 94763-5022"],
+    "addresses": ["Av. Sumaré, 1.421 - Perdizes, CEP 05016-110, São Paulo - SP", "Rua Havaí, 63 | Perdizes | São Paulo-SP", "R. Dr. Costa Júnior, 530  | Perdizes | São Paulo-SP", "Av. Prof. Alfonso Bovero, 1.437 | Perdizes | São Paulo-SP"],
+    "social_links": [
+        "https://paulomauro.z2app.com.br/",
+        "https://www.instagram.com/construtorapaulomauro/",
+        "https://www.linkedin.com/company/construtorapaulomauro",
+        "https://www.facebook.com/construtorapaulomauro/",
+        "https://www.youtube.com/channel/UC_fH6JgsNhDWUxf9uzCaaIA",
+        "https://online.crm.anapro.com.br/WebCRMService/Pages/chat/cliente/v2/ChatClienteEntrada.aspx?conta=F4ed7OoWvG01&keyIntegradora=1D5C7C44-4F49-4AA9-9DC3-92589FC6D86C&keyAgencia=1D5C7C44-4F49-4AA9-9DC3-92589FC6D86C&strDir=paulomauro&campanha=xwj8XM217lA1&canal=gvr-QPsXcrM1&produto=0aqwoenZY1E1&strmidia=Paulo Mauro&strpeca=&usuarioEmail=&strgrupopeca=&strcampanhapeca=&nome=&email=&telefoneDDD=&telefone=&strTexto=&keyexterno=&urlep=&urlcp=&urlca=&urlat=&strMostrarTopo=true&strAutoSubmit=true&strUsarDadosAnteriores=true&emailobrigatorio=true&telefoneobrigatorio=false&texto=",
+        "https://www.paulomauro.com.br/contato/",
+        "https://gyroexperience.com.br/homologacao/03_production/paulomauro_legi_v3/",
+        "https://www.minhaunidade.com/login/paulomauro_NToYiEWXuhaDGqPC/"
+    ]
+}
+```

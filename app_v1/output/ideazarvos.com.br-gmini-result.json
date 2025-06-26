@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://www.ideazarvos.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+55 11 4750 2708",
+        "+55 11 3550 1818",
+        "+55 11 4750 2755"
+    ],
+    "addresses": [
+        "R. Sampaio Vidal, 978 - Jardins",
+        "R. Haddock Lobo, 167 - Cerqueira César",
+        "Rua Harmonia, 1040",
+        "Rua Agissê, 287",
+        "Rua Senador César Lacerda Vergueiro, 393"
+    ],
+    "social_links": [
+        "https://www.instagram.com/ideazarvos/",
+        "https://br.pinterest.com/ideazarvos/_created/",
+        "https://www.facebook.com/ideazarvos/",
+        "https://www.linkedin.com/company/idea-zarvos-planejamento-imobili-rio-ltda-/",
+        "https://api.whatsapp.com/send?phone=551147502708&text=Ol%C3%A1!%20Acessei%20o%20site%20e%20gostaria%20de%20falar%20com%20um%20atendente"
+    ]
+}
+```

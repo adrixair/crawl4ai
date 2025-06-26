@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://caubr.gov.br",
+    "emails": ["atendimento@caubr.gov.br"],
+    "phone_numbers": ["+55 (61) 3204-9500", "(85) 3401-1010", "1011"],
+    "addresses": ["Setor de Edifícios Públicos Sul (SEPS), Quadra 702/902, Conjunto B, 2º Andar, Edifício General Alencastro, CEP 70.390-025, Brasília-DF, Brasil"],
+    "social_links": [
+        "https://www.instagram.com/oficialcaubr",
+        "https://www.facebook.com/oficialcaubr",
+        "https://www.linkedin.com/company/oficialcaubr",
+        "https://x.com/oficialcaubr",
+        "https://www.threads.net/@oficialcaubr",
+        "https://www.youtube.com/@oficialcaubr",
+        "https://open.spotify.com/show/4CbdaJxI54SwsHyV0uU02B",
+        "https://www.flickr.com/photos/oficialcaubr",
+        "https://sim.cim.br/boss/cau/portal_manifestacoes/"
+    ]
+}
+```

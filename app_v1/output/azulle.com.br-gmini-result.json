@@ -1,0 +1,15 @@
+```json
+{
+    "website": "http://azulle.com.br",
+    "emails": ["contato@azulle.com.br"],
+    "phone_numbers": ["(11) 5082-5222", "(11) 96497-3006"],
+    "addresses": ["Rua Berta, nº48 - Vila Mariana São Paulo/SP - CEP 04120-040"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511964973006",
+        "https://api.whatsapp.com/send?phone=5511964973006&text=Olá, tenho interesse no imóvel: www.azulle.com.brcomprar/sp/sao-paulo/bela-vista/apartamento/74899308/",
+        "https://api.whatsapp.com/send?text=Azulle Imóveis, venda e locação de apartamentos e casas em São Paulo - Imóvel https://azulle.com.br/comprar/sp/sao-paulo/bela-vista/apartamento/74899308/",
+        "https://www.facebook.com/sharer/sharer.php?u=https://azulle.com.br/comprar/sp/sao-paulo/bela-vista/apartamento/74899308/",
+        "https://twitter.com/intent/tweet?text=Azulle Imóveis, venda e locação de apartamentos e casas em São Paulo - Imóvel https://azulle.com.br/comprar/sp/sao-paulo/bela-vista/apartamento/74899308/"
+    ]
+}
+```

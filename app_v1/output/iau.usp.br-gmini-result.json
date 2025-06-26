@@ -1,0 +1,32 @@
+```json
+{
+    "website": "https://iau.usp.br",
+    "emails": ["iaufotoshistoria@usp.br"],
+    "phone_numbers": [],
+    "addresses": ["R. da Reitoria, 374 – Cidade Universitária, Butantã, São Paulo – SP, 05508-220"],
+    "social_links": [
+        "https://www.youtube.com/iauusp",
+        "https://www.facebook.com/iau.usp/",
+        "https://www.instagram.com/iauusp",
+        "http://vnomads.eastus.cloudapp.azure.com/ojs/index.php/virus/index",
+        "https://www.facebook.com/apoia.usp.sc/",
+        "https://www.facebook.com/CAASO.USP/",
+        "https://www.instagram.com/saau.iau/?hl=pt-br",
+        "https://docs.google.com/forms/d/18GltZbizrCIkYtzZFYzsvGmfaH_5glscvjg7KIlOZTs/edit",
+        "https://www.instagram.com/apoia.usp.sc/",
+        "https://www.facebook.com/profile.php?id=100025629077075",
+        "https://www.instagram.com/bibliotecadoiau/",
+        "https://www.youtube.com/channel/UCOnhhig_6cNyH48gwDtaCiQ",
+        "https://www.youtube.com/channel/UCN1ihdoKXeixzYi7Hyp4WwQ",
+        "https://www.facebook.com/usponline",
+        "https://twitter.com/usponline",
+        "https://www.linkedin.com/school/universidade-de-s-o-paulo/",
+        "https://www.instagram.com/usp.oficial/",
+        "https://www.youtube.com/canalusp",
+        "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww5.usp.br%2Ffale-com-a-usp%2F",
+        "https://api.whatsapp.com/send?text=Fale%20com%20a%20USP%20https%3A%2F%2Fwww5.usp.br%2Ffale-com-a-usp%2F",
+        "http://twitter.com/intent/tweet?via=usponline&text=Fale%20com%20a%20USP&url=https%3A%2F%2Fwww5.usp.br%2Ffale-com-a-usp%2F",
+        "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww5.usp.br%2Ffale-com-a-usp%2F"
+    ]
+}
+```

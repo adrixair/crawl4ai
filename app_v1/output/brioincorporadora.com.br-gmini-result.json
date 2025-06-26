@@ -1,0 +1,41 @@
+```json
+{
+    "website": "https://www.brioincorporadora.com.br",
+    "emails": [
+        "contato@brioincorporadora.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 3003-4536",
+		"(16) 3101-8100",
+		"(16) 3771-1600",
+		"(15) 3212-6620",
+		"(11) 5586-9700"
+    ],
+    "addresses": [
+        "Av. Sumaré, 372 - Jardim Sumare, Ribeirão Preto - SP, 14025-450",
+        "Av. Antônio Carlos Comitre, 1100 - Parque Campolim, Sorocaba - SP, 18047-620",
+        "Av. Brig. Faria Lima, 1571 - Jardim Paulistano, São Paulo - SP, 01452-001, 1° Andar - Edifico Novo Horizonte",
+		"Av. Wladimir Meirelles Ferreira, 1465 - Sala 217 - Jardim Botânico\nCEP 14021-630 - Ribeirão Preto - SP",
+		"Rua Dr. Paulo Barra, 1535 - Jardim Botânico\nCEP 14020-320 - Ribeirão Preto - SP",
+		"Av. Antônio Carlos Comitre, 1100 - Parque Campolim\nCEP 18047-620 - Sorocaba - SP",
+		"R. Prof. Aprígio Gonzaga, 282 - São Judas\nCEP 04303-000 - São Paulo - SP",
+		"Rua Professor Aprígio Gonzaga, n° 266 São Judas - São Paulo - SP",
+		"Rua Sebastião Gil, n° 107 Pinheiros - São Paulo - SP",
+		"Ribeirão Preto: Rua Dr. Paulo Barra 1535 - Jardim Botânico CEP 14020-320",
+		"Av. Antônio Carlos Comitre, 1100 - Parque Campolim, Sorocaba-SP, 18047-620"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551130034536",
+		"https://www.facebook.com/IncorpBRIO",
+        "https://www.linkedin.com/company/brioincorporadora/",
+        "https://www.youtube.com/brioincorporadora",
+        "https://www.instagram.com/brioincorp/",
+        "https://api.whatsapp.com/send?text=https%3A%2F%2Fmeubrio.com.br%2Fblog",
+		"https://www.youtube.com/channel/UCocUeIbJGWWGPen0TGLNqpw",
+        "https://oportunidades.mindsight.com.br/brio/",
+        "https://meubrio.com.br/blog/",
+        "https://clientes.larbrio.com.br",
+		"https://brio.construtordevendas.com.br/corretor/"
+    ]
+}
+```

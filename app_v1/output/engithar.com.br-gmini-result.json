@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://engithar.com.br",
+    "emails": ["engithar@engithar.com.br"],
+    "phone_numbers": ["11 98768-9198"],
+    "addresses": ["CEP: 04571-000"],
+    "social_links": [
+        "https://web.whatsapp.com/send?phone=5511939480522&text=Ol%C3%A1%21%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20as%20ofertas%20da%20Engithar",
+        "https://www.instagram.com/engitharoficial/",
+        "https://www.facebook.com/engithar/",
+        "https://www.linkedin.com/in/engithar-engenharia-7a87a2244/",
+        "https://api.whatsapp.com/send?phone=+5511939480522&text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento."
+    ]
+}
+```

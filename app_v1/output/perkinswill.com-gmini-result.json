@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://perkinswill.com",
+    "emails": ["saopauloinfo@perkinswill.com"],
+    "phone_numbers": ["+55-11 3817 6963"],
+    "addresses": ["Pinheiros Corporate - Henrique Schaumann Street, 270  \n9th Floor  \nSão Paulo, Brazil"],
+    "social_links": [
+        "https://www.facebook.com/ideasandbuildings/",
+        "https://www.instagram.com/perkinswill/",
+        "https://twitter.com/perkinswill",
+        "https://www.linkedin.com/company/perkins-will",
+        "https://vimeo.com/perkinswill",
+        "https://www.instagram.com/perkinswill_br"
+    ]
+}
+```

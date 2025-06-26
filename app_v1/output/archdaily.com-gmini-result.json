@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.archdaily.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/ArchDaily",
+        "https://twitter.com/archdaily",
+        "https://www.flickr.com/groups/archdaily",
+        "https://www.pinterest.com/archdaily/",
+        "https://instagram.com/archdaily/",
+        "https://vimeo.com/archdaily",
+        "https://www.youtube.com/user/archdaily"
+    ]
+}
+```

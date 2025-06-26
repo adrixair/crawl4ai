@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.vivaliimoveis.com.br",
+    "emails": ["contato@vivaliimoveis.com.br"],
+    "phone_numbers": ["(11) 97294-6761"],
+    "addresses": ["Rua São Paulo, 54 Vila Brasileira / Itatiba - SP"],
+    "social_links": [
+        "https://www.facebook.com/vivaliimoveis/",
+        "https://www.youtube.com/channel/UC5FL7Nrx2F1SjiqSzj-YGRg",
+        "https://www.instagram.com/vivali.imoveis/",
+        "https://wa.me/5511972946761",
+        "https://api.whatsapp.com/send?phone=5511972946761"
+    ]
+}
+```

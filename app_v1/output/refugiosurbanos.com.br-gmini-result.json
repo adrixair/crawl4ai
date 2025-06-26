@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://refugiosurbanos.com.br",
+    "emails": [
+        "matteo@refugiosurbanos.com.br",
+        "contato@refugiosurbanos.com.br"
+    ],
+    "phone_numbers": [
+        "11 3129-5090",
+        "11 98146-0057"
+    ],
+    "addresses": [
+        "Rua Harmonia, 1250 - Loja 2"
+    ],
+    "social_links": [
+        "https://www.youtube.com/channel/UCJ7MN-z5uG2K2kb9OFBp6Bw",
+        "https://api.whatsapp.com/send?phone=5511981460057",
+        "https://web.whatsapp.com/send?phone=5511981460057",
+        "https://www.facebook.com/refugiosurbanos",
+        "https://instagram.com/refugios_urbanos",
+        "https://www.pinterest.com/refugiosurbanos/"
+    ]
+}
+```

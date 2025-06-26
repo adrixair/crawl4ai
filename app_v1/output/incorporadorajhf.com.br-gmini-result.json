@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://incorporadorajhf.com.br",
+    "emails": ["felipe.fracao@jhfincorporadora.com.br"],
+    "phone_numbers": ["+41 3045-8645", "4130458645"],
+    "addresses": ["Rua Doutor Alexandre Gutierrez, 826, sala 302"],
+    "social_links": [
+        "http://www.facebook.com/jhfincorporadora",
+        "http://instagram.com/jhfincorporadora",
+        "http://www.youtube.com/channel/UCGNhKQf82wK8pLwy9N4s_iA",
+        "https://goo.gl/maps/zjnWGkKztaubseYB8"
+    ]
+}
+```

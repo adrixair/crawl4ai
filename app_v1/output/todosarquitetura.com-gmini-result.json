@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://todosarquitetura.com",
+    "emails": [
+        "contato@todos.net.br",
+        "sac@brilia.com"
+    ],
+    "phone_numbers": [
+        "+55 11 3154 0396"
+    ],
+    "addresses": [
+        "RUA HADDOCK LOBO, 684 – 5º ANDAR\nSÃO PAULO – SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/todosarquitetura/",
+        "https://www.facebook.com/todosarquitetura",
+        "https://www.youtube.com/channel/UCRRVeVrOqQrS4p1oAUQ_C9g",
+        "https://vimeo.com/todosarquitetura",
+        "https://br.pinterest.com/todosarquitetur/_created/",
+        "https://pinterest.com/todosarquitetura/"
+    ]
+}
+```

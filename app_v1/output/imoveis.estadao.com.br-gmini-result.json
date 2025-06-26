@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://imoveis.estadao.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Engenheiro Caetano Álvares, 55, Limão, São Paulo – SP, Brasil, CEP 02598-900"
+    ],
+    "social_links": [
+        "https://www.facebook.com/estadao",
+        "https://twitter.com/estadao/",
+        "https://www.instagram.com/estadao/",
+        "https://br.pinterest.com/estadao/"
+    ]
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.tiberio.com.br",
+    "emails": ["privacidade@tiberio.com.br"],
+    "phone_numbers": ["+55 11 49337872", "+551130519999", "(11) 3051-9999","55 11 3051-9999"],
+    "addresses": ["Av. Brasil, 78 Jardim Paulista CEP 01430-000","Avenida Brasil, 78 - Jardim Paulista - São Paulo - SP"],
+    "social_links": [
+        "https://www.instagram.com/tiberioconstrutora/",
+        "https://www.linkedin.com/company/tiberio-construtora/",
+        "https://www.tiktok.com/@tiberioconstrutora",
+        "https://api.whatsapp.com/send?phone=5511999279436&text=Olá gostaria de mais informações sobre o empreendimento Imóveis",
+        "https://volt.tiberio.com.br:8443/apps/sacTiberio",
+        "https://tiberio.dsar.privally.io/#/form/3%2buMrUBgPfB2ljLMb31FHU6yP3KKveKZ45D40t3Hb3b0B%2f9kz%2foYRUdkLAwgewGq/dqaQnUGn8TWMW50tBT4wfA%3d%3d",
+        "https://secure.d4sign.com.br/gopaperless/sustentabilidade/fdb3e773-1484-4d66-9971-b6595c640952/Tib%C3%A9rio-Constru%C3%A7%C3%B5es-e-Incorpora%C3%A7%C3%B5es-S"
+    ]
+}
+```

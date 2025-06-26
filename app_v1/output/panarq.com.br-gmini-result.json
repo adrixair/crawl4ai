@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.panarq.com.br",
+    "emails": ["contato@panarq.com.br"],
+    "phone_numbers": ["(13) 99782-1292"],
+    "addresses": ["Rua do Paraíso, 68 - Paraíso/São Paulo"],
+    "social_links": [
+        "https://www.instagram.com/panarq/",
+        "https://www.facebook.com/panoramicaarquitetura/",
+        "https://br.linkedin.com/in/gabriela-ayub-81122674",
+        "https://maps.app.goo.gl/KDU8RD6FLUzCEvLC9"
+    ]
+}
+```

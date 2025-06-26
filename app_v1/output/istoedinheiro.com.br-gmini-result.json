@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://istoedinheiro.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://twitter.com/intent/tweet",
+        "https://api.whatsapp.com/send",
+        "http://www.linkedin.com/shareArticle"
+    ]
+}
+```

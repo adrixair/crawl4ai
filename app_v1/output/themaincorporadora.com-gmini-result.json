@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.themaincorporadora.com/",
+    "emails": [
+        "sac@themaincorporadora.com.br"
+    ],
+    "phone_numbers": [
+        "+551136825183",
+        "(11) 3682-5183"
+    ],
+    "addresses": [
+        "Av. dos Autonomistas, 2750, Osasco, CEP 06090-010 – OSASCO",
+        "Av. dos Autonomistas, 2750 - Centro, Osasco - SP, 06090-010",
+        "Av. Sto. Antônio, 1453 - 6°andar - Sala 604, CEP 06083-210, Bela Vista/OSASCO",
+        "Av. dos Autonomistas, 2.750, CEP 06090-010, Centro/ Osasco"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send/?phone=551136825183&text=Ol%C3%A1%21+Gostaria+de+saber+mais+sobre+o+AUT.&type=phone_number&app_absent=0",
+        "https://wa.me/551136825183?text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20sobre%20o%20AUT.",
+        "https://www.instagram.com/aut_2750/"
+    ]
+}
+```

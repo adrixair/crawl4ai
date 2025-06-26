@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://estudio.folha.uol.com.br",
+    "emails": [
+        "pesquisa@folhapress.com.br",
+        "estudiofolha@grupofolha.com.br"
+    ],
+    "phone_numbers": [
+        "+5511981350437"
+    ],
+    "addresse": [],
+    "social_links": [
+        "https://www.facebook.com/estudiofolha/",
+        "https://twitter.com/intent/tweet?url=&text=Casas%20verticais%20s%C3%A3o%20novo%20conceito%20de%20im%C3%B3vel%20em%20S%C3%A3o%20Paulo%20-%20ARBO%20Even%20%7C%20Est%C3%BAdio%20Folha%20-%20Est%C3%BAdio%20Folha%20https://estudio.folha.uol.com.br/arbo-even/2019/10/1988480-casas-verticais-sao-novo-conceito-de-imovel-em-sao-paulo.shtml",
+        "https://api.whatsapp.com/send?phone=5511981350437",
+        "https://www.publicidade.folha.com.br/",
+        "https://www.publicidade.folha.com.br/contato/",
+        "https://www.publicidade.folha.com.br/folha/",
+        "https://www.publicidade.folha.com.br/revistaseguias/saopaulo/",
+        "https://www.publicidade.folha.com.br/revistaseguias/serafina/",
+        "https://www.publicidade.folha.com.br/agora/",
+        "https://www.publicidade.folha.com.br/folha/simulacao/fechamento/",
+        "https://developer.mastercard.com/",
+        "https://developer.mastercard.com/programs/"
+    ]
+}
+```

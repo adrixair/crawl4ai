@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://condoline.com.br",
+    "emails": ["contato@condoline.com.br"],
+    "phone_numbers": ["55 11 98266-7241", "97207-9674"],
+    "addresses": ["Av. Paulista, 302 | São Paulo | SP"],
+    "social_links": [
+        "https://www.facebook.com/condoline.portal/",
+        "https://www.youtube.com/channel/UClgvvtDt8BTZIbqPZMOe7eQ",
+        "https://www.linkedin.com/company/condoline/",
+        "https://api.whatsapp.com/send?phone=5511982667241&text=Ol%C3%A1,%20quero%20me%20conectar%20ao%20Condoline!",
+        "https://www.instagram.com/condoline_oficial/"
+    ]
+}
+```

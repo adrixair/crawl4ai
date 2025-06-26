@@ -1,0 +1,63 @@
+```json
+{
+    "website": "https://www.benx.com.br",
+    "emails": [
+        "relacionamento@benx.com.br",
+        "recursoshumanos@benx.com.br",
+        "terrenos@benx.com.br",
+        "ludmila@communicacao.com.br",
+        "graziele.val@communicacao.com.br",
+        "rh.bem@bemimobiliaria.com.br",
+		"montaghane@bemparcerias.com.br",
+		"gisa@bemparcerias.com.br",
+		"otavio@bemparcerias.com.br",
+		"nahimy@bemparcerias.com.br",
+		"pegasus@bemparcerias.com.br",
+		"teixeira@bemparcerias.com.br",
+		"natasha@bemparcerias.com.br",
+		"pagani@bemparcerias.com.br",
+		"leao@bemparcerias.com.br",
+		"alberto@bemparcerias.com.br",
+		"ficher@bemparcerias.com.br"
+    ],
+    "phone_numbers": [
+        "4003-8503",
+        "0800 729 1981",
+		"(31) 99988-1330",
+		"(11) 98336-0167",
+		"(11) 96969-0584",
+		"(11) 97321-2349",
+		"(11) 99358-9713",
+		"(11) 97614-0801",
+		"(11) 95232-8994",
+		"(11) 98187-3875",
+		"(11) 97960-6879",
+		"(11) 99912-6541",
+		"(11) 96364-3345",
+		"(11) 99130-9156",
+		"(11) 98501-6992"
+    ],
+    "addresse": [
+        "Vila Olímpia • São Paulo • SP • CEP: 04548-004"
+    ],
+    "social_links": [
+        "https://www.facebook.com/benxincorporadora",
+        "https://twitter.com/BenxIncorp",
+        "https://www.youtube.com/BenxIncorporadora",
+        "https://www.instagram.com/incorporadorabenx",
+        "https://br.pinterest.com/benxincorporadora",
+		"https://denuncia.iauditcloud.com.br/benx",
+		"https://wa.me/5511969690584",
+		"https://wa.me/5511973212349",
+		"https://wa.me/5511993589713",
+		"https://wa.me/5511976140801",
+		"https://wa.me/5511952328994",
+		"https://wa.me/5511981873875",
+		"https://wa.me/5511979606879",
+		"https://wa.me/5511999126541",
+		"https://wa.me/5511963643345",
+		"https://wa.me/5511991309156",
+		"https://wa.me/5511985016992"
+    ]
+}
+```

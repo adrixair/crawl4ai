@@ -1,0 +1,26 @@
+```json
+{
+    "website": "https://exame.com",
+    "emails": [
+        "publicidade@exame.com",
+        "talita.assis@exame.com",
+        "comercial@exame.com",
+        "atendimento@exame.com"
+    ],
+    "phone_numbers": [
+        "11 91162-9770",
+        "+ 55 11 5039-2452"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.youtube.com/user/portalexame",
+        "https://www.linkedin.com/company/exame-com/",
+        "https://www.instagram.com/exame/",
+        "https://www.facebook.com/Exame",
+        "https://twitter.com/exame",
+        "https://wa.me/5511911629770?text=Ol%C3%A1,%20%0A%0AGostaria%20de%20algumas%20informa%C3%A7%C3%B5es%20referente%20a%20Exame.",
+        "https://www.whatsapp.com/channel/0029VaALVlIL7UVYkDCQVY1z/?utm_source=growth&utm_medium=whatsapp&utm_campaign=whatsapp-canal&utm_term=n/a&utm_content=n/a",
+        "https://api.whatsapp.com/send?text=Parque%20Global%3A%20o%20mega%20projeto%20com%20apartamentos%20de%20R%24%2018%20milh%C3%B5es%20em%20SP https%3A%2F%2Fexame.com%2Fmercado-imobiliario%2Fparque-global-conheca-mega-projeto-11-bilhoes%2F?utm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbarra-compartilhamento%20via%20Exame"
+    ]
+}
+```

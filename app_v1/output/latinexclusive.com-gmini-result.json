@@ -1,0 +1,64 @@
+```json
+{
+    "website": "https://latinexclusive.com",
+    "emails": [
+        "info@latinexclusive.com",
+        "properties@latinexclusive.com",
+        "marketing@latinexclusive.com",
+        "brazil@latinexclusive.com",
+        "colombia@latinexclusive.com",
+        "europe@latinexclusive.com"
+    ],
+    "phone_numbers": [
+        "+19176520027",
+	"+5521982071352",
+	"+573184535210",
+	"+33674856438",
+	"+55 21 98207 1352",
+	"+57 318 453 5210",
+	"+33 6 74 85 64 38",
+	"5521982530571",
+	"573153845259",
+	"5521993426380",
+	"5521983930391",
+	"5521982530664",
+	"33609245493",
+	"5521983930393",
+	"5521983930392"
+    ],
+    "addresse": [
+        "888c 8th Avenue - Nova York",
+        "Carrera 42 # 3 Sur - 81 - Medellín",
+        "Calle 81 #12 - 44 - Bogotá",
+        "231 Rue Saint-Honoré, Paris"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=+19176520027&text=Bom%20dia%20Latin%20Exclusive!",
+        "https://www.facebook.com/latinexclusive",
+        "https://www.instagram.com/latin_exclusive",
+        "https://www.linkedin.com/company/latinexclusive",
+        "https://https://api.whatsapp.com/send?phone=+19176520027&text=Bom%20dia%20Latin%20Exclusive!",
+        "https://api.whatsapp.com/send?phone=+5521982071352&text=Bom%20dia%20Latin%20Exclusive!",
+        "https://www.linkedin.com/in/pascale-fabart-a5708481/",
+        "https://api.whatsapp.com/send?phone=5521982530571",
+        "https://www.linkedin.com/in/ana-milena-villamizar/",
+        "https://api.whatsapp.com/send?phone=573153845259",
+        "https://www.linkedin.com/in/joao-vitor-dos-santos-733731135/",
+        "https://api.whatsapp.com/send?phone=5521993426380",
+        "https://www.linkedin.com/in/marie-emma-m-34b1a449/",
+        "https://api.whatsapp.com/send?phone=5521983930391",
+        "https://www.linkedin.com/in/andré-beneduce-53a26185",
+        "https://api.whatsapp.com/send?phone=5521982530664",
+        "https://www.linkedin.com/in/julien-siri",
+        "https://api.whatsapp.com/send?phone=33609245493",
+        "https://www.linkedin.com/in/raquel-nunes-93a2491b2/",
+        "https://api.whatsapp.com/send?phone=5521983930393",
+        "https://www.linkedin.com/in/matheus-oliveira-1023b3b7/",
+        "https://api.whatsapp.com/send?phone=5521983930392",
+        "https://api.whatsapp.com/send?phone=19176520027&text=Hello%20Latin%20Exclusive!",
+        "https://api.whatsapp.com/send?phone=5521982071352&text=Hello%20Latin%20Exclusive!",
+        "https://api.whatsapp.com/send?phone=573184535210&text=Hello%20Latin%20Exclusive!",
+        "https://api.whatsapp.com/send?phone=33674856438&text=Hello%20Latin%20Exclusive!"
+    ]
+}
+```

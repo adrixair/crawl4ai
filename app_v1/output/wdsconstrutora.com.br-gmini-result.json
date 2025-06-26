@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://wdsconstrutora.com.br",
+    "emails": ["contato@wdsconstrutora.com.br"],
+    "phone_numbers": ["+55 11 3192-6063", "+55 11 5039-2571"],
+    "addresses": ["R. Cardeal Arcoverde, 359 - 9º ANDAR. PINHEIROS - SÃO PAULO - SP", "Rua Dr. Franco da Rocha, 560 – Perdizes", "R. Cardoso de Almeida com R. Homem de melo", "Rua Califórnia", "R. Dr. Homem de Melo X R. Cardoso de Almeida", "R. Campevas próximo à Av. Sumaré", "Rua Frei Caneca com Rua São Miguel", "R. Costa Aguiar", "R. João Ramalho"],
+    "social_links": [
+        "https://www.instagram.com/wdsconstrutora/",
+        "https://www.youtube.com/@wdsconstrutoraeincorporado768",
+        "https://api.whatsapp.com/send?phone=551150392571",
+        "https://wa.me/551150392571"
+    ]
+}
+```

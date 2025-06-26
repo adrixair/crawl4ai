@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://blog.i9vale.com.br",
+    "emails": ["contato@i9vale.com.br"],
+    "phone_numbers": ["12 30215100", "+551230215100"],
+    "addresses": [
+        "Avenida São João, 2375 CJ501- CEP 12242-000",
+        "Avenida São João, 2375 - CJ 501 - Jardim das Colinas - São José dos Campos/SP",
+        "Avenida Getúlio Dorneles Vargas, 2220 - CJ 29 - Villa Branca - Jacareí/SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/i9vale",
+        "https://twitter.com/i9vale",
+        "https://www.instagram.com/i9vale",
+        "https://www.youtube.com/c/i9valeImóveis",
+        "https://www.linkedin.com/in/i9vale",
+        "https://web.whatsapp.com/send?phone=551230215100",
+        "https://www.i9vale.com.br/privacidade"
+    ]
+}
+```

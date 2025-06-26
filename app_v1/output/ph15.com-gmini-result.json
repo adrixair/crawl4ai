@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://ph15.com",
+    "emails": ["atendimento@ph15.com"],
+    "phone_numbers": ["+551133863535", "+55 11 3386-3535"],
+    "addresses": ["Rua Escobar Ortiz, 383 Vila Nova Conceição São Paulo/SP - CEP 04512-050"],
+    "social_links": [
+        "https://www.facebook.com/ph15imoveis",
+        "https://instagram.com/ph15imoveis/",
+        "https://youtube.com/ph15imoveis",
+        "https://twitter.com/ph15imoveis",
+        "https://api.whatsapp.com/send?phone=5511930358383&text=Gostaria+de+falar+com+um+corretor+sobre+o+im%C3%B3vel+{{codigoIndicacao}}"
+    ]
+}
+```

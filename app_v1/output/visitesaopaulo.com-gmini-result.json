@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://visitesaopaulo.com",
+    "emails": ["contato@visitesaopaulo.com"],
+    "phone_numbers": ["+55 (11) 3736-0600"],
+    "addresses": ["Alameda Ribeirão Preto, 130 – 12° andar – CEP 01331-000 – São Paulo/SP"],
+    "social_links": [
+        "https://www.facebook.com/visitesp/",
+        "https://www.instagram.com/visite_sp/",
+        "https://twitter.com/visitesaopaulo",
+        "https://www.linkedin.com/company/visitesaopaulo/",
+        "https://www.youtube.com/channel/UC6RJQBcDjljYh2WWksgjKkw"
+    ]
+}
+```

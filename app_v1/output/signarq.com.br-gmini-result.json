@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://signarq.com.br",
+    "emails": ["contato@signarq.com.br"],
+    "phone_numbers": [],
+    "addresses": ["Av. Queiroz Filho, 1560 - Sala 207 - Torre Sabiá - 05319-000 - São Paulo - SP"],
+    "social_links": [
+        "https://www.instagram.com/arq.herikalorelli/?hl=pt-br",
+        "https://www.instagram.com/sign.arq/?hl=pt-br",
+        "https://www.instagram.com/arq.marjorievanzo/?hl=pt-br",
+        "https://api.whatsapp.com/send?phone=5511981099620&text=Ol%C3%A1%20Time%20Sign.%20Gostaria%20de%20um%20or%C3%A7amento%20para%20meu%20projeto%20de%20arquitetura.",
+        "https://wa.me/5511981099620?text=Ol%C3%A1%20Equipe%20Sign,%20Gostaria%20de%20um%20or%C3%A7amento%20personalizado%20para%20meu%20projeto."
+    ]
+}
+```

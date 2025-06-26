@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://acr.arq.br",
+    "emails": ["acr@acr.arq.br"],
+    "phone_numbers": ["+55 11 5572-9924"],
+    "addresses": ["Rua Bela Cintra, 772 - 11°. andar - São Paulo/SP - Brasil CEP: 01415-002"],
+    "social_links": [
+        "https://pt-br.facebook.com/acrarquiteturahospitalar/",
+        "https://www.instagram.com/acrarquitetura/",
+        "https://www.linkedin.com/company/acr-arquitetura"
+    ]
+}
+```

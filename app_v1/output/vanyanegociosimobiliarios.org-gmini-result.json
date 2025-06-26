@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://vanyanegociosimobiliarios.org",
+    "emails": ["vanya.creci@gmail.com", "vanya@creci.org.br"],
+    "phone_numbers": ["+55 11 95301-7771", "+55 11 94043-3370"],
+    "addresses": ["Rua Natingui - de 1039/1040 ao fim, N. Vila Madalena São Paulo/SP CEP: 05443-002"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511953017771&text=Olá, visitei o seu site e gostaria de mais informações! Aguardo o contato. Obrigado(a).",
+        "https://api.whatsapp.com/send?phone=5511940433370&text=Olá, visitei o seu site e gostaria de mais informações! Aguardo o contato. Obrigado(a).",
+        "https://api.whatsapp.com/send?phone=5511953017771&text=Olá, tenho interesse neste imóvel: https%3A%2F%2Fvanyanegociosimobiliarios.org%2Fdetalhes_imovel%2F530%2FVenda-Apartamento-Alto-Padrao-Vila-Madalena-Sao-Paulo-SP-San-Paolo- Aguardo o contato. Obrigado.",
+        "https://api.whatsapp.com/send?phone=5511953017771&text=Olá, tenho interesse neste imóvel: https%3A%2F%2Fvanyanegociosimobiliarios.org%2Fdetalhes_imovel%2F530 Aguardo o contato. Obrigado.",
+        "https://api.whatsapp.com/send?text=Venda - Apartamento (Alto Padrão) - Vila Madalena - São Paulo/SP - Cod. San Paolo : https%3A%2F%2Fvanyanegociosimobiliarios.org%2Fdetalhes_imovel%2F530",
+        "https://www.facebook.com/marisol.vanya.consultora/",
+        "https://www.instagram.com/marisol_gerente_conx_vanya",
+        "https://youtube.com/@marisol_vanya_consultora",
+        "https://www.linkedin.com/in/vanya-almeida-34752334"
+    ]
+}
+```

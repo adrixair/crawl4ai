@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.construtoraplaneta.com.br",
+    "emails": [
+        "E-mail"
+    ],
+    "phone_numbers": [
+        "+551533329696",
+        "1533329696",
+        "01533329696"
+    ],
+    "addresses": [
+        "Rua Octaviano Gozzano, 325 - 12º andar. Parque Campolim - Sorocaba/SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send/?phone=551533329696&text&type=phone_number&app_absent=0",
+        "https://planeta.cvcrm.com.br/cliente/",
+        "https://api.whatsapp.com/send?phone=5515988262617",
+        "https://www.canalintegro.com.br/ConstrutoraPlaneta"
+    ]
+}
+```

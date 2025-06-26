@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://vilaimperialimoveis.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 2429-2193",
+        "11 9.6460-0321"
+    ],
+    "addresses": [
+        "Av Prudente de Moraes, 242 Vila Nova - Itu/SP"
+    ],
+    "social_links": [
+        "https://www.youtube.com/channel/UCcrlvJZgjQ-5y1qiopBNmdQ",
+        "https://www.instagram.com/vilaimperialimoveis/",
+        "https://api.whatsapp.com/send?phone=5511964600321",
+        "https://www.facebook.com/Vila-Imperial-Im%C3%B3veis-1946411012356230"
+    ]
+}
+```

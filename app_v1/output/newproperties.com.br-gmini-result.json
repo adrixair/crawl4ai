@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://newproperties.com.br",
+    "emails": ["contato@newproperties.com.br"],
+    "phone_numbers": ["+55 11 2367-0854", "1123670854"],
+    "addresses": ["Rua Doutor Renato Paes de Barros, 717 – Conjunto 44 – Itaim – São Paulo, SP"],
+    "social_links": [
+        "https://www.instagram.com/newproperties.in/",
+        "https://www.linkedin.com/company/newproperties/",
+        "https://www.youtube.com/channel/UC_1UJGzCLu_h_KB-7u8C2Wg"
+    ]
+}
+```

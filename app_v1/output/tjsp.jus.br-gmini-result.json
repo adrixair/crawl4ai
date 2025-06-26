@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.tjsp.jus.br",
+    "emails": [],
+    "phone_numbers": ["(11) 4802-9394", "(11) 4802-9188", "4802-9358"],
+    "addresse": ["Praça da Sé, s/nº - Cep 01018-010   \nSão Paulo - Capital"],
+    "social_links": [
+        "https://x.com/TJSPoficial",
+        "https://www.facebook.com/TJSPoficial",
+        "https://www.youtube.com/TJSPoficial",
+        "https://www.flickr.com/photos/tjsp_oficial/sets/",
+        "https://www.foursquare.com/tjspoficial",
+        "https://www.instagram.com/tjspoficial",
+        "http://www.linkedin.com/company/tjesp/",
+        "https://tjsp.sharepoint.com/sites/TJSPIntranet",
+        "https://outlook.com/owa/tjsp.jus.br",
+        "https://www.suportesistemastjsp.com.br/",
+        "https://forms.office.com/r/jr1eN0dUZE",
+        "https://forms.office.com/r/EVj6qWFqVf",
+        "https://tjsp.sharepoint.com/sites/CENTRODEAPOIOAOSGABINETES"
+    ]
+}
+```

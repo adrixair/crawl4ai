@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://conteudo.solutudo.com.br",
+    "emails": ["contato@solutudo.com.br"],
+    "phone_numbers": ["(14) 3147-0223"],
+    "addresses": ["Rua Azaleia, 399, Chácara Floresta – Sala 92 Botucatu/SP – CEP 18603-550"],
+    "social_links": [
+        "https://www.facebook.com/solutudobrasil",
+        "https://www.instagram.com/solutudobrasil/",
+        "https://www.linkedin.com/company/solutudo/",
+        "https://www.tiktok.com/@solutudobrasil",
+        "https://www.youtube.com/@pormaissolucoes/videos",
+        "https://open.spotify.com/show/7mx3vSf5msQhZD8KXN81ah",
+        "https://api.whatsapp.com/send?text=Empresas+de+Energia+Solar+em+Itanha%C3%A9m+%E2%80%93+Encontre+Solu%C3%A7%C3%B5es+Sustent%C3%A1veis+com+Facilidade %0A%0A https://conteudo.solutudo.com.br/solutudo-brasil/solutudo-listas/empresas-de-energia-solar-em-itanhaem-encontre-solucoes-sustentaveis-com-facilidade/",
+        "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fconteudo.solutudo.com.br%2Fsolutudo-brasil%2Fsolutudo-listas%2Fempresas-de-energia-solar-em-itanhaem-encontre-solucoes-sustentaveis-com-facilidade%2F",
+        "https://twitter.com/intent/tweet?text=Empresas+de+Energia+Solar+em+Itanha%C3%A9m+%E2%80%93+Encontre+Solu%C3%A7%C3%B5es+Sustent%C3%A1veis+com+Facilidade&url=https%3A%2F%2Fconteudo.solutudo.com.br%2Fsolutudo-brasil%2Fsolutudo-listas%2Fempresas-de-energia-solar-em-itanhaem-encontre-solucoes-sustentaveis-com-facilidade%2F&via=Solutudo",
+        "https://pinterest.com/pin/create/button/?url=https://conteudo.solutudo.com.br/solutudo-brasil/solutudo-listas/empresas-de-energia-solar-em-itanhaem-encontre-solucoes-sustentaveis-com-facilidade/&media=https://conteudo.solutudo.com.br/wp-content/uploads/2023/12/Energia-Solar-na-Zona-Norte-de-Sao-Paulo.png&description=Empresas+de+Energia+Solar+em+Itanha%C3%A9m+%E2%80%93+Encontre+Solu%C3%A7%C3%B5es+Sustent%C3%A1veis+com+Facilidade"
+        
+    ]
+}
+```

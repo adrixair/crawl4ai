@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.luediassessoria.com.br",
+    "emails": ["luedi.assessoriaimobiliaria@gmail.com"],
+    "phone_numbers": ["+55(11) 93317-8196", "(11) 93317-8196"],
+    "addresses": ["Avenida dos Latinos, 1028 - Jardim Santa Terezinha, /"],
+    "social_links": [
+        "https://www.instagram.com/luedi.imob",
+        "https://www.facebook.com/Luedi.imob",
+        "https://www.linkedin.com/company/luedi-imob",
+        "https://wa.me/5511933178196"
+    ]
+}
+```

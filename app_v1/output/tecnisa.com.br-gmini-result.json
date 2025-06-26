@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://www.tecnisa.com.br/",
+    "emails": [
+        "relacionamento@tecnisa.com.br"
+    ],
+    "phone_numbers": [
+        "+551137081010",
+        "1137081010",
+        "(11) 3708-1010",
+        "(11) 3702-7200"
+    ],
+    "addresses": [
+        "Av. Nicolas Boer, 399 | Torre Time Corporate | 5º andar Jardim das Perdizes | São Paulo | SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Tecnisa",
+        "https://www.linkedin.com/company/tecnisa",
+        "https://instagram.com/tecnisa/",
+        "https://www.youtube.com/tecnisa",
+        "https://pinterest.com/tecnisa/",
+        "https://api.whatsapp.com/send?phone=551137081000"
+    ]
+}
+```

@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.tearincorporadora.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Jabaquara, 2819\nMirandópolis\n13° Andar | Sala 131\nSão Paulo - SP\nCEP 04045-004",
+        "Rua Cabo Verde, 390 - Vila Olímpia, São Paulo - SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send/?phone=5511916462011&text=Ol%C3%A1%2C+estou+no+site+da+Tear+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+empreendimentos&type=phone_number&app_absent=0",
+        "https://www.instagram.com/tear.incorporadora/",
+        "https://www.facebook.com/profile.php?id=61561717762077"
+    ]
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://elle.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/ellebrasil/",
+        "https://twitter.com/ellebrasil",
+        "https://www.facebook.com/ElleBrasil/",
+        "https://www.youtube.com/user/ellebrasil",
+        "https://www.linkedin.com/company/ellebrasil/mycompany/",
+        "https://www.tiktok.com/@ellebrasil",
+        "https://api.whatsapp.com/send?text=Daslu+%C3%A9+relan%C3%A7ada+como+marca+de+residencial+de+luxo+em+S%C3%A3o+Paulo%20https://elle.com.br/elle-decoration/residencial-de-luxo"
+    ]
+}
+```

@@ -1,0 +1,48 @@
+```json
+{
+    "website": "https://blog.essenciamoveis.com.br",
+    "emails": ["contato@conceptinteriores.com.br", "contato@essenciamoveis.com.br"],
+    "phone_numbers": [
+        "11 5082-4012",
+        "(11) 3661-4900",
+        "(11) 2645-6800",
+        "(11) 3258-8383",
+        "(11) 3805-4999",
+        "(11) 3040-7200",
+        "(11) 3061-3420",
+        "(11) 3208-3076",
+        "(11) 5052-3826",
+        "(13) 3288-3379",
+        "(11) 2182-7400",
+        "(11) 3814-7563",
+        "11-5051-0274",
+        "11 2902-2323",
+        "11 3476-4555",
+        "11 9 9711 3126"
+    ],
+    "addresses": [
+        "Rua Doutor Alfredo de Castro, 200 – Conjunto 1902 e 1903 Barra Funda São Paulo – SP – Brasil",
+        "Rua Baronesa de Itu, 610 – Sl. 82 Higienópolis SÃO PAULO – SP – Brasil",
+        "Alameda Lorena, 1304 – Cj. 701 Jardins SÃO PAULO – SP – Brasil",
+        "Rua Major Sertório, 92 – 4º Andar Centro SÃO PAULO – SP – Brasil",
+        "Rua Frei Galvão, 91 Pinheiros SÃO PAULO – SP – Brasil",
+        "Rua Helena, 235 – 2º andar Vila Olimpia SÃO PAULO – SP – Brasil",
+        "Rua Francisco Leitão, 240 – casa 12 Pinheiros SÃO PAULO – SP – Brasil",
+        "Rua José Getulio, 579 – cj 11 Aclimação SÃO PAULO – SP – Brasil",
+        "Av. Macuco, 726 – Cj. 1702 Moema SÃO PAULO – SP – Brasil",
+        "Rua Ceará, 436 Consolação SÃO PAULO – SP – Brasil",
+        "Rua Filipe de Alcaçoava, 46 Vila Madalena SÃO PAULO – SP – Brasil",
+        "AV. JANDIRA, 295 CONJ. 402 São Paulo – SP – Brasil",
+        "Av. Pavão, 955 – 3º andar Moema São Paulo – SP – Brasil",
+        "Rua Coronel José Eusébio, 95 - Higienópolis - São Paulo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/essenciamoveis",
+        "https://www.instagram.com/essenciamoveis/",
+        "https://www.youtube.com/user/essenciamoveis",
+        "https://br.pinterest.com/essenciamoveis/pins/",
+        "https://web.whatsapp.com/send?phone=5511997113126&text=Ol%C3%A1%21+Tudo+bem",
+        "https://api.whatsapp.com/send?phone=5511997113126&text=Ol%C3%A1%21+Tudo+bem%3F+Gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+produtos."
+    ]
+}
+```

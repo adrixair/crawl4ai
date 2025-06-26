@@ -1,0 +1,71 @@
+```json
+{
+    "website": "https://www.zsimovel.com.br",
+    "emails": [
+        "fernanda@spimovel.com.br",
+        "noticias@spimovel.com.br",
+        "contato@spimovel.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 97315-9142",
+        "3791-5358",
+        "(11) 3791-5358",
+        "(11) 5561-5287",
+        "(11) 5096-2872",
+        "(11) 93070-3418",
+        "(11) 5561-5411",
+        "(11) 94516-1590",
+        "(11) 3079-6277",
+        "(11) 96608-6446",
+        "(11) 3078-5919",
+        "(11) 2609-4773",
+        "(11) 94623-1000"
+    ],
+    "addresses": [
+        "Rua Jataituba, 29 - Brooklin",
+        "Rua Sônia Ribeiro, 33 - Campo Belo",
+        "R. João Cachoeira, 1507 - Vila Olímpia, São Paulo",
+        "Av. Cotovia, 445 - Moema",
+        "Rua Fernandes Moreira, 1.244 - Chácara Santo Antônio",
+        "Av. Nove de Julho, 5925 - Itaim Bibi, São Paulo",
+        "Alameda Santos, 981 - 30º andar",
+        "R. Manuel Guedes, 233 - Itaim Bibi, São Paulo",
+        "Rua Dr. Jesuíno Maciel, 728 - Campo Belo",
+        "Rua Itapimirum, 11 - Morumbi, São Paulo",
+        "Rua Fagundes Filho, 486 - São Judas - São Paulo",
+        "R Vergueiro, 2087 - Aclimação - São Paulo",
+        "Rua Maestro Cardim, 354 - Vila Mariana - São Paulo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/SPimovel",
+        "https://instagram.com/spimovel/",
+        "https://br.linkedin.com/company/grupo-sp-im-vel/",
+        "https://www.youtube.com/@grupospimovel",
+        "https://www.tiktok.com/@spimovel",
+        "https://open.spotify.com/show/0z38mS1goDwBjTM086W2OH?si=03384b6ef9174675",
+        "https://api.whatsapp.com/send?l=pt_br&text=Confira este artigo do Portal do Grupo SP Imóvel: https://www.zsimovel.com.br/blog/dia-dos-namorados-conheca-as-opcoes-de-restaurantes-romanticos-na-zona-sul/3557/",
+        "https://www.facebook.com/sharer/sharer.php?u=https://www.zsimovel.com.br/blog/dia-dos-namorados-conheca-as-opcoes-de-restaurantes-romanticos-na-zona-sul/3557/",
+        "https://www.linkedin.com/shareArticle?url=https://www.zsimovel.com.br/blog/dia-dos-namorados-conheca-as-opcoes-de-restaurantes-romanticos-na-zona-sul/3557/&title=Dia dos Namorados: conheça as opções de Restaurantes românticos na Zona Sul&summary=Conheça alguns Restaurantes Românticos na Zona Sul de São Paulo&source=blog/dia-dos-namorados-conheca-as-opcoes-de-restaurantes-romanticos-na-zona-sul/3557/",
+        "https://api.whatsapp.com/send/?phone=5511930703418&text=Ol%C3%A1,+encontrei+seu+Restaurante+pelo+Portal+ZS+Im%C3%B3vel+-+Gostaria+de+mais+informa%C3%A7%C3%B5es",
+        "https://api.whatsapp.com/send/?phone=551155615411&text=Ol%C3%A1,+encontrei+seu+Restaurante+pelo+Portal+ZS+Im%C3%B3vel+-+Gostaria+de+mais+informa%C3%A7%C3%B5es",
+        "https://api.whatsapp.com/send/?phone=5511945161590&text=Ol%C3%A1,+encontrei+seu+Restaurante+pelo+Portal+ZS+Im%C3%B3vel+-+Gostaria+de+mais+informa%C3%A7%C3%B5es",
+        "https://api.whatsapp.com/send/?phone=5511966086446&text=Ol%C3%A1,+encontrei+seu+Restaurante+pelo+Portal+ZS+Im%C3%B3vel+-+Gostaria+de+mais+informa%C3%A7%C3%B5es",
+        "https://morumbi.chalezinho.com/",
+        "https://api.whatsapp.com/send/?phone=5511946231000&text=Ol%C3%A1,+encontrei+seu+Restaurante+pelo+Portal+ZS+Im%C3%B3vel+-+Gostaria+de+mais+informa%C3%A7%C3%B5es",
+        "https://www.ruella.com.br/",
+        "https://restaurantehannover.com.br/",
+        "https://viareggioristorante.com.br/",
+        "http://www.tambouille.com.br/",
+        "https://theviewbar.com.br/",
+        "https://www.instagram.com/lamitie_bistrot_parisiense/",
+        "https://othelobarrestaurante.com.br/",
+        "http://www.agellocucinabr.com/",
+        "https://www.spimovel.com.br/vaga-corretor/sao-paulo/",
+        "https://www.znimovel.com.br/vaga-corretor/zona-norte/sao-paulo/",
+        "https://www.zlimovel.com.br/vaga-corretor/zona-leste/sao-paulo/",
+        "https://www.zoimovel.com.br/vaga-corretor/zona-oeste/sao-paulo/",
+        "https://www.abcimovel.com.br/vaga-corretor/grande-abc/sao-paulo/",
+        "https://www.litoralspimovel.com.br/vaga-corretor/litoral/sao-paulo/"
+    ]
+}
+```

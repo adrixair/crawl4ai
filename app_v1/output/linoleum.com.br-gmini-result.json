@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://linoleum.com.br",
+    "emails": [
+        "negocios@linoleum.com.br",
+        "redacao@linoleum.com.br",
+        "hello@linoleum.com.br"
+    ],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/linoleum.magazine",
+        "https://twitter.com/revistalinoleum",
+        "https://www.facebook.com/linoleum.mag",
+        "https://www.pinterest.com/linoleumbr/",
+        "https://open.spotify.com/user/linoleum.shop",
+        "https://br.linkedin.com/company/linoleum",
+        "https://www.linkedin.com/company/linoleum",
+        "https://www.facebook.com/linoleum.company"
+    ]
+}
+```

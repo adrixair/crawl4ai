@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://moralearquitetura.com.br",
+    "emails": ["contato@moralearquitetura.com.br"],
+    "phone_numbers": ["+55 11 91349-4687", "11 91349-4687", "11 96402-1999"],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/moralearquitetura/",
+        "https://www.facebook.com/profile.php?id=100089794413793",
+        "https://www.linkedin.com/company/morale-arquitetura-e-constru%C3%A7%C3%A3o/",
+        "https://web.whatsapp.com/send?phone=5511913494687"
+    ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://psa.arq.br",
+    "emails": ["contato@psa.arq.br", "trabalhenapsa@psa.arq.br"],
+    "phone_numbers": ["+55 11 3078 3233"],
+    "addresses": ["Rua Haddock Lobo, 1307, Cj 131 - Cerqueira César, São Paulo/SP - 01414 003"],
+    "social_links": [
+        "https://www.instagram.com/psa.arq.br/",
+        "https://www.linkedin.com/company/psa-arquitetura/"
+    ]
+}
+```

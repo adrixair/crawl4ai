@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://revistacasaejardim.globo.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+      "Rua General Almério de Moura, 200, Morumbi, São Paulo, SP",
+      "Avenida Paulista, 37, Bela Vista, São Paulo, SP",
+      "Rua Dr. Antônio Carlos de Assunção, 138, Jardim América, São Paulo, SP",
+      "Rua Santa Cruz, 325, Vila Mariana, São Paulo, SP",
+      "Rua Barão de Jaceguai, 1151, Campo Belo, São Paulo, SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/RevistaCasaeJardim",
+        "https://www.instagram.com/casaejardim/",
+        "https://twitter.com/CasaeJardim",
+        "https://br.pinterest.com/casaejardim/",
+        "https://www.youtube.com/CasaeJardimCasaeComida/",
+        "https://www.tiktok.com/@casaejardim?_t=8e4M9lb4g7R&_r=1"
+    ]
+}
+```

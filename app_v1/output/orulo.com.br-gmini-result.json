@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.orulo.com.br",
+    "emails": ["contato@orulo.com.br", "dpo@orulo.com.br"],
+    "phone_numbers": [],
+    "addresses": ["Rua Vinte e Quatro de Outubro, 1440, Sala 1603, bairro Auxiliadora, cidade de Porto Alegre, RS, CEP 90510-001"],
+    "social_links": [
+        "https://www.linkedin.com/company/orulobr",
+        "https://www.instagram.com/orulobr",
+        "https://www.facebook.com/orulo.com.br",
+        "https://www.youtube.com/@orulo4866",
+        "https://play.google.com/store/apps/details?id=br.com.orulo",
+        "https://apps.apple.com/br/app/%C3%B3rulo-para-corretores/id1456070833"
+    ]
+}
+```

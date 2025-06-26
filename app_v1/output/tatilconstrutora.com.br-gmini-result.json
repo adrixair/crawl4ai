@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.tatilconstrutora.com.br",
+    "emails": ["contato@tatilincorporadora.com.br"],
+    "phone_numbers": ["(11) 2275-3947"],
+    "addresses": ["Av. Rouxinol, 55, CJ 1211 - Moema - SP"],
+    "social_links": [
+        "https://www.facebook.com/tatilincorporadora",
+        "https://www.instagram.com/tatilincorporadora/",
+        "https://br.linkedin.com/company/tatilincorporadora",
+        "https://www.youtube.com/@tatilincorporacaoeconstruc3931"
+    ]
+}
+```

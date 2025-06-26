@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://casaalquimia.com.br",
+    "emails": ["contato@casaalquimia.com.br"],
+    "phone_numbers": ["11 2306 7864", "11 99438-1498"],
+    "addresses": ["Rua Trajano Reis, 47 – Cannes 12 – Butantã – SP / SP."],
+    "social_links": [
+        "https://www.facebook.com/casaalquimiaarquitetura/",
+        "https://www.instagram.com/casaalquimiaarquitetura/",
+        "https://www.youtube.com/channel/UCx-jXZRkBRx6PAGCwoxf7gA?sub_confirmation=1",
+        "https://br.pinterest.com/casaalquimia/",
+        "https://api.whatsapp.com/send?1=pt_BR&phone=551199438-1498&text=Oi%20Casa%20Alquimia!%20Quero%20falar%20com%20voc%C3%AAs.",
+        "https://api.whatsapp.com/send?1=pt_BR&phone=5511994381498&text=Oi!%20Visitei%20o%20site%20da%20Casa%20Alquimia..%20Vamos%20conversar?",
+        "https://api.whatsapp.com/send?1=pt_BR&phone=551199438-1498&text=Oi!%20Quero%20conversar%20sobre%20Projeto%20Residencial.",
+        "https://api.whatsapp.com/send?1=pt_BR&phone=551199438-1498&text=Oi!%20Quero%20conversar%20sobre%20Projeto%20de%20Layout%20/%20Interiores.",
+        "https://api.whatsapp.com/send?1=pt_BR&phone=551199438-1498&text=Oi!%20Quero%20conversar%20sobre%20Projeto%20de%20Móveis."
+
+    ]
+}
+```

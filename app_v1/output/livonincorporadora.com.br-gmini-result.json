@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.livonincorporadora.com.br",
+    "emails": [],
+    "phone_numbers": ["(16) 3600-8646"],
+    "addresses": ["Avenida São Carlos, 1885 Centro – São Carlos/SP"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5516996090628",
+        "https://www.facebook.com/livonincorporadora",
+        "https://www.linkedin.com/company/livonincorporadora/",
+        "https://instagram.com/livonincorporadora"
+    ]
+}
+```

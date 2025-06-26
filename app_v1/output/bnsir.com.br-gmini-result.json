@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.bnsir.com.br",
+    "emails": [
+        "dpo@bossanovasir.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 3061-0000",
+        "+55 21 3500-0370"
+    ],
+    "addresses": [
+        "Alameda Gabriel Monteiro da Silva, 2027 Jardim América - São Paulo/SP 01441-001",
+        "Rua Visconde de Pirajá, 572 - 4º andar Ipanema - Rio de Janeiro/RJ 22410-002"
+    ],
+    "social_links": [
+        "https://www.instagram.com/bossanovasir/",
+        "https://www.facebook.com/BossaNovaSIR/",
+        "https://www.youtube.com/c/BossaNovaSothebysInternationalRealty",
+        "https://www.linkedin.com/company/imobili-ria-bossa-nova",
+        "https://simulador.credihome.com.br/bossanova/",
+        "https://www.sothebysrealty.com/extraordinary-living-blog/art-deco-at-100-what-it-teaches-us-about-luxury-living-today"
+    ]
+}
+```

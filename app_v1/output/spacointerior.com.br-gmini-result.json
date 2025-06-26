@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.spacointerior.com.br",
+    "emails": ["spacointerior@spacointerior.com.br"],
+    "phone_numbers": ["+55 11 98753-4033", "551150441393"],
+    "addresse": ["São Paulo - SP , 04516-000"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511987534033",
+        "https://www.facebook.com/spacointerior",
+        "https://www.instagram.com/spacointerior/",
+        "https://www.youtube.com/channel/UCEykD1eIzZ0IbavVDFzbtyA",
+        "https://br.pinterest.com/spacointerior/_created/",
+        "https://www.linkedin.com/company/spacointerior/",
+        "https://api.whatsapp.com/send?phone=5511987534033&text=Site: Gostaria de mais informaçÁµes"
+    ]
+}
+```

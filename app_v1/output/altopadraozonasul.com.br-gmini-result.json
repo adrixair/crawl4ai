@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://altopadraozonasul.com.br",
+    "emails": ["contato@altopadraozonasul.com.br"],
+    "phone_numbers": ["11992444665"],
+    "addresses": [],
+    "social_links": [
+        "https://wa.me/5511992444665",
+        "https://www.instagram.com/altopadraozonasul/",
+        "https://www.facebook.com/Altopadraozonasul-723026164533605",
+        "https://api.whatsapp.com/send?phone=5511992444665&text=Olá, Estou interessado(a) no imóvel [APARTAMENTO EM PERDIZES PARA LOCAÇÃO] https://altopadraozonasul.com.br/imovel/apartamento-em-perdizes-para-locacao/",
+        "https://api.whatsapp.com/send?text=APARTAMENTO+EM+PERDIZES+PARA+LOCA%C3%87%C3%83O https%3A%2F%2Faltopadraozonasul.com.br%2Fimovel%2Fapartamento-em-perdizes-para-locacao%2F",
+        "https://api.whatsapp.com/send?phone=5511992444665&text=Olá, Estou interessado(a) no imóvel [COBERTURA DUPLEX EM LOCALIZAÇÃO MUITO PRIVILEGIADA] https://altopadraozonasul.com.br/imovel/cobertura-duplex-em-localizacao-muito-privilegiada/",
+        "https://api.whatsapp.com/send?text=COBERTURA+DUPLEX+EM+LOCALIZA%C3%87%C3%83O+MUITO+PRIVILEGIADA https%3A%2F%2Faltopadraozonasul.com.br%2Fimovel%2Fcobertura-duplex-em-localizacao-muito-privilegiada%2F",
+         "https://api.whatsapp.com/send?phone=5511992444665&text=Olá, Estou interessado(a) no imóvel [ITAIM BIBI PARA VENDA / LOCALIZAÇÃO ESPECIAL / SUPER ESPAÇOSO] https://altopadraozonasul.com.br/imovel/itaim-bibi-para-venda-localizacao-especial-super-espacoso/",
+        "https://api.whatsapp.com/send?text=ITAIM+BIBI+PARA+VENDA+%2F+LOCALIZA%C3%87%C3%83O+ESPECIAL+%2F+SUPER+ESPA%C3%87OSO https%3A%2F%2Faltopadraozonasul.com.br%2Fimovel%2Fitaim-bibi-para-venda-localizacao-especial-super-espacoso%2F",
+        "https://api.whatsapp.com/send?phone=5511992444665&text=Olá, Estou interessado(a) no imóvel [ITAIM BIBI PARA VENDA FINAMENTE DECORADO] https://altopadraozonasul.com.br/imovel/itaim-bibi-para-venda-finamente-decorado/",
+         "https://api.whatsapp.com/send?text=ITAIM+BIBI+PARA+VENDA+FINAMENTE+DECORADO https%3A%2F%2Faltopadraozonasul.com.br%2Fimovel%2Fitaim-bibi-para-venda-finamente-decorado%2F",
+         "https://api.whatsapp.com/send?phone=5511992444665&text=Olá, Estou interessado(a) no imóvel [Apartamento lindíssimo no bairro do Campo Belo para venda] https://altopadraozonasul.com.br/imovel/apartamento-lindissimo-no-bairro-do-campo-belo-para-venda/",
+        "https://api.whatsapp.com/send?text=Apartamento+lind%C3%ADssimo+no+bairro+do+Campo+Belo+para+venda https%3A%2F%2Faltopadraozonasul.com.br%2Fimovel%2Fapartamento-lindissimo-no-bairro-do-campo-belo-para-venda%2F"
+
+    ]
+}
+```

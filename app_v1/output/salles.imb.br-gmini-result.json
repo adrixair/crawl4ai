@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.salles.imb.br",
+    "emails": [],
+    "phone_numbers": [
+        "+55 (11) 4525-0267",
+        "+55 (11) 95201-8623"
+    ],
+    "addresses": [
+        "R. Franklin Willian Franz, 217 - Sala 05 - Jardim Ermida II - Jundiaí/SP, CEP 13212-145"
+    ],
+    "social_links": [
+        "https://www.facebook.com/sallesjundiai/?ref=pages_you_manage",
+        "https://www.youtube.com/user/imobiliariasalles?sub_confirmation=1",
+        "https://instagram.com/imobsalles?utm_source=qr",
+        "https://www.youtube.com/user/imobiliariasalles/videos",
+        "https://www.instagram.com/sallesjundiai/?ref=pages_you_manage",
+        "https://api.whatsapp.com/send?phone=55011952018623"
+    ]
+}
+```

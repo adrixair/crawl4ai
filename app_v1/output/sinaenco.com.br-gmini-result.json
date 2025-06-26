@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://sinaenco.com.br",
+    "emails": [
+        "sinaenco@sinaenco.com.br",
+        "rodrigo@sinaenco.com.br"
+    ],
+    "phone_numbers": [
+        "+ 55 11 3123-9200",
+        "11 3123-9200",
+        "11 97666-6423"
+    ],
+    "addresses": [
+        "R. Marquês de Itu, nº 70, 3º andar, CEP: 01223-000 São Paulo - SP - Brasil"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Sinaenco-2162309064008675/",
+        "https://twitter.com/sinaenco",
+        "https://www.linkedin.com/company/sinaenco",
+        "https://www.youtube.com/channel/UCRUH5Be0nEahg-UsNPyyEkA"
+    ]
+}
+```

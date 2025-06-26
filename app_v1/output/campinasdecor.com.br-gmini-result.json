@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://campinasdecor.com.br",
+    "emails": ["atendimento@campinasdecor.com.br"],
+    "phone_numbers": ["(19) 99378-7008"],
+    "addresses": ["R. Bernardo de Sousa Campos, 42 Campinas – SP", "Rua Bernardo de Souza Campos, 42 – Campinas", "Rua Culto a Ciência, 177", "Rua Barreto Leme, 1.515, Cambuí"],
+    "social_links": [
+        "https://www.instagram.com/campinasdecor/",
+        "http://api.whatsapp.com/send?phone=5519993787008"
+    ]
+}
+```

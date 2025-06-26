@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://pratica-inc.com.br",
+    "emails": [
+        "administrativo@praticaconstrutora.com.br"
+    ],
+    "phone_numbers": [
+        "11 2042-3206",
+        "11 99422-6475"
+    ],
+    "addresses": [
+        "Rua Bom Sucesso, 220 - 31° Andar Corporativo 3102 Tatuapé - São Paulo - SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511994226475",
+        "https://web.facebook.com/praticaconstrutoraoficial",
+        "https://www.instagram.com/praticaconstrutoraoficial/",
+        "https://waze.com/ul/h6gyfh45w5"
+    ]
+}
+```

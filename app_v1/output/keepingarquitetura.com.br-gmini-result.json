@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.keepingarquitetura.com.br",
+    "emails": ["contato@keepingarquitetura.com.br"],
+    "phone_numbers": ["(11) 3624-4345", "(11) 2507-0489"],
+    "addresses": ["Rua Augusto Tolle, 771 – sala 110, Santana, São Paulo, SP"],
+    "social_links": [
+        "https://www.instagram.com/keeping.arquitetura/",
+        "https://www.youtube.com/channel/UCzzIOUe56WAoWViakL65x2Q",
+        "https://wa.me/551136244345",
+        "https://api.whatsapp.com/send?phone=551136244345&text=Ol%C3%A1!%20Acessei%20o%20site%20e%20quero%20falar%20sobre%20o%20meu%20projeto%20com%20a%20Keeping%20Arquitetura!",
+        "https://web.whatsapp.com/send?phone=551136244345"
+    ]
+}
+```

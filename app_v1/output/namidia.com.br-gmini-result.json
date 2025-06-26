@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://namidia.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/namidia",
+        "https://www.instagram.com/namidia",
+        "https://twitter.com/NaMdia",
+        "https://vimeo.com/namidia",
+        "https://www.youtube.com/channel/UC4Cjcbng9jK_8KtK2GYtGtQ",
+        "https://api.whatsapp.com/send?text=Arquitetura+de+Boutique%3A+Luxo+e+inova%C3%A7%C3%A3o+em+S%C3%A3o+Paulo+%0A%0A+https://namidia.com.br/arquitetura-de-boutique-luxo-e-inovacao-em-sao-paulo/",
+        "https://www.instagram.com/rzkarquitetura?igsh=OTRubXFzemRmN3J5",
+        "https://www.instagram.com/lima.ranai/",
+        "https://www.facebook.com/ranai.lima.96",
+        "https://api.whatsapp.com/send?text=F%C3%A9rias+no+Nordeste%3A+dicas+de+passeios+no+Maranh%C3%A3o+para+as+crian%C3%A7as%C2%A0+%0A%0A+https://namidia.com.br/ferias-no-nordeste-dicas-de-passeios-no-maranhao-para-as-criancas/"
+    ]
+}
+```

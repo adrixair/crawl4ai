@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://jflliving.com.br",
+    "emails": ["jfl@thelever.com.br", "imprensa@jflliving.com.br"],
+    "phone_numbers": ["+55 11 3132-0171", "11 3132-0171"],
+    "addresse": [
+        "Av. Rebouças, 3084\nSão Paulo - SP",
+        "R. José Maria Lisboa, 747 - Jardins\nSão Paulo - SP",
+        "Av. Dr. Cardoso de Melo, 699\nVila Olímpia - São Paulo - SP",
+        "Av. Eusébio Matoso, 218 - Pinheiros\nSão Paulo - SP",
+        "Av. das Nações Unidas, 15187\n- Acesso 01 - Torre Mista\nChác. Sto. Antônio - São Paulo - SP",
+        "Av. Rebouças, 3084  São Paulo - SP, 05402-600"
+    ],
+    "social_links": [
+        "https://www.instagram.com/jfl_living/",
+        "https://www.linkedin.com/company/jflliving/",
+        "https://wa.me/5511914475333?text=Quero%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20apartamentos%20da%20JFL%20Living"
+    ]
+}
+```

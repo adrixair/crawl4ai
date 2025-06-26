@@ -1,0 +1,47 @@
+```json
+{
+    "website": "https://www.meuvivaz.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 4090-1449",
+        "11 4000 1280",
+        "51 25007205",
+        "21 3578-1300",
+        "+555 5555 555"
+    ],
+    "addresses": [
+        "Rua George Smith, 153 - Lapa",
+        "Av. Aricanduva, 5555 - Aricanduva",
+        "Av. Alcântara Machado, 3555 - Belenzinho",
+        "Av Interlagos, 2255 - Interlagos",
+        "Rua Domingos Agostim, 91 - Tatuapé",
+        "Rua Rev. Olavo Nunes, 280 , Santa Fé - Porto Alegre",
+        "Alameda 3 de Outubro, 25 , Sarandí - Porto Alegre",
+        "Rua Citéria, 260 , Irajá - Rio de Janeiro",
+        "Rua Licínio Cardoso, 515 , São Francisco Xavier - Rio de Janeiro",
+        "Rua Honório, 419 , Engenho de Dentro - Rio de Janeiro",
+        "Estrada dos Bandeirantes, 7277 , Jacarepaguá - Rio de Janeiro",
+        "Estrada do Mapuá, 691 , Taquara - Rio de Janeiro",
+        "Estrada do Magarça, 1553 , Guaratiba - Rio de Janeiro",
+        "Rua Leopoldo, 351 , Andaraí - Rio de Janeiro",
+        "Rua João Romariz, 122 , Ramos - Rio de Janeiro",
+        "Rua das Oficinas, 188 , Engenho de Dentro - Rio de Janeiro",
+        "Rua Goiás, 500 , Piedade - Rio de Janeiro",
+        "Rua Lima Barros, 25 , São Cristovão - Rio de Janeiro",
+        "Avenida Dom Helder Câmara, 3453 , Del Castilho - Rio de Janeiro",
+        "Av. Marechal Rondon, 1439 , Riachuelo - Rio de Janeiro",
+        "Estrada do Rio Grande, 2540 , Taquara - Rio de Janeiro",
+        "Rua General Belford, 374 , Rocha - Rio de Janeiro"
+    ],
+    "social_links": [
+        "https://www.instagram.com/vivazresidencial/",
+        "https://www.facebook.com/vivazresidencial",
+        "https://www.facebook.com/vivazresidencialrs",
+        "https://www.youtube.com/channel/UCILQRg7uTli8psTylY2MZ-w",
+        "https://twitter.com/",
+        "https://api.whatsapp.com/send?phone=551140901449&text=https://www.meuvivaz.com.br/%3Fguid%3D0%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_gclid%3DCj0KCQiAvqGcBhCJARIsAFQ5ke5QuxDZK-umOJL21ptOu79mUmhKCxNx-eoa4Ss6JrScnowroLFhZmAaAiJuEALw_wcB%26clientid%3DGA1.3.276328920.1668786911%0A%0AOl%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20im%C3%B3veis%20da%20Vivaz",
+        "https://www.tiktok.com/@vivazresidencial?_t=8XernoAypOg&_r=1",
+        "https://api.whatsapp.com/send?phone=551140901449&text=https://www.meuvivaz.com.br/%3Fguid%3D0%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_gclid%3DCj0KCQiAvqGcBhCJARIsAFQ5ke6FvtFLIp8stIDCNYheWCZoZlu1h23CMRCvyK3UZFaow63V5MBiZF0aAhAwEALw_wcB%26clientid%3DGA1.3.1579149825.1669907056%0A%0AOl%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20im%C3%B3veis%20da%20Vivaz"
+    ]
+}
+```

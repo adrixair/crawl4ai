@@ -1,0 +1,62 @@
+```json
+{
+    "website": "https://lindenberg.com.br/",
+    "emails": [
+        "clientes@lindenberg.com.br",
+        "ri@lindenberg.com.br",
+        "parcerias@lindenberg.com.br",
+        "compliance@lindenberg.com.br",
+        "contato@lindenberg.com.br",
+        "suprimentos@lindenberg.com.br",
+        "gente.gestao@lindenberg.com.br"
+    ],
+    "phone_numbers": [
+        "+55 (11) 3041-2700",
+        "+55 (11) 3041-5602",
+        "+55 (11) 3041-2740",
+        "+55 (11) 91490-0558"
+    ],
+    "addresses": [
+        "Rua Joaquim Floriano, 466 Bloco C – 2º andar 04534-002 – Itaim Bibi São Paulo/SP",
+        "Lindenberg São Paulo | 2006 | Rua Maria Antonia Ladalardo, 320, Panamby, SP",
+        "Paço de Higienópolis | 1994 | Rua São Vicente de Paulo, 502, Higienópolis, SP",
+        "Pateo Villa Lobos | 2002 | Av. Prof. Fonseca Rodrigues, 198, Alto de Pinheiros, SP",
+        "Rio das Pedras | 1997 | Praia da Riviera de São Lourenço",
+        "ACL Adolpho Carlos Lindenberg | 2009 | Rua Jaime Costa, 425, Morumbi, SP",
+        "Lindenberg Tucumã | 2010 | Rua Tucumã, 712, Jardim Paulistano, SP",
+        "Paço de Sintra | 1981 | Alameda Tietê, 288, Jardins, SP",
+        "Golden Gate | 1978 | Rua Jean Sibelius, 35, Jardim Europa, SP",
+        "Vicente de Azevedo | 1997 | Rua Padre João Manoel, 654, Jardins, SP",
+        "Lindenberg Gironda | 2007 | Rua Gironda, 164, Jardim Europa, SP",
+        "Lindenberg Groenlândia | 2007 | Rua Groenlândia, 513, Jardim Europa, SP",
+        "Vila América | 1994 | Alameda Franca, 660, Jardins, SP",
+        "Dom Luiz de Orleans Bragança | 1973 | Alameda Franca, 910, Jardins, SP",
+        "Leopoldo 695 | 2013 | R. Leopoldo Couto de Magalhães Júnior, 695, Itaim Bibi, SP",
+        "St Patrick e St Louis | 1986 | Rua General Mena Barreto, 477, Jardim Paulista, SP",
+        "Lindenberg Light | 2006 | Rua Joaquim Antunes, 514, Pinheiros, SP",
+         "Rua Luisiânia, 185, Brooklin - São Paulo",
+         "Rua Verbo Divino, Chácara Santo Antônio - São Paulo",
+         "Rua Clodomiro Amazonas, 529, Itaim Bibi - São Paulo",
+         "Rua Mário Amaral, 310 - Paraíso, São Paulo",
+         "Rua Joaquim Távora, 160, Vila Mariana - São Paulo",
+         "RUA NEBRASKA, 220: O LADO MAIS PRIVILEGIADO DO BROOKLIN"
+
+    ],
+    "social_links": [
+        "https://www.facebook.com/oficiallindenberg",
+        "https://www.instagram.com/oficiallindenberg/",
+        "https://www.linkedin.com/company/oficiallindenberg/",
+        "https://wa.me/551130415602?text=Gostaria%20de%20saber%20mais%20sobre%20os%20empreendimentos%20da%20Lindenberg.",
+        "https://wa.me/551130412740?text=Gostaria%20de%20falar%20com%20o%20relacionamento%20ao%20cliente%20Lindenberg.",
+        "https://whatsa.me/5511914900558",
+        "https://lindenberg.sigavi360.com.br/Chat/NovoAtendimento/1015?midia=Site/WhatsApp",
+         "https://wa.me/551130415602?text=Gostaria%20de%20saber%20mais%20sobre%20o%20empreendimento%20LINDENBERG%20VISTA%20BROOKLIN%20da%20Lindenberg",
+         "https://lindenberg.sigavi360.com.br/Chat/NovoAtendimento/1015?midia=Site/WhatsApp",
+         "https://lindenberg.sigavi360.com.br/Chat/NovoAtendimento/1015?midia=Site/WhatsApp",
+         "https://lindenberg.sigavi360.com.br/Chat/NovoAtendimento/1015?midia=Site/WhatsApp",
+         "https://lindenberg.sigavi360.com.br/Chat/NovoAtendimento/1015?midia=Site/WhatsApp",
+        "https://wa.me/551130415602?text=Gostaria%20de%20saber%20mais%20sobre%20o%20empreendimento%20JOTA%20BY%20VILA%20MARIANA%20da%20Lindenberg",
+        "https://wa.me/551130415602?text=Gostaria%20de%20saber%20mais%20sobre%20o%20empreendimento%20JOTA%20BY%20VILA%20MARIANA%20da%20Lindenberg"
+    ]
+}
+```

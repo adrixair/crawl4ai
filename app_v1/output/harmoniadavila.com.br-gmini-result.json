@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://harmoniadavila.com.br",
+    "emails": [],
+    "phone_numbers": ["11 3500-4493"],
+    "addresses": ["Rua Harmonia, 1.201 Vila Madalena"],
+    "social_links": [
+        "https://www.facebook.com/Harmonia-da-Vila-108904344718784",
+        "https://www.instagram.com/harmonia_da_vila/",
+        "https://api.whatsapp.com/send?phone=Contato via Whatsapp"
+    ]
+}
+```

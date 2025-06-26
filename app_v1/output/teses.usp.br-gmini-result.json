@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://teses.usp.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": ["R. da Reitoria, 374 – Cidade Universitária, Butantã, São Paulo – SP, 05508-220"],
+    "social_links": [
+        "https://www.facebook.com/usponline",
+        "https://twitter.com/usponline",
+        "https://www.linkedin.com/school/universidade-de-s-o-paulo/",
+        "https://www.instagram.com/usp.oficial/",
+        "https://www.youtube.com/channel/UCN1ihdoKXeixzYi7Hyp4WwQ",
+        "https://www.youtube.com/canalusp"
+    ]
+}
+```

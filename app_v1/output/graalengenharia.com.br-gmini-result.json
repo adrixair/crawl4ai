@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://graalengenharia.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 3063-5064",
+        "11 97697-9824"
+    ],
+    "addresses": [
+        "Avenida Angélica, n° 2248, 11° andar Consolação São Paulo / SP",
+        "CEP: 01228-200"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511976979824&text=Ol%C3%A1,%20tudo%20bem?%20Estou%20acessando%20via%20site%20da%20GRAAL%20e%20gostaria%20de%20%20mais%20informa%C3%A7%C3%B5es,%20por%20favor!",
+        "https://api.whatsapp.com/send?phone=5511976979824&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20de%20como%20sair%20do%20aluguel!",
+        "https://www.instagram.com/graalengenharia/",
+        "https://www.facebook.com/graalengenharia?_rdc=1&_rdr",
+        "https://www.youtube.com/@GRAALENGENHARIAoficial",
+         "https://graalengenharia.cvcrm.com.br/cliente/",
+         "https://api.whatsapp.com/send?phone=5511976979824"
+    ]
+}
+```

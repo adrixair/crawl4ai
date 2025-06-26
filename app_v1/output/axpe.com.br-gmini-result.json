@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.axpe.com.br",
+    "emails": ["dpo@axpe.com.br"],
+    "phone_numbers": ["+551130743600", "11 3074-3600"],
+    "addresses": ["Avenida Nove de Julho 5017, 10º andar, Jardim Paulista, São Paulo – SP, CEP 01407-200"],
+    "social_links": [
+        "https://www.facebook.com/pages/Axpe-Im%C3%B3veis-Especiais-Unicamente/100515957997",
+        "https://instagram.com/axpe_imoveis",
+        "https://br.linkedin.com/company/axpe-im-veis",
+        "https://api.whatsapp.com/send?text=https://www.axpe.com.br/imovel/pronto-comprar-vila-olimpia--240m-AX170454",
+        "https://api.whatsapp.com/send?text=https://www.axpe.com.br/imovel/pronto-alugar-centro--170m-AX169250",
+        "https://api.whatsapp.com/send?text=https://www.axpe.com.br/imovel/pronto-alugar-pinheiros--230m-AX127279",
+        "https://api.whatsapp.com/send?text=https://www.axpe.com.br/imovel/pronto-comprar-jardim-paulistano--436m-AX170265",
+        "https://api.whatsapp.com/send?text=https://www.axpe.com.br/busca?source=sao-paulo&finality=aluguel&use=RESIDENCIAL&ready_release=pronto&types=Apartamento&local=Alto+de+Pinheiros",
+        "https://api.whatsapp.com/send?text=https://www.axpe.com.br/busca?source=sao-paulo&finality=aluguel&use=RESIDENCIAL&ready_release=pronto&types=Cobertura&local=Alto+de+Pinheiros",
+        "https://api.whatsapp.com/send?text=https://www.axpe.com.br/busca?source=sao-paulo&finality=aluguel&use=RESIDENCIAL&ready_release=pronto&types=Casa&local=Alto+de+Pinheiros"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.solariumrevestimentos.com.br",
+    "emails": ["administrativo@solariumrevestimentos.com.br"],
+    "phone_numbers": ["5511989345144"],
+    "addresses": [],
+    "social_links": [
+        "http://www.instagram.com/solariumrevestimentos",
+        "http://www.facebook.com/solariumrevestimentos",
+        "https://br.pinterest.com/solariumrevest/",
+        "https://api.whatsapp.com/send?phone=5511989345144"
+    ]
+}
+```

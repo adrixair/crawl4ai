@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.whatsapp.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://x.com/whatsapp",
+        "https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw",
+        "https://www.instagram.com/whatsapp/?hl=en",
+        "https://www.facebook.com/profile.php?id=100064758844406",
+        "https://web.whatsapp.com/"
+    ]
+}
+```

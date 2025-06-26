@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://shopee.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": ["Av. Brigadeiro Faria Lima, 3732 - 22º e 23º andares, Itaim Bibi, São Paulo (SP), Brasil, 04538-132"],
+    "social_links": [
+        "https://instagram.com/Shopee_BR",
+        "https://www.tiktok.com/@shopee_br",
+        "https://whatsapp.com/channel/0029VaKEnKI6GcGLZwn7l103",
+        "https://facebook.com/ShopeeBR",
+        "https://linkedin.com/company/shopee"
+    ]
+}
+```

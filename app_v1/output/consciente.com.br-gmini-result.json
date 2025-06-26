@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://consciente.com.br",
+    "emails": [],
+    "phone_numbers": ["(62) 3086-5000"],
+    "addresses": ["Av. T-2 com T-55 St. Bueno, Goiânia - GO 74215-170"],
+    "social_links": [
+        "https://instagram.com/conscienteconstrutora/",
+        "https://www.facebook.com/ConscienteConstrutora",
+        "https://www.youtube.com/user/ConscienteVideos",
+        "https://www.linkedin.com/company/consciente-construtora",
+        "https://api.whatsapp.com/send?phone=556230865000"
+    ]
+}
+```

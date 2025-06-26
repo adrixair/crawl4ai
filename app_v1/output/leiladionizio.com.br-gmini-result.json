@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://leiladionizio.com.br/",
+    "emails": [],
+    "phone_numbers": ["+5521985566399", "21985566399"],
+    "addresses": ["Condominio O2 - Av. José Silva de Azevedo Neto, 200 - bloco 6 Sl 121 - Barra da Tijuca, Rio de Janeiro - RJ"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5521985566399&text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es",
+        "http://instagram.com/leiladioniziosarqinteriores",
+        "https://www.facebook.com/LeilaDioniziosArquitetura",
+        "https://www.youtube.com/channel/UCYR0WIlirON9ALJrKGKPDuQ",
+        "https://br.pinterest.com/leiladionizios"
+    ]
+}
+```

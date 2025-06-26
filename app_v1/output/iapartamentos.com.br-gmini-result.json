@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://iapartamentos.com.br",
+    "emails": ["contato@iapartamentos.com.br"],
+    "phone_numbers": ["11 99829-2706"],
+    "addresses": ["São Paulo - SP"],
+    "social_links": [
+        "https://web.facebook.com/iApartamentos",
+        "https://www.instagram.com/iapartamentos",
+        "https://www.youtube.com/@iapartamentos"
+    ]
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.t2arquitetura.com.br",
+    "emails": ["t2@t2arquitetura.com.br"],
+    "phone_numbers": ["+55 (11) 3832-6934"],
+    "addresses": [
+        "Av. Brig. Faria Lima, 3729 – 5º andar – Itaim Bibi, São Paulo – SP, 04538-905",
+        "R. Diogo Ortiz, 602 – Lapa, São Paulo – SP, 05077-100"
+    ],
+    "social_links": [
+        "https://www.instagram.com/t2arquiteturaoficial/",
+        "https://www.facebook.com/t2arqui/",
+        "https://www.linkedin.com/company/t2-arquitetura/mycompany/verification/?viewAsMember=true",
+        "https://www.youtube.com/@t2arquiteturaeengenharia",
+        "https://api.whatsapp.com/send?phone=551138326934"
+    ]
+}
+```

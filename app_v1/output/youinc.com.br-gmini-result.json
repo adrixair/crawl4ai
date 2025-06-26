@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://www.youinc.com.br",
+    "emails": [
+        "youinc@indexconectada.com.br",
+        "ri@youinc.com.br",
+        "sac@youinc.com.br"
+    ],
+    "phone_numbers": [
+        "11 3074-0788",
+        "11 3181-9019",
+        "11 3068-2000",
+        "+551130740788"
+    ],
+    "addresses": [
+        "Av. Presidente Juscelino Kubitschek, 360 - 4º andar São Paulo - SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551130740788",
+        "https://www.facebook.com/youincorporadora",
+        "https://instagram.com/youinc",
+        "https://www.linkedin.com/company/you-inc-incorporadora?trk=biz-companies-cym",
+        "https://www.youtube.com/user/youincorporadora",
+        "https://br.pinterest.com/youincincorporadora/_created/",
+        "https://www.tiktok.com/@youinc_"
+    ]
+}
+```

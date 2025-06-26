@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://molinosconsultoria.com.br",
+    "emails": [
+        "contato@molinosconsultoria.com.br",
+        "molinosmedia@gmail.com"
+    ],
+    "phone_numbers": [
+        "(11) 96548-1000"
+    ],
+    "addresses": [
+        "Rua Emília Marengo, 924, Anália Franco - São Paulo/SP, 03336-000"
+    ],
+    "social_links": [
+        "https://www.instagram.com/molinosimoveis/",
+        "https://www.facebook.com/molinosimoveis",
+        "https://www.youtube.com/c/molinosimoveis",
+        "https://www.tiktok.com/@molinosimoveis"
+    ]
+}
+```

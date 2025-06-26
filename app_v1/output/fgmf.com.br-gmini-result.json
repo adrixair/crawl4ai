@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://fgmf.com.br",
+    "emails": ["fgmf@fgmf.com.br", "fornecedores@fgmf.com.br", "press@fgmf.com.br", "marqueterie@marqueterie.com.br"],
+    "phone_numbers": ["+55 11 3032-2826"],
+    "addresses": ["Rua da Consolação, 1212, Consolação – São Paulo – SP, CEP 01302-001"],
+    "social_links": [
+        "https://www.facebook.com/fgmf.arquitetos/",
+        "https://www.instagram.com/fgmf",
+        "https://www.youtube.com/channel/UCOV84aNCAorjH0FOsfCGCXA",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfvBYNs84vLBujSBhXXf8Ur_CjL1pCbvWdNA0BuTAShyC_UnA/viewform",
+        "https://docs.google.com/forms/d/e/1FAIpQLScSsQMN-CMe4W7PDni3pjnEqZ3-sxE-Hmh1l2Ossr79s64U3Q/viewform"
+    ]
+}
+```

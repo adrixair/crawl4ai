@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.metodo.com.br",
+    "emails": [],
+    "phone_numbers": ["+55 (11) 5501.0000"],
+    "addresses": ["R Gomes de Carvalho, 1629, 7° andar, sala 1, Vila Olímpia"],
+    "social_links": [
+        "https://www.linkedin.com/company/metodo-engenharia_36342/?viewAsMember=true",
+        "https://www.facebook.com/M%C3%A9todo-Potencial-Engenharia-SA-132191126879022/?ref=br_rs",
+        "https://www.instagram.com/metodoengenharia/",
+        "https://www.youtube.com/channel/UCPgwJWiOk8Ft3kmkgQ1HFuQ?view_as=subscriber"
+    ]
+}
+```

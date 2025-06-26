@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://ryazbek.com.br",
+    "emails": ["ryazbek@ryazbek.com.br"],
+    "phone_numbers": ["+551130548500"],
+    "addresses": ["R. Sampaio Viana, 202 - 9° Andar. Paraíso - São Paulo/SP - Brasil. CEP 04004-000"],
+    "social_links": [
+        "https://www.facebook.com/ryazbekconstrutora/",
+        "https://www.linkedin.com/company/ryazbek/",
+        "https://www.instagram.com/ryazbek_construtora/",
+        "https://ryazbek.hypnoboxparcerias.com.br/",
+        "http://parceriasryazbek.housecrm.com.br/parceiro",
+        "https://bento.me/ryazbek"
+    ]
+}
+```

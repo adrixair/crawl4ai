@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.empregos.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Avenida São Luís, nº 192, cjto. 8, Centro, São Paulo/SP"
+    ],
+    "social_links": [
+        "https://wa.me/?text=%2Fvaga%2F10737938%2Farquiteto-3d-ou-designer-interiores-em-sao-paulo-sp",
+        "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.empregos.com.br%2Fvaga%2F10737938%2Farquiteto-3d-ou-designer-interiores-em-sao-paulo-sp&title=Arquiteto%203D%20ou%20Designer%20Interiores",
+        "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.empregos.com.br%2Fvaga%2F10737938%2Farquiteto-3d-ou-designer-interiores-em-sao-paulo-sp",
+        "https://x.com/intent/tweet?text=Arquiteto%203D%20ou%20Designer%20Interiores&url=https%3A%2F%2Fwww.empregos.com.br%2Fvaga%2F10737938%2Farquiteto-3d-ou-designer-interiores-em-sao-paulo-sp",
+        "https://www.instagram.com/empregos.com.br/",
+        "https://www.linkedin.com/company/empregos-com-br/posts/?feedView=all",
+        "https://www.facebook.com/Empregos.com.br/?locale=pt_BR",
+        "https://x.com/empregoscombr",
+        "http://www.linkedin.com/company/101241?trk=tyah",
+        "http://twitter.com/#!/empregoscombr"
+    ]
+}
+```

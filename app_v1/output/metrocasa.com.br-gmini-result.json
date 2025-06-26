@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.metrocasa.com.br",
+    "emails": ["contato@metrocasa.com.br"],
+    "phone_numbers": ["(11) 3214-2300", "(11) 5061-0022"],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551132142300&text=Ol%C3%A1%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20empreendimentos!",
+        "https://api.whatsapp.com/send?phone=551150610022",
+        "https://www.facebook.com/construtorametrocasa",
+        "https://www.instagram.com/construtorametrocasa/",
+        "https://www.linkedin.com/company/metrocasa/",
+        "https://www.youtube.com/@ConstrutoraMetrocasa",
+        "https://www.youtube.com/watch?v=jiZ3l4hmXm0&list=PLIAMJUfSy9hUfE3iUxIfjT5fBW3gvwFKs&ab_channel=ConstrutoraMetrocasa",
+        "https://youtu.be/VlPAdTHAXp4?si=C9QPGpX4r7-Dt1px",
+        "https://youtu.be/yYMpUcbRNV0?si=MILzcL7k0l1FlfUk",
+        "https://metrocasa.anapro.com.br/anapro/p/pages/parceiroCadastro/default.aspx?origem=login&tipoCadastro=0",
+        "https://br.pinterest.com/construtorametrocasa/"
+    ]
+}
+```

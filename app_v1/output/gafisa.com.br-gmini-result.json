@@ -1,0 +1,29 @@
+```json
+{
+    "website": "https://www.gafisa.com.br",
+    "emails": [
+        "relacionamento@gafisa.com.br",
+        "ri@gafisa.com.br"
+    ],
+    "phone_numbers": [
+        "+55 (11) 3025-9000",
+        "0800 111 9000",
+        "(11) 3090-8989",
+        "(11) 3025-9210"
+    ],
+    "addresses": [
+        "Escritório Unidade JK – Av. Juscelino Kubitschek 1830 - 13º andar - Conj. 131 Torre 2 - Cond. São Luiz (SP)",
+        "Escritório Unidade RJ - Rua Jardim Botânico 211 - Jardim Botânico - Rio de Janeiro (RJ)",
+        "Escritório Unidade Paraíso – Rua Afonso de Freitas, 59, Paraíso (SP)"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551130908989&text=",
+        "https://www.instagram.com/gafisa/",
+        "https://www.facebook.com/gafisa",
+        "https://www.linkedin.com/company/36155/",
+        "https://twitter.com/gafisa",
+        "https://www.youtube.com/channel/UCjdvK-jhuEsB9m5o4p61XDA",
+        "http://www.resguarda.com/canaldedenuncia.gafisa"
+    ]
+}
+```

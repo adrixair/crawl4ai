@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://zabo.com.br/",
+    "emails": [],
+    "phone_numbers": ["+55 11 3060-4222", "+55 11 99610-0076"],
+    "addresses": ["RUA ESTADOS UNIDOS, 1044  JARDIM AMÉRICA – 01427-001"],
+    "social_links": [
+        "https://www.facebook.com/zaboengenharia/",
+        "https://www.instagram.com/zaboengenharia/",
+        "https://br.linkedin.com/company/zabo-engenharia-s.a",
+        "https://api.whatsapp.com/send?phone=5511996100076&text=Gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20im%C3%B3veis%20da%20Zabo%20Engenharia!"
+    ]
+}
+```

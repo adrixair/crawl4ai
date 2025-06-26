@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://highsocietymagazine.com.br",
+    "emails": ["imprensa@highsocietymagazine.com.br"],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/HighSocietyMag.official",
+        "https://www.instagram.com/highsocietymag.official",
+        "https://www.linkedin.com/in/highsocietymag/",
+        "https://x.com/highsocietymaga",
+        "https://www.youtube.com/@highsocietymag",
+        "https://br.pinterest.com/HighSocietyMag",
+        "https://www.tumblr.com/blog/highsocietymag"
+    ]
+}
+```

@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://jacobsenarquitetura.com/",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "São Paulo", 
+        "Rio de Janeiro", 
+        "Lisboa"
+    ],
+    "social_links": [
+        "https://www.facebook.com/JacobsenArquitetura/",
+        "https://www.instagram.com/jacobsenarquitetura/",
+        "https://www.pinterest.com/jacobsenarq/",
+        "https://br.linkedin.com/company/jacobsen-arquitetura",
+        "https://vimeo.com/jacobsenarquitetura"
+    ]
+}
+```

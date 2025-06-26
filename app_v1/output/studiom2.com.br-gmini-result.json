@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://studiom2.com.br",
+    "emails": ["contato@studiom2.com.br"],
+    "phone_numbers": ["+55 11 91486 5338", "(11) 91486 5338"],
+    "addresses": ["Rua Santa Cruz, nº2105 – Sl. 102 – Vila Mariana CEP: 04121-002"],
+    "social_links": [
+        "https://www.youtube.com/@studiom2arq",
+        "https://www.instagram.com/studiom2_arq/"
+    ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://pilarhomes.com.br",
+    "emails": [
+        "contato@pilarhomes.com.br"
+    ],
+    "phone_numbers": [
+        "+5511935025003"
+    ],
+    "addresses": [
+        "Praça Pereira Coutinho",
+        "Moema",
+        "Parque Ibirapuera",
+        "Rua Oscar Freire",
+        "Club Athletico Paulistano",
+        "Escola Móbile"
+    ],
+    "social_links": [
+        "https://wa.me/5511935025003",
+        "https://www.instagram.com.br/pilarhomes_"
+    ]
+}
+```

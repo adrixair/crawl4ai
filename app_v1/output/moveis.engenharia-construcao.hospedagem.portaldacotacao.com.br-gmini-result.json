@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://moveis.engenharia-construcao.hospedagem.portaldacotacao.com.br",
+    "emails": ["contato@portaldacotacao.com.br"],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "http://twitter.com/intent/tweet?text=Montagem%20de%20móveis%20em%20sp%20-%20moveis.engenharia-construcao.hospedagem.portaldacotacao.com.br/moveis-planejados/montagem-de-moveis-em-sp-2&url=moveis.engenharia-construcao.hospedagem.portaldacotacao.com.br/moveis-planejados/montagem-de-moveis-em-sp-2",
+        "http://twitter.com/intent/tweet?text=Construções%20e%20reformas%20em%20geral%20-%20http://www.engenharia-construcao.hospedagem.portaldacotacao.com.br/construtoras/construcoes-e-reformas-em-geral/construtoras/construcoes-e-reformas-em-geral&url=http://www.engenharia-construcao.hospedagem.portaldacotacao.com.br/construtoras/construcoes-e-reformas-em-geral/construtoras/construcoes-e-reformas-em-geral",
+        "http://twitter.com/intent/tweet?text=Empresa%20de%20-%20http://www.engenharia-construcao.hospedagem.portaldacotacao.com.br/construtoras/empresa-de-reformas-edificios/construtoras/empresa-de-reformas-edificios&url=http://www.engenharia-construcao.hospedagem.portaldacotacao.com.br/construtoras/empresa-de-reformas-edificios/construtoras/empresa-de-reformas-edificios",
+        "http://twitter.com/intent/tweet?text=Reforma%20é%20construção%20-%20http://www.engenharia-construcao.hospedagem.portaldacotacao.com.br/construtoras/reforma-e-construcao/construtoras/reforma-e-construcao&url=http://www.engenharia-construcao.hospedagem.portaldacotacao.com.br/construtoras/reforma-e-construcao/construtoras/reforma-e-construcao",
+        "https://lgpd.idealtrends.com.br/politics"
+    ]
+}
+```

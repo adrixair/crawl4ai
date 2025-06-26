@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://mariliaveiga.com.br",
+    "emails": ["contato@mariliaveiga.com.br", "bruna@mdassessoriacom.com.br", "marcia@mdassessoriacom.com.br"],
+    "phone_numbers": ["+55 11 3021-1717", "+55(11)30211717", "(11) 95423-0864"],
+    "addresses": ["Rua Alvilândia, 105 – Alto de Pinheiros\nSão Paulo-SP – 05449-070"],
+    "social_links": [
+        "https://www.facebook.com/designdeinteriores",
+        "https://instagram.com/mariliaveigainteriores/",
+        "https://www.linkedin.com/company/mar-lia-veiga-interiores/",
+        "https://twitter.com/mariliaveiga",
+        "https://www.youtube.com/user/mariliaveiga"
+    ]
+}
+```

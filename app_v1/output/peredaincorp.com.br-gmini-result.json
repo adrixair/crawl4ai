@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://peredaincorp.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": ["Rua Funchal, 513 - cj. 112, Vila Olímpia - São Paulo - SP, CEP: 04551-060"],
+    "social_links": [
+        "https://www.facebook.com/peredaincorp",
+        "https://www.instagram.com/peredaincorp/",
+        "https://wa.me/5511945359090?text=Olá!%20Acabei%20de%20clicar%20no%20botão%20do%20site%20para%20ter%20mais%20informações."
+    ]
+}
+```

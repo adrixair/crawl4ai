@@ -1,0 +1,36 @@
+```json
+{
+    "website": "https://www.lopesprime.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+55113894-1000",
+        "113894-1000",
+        "(11) 3894-1000",
+        "11 3894-1000",
+        "(11) 3894-1000  (11) 94449-3237"
+    ],
+    "addresses": [
+        "Loja Jardins Rua Estados Unidos, 1976 - Jardim América  \nCEP 01427-002 - São Paulo – SP Ver mapa",
+        "Loja Moema Avenida Ibirapuera , 2120   \nConj. 214 - Indianópolis  \nCEP 04028-001 - São Paulo – SP Ver mapa"
+    ],
+    "social_links": [
+        "https://www.facebook.com/lpsprime/",
+        "https://www.instagram.com/lopesprime/",
+        "https://www.linkedin.com/company/lopesprime/",
+        "https://www.youtube.com/channel/UC1wqGDhlOoI-lQ2rN_y-o-w",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fagua-branca+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Flocacao%2Fsp%2Fsao-paulo+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fjardim-paulistano%2Bjardim-america%2Bjardim-europa%2Bjardim-paulista%2Bcerqueira-cesar+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fjardim-america+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fitaim-bibi+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fcampo-belo+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fjardim-paulista+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fjardim-europa+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1,%20estou%20visitando%20a%20p%C3%A1gina%20%22Trabalhe%20na%20Lopes%20Prime%22%20e%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es.",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Ftrabalhe-na-lopes-prime+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fvila-mariana+e+gostaria+de+falar+com+um+corretor+",
+        "https://api.whatsapp.com/send?phone=5511944493237&text=Ol%C3%A1%2C+estou+visitando+o+site%3A+https%3A%2F%2Fwww.lopesprime.com.br%2Fimoveis%2Fvenda%2Fsp%2Fsao-paulo%2Fmoema+e+gostaria+de+falar+com+um+corretor+"
+    ]
+}
+```

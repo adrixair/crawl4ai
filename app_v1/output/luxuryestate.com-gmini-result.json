@@ -1,0 +1,36 @@
+```json
+{
+    "website": "https://www.luxuryestate.com",
+    "emails": [],
+    "phone_numbers": [
+        "+55 11 3061-0000",
+        "+55 81 99609 3455",
+        "+55 21 3500-0370",
+        "+1 646-443-3735",
+        "+55 11 4801 5555",
+        "+5511997053614",
+        "0055 12 982095100",
+        "+33 662 221 314",
+        "+55 2433631149",
+        "+55 (13)3396-2643",
+        "+55 13 3235 9045",
+        "+55 (21) 982 655 600",
+        "+55 21973208348",
+        "+552498808-8888",
+        "(11) 22311-254",
+        "11967350181",
+        "11941211784"
+    ],
+    "addresses": [
+        "Alameda Gabriel Monteiro da Silva, 2027 - Jardim Europa - 01418-200 São Paulo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/luxuryestate/",
+        "https://twitter.com/casas_de_luxo",
+        "https://www.instagram.com/casa_de_luxo/",
+        "https://www.pinterest.com/luxuryestatecom/",
+        "https://www.linkedin.com/company/2981544/",
+         "https://twitter.com/luxuryestatecom"
+    ]
+}
+```

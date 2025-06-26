@@ -1,0 +1,35 @@
+```json
+{
+    "website": "https://rosenbaum.com.br",
+    "emails": [
+        "contato@rosenbaum.com.br/escritorio",
+        "adriana@rosenbaum.com.br/escritorio"
+    ],
+    "phone_numbers": [],
+    "addresses": [
+        "R. Santo Antônio, 722 – Bela Vista, São Paulo – SP",
+        "Alameda Lorena, 2008 Jardim Paulista – São Paulo SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/marcelorosenbaum",
+        "https://www.instagram.com/mrosenbaum/",
+        "https://twitter.com/intent/tweet?url=https%3A%2F%2Frosenbaum.com.br%2Fescritorio%2F",
+        "https://www.youtube.com/channel/UCR7BjKCmt5hH-dzMH_9ZgNw",
+        "http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frosenbaum.com.br%2Fescritorio%2F",
+        "https://pauloalves.com.br/",
+        "http://lowconstrutores.com.br/",
+        "https://fas-amazonas.org/",
+        "https://www.mamiraua.org.br/?gclid=Cj0KCQjwxNT8BRD9ARIsAJ8S5xZUyncpLeDH_8r9ySHAnS3vKsIDEn9_aLuB4rBvky5o0xYdo7akE_4aAnLAEALw_wcB",
+        "https://www.globalcanopy.org/",
+        "https://www.britishcouncil.org.br/atividades/educacao/newton-fund",
+        "https://www.institutolojasrenner.org.br/pt_br/pagina-inicial",
+        "https://www.jnjbrasil.com.br/",
+        "https://player.vimeo.com/video/135378523",
+        "https://vimeo.com/boisbuchet",
+        "https://vimeo.com",
+        "http://www.boisbuchet.org/workshop/ancestral-soul/",
+        "http://www.agentetransforma.org/",
+        "https://br.creativecommons.org/licencas/"
+    ]
+}
+```

@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://carinadalfabbro.com.br",
+    "emails": ["carina@carinadalfabbro.com.br", "contato@carinadalfabbro.com.br"],
+    "phone_numbers": ["+55 11 3068-9985", "+55 11 3061-9934"],
+    "addresse": ["Rua: Al. Gabriel Monteiro da Silva, 1310, 9º andar - Jardim América - São Paulo"],
+    "social_links": [
+        "https://www.instagram.com/carinadalfabbroarq",
+        "https://www.facebook.com/carinadalfabbroarq",
+        "https://wa.me/5511996005000"
+    ]
+}
+```

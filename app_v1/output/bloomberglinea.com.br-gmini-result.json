@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.bloomberglinea.com",
+    "emails": [
+        "contact@bloomberglinea.com",
+        "support@bloomberglinea.com",
+        "ads@bloomberglinea.com",
+        "summit@bloomberglinea.com"
+    ],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/BloombergLineaBrasil",
+        "https://twitter.com/BloombergLineaB",
+        "https://www.youtube.com/channel/UCBc9G2aqKQDaMZbeeqgNpSA",
+        "https://www.instagram.com/bloomberglineabrasil/",
+        "https://www.linkedin.com/company/bloomberglínea",
+        "https://www.tiktok.com/@bloomberglineabrasil",
+        "https://open.spotify.com/show/1JhleHHeSjIwtnEOi2Scd5",
+        "https://whatsapp.com/channel/0029Va7N1hWI7BeN5sI3kv05"
+    ]
+}
+```

@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://econconstrutora.com.br",
+    "emails": ["espacocliente@econconstrutora.com.br"],
+    "phone_numbers": ["(11) 3500-6750", "(11) 3192-6001"],
+    "addresses": ["R. Fidêncio Ramos, 213 – 7º andar – Vila Olímpia – São Paulo - SP | CEP 04551-010",
+                 "Av. Marquês de São Vicente, 230 – 17º andar - Barra Funda - CEP 01139-003",
+                 "Av. Marquês de São Vicente, 576 – 10º andar – Barra Funda - CEP 01139-000",
+                 "Av. Rangel Pestana, 1244 - Brás - Centro",
+                 "Av. José de Brito de Freitas, 251 - Casa Verde - Zona Norte",
+                 "Estrada Pirajussara-Valo Velho, 1666 - Jardim Mitsutani - Zona Sul",
+                 "RUA INTENDÊNCIA, 177 - Belém, São Paulo",
+                 "Rua Iolando Ribeiro Boaventura - Jardim Maringa",
+                 "Rua Camboriú nº 437 - Alto da Lapa",
+                 "Rua Baumann, 735 - Vila Leopoldina - Zona Oeste"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551149495343&text=Quero%20saber%20mais%20sobre%20os%20produtos%20da%20Econ",
+        "https://www.facebook.com/econconstrutoraoficial/",
+        "https://www.instagram.com/econconstrutora/?hl=pt-br",
+        "https://www.youtube.com/channel/UCjgxOt9rUi1UnXbjUvYczJg",
+        "https://twitter.com/econconstrutora",
+        "http://wa.me/551140208720?text=Clique%20para%20continuar"
+    ]
+}
+```

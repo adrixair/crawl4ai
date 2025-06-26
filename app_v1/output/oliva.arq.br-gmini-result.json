@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.oliva.arq.br",
+    "emails": ["contato@oliva.arq.br"],
+    "phone_numbers": ["11 97178-2643", "11 99625-0351", "11 97178-2943"],
+    "addresses": ["Praça Oswaldo Cruz, 124 - Conjunto 135, Paraíso | São Paulo - SP - 04004-903", "Rua Pedro Correia, 263 - Conjunto 02, Vila Mariana | São Paulo - SP04113-0403"],
+    "social_links": [
+        "https://www.instagram.com/oliva.arquitetura/",
+        "https://br.pinterest.com/olivaarquitetura/",
+        "https://api.whatsapp.com/send?1=pt_BR&phone=5511996250351",
+        "https://www.pinterest.com/olivaarquitetura",
+        "http://www.facebook.com/oliva.estudiodearquitetura",
+        "https://wa.link/jbz9hi",
+        "https://wa.me/5511996250351?text=Ol%C3%A1%20gostaria%20de%20saber%20mais%20sobre%20a%20Cria%C3%A7%C3%A3o%20de%20Projetos.",
+        "https://wa.me/5511996250351?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20Gerenciamento%20de%20Obras.",
+        "https://wa.me/5511996250351?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Incorpora%C3%A7%C3%A3o."
+    ]
+}
+```

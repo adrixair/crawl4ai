@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.imoveisfonsecabrokers.com.br",
+    "emails": ["contato@fonsecabrokers.com.br"],
+    "phone_numbers": ["(11) 99492-6345"],
+    "addresses": ["Joaquim Eugenio de Lima, 547 - Jardim Paulista, Cep: 01403-001, São Paulo - SP"],
+    "social_links": [
+        "https://www.instagram.com/imoveisfonsecabrokers/reels/",
+        "https://www.facebook.com/imoveisfonsecabrokers",
+        "https://www.youtube.com/channel/UCMq9loeYSl-zbPtrPFPTlfQ",
+        "https://www.linkedin.com/in/fonseca-brokers-075a4ba4/",
+        "https://www.imoveisfonsecabrokers.blogspot.com/",
+        "https://web.whatsapp.com/send?l=pt_br&phone=5511994926345"
+    ]
+}
+```

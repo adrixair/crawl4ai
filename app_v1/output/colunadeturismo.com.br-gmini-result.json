@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.colunadeturismo.com.br",
+    "emails": ["colunadeturismo@gmail.com"],
+    "phone_numbers": [],
+    "addresses": ["Rua Apa, 78 – Campos Elíseos, São Paulo – SP, 01201-030", "Av. Ipiranga, 200 – Centro Histórico de São Paulo", "Praça Ramos de Azevedo, s/n – República, São Paulo – SP, Bar dos Arcos", "R. Itapeva, 435 – Bela Vista, São Paulo, Rosenwood São Paulo", "Alameda Santos, 1437 — 23° andar"],
+    "social_links": [
+        "https://www.facebook.com/ColunadeTurismo",
+        "https://www.instagram.com/colunadeturismo/",
+        "https://www.instagram.com/aparelhaluzia/",
+        "https://www.youtube.com/watch?v=dlyNb8kFOB8"
+    ]
+}
+```

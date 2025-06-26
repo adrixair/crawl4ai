@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.inovcorp.com.br",
+    "emails": ["contato@inovcorp.com.br", "denis.bertante@gng.com.br"],
+    "phone_numbers": ["+551121107300", "+5511994705711"],
+    "addresses": ["Av. Ipanema, nº 165, Edifício Monte Carlo, 2º Andar (cj. 201), Empresarial 18 do Forte (Alphaville), Barueri, SP, CEP: 06472-002", "Rua Pirapozinho, 219 – Vila Rosália – Guarulhos – SP ( 500m do Lago dos Patos )", "Alameda dos Guaramomis, 605 – Moema – São Paulo- SP", "Rua Carneiro da Cunha, 725, São Paulo - SP", "R. Dr. Tomás Alves, 130 - Vila Mariana, São Paulo - SP, 04017-070"],
+    "social_links": [
+        "https://www.linkedin.com/company/inovcorpincorporadora/",
+        "https://www.facebook.com/inovcorpincorporadora/",
+        "https://www.instagram.com/inovcorpincorporadora/",
+        "https://www.youtube.com/channel/UChku4XA-goiY5q160ygdC0Q?view_as=subscriber",
+        "https://api.whatsapp.com/send?phone=5511994705711&text=Olá! Estou vindo do site da Inovcorp e gostaria de algumas informações"
+    ]
+}
+```

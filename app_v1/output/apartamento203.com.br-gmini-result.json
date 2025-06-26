@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.apartamento203.com.br",
+    "emails": ["contato@apartamento203.com.br"],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/apartamento_203/",
+        "https://www.facebook.com/203apartamento",
+        "https://twitter.com/Apartamento203",
+        "https://br.pinterest.com/apartamento203/",
+        "https://apartamento203.com/mesaposta"
+    ]
+}
+```

@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.senziani.com",
+    "emails": ["contato@senziani.com"],
+    "phone_numbers": ["+55 11 3045-1000", "+551130451000", "551130451000"],
+    "addresses": ["Av. Magalhães de Castro, 4800, 4° andar - cj. 44 - Capital Building, Cidade Jardim Corporate Center, Cidade Jardim - São Paulo - SP - Brasil, 05676-120"],
+    "social_links": [
+        "https://www.instagram.com/senziani.incorporadora/",
+        "https://www.facebook.com/senziani.incorporadora",
+        "https://www.youtube.com/@SENZIANI-INCORP",
+        "https://www.linkedin.com/company/senziani-construtora-e-incorporadora/",
+        "https://api.whatsapp.com/send/?phone=551130451000",
+        "https://wa.me/551130451000",
+        "https://www.facebook.com/senziani.incorporadora/?locale=pt_BR",
+        "https://api.whatsapp.com/send/?phone=5519981552185&text=Ol%C3%A1%21+Entrei+no+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+o+Villa+Lombardia&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5519981552185&text=Ol%C3%A1%21+Entrei+no+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+o+Villa+Cal%C3%A1bria&type=phone_number&app_absent=0"
+    ]
+}
+```

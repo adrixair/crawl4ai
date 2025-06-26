@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.drikapassosdesign.com.br",
+    "emails": [
+        "contato@drikapassos.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 93770-0108",
+        "011937700108"
+    ],
+    "addresses": [
+        "Av. Salgado Filho, 2120 - Centro - Guarulhos / SP - CEP: 07115-000"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511937700108&text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es",
+        "https://www.instagram.com/drikapassos",
+        "https://www.tiktok.com/@drikapassosdesigner",
+        "https://maps.app.goo.gl/rtmUjryDTHhrGiRy8",
+        "https://wa.me//+5511937700108?text=Ol%C3%A1,%20vim%20do%20site%20e%20preciso%20de%20informações!",
+        "https://www.facebook.com/fb",
+        "https://www.linkedin.com/"
+    ]
+}
+```

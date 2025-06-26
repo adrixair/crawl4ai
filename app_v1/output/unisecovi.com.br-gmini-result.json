@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://unisecovi.com.br",
+    "emails": ["uni@secovi.com.br", "cursoincompany@secovi.com.br"],
+    "phone_numbers": ["+55 (11) 5591-1300", "+55 (11) 97098-0858"],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511970980858&text=Ol%C3%A1,%20quero%20informa%C3%A7%C3%B5es%20sobre%20cursos.",
+        "https://www.facebook.com/universidadesecovi",
+        "https://www.linkedin.com/company/unisecovi",
+        "https://www.instagram.com/unisecovi/",
+        "https://secovisp.com/Seja-Socio",
+        "http://www.secovi.com.br/",
+        "http://mediacenter.secovi.com.br/login",
+        "https://www.youtube.com/watch?v=AvUpojjgzkE",
+        "https://www.facebook.com/luxurycontentconsulting"
+    ]
+}
+```

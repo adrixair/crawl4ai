@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://veja.abril.com.br",
+    "emails": [],
+    "phone_numbers": ["+55 11 3584-9200"],
+    "addresses": [],
+    "social_links": [
+        "https://facebook.com/veja",
+        "https://www.twitter.com/veja",
+        "https://www.youtube.com/user/vejapontocom",
+        "https://www.instagram.com/vejamais/",
+        "https://veja-mais.fanhero.tv/c/veja",
+        "https://www.youtube.com/playlist?list=PLajCBhJNR2qKW5cpMTb6AmB7jWYurO7da",
+        "https://youtube.com/playlist?list=PLajCBhJNR2qLmvtU1VP2PUmbwH5-aETSI",
+        "https://api.whatsapp.com/send?phone=551135849200&text="
+    ]
+}
+```

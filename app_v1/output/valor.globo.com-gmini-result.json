@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://valor.globo.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresse": [],
+    "social_links": [
+        "https://www.facebook.com/dialog/share?app_id=289255557788943&href=https://valor.globo.com/empresas/noticia/2024/10/30/incorporadoras-pequenas-transformam-terrenos-rejeitados-em-sp-em-oportunidade.ghtml%3Futm_source%3DFacebook%26utm_medium%3DSocial%26utm_campaign%3Dcompartilhar",
+        "https://twitter.com/intent/tweet?text=Valor Econômico:%20Incorporadoras pequenas transformam terrenos ‘rejeitados’ em SP em oportunidade&url=https://valor.globo.com/empresas/noticia/2024/10/30/incorporadoras-pequenas-transformam-terrenos-rejeitados-em-sp-em-oportunidade.ghtml%3Futm_source%3DTwitter%26utm_medium%3DSocial%26utm_campaign%3Dcompartilhar",
+        "https://api.whatsapp.com/send?text=https://valor.globo.com/empresas/noticia/2024/10/30/incorporadoras-pequenas-transformam-terrenos-rejeitados-em-sp-em-oportunidade.ghtml%3Futm_source%3DWhatsapp%26utm_medium%3DSocial%26utm_campaign%3Dcompartilhar",
+        "https://www.linkedin.com/sharing/share-offsite/?url=https://valor.globo.com/empresas/noticia/2024/10/30/incorporadoras-pequenas-transformam-terrenos-rejeitados-em-sp-em-oportunidade.ghtml%3Futm_source%3DLinkedin%26utm_medium%3DSocial%26utm_campaign%3Dcompartilhar",
+        "https://facebook.com/valoreconomico",
+        "https://www.instagram.com/valoreconomico/",
+        "https://www.linkedin.com/company/valoreconomico/_",
+        "https://x.com/valoreconomico",
+        "https://www.youtube.com/valoreconomico",
+        "https://whatsapp.com/channel/0029Va84cvX7T8bX4tLWZ93W"
+    ]
+}
+```

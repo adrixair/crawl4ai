@@ -1,0 +1,14 @@
+```json
+{
+    "website": "http://imoveisdeluxocia.com.br",
+    "emails": ["voltaire@imoveisdeluxocia.com.br"],
+    "phone_numbers": ["(11) 98347-2001"],
+    "addresses": ["Rua Luis Lousã, 221 - Olímpico - São Caetano do Sul/SP - CEP 09540-430"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511983472001",
+        "https://www.facebook.com/imoveisdeluxocia/",
+        "https://www.instagram.com/imoveisdeluxo_cia/",
+        "https://www.youtube.com/channel/UCDD2Inps4KldfbpS0AWNPEw"
+    ]
+}
+```

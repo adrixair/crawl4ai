@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.amplaincorporadora.com.br",
+    "emails": ["relacionamento@amplaincorporadora.com.br"],
+    "phone_numbers": ["(11) 5344 0178", "5344 0178"],
+    "addresses": ["Rua Cardeal Arcoverde, 2450, Pinheiros, São Paulo", "Rua Antônio Fontoura Xavier, 276 - Parque São Lucas - São Paulo - SP", "Rua Prof. Arnaldo Amado Ferreira, 73", "Av. Cupecê, 1481 - Jardim Prudência - São Paulo - SP", "Av. Pompeia, 593 - Pompeia - São Paulo - SP", "R. Dr. Nogueira Martins, 50", "Rua Mathias Cocareli, 150. Jardim Ibirapuera, Limeira/SP.", "Rua Grauça, 99 - Vila Sonia", "Av. do Imigrante Japones, 171. Vila Sônia, São Paulo - SP", "Faria Lima Square Offices"],
+    "social_links": [
+        "https://www.facebook.com/amplaincorporadora",
+        "https://www.instagram.com/amplaincorporadora/",
+        "https://www.linkedin.com/company/ampla-incorporadora/about/",
+        "https://api.whatsapp.com/send?phone=5511917338425"
+    ]
+}
+```

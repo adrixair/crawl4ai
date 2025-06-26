@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://squatro.com.br",
+    "emails": ["contato@squatro.com.br"],
+    "phone_numbers": ["11 3500-4550"],
+    "addresses": ["Av. das Nações Unidas, 14.261 25º andar- Torre B Vila Gertrudes São Paulo – SP", "Rua Amaral Gurgel, 195", "Rua Cruz do Espírito Santo, 847", "Parada Inglesa / São Paulo – SP", "Rua Paratinga, 90 – Granja Viana– São Paulo|SP", "Rua Cavour , 612 Vila Prudente São Paulo|SP", "Rua Toneleiro, 840 – Lapa – São Paulo|SP", "Rua Venâncio Aires, 157 – Perdizes – São Paulo|SP", "Rua Pinheirinho, 143 - Conceição – São Paulo|SP", "Av. Jabaquara, 1.771 – Saúde – São Paulo|SP"],
+    "social_links": [
+        "https://www.facebook.com/squatroincorporadora",
+        "https://www.linkedin.com/company/s-quatro/?viewAsMember=true",
+        "https://www.instagram.com/squatroincorporadora/",
+        "https://wa.me/5511992135034",
+        "https://api.whatsapp.com/send/?phone=5511992135034&text&type=phone_number&app_absent=0"
+    ]
+}
+```

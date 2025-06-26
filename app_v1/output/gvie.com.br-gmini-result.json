@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.gvie.com.br",
+    "emails": ["contato@gvie.com.br"],
+    "phone_numbers": ["+551155737252", "11 5573.7252"],
+    "addresses": [
+        "Rua Estela, 96 - Cj. 22 - Vila Mariana - São Paulo",
+        "Av. Tucuruvi, 1.016, esquina com Av. Gen. Ataliba Leonel - Tucuruvi - São Paulo/SP",
+        "Avenida Guapira, 1909 - Jaçanã - São Paulo / SP",
+        "Avenida Ede, 472 - Vila Ede - São Paulo / SP",
+        "Rua Paulo de Faria, 126 - Tucuruvi - São Paulo / SP",
+        "Rua Borges Ladário, 437 - Tucuruvi - São Paulo / SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/gvieincorporadora",
+        "https://www.instagram.com/gvieincorporadora/",
+        "http://wa.me/5511913112806",
+        "http://wa.me/5511945035366"
+    ]
+}
+```

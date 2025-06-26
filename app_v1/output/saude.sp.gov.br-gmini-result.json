@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://saude.sp.gov.br",
+    "emails": [],
+    "phone_numbers": ["(11) 3066 8000"],
+    "addresses": ["Av. Dr. Enéas Carvalho de Aguiar,188 - São Paulo - CEP 05403-000"],
+    "social_links": [
+        "https://www.flickr.com/governosp/",
+        "https://www.linkedin.com/company/governosp/",
+        "https://www.tiktok.com/@governosp",
+        "https://www.youtube.com/governosp/",
+        "https://twitter.com/governosp/",
+        "https://www.instagram.com/governosp/",
+        "https://www.facebook.com/governosp/",
+        "https://www.whatsapp.com/channel/0029Va4tIbCFHWq7sOctpz23",
+        "https://www.threads.com/@governosp"
+    ]
+}
+```

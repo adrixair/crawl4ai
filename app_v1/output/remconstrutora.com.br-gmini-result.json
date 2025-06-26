@@ -1,0 +1,31 @@
+```json
+{
+    "website": "https://remconstrutora.com.br",
+    "emails": [
+        "fernanda@bureauideias.com.br",
+        "marcelo@bureauideias.com.br",
+        "remplus@remconstrutora.com.br",
+        "dat@remconstrutora.com.br",
+        "cobranca@remconstrutora.com.br",
+        "conteconosco@remconstrutora.com.br"
+    ],
+    "phone_numbers": [
+        "+551138725183",
+        "11 3872-5183",
+        "11 4506-3181"
+    ],
+    "addresse": [
+        "Av. Francisco Matarazzo, 1400  20º Andar • Edifício Torino • Água Branca  CEP 05001-100 • São Paulo/SP",
+        "Rua Sargento Geraldo Berti, 164 - Praia de Maranduba - Ubatuba",
+        "Rua Coronel Melo Oliveira - Vila Pompeia"
+    ],
+    "social_links": [
+        "https://www.instagram.com/rem_construtora/",
+        "https://www.facebook.com/remconstrutora/",
+        "https://www.tiktok.com/@remconstrutora",
+        "https://www.youtube.com/channel/UCWL8syQBFl7FT1G8UZhCIcQ",
+        "https://www.linkedin.com/company/rem-construtora/",
+        "https://br.pinterest.com/rem_construtora/"
+    ]
+}
+```

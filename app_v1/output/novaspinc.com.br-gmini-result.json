@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://www.novaspinc.com.br",
+    "emails": [
+        "contato@novaspinc.com.br"
+    ],
+    "phone_numbers": [
+        "11  97631-2158",
+        "11  2198-4970",
+        "11976312158"
+    ],
+    "addresses": [
+        "R. Biobedas, 341 - Vila da Saúde CEP 04302-010 - São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/novaspinc/",
+        "https://www.linkedin.com/company/nova-sp-inc/",
+        "https://www.facebook.com/novaspinc",
+        "https://www.tiktok.com/@novaspinc?_t=ZM-8tBKg6sk9Xp&_r=1",
+        "https://wa.me/+5511976312158",
+        "https://maps.app.goo.gl/d2yRpF1iw8R815LL7",
+        "https://chat.whatsapp.com/I9axDFisNFx0FWxXMRtckx"
+    ]
+}
+```

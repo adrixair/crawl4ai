@@ -1,0 +1,50 @@
+```json
+{
+    "website": "https://secovi.com.br",
+    "emails": [
+        "secovi@secovi.com.br",
+        "certificadodigital@secovi.com.br",
+        "uni@secovi.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 5591-1300",
+        "11 5591-1300",
+        "1155911300",
+        "(11) 5591-1233",
+        "(11) 5591-1160",
+        "(13) 3321-3823",
+        "(19) 3399-3337",
+        "(12) 3922-6605",
+        "(14) 3227-2616",
+        "(14) 3234-4582",
+        "(17) 3235-1138",
+        "+55 (11) 5591-1300",
+        "+55 (11) 97098-0858"
+    ],
+    "addresses": [
+        "Secovi-SP - Rua Dr. Bacelar, 1.043 - Vila Clementino - São Paulo - SP - 04026-002",
+        "Rua Luís Góis, 2.100",
+        "Av. Brigadeiro Luís Antônio, 2.344 - 8º andar\nCerqueira César - São Paulo/SP | 01402-000",
+        "Av. Ana Costa, 255 - 1º andar\nSantos/SP | 11060-001",
+        "Rua Gustavo Ambrust, 36 - Condomínio 575 - sala 14 - térreo - Cambuí\nCampinas/SP | 13092-106",
+        "Rua Euclides Miragaia, 660 - Sala 74 - Centro\nSão José dos Campos/SP | 12245-820",
+        "Rua Nicolau Assis, 6-57\nBauru/SP | 17011-120",
+        "Ed. Navarro Building - Rua Jair Martins Mil Homens, 500 - 8º andar - sala 808 - Vila São José\nSão José do Rio Preto/SP | 15090-080"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551155911300",
+        "https://api.whatsapp.com/send?phone=5511995655826&text=Ol%C3%A1,%20quero%20informa%C3%A7%C3%B5es%20sobre%20certificado%20digital.",
+        "https://api.whatsapp.com/send?phone=5511995655826",
+        "https://www.instagram.com/secovi/",
+        "https://www.linkedin.com/company/secovi-sp/",
+        "https://www.facebook.com/secovisp/",
+        "https://twitter.com/secovisp",
+        "https://www.youtube.com/user/secovisp",
+        "https://www.flickr.com/photos/secovi-sp/",
+        "https://api.whatsapp.com/send?phone=5511970980858&text=Ol%C3%A1,%20quero%20informa%C3%A7%C3%B5es%20sobre%20cursos.",
+        "https://www.facebook.com/universidadesecovi",
+        "https://www.linkedin.com/company/unisecovi",
+        "https://www.instagram.com/unisecovi/"
+    ]
+}
+```

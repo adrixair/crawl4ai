@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://faobuilding.com.br",
+    "emails": ["comercial@faobuilding.com.br"],
+    "phone_numbers": ["(11) 2959-4455", "(11) 93026-4455"],
+    "addresses": ["Rua Duarte de Azevedo, nº 431 - 13º andar Santana - São Paulo | SP - 02036-021"],
+    "social_links": [
+        "https://www.facebook.com/FaoBuilding/?ref=bookmarks",
+        "https://www.instagram.com/faobuilding/",
+        "https://www.linkedin.com/company/faobuilding/",
+        "https://www.youtube.com/channel/UCoiAoaD32Vpc0zhOOd36Nfw",
+        "https://api.whatsapp.com/send?phone=5511930264455&text=Ol%C3%A1%20estive%20no%20site%20da%20faobuilding.com.br%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
+    ]
+}
+```

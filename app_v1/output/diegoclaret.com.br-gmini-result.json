@@ -1,0 +1,30 @@
+```json
+{
+    "website": "https://diegoclaret.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Aracoiaba da Serra, SP- Condominio Village da Serra",
+        "Av. Armando Italo Setti, Baeta Neves - SBC",
+        "Rod. Dom Gabriel Paulino Bueno Couto - Jundiaí",
+	"Terras de São José II",
+	"Rua Jequitinhonha, 140 - Campestre - Santo André",
+	"Parque São José - São Bernardo do Campo, SP",
+	"R. Justino Paixão, 731 - Santa Paula - SP, Brasil",
+	"R. Baraldi, 620 - Centro, SP",
+	"Avenida Sagitário, 793 - Alphaville, SP",
+	"Avenida Andrômeda, 328 - Alphagran Alphaville, SP",
+	"Alameda Walker, 107 - Green Valley Alphaville, SP",
+	"Avenida Professor Fonseca Rodrigues, 498 - Alto de Pinheiros, SP",
+	"Avenida São Gualter, 108 - Sinco, SP",
+	"Rua André Ampére, 194 - Brooklin, SP"
+    ],
+    "social_links": [
+        "https://wa.me/5511998777237?text=Olá%20eu%20vim%20do%20site%20diegoclaret.com.br",
+        "https://www.instagram.com/diegoclaret_/",
+        "https://www.facebook.com/profile.php?id=61558109705132",
+        "https://www.linkedin.com/in/diego-claret-841460310/",
+        "https://www.youtube.com/@DiegoClaret_"
+    ]
+}
+```

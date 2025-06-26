@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://residencialviladamata.com.br",
+    "emails": [
+        "associacaoviladamata@gmail.com",
+        "clubedegolfviladamata@gmail.com",
+        "taxaquara@uol.com.br"
+    ],
+    "phone_numbers": [
+        "+551147141090",
+        "+5511998885229",
+        "+55 11 4714-0691",
+        "+55 11 94483-8825"
+    ],
+    "addresses": [
+        "Rua Cora Coralina, São Roque – SP",
+        "Estr. Mun. Darcy Penteado, 2051 – Vila Darcy Penteado, São Roque – SP, 18146-850",
+        "Estrada Municipal Darcy Penteado S/N – Bairro Santo Antonio – Caixa Postal 1666 – Cep 18130-971 São Roque – SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/clubedegolfeviladamata/",
+        "https://www.facebook.com/profile.php?id=100012006348284",
+        "https://www.linkedin.com/company/residencial-vila-da-mata/",
+        "https://www.youtube.com/channel/UC6iRBDpW4zs5VEj7jMINhrw",
+        "https://wa.me/5511944838825"
+    ]
+}
+```

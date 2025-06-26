@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://lefpr.com.br",
+    "emails": ["comercial@lefpr.com.br"],
+    "phone_numbers": ["+551145504000"],
+    "addresses": ["R. Bandeira Paulista, 530 Itaim Bibi - CEP 04532-001 São Paulo - SP"],
+    "social_links": [
+        "https://www.instagram.com/lefproperties/",
+        "https://www.youtube.com/",
+        "https://www.facebook.com/lefproperties/?ref=bookmarks",
+        "https://web.whatsapp.com/send?phone=5511963963684&amp;?&text=Oi, estou visitando o site: https://lefpr.com.br/imovel/comercial-a-venda-sao-paulo-pinheiros-444m2/PR28569 e gostaria de falar com um corretor.",
+        "https://www.google.com/maps/place/R.+Bandeira+Paulista,+530+-+Itaim+Bibi,+S%C3%A3o+Paulo+-+SP,+04532-000/@-23.5841217,-46.6757977,15z/data=!4m5!3m4!1s0x94ce575c328b9e2f:0xe30a46d48f758e95!8m2!3d-23.5841444!4d-46.6760218?shorturl=1"
+    ]
+}
+```

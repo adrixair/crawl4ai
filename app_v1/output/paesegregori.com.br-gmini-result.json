@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://paesegregori.com.br",
+    "emails": ["marketing@paesgregori.com.br"],
+    "phone_numbers": ["11 4890-2257", "11 3500-4493", "01148902257", "01135004493"],
+    "addresses": ["Rua Caiubi, 343 - Perdizes", "Rua Oriçanga, 343", "Rua Major Newton Feliciano, 105", "Rua Doutor Renato Paes de Barros, 735", "Alameda dos Nhambiquaras, 1375", "Av. Conselheiro Rodrigues Alves, 429", "Rua Alexandre Dumas, 330 - Santo Amaro, São Paulo - SP", "Rua Senador Cesar Lacerda Vergueiro, 250", "Rua Luís Molina, 105 - Chácara Klabin, São Paulo - SP", "Rua Oscar Caravelas, 57 - Vila Madalena - São Paulo - SP", "Al. Joaquim Eugenio de Lima, 697 - São Paulo - SP", "Av. Comend. Gumercindo Barranqueiros, 1215 - Jundiaí - SP", "Av Jamaris", "Av. Pedroso de Morais, 1873 – Pinheiros   CEP 05419-001 - São Paulo", "Al. dos Guaramomis x Av. Jurucê", "Rua Casemiro da Rocha, 250", "Rua Tenente Negrão, 212"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511974604441",
+        "https://www.facebook.com/paesegregori/",
+        "https://www.instagram.com/paesgregori/",
+        "https://br.pinterest.com/paesgregori/",
+        "https://www.youtube.com/channel/UCxPRp3Qotk71hRUmYBcHBVw",
+        "https://www.instagram.com/triptyquearchitecture/",
+        "https://www.instagram.com/marthagaviaopaisagismo/?hl=pt-br",
+        "https://www.instagram.com/jonas_birger_arquitetura/",
+        "https://www.instagram.com/carlosrossiarquitetura/?hl=pt-br",
+         "http://dlightvr.com.br/paes_e_gregori/ECO_127/",
+        "https://cpvisual.s3.sa-east-1.amazonaws.com/Paes_e_Gregori/Tipo_3/index.htm",
+        "https://srv1.aztronic.com.br/atendimento_pg/"
+    ]
+}
+```

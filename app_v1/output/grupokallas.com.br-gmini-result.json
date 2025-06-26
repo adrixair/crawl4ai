@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://grupokallas.com.br",
+    "emails": [
+        "kallas.imprensa@agenciafr.com.br",
+        "dpo@grupokallas.com.br"
+    ],
+    "phone_numbers": [
+        "1131643575"
+    ],
+    "addresse": [
+        "Rua Dr. Diogo de Faria 421- Vila Mariana – São Paulo/SP",
+        "Rua Doutor Diogo de Faria, 421 - Vila Clementino, São Paulo - SP, Brasil",
+        "Rua João Lourenço, 432, sala 30, Vila Nova Conceição, São Paulo, SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/KallasInc/",
+        "https://www.youtube.com/channel/UC3CiKnGJ5nJMFmXmAW7D3Hg",
+        "https://www.instagram.com/kallasincorporadora/",
+        "https://www.linkedin.com/company/grupokallas/"
+    ]
+}
+```

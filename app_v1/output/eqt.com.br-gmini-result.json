@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.eqt.com.br",
+    "emails": [
+        "contato@eqtarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 93940-1953",
+        "(11) 96178-2198",
+         "011939401953"
+    ],
+    "addresses": [
+        "Rua Congonhas, 226 - Vila Morellato - Barueri / SP - CEP: 06408-080"
+    ],
+    "social_links": [
+        "https://www.instagram.com/eqtmais/",
+        "https://www.linkedin.com/company/eqt-projetos-obras/",
+        "https://api.whatsapp.com/send?phone=+5511961782198&text=Ol%C3%A1%2C%20encontrei%20seu%20site%20na%20busca%20do%20Google%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
+    ]
+}
+```

@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://cimentoitambe.com.br",
+    "emails": [],
+    "phone_numbers": ["0800 041 9002"],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5541999910003",
+        "https://www.instagram.com/cimento_itambe/",
+        "https://www.facebook.com/massacinzentaitambe",
+        "https://twitter.com/cimento_itambe",
+        "https://www.linkedin.com/company/cia-de-cimento-itambe/",
+        "https://www.youtube.com/user/massacinzentaitambe"
+    ]
+}
+```

@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://imoveislux.com.br",
+    "emails": ["imoveislux@imoveislux.com.br"],
+    "phone_numbers": ["+55 11 3744-0400", "+55 11 97678-5333"],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/imoveislux/?ref=pages_you_manage",
+        "https://www.instagram.com/imoveisluximobiliaria/",
+        "https://youtube.com/channel/UCkMQTiZQnWfGQA_dz8Yno4w",
+        "https://api.whatsapp.com/send?phone=5511976785333",
+        "https://agilizaunion.com.br/app/?empresa=14388&token=725e17fe7e5bb490d2cbbe829392e2d8"
+    ]
+}
+```

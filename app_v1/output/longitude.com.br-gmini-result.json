@@ -1,0 +1,38 @@
+```json
+{
+    "website": "https://www.longitude.com.br",
+    "emails": [],
+    "phone_numbers": ["0800 740 0505", "19 98178-8100"],
+    "addresses": [
+        "Torre Corporate - Jardim Pompéia Indaiatuba, SP - CEP 13345-040",
+        "Av. da Emancipação, 1550",
+        "R. José Elpídio de Oliveira, 791",
+        "Av. da Amizade, 2011",
+        "Avenida Magal, 1500",
+        "Av. Antônio Pinto Catão, 348 - Jaguariúna - SP",
+        "Av. José Paulino, 9943, Paulínia - SP",
+        "Estrada Mun Antônio Navarrete Barroso - Perímetro Urbano",
+        "Dr. Aureliano Barreiros, 180 - Bairro Itaquera",
+        "Av. Modesto José Moreira, 2916 - Vila Moreira, Mirassol",
+        "Avenida Piracicamirim, 2700",
+        "Av. Alfredo Antônio de Oliveira, 1982",
+        "Av. Eng. Fábio Roberto Barnabé, 1431",
+        "Avenida Independência, 4867 - Éden",
+        "Av. Nicolas Boer, 399 - Jardim das Perdizes - SP - Sala 01-123",
+        "Rua 02, 175, Residencial Parque Do Café II Rezende, Monte Mor/SP",
+        "Estrada Municipal José Costa de Mesquita, Lote 02U, Quadra 02 Chácaras Alvorada, Indaiatuba/SP",
+        "Estrada Luiz Carlos Guerra S/N°, Lote 2 Éden, Sorocaba/SP",
+        "Avenida Osvaldo de Souza, 801, Lote 11 da Quadra F Jardim Novo Angulo, Hortolândia/SP",
+        "Avenida Manoel Ruz Peres Bairro Buru, Indaiatuba/SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/pages/Longitude-Desenvolvimento-Imobiliario/335355043179989?fref=ts",
+        "https://www.linkedin.com/company/longitudeoficial/",
+        "https://www.instagram.com/longitudeoficial/",
+        "https://api.whatsapp.com/send?phone=5519971681886&text=Achei%20um%20empreendimento%20interessante%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es",
+        "https://www.youtube.com/channel/UC4LFAXY-SjOEd70xdz_H7GQ",
+        "https://longitude.cvcrm.com.br/",
+        "https://longitude.vagas.solides.com.br/"
+    ]
+}
+```

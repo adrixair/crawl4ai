@@ -1,9 +1,4 @@
-```json
 {
-    "website": "https://www.homify.com.br",
-    "emails": [],
-    "phone_numbers": [],
-    "addresse": [],
-    "social_links": []
+  "website": "https://www.homify.com.br/profissionais/arquitetos-em-sao-paulo",
+  "error": "Gemini quota exhausted on all keys"
 }
-```

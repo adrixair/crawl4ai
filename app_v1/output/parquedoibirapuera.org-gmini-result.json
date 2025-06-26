@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.parquedoibirapuera.org",
+    "emails": ["faleconosco@urbiaparques.com.br"],
+    "phone_numbers": ["11 3889-3000"],
+    "addresses": ["Av. Pedro Álvares Cabral, s/n - Vila Mariana - SP"],
+    "social_links": [
+        "https://twitter.com/ibirapuerasp",
+        "https://www.instagram.com/parquedoibirapueraorg/",
+        "https://linktr.ee/parqueibirapueraorg",
+        "https://www.ceret.com.br/",
+        "https://www.pracapordosol.com/",
+        "https://www.parquedocarmo.net/",
+        "https://www.parqueecologicodotiete.com.br/",
+        "https://www.parquevillalobos.net/",
+        "https://www.picodojaragua.com.br/",
+        "https://www.parquenacional.net"
+    ]
+}
+```

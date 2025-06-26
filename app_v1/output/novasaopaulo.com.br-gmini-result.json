@@ -1,0 +1,30 @@
+```json
+{
+    "website": "https://www.novasaopaulo.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+551121984955",
+        "+5511974892840",
+        "+551121984999",
+        "+5511974441702",
+        "+551155923200",
+        "+5511968445952",
+        "+551121984950",
+        "+5511977044343"
+    ],
+    "addresses": [
+        "Av. Jabaquara, 1947, Saúde - São Paulo-SP, 04045-003",
+        "Rua Biobedas, 341, Saúde - São Paulo-SP, CEP: 04302-010",
+        "Avenida Indianópolis, 151, Moema - São Paulo-SP, CEP: 04063-000"
+    ],
+    "social_links": [
+        "https://www.facebook.com/novasaopaulo/",
+        "https://www.instagram.com/imob.novasaopaulo/",
+        "https://www.youtube.com/channel/UCqHDeX8TDZJ1sI65qkIsf4g",
+        "https://twitter.com/imobnovasp",
+        "https://br.linkedin.com/in/imobiliarianovasaopaulo",
+        "https://www.linkedin.com/company/imobiliaria-nova-sao-paulo/",
+        "https://wa.me/5511950262867?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21%0Aurl%3A+https%3A%2F%2Fwww.novasaopaulo.com.br%2Fimoveis"
+    ]
+}
+```

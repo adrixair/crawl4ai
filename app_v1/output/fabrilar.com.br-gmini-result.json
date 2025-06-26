@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://www.fabrilar.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 4106-3200",
+        "11 95953-9000",
+        "+551141063200",
+        "+5511959539000",
+        "01141063200",
+        "011959539000"
+    ],
+    "addresse": [
+        "Av. Professor Vicente Rao, 1501 - Brooklin , São Paulo - SP , 04636-001"
+    ],
+    "social_links": [
+        "https://www.facebook.com/FabrilarCasasAlvenaria/",
+        "https://www.linkedin.com/company/fabrilar-casas-de-alvenaria/",
+        "https://twitter.com/fabrilarcasas",
+        "https://www.instagram.com/construtorafabrilarcasas/",
+        "https://www.youtube.com/channel/UC-qIh9gTyhC3FmkJvKFXLpQ",
+        "https://br.pinterest.com/Fabrilarcasasdealvenaria/"
+    ]
+}
+```

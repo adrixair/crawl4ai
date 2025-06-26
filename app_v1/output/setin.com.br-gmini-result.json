@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.setin.com.br",
+    "emails": ["dl-setin@rpmacomunicacao.com.br"],
+    "phone_numbers": ["+551135129842", "(11)3512-9842", "(11)3041-9200"],
+    "addresses": ["Av. Pres. Juscelino Kubitschek, 1830, 5° andar, Torre 3, Itaim Bibi, São Paulo - SP - Brasil, CEP: 04543-900"],
+    "social_links": [
+        "https://www.instagram.com/setin_incorporadora/",
+        "https://www.facebook.com/SetinIncorporadora",
+        "https://www.linkedin.com/company/setinincorporadora",
+        "https://www.youtube.com/user/SetinOficial",
+        "https://www.tiktok.com/@setin_incorporadora",
+        "http://www.id360.com.br/?utm_source=site_clientes&utm_campaign=Portal_Setin&utm_medium=logo_rodape"
+    ]
+}
+```

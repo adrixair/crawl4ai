@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.finderimoveis.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Avenida Paulista, 1636 - conj. 706 - Bela Vista - São Paulo/SP",
+        "Rua Dr. Diogo de Faria 421 - Vila Mariana - São Paulo - SP",
+        "R. Dr. Diogo de Faria, 421 - Vila Clementino / Vila Mariana, São Paulo - SP, 04037-001",
+        "R. Prof. Francisco de Castro, 80 - Vila Mariana, São Paulo - SP, 04020-050"
+    ],
+    "social_links": [
+        "https://web.whatsapp.com/send?phone=551141712222",
+        "https://www.facebook.com/FINDERimoveis",
+        "https://www.youtube.com/channel/UCRc8NH5XZUGkYdBC1PdtpmA",
+        "https://finderimoveis.blog.br/",
+        "https://www.instagram.com/finderimoveis"
+    ]
+}
+```

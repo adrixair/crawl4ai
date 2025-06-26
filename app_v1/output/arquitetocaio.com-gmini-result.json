@@ -1,0 +1,18 @@
+```json
+{
+    "website": "http://arquitetocaio.com",
+    "emails": ["contato@arquitetocaio.com"],
+    "phone_numbers": ["19. 98133.7909", "19. 3702.2238"],
+    "addresses": [],
+    "social_links": [
+        "https://wa.me/5519981337909",
+        "https://www.youtube.com/channel/UCmtxxoFYZuBOKKmHIc9kaWw",
+        "https://www.instagram.com/italicohomes/",
+        "https://br.pinterest.com/italicohomes/_created/",
+        "https://www.facebook.com/arquitetocaio/",
+        "https://plus.google.com/u/0/b/114949134731248831908/+ArquitetoemCampinasCaioPelissonArquiteturaeDesign/posts",
+        "https://api.whatsapp.com/send/?phone=5519981337909&text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+os+servi%C3%A7os+da+Italico&app_absent=0",
+        "https://www.youtube.com/c/ItalicoSpecialHomes/videos"
+    ]
+}
+```

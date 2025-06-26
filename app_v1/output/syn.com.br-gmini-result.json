@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.syn.com.br",
+    "emails": [
+        "syn@syn.com.br",
+        "privacidade@ccpsa.com.br"
+    ],
+    "phone_numbers": [
+        "+55 (11) 5412.7600"
+    ],
+    "addresses": [
+        "Av. Brigadeiro Faria Lima, 3600, 14º andar Itaim Bibi, São Paulo – SP"
+    ],
+    "social_links": [
+        "https://syn.gupy.io/",
+        "https://www.linkedin.com/company/synproptech/",
+        "https://www.youtube.com/channel/UCRnaRJiR-wv-96B2MO5MsMA",
+        "https://www.contatoseguro.com.br/syn",
+        "https://privally.global/"
+    ]
+}
+```

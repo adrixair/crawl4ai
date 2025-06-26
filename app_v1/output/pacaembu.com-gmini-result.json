@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://pacaembu.com/",
+    "emails": [],
+    "phone_numbers": ["0800 735 7501", "0800 730 2020","+5511964085440","+551532721453", "(11) 97267-1940"],
+    "addresses": [
+      "Rod. dos Imigrantes - São Francisco, Cuiabá - MT, 78058-559",
+      "Av. Fernando Corrêa da Costa, nº 9650 - São Francisco - CEP: 78088-800 – MT",
+      "Rua Rafael de Barros, 383 - Centro - Leme/SP",
+      "Rua Claudionor Belarmino Ferreira, 102 - Vila Mazzei, Itapetininga - SP",
+      "R. Maj. Fonseca, 41 - Centro, Itapetininga - SP",
+      "R. Quinze de Novembro, 96 - Centro, CEP: 18270-310",
+      "Estrada Mun. Tatuí – Laranjal Paulista, S/N (altura da BRF, ao lado da Chácara Recanto)"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551132364140",
+        "https://pacaembuconstrutorasa.my.site.com/clientes/s/login/",
+        "https://www.youtube.com/PacaembuConstrutora",
+        "https://www.linkedin.com/company/pacaembuconstrutora",
+        "https://www.facebook.com/pacaembuconstrutora",
+        "https://www.instagram.com/pacaembuconstrutora",
+        "https://www.canalconfidencial.com.br/pacaembuconstrutora/#home",
+        "https://pacaembuconstrutora.sharepoint.com/sites/nova_intranet",
+        "https://wa.link/lu719y",
+        "https://wa.link/x5su2k"
+    ]
+}
+```

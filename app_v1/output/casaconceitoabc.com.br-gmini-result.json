@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.casaconceitoabc.com.br",
+    "emails": ["contato@casaconceitoabc.com.br"],
+    "phone_numbers": ["112896-0886"],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/casaconceitoabc/",
+        "https://www.facebook.com/casaconceitoabc",
+        "https://web.whatsapp.com/send?phone=5511934350381&text=Ol%C3%A1%21Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20de%20m%C3%B3veis%20sob%20medida%20para%20o%20meu%20im%C3%B3vel.%20",
+        "https://web.whatsapp.com/send?phone=551111934350381&text=Ol%C3%A1%21%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20de%20m%C3%B3veis%20sob%20medida%20para%20o%20meu%20im%C3%B3vel."
+    ]
+}
+```

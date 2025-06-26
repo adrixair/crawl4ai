@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://vnc.com.br",
+    "emails": [
+        "sac@vnc.com.br"
+    ],
+    "phone_numbers": [
+        "+5511 3638-9999"
+    ],
+    "addresses": [
+        "Rua Escobar Ortiz, 711 Vila Nova Conceição - São Paulo/SP - CEP: 04512-052",
+        "Rua Balthazar da Veiga, 634 | 4º andar Vila Nova Conceição - São Paulo/SP - CEP: 04510-001"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send/?phone=5511968437532",
+        "https://www.instagram.com/vncprivatehomes/",
+        "https://www.facebook.com/vncprivatehomes/",
+        "https://www.youtube.com/user/vncprontoprivate/",
+        "https://www.facebook.com/profile.php?id=61553419105799",
+        "https://www-vnc-com-br.rds.land/simulador-financiamento",
+        "https://api.whatsapp.com/send?text=Olha%20esse%20imóvel%20na%20*VNC*:%20https%3A%2F%2Fwww.vnc.com.br/imovel/REO4825/cobertura-3-dormitorios-vila-nova-conceicao",
+        "https://wa.me/5511968437532?text=Ol%C3%A1,%20vi%20o%20im%C3%B3vel%20*REO4825*%20no%20site%20da%20VNC%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.",
+        "https://maps.google.com/maps?ll=-23.591092,-46.669595&z=15&t=m&hl=en-US&gl=US&mapclient=apiv3",
+        "https://www.google.com/intl/en-US_US/help/terms_maps.html",
+        "https://www.google.com/maps/@-23.5910916,-46.6695948,15z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3"
+    ]
+}
+```

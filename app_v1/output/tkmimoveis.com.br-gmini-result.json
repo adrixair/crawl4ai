@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://tkmimoveis.com.br",
+    "emails": ["Tay@tkmimoveis.com.br"],
+    "phone_numbers": ["+55 11 9 3227 7373", "11 9 3227 7373"],
+    "addresses": ["Rua Gomes de Carvalho, Numero 55 Suite 142, Vila Olimpia, São Paulo", "Av. dos Imarés, 182 - Moema, São Paulo - SP, 04085-000"],
+    "social_links": [
+        "https://www.facebook.com/TKM-Im%C3%B3veis-by-Cyrela-109547114931629",
+        "https://www.linkedin.com/in/tkm-imoveis/",
+        "https://www.youtube.com/channel/UC0z1yxeMJI_rVHRpR243hqA",
+        "https://www.instagram.com/tkmimoveis/",
+        "https://api.whatsapp.com/send?text=Cobertura%20Icônica%20de%20Alto%20Luxo%20no%20Itaim%20Bibi%20%20https://tkmimoveis.com.br/imoveis/cobertura-de-luxo-no-itaim-bibi/"
+    ]
+}
+```

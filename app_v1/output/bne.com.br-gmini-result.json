@@ -1,9 +1,4 @@
-```json
 {
-    "website": "https://www.bne.com.br",
-    "emails": [],
-    "phone_numbers": [],
-    "addresse": [],
-    "social_links": []
+  "website": "https://www.bne.com.br/vaga-de-emprego-na-area-construcao-em-sao-paulo-sp/arquiteto/4101592",
+  "error": "Gemini quota exhausted on all keys"
 }
-```

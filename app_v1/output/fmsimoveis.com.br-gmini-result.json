@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://fmsimoveis.com.br",
+    "emails": ["atendimento@fmsimoveis.com.br"],
+    "phone_numbers": ["(11) 2337-7674", "(11) 94717-4417"],
+    "addresses": ["Avenida Vereador José Diniz, 3725 Campo Belo, São Paulo-SP, CEP 04603-003"],
+    "social_links": [
+        "https://www.instagram.com/fmsimoveis/",
+        "https://api.whatsapp.com/send?phone=5511947174417&text=Olá, tenho interesse no imóvel: https://fmsimoveis.com.br/comprar/sp/sao-paulo/moema/apartamento/75853502/"
+    ]
+}
+```

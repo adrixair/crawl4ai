@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://jumagalhaes.com",
+    "emails": ["contato@jumagalhaes.com"],
+    "phone_numbers": [],
+    "addresses": ["São Paulo, Alphaville e Região", "Online: Brasil e Internacional", "Barueri, São Paulo"],
+    "social_links": [
+        "https://www.instagram.com/jumagalhaesarquitetura/",
+        "https://www.facebook.com/arquitetajumagalhaes",
+        "https://pin.it/7ukjRBI",
+        "https://www.linkedin.com/company/ju-magalhaes-arquitetura-e-interiores/"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.sp62arquitetura.com/",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": ["Av. Nossa Sra. da Paz, 525 - Jardim Alto Alegre, São José do Rio Preto", "Rua Ipiranga, 3619 - São José do Rio Preto", "Rua Aspicuelta, Vila Madalena - São Paulo", "Rua Jaceru, 235 - São Paulo", "Colégio Brasília - Vila Formosa, São Paulo", "Colégio Ph - Unidade Botafogo (Grupo Somos)", "Colégio Ph - Unidade Barra (Grupo Somos)", "Atma Genus - Vila Mariana, São Paulo", "Morumbi, São Paulo"],
+    "social_links": [
+        "https://www.facebook.com/SP62studio",
+        "https://www.youtube.com/channel/UCRdYxN_vTmKMQ_BwEohc71w",
+        "https://www.instagram.com/sp62arquitetura",
+        "https://br.linkedin.com/in/thiago-risso-8850a290"
+    ]
+}
+```

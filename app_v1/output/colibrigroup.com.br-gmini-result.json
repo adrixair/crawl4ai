@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://colibrigroup.com.br",
+    "emails": ["colibriconsultorimoveis@gmail.com"],
+    "phone_numbers": ["+5511968311378"],
+    "addresses": ["Rua Estados Unidos, 1.371"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=+5511968311378&text=Ol%C3%A1,%20estou%20interessado%20em%20%5BVOGEL%20Moema%20%E2%80%93%20Um%20%C3%8Dcone%20da%20Arquitetura%20Moderna%20em%20Moema%5D%20https://colibrigroup.com.br/imovel/vogel-moema/",
+        "https://wa.me/+5511968311378",
+        "https://api.whatsapp.com/send?phone=5511968311378&text=Ol%C3%A1,Gostaria%20de%20falar%20com%20um%20consultor%20para%20filtrar%20um%20im%C3%B3vel%20em%20uma%20regi%C3%A3o%20espec%C3%ADfica%20na%20cidade.",
+         "https://api.whatsapp.com/send?phone=5511968311378&text=Ol%C3%A1,%20quero%20falar%20com%20o%20consultor"
+
+    ]
+}
+```

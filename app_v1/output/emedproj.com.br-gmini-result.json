@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://www.emedproj.com.br",
+    "emails": ["contato@emedproj.com.br", "comercial@emedproj.com.br"],
+    "phone_numbers": ["11 5505-9700"],
+    "addresses": ["Alameda Grajaú, 60 - Cj. 310 - Alphaville - Barueri - SP - Brasil, CEP: 06454-050"],
+    "social_links": [
+        "https://www.instagram.com/emedproj/",
+        "https://www.linkedin.com/in/emedarquiteturahospitalar/",
+        "https://web.whatsapp.com/send?phone=5511993238870"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://frarquitetura.com",
+    "emails": ["fabiorr.arquitetura@gmail.com"],
+    "phone_numbers": ["41 99615.7700", "(41) 3057-0777", "99615 7700"],
+    "addresses": ["Rua Higino Mazzarotto – Vista Alegre, Curitiba, PR -CEP 80820-290"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5541996157700",
+        "https://web.whatsapp.com/send?phone=5541996157700",
+        "https://www.facebook.com/FR-Arquitetura-710289239121238/",
+        "https://www.instagram.com/fabio.rogerio.rodrigues/"
+    ]
+}
+```

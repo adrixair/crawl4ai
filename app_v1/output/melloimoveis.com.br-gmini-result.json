@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://melloimoveis.com.br",
+    "emails": ["mello@melloimoveis.com.br"],
+    "phone_numbers": ["+55 (11) 38266455", "+551138266455", "11 3826-6455", "113826-6455", "1138266455"],
+    "addresses": ["Praça Villaboim, 150 - Higienópolis - São Paulo - SP"],
+    "social_links": [
+        "https://www.facebook.com/melloimobiliaria",
+        "https://www.instagram.com/mello_imoveis/",
+        "https://api.whatsapp.com/send?phone=5511993922860&text=Olá, estou visitando o site, gostaria de saber mais informações",
+        "https://api.whatsapp.com/send?phone=11993922860&text=&source=&data=&app_absent="
+    ]
+}
+```

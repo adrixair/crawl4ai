@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.toledoferrari.com.br",
+    "emails": [
+        "tfvendas@toledoferrari.com.br"
+    ],
+    "phone_numbers": [
+        "+55 (11) 3038 2000",
+        "11 3038-2020"
+    ],
+    "addresses": [
+        "Rua Hungria, 620 – 10ª andar\nJd. Europa – São Paulo/SP – 01455-000"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511941342333",
+        "https://www.instagram.com/toledoferrari/",
+        "https://www.linkedin.com/company/toledoferrari/",
+        "https://flow.itemize.com.br/login?u=e6ce8a01-031c-4bac-b976-cce76e56ac8d"
+    ]
+}
+```

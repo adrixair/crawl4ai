@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://teto2r.com/",
+    "emails": ["paulotrigof@gmail.com", "arq.teto.paulo@gmail.com"],
+    "phone_numbers": ["(19) 3702 8400", "(19) 9 8808 2306", "(19) 3702.8400", "(19) 98808.2306"],
+    "addresses": ["Rua Dário Prada, 348 | Real Parque Limeira – SP | CEP 13480-686", "Rua Dário Prada, 348 | Real Parque\nLimeira – SP | CEP 13480-686"],
+    "social_links": [
+        "https://www.instagram.com/paulotrigo_/",
+        "https://www.facebook.com/tetoarquiteturasustentavelepaisagismo/",
+        "https://arquiteturasustentavel.arq.br/"
+    ]
+}
+```

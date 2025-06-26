@@ -1,0 +1,37 @@
+```json
+{
+    "website": "https://www.zimoveis.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 5555-1000",
+        "(11) 5466-5349",
+        "(11) 93207-3204"
+    ],
+    "addresses": [
+      "R. Campevas, 341, Perdizes, São Paulo - SP",
+      "R. Simão Álvares, 464, Pinheiros, São Paulo - SP",
+      "Al. Joaquim Eugênio de Lima, 1281, Jardim Paulista, São Paulo - SP",
+      "R. Tito, 766, Vila Romana, São Paulo - SP",
+      "Av. Angélica, 1373, Higienópolis, São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/zimoveis/",
+        "https://www.facebook.com/zimoveis.com.br/",
+        "https://www.linkedin.com/company/zimmermann-im%C3%B3veis/about/",
+        "https://www.youtube.com/channel/UCheuj0pESCyVf214X1QJ1dw",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.",
+        "https://wa.me/551155551000",
+        "https://wa.me/5511999990938",
+        "https://wa.me/5511999399934",
+        "https://wa.me/5511932073204",
+        "https://wa.me/5511941934662",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.%0A%0AURL%3A+https%3A%2F%2Fwww.zimoveis.com.br%2F%0ATrafego+Pago%3A+N%C3%A3o",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.%0A%0AURL%3A+https%3A%2F%2Fwww.zimoveis.com.br%2Fbuscar-condominios%0ATrafego+Pago%3A+N%C3%A3o",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.%0A%0AURL%3A+https%3A%2F%2Fwww.zimoveis.com.br%2Favalie-seu-imovel%0ATrafego+Pago%3A+N%C3%A3o",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.%0A%0AURL%3A+https%3A%2F%2Fwww.zimoveis.com.br%2Findice%0ATrafego+Pago%3A+N%C3%A3o",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.%0A%0AURL%3A+https%3A%2F%2Fwww.zimoveis.com.br%2Findice%2Fapartamento%2Ftodos%2Ftodos%2Ftodos%2Ftodos%0ATrafego+Pago%3A+N%C3%A3o",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.%0A%0AURL%3A+https%3A%2F%2Fwww.zimoveis.com.br%2Fcadastre-seu-imovel%0ATrafego+Pago%3A+N%C3%A3o",
+        "https://wa.me/5511999990938?text=Ol%C3%A1%2C+estou+visitando+o+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis.%0A%0AURL%3A+https%3A%2F%2Fwww.zimoveis.com.br%2Fmapa%0ATrafego+Pago%3A+N%C3%A3o"
+    ]
+}
+```

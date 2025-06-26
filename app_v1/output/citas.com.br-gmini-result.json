@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://www.citas.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Praça da República nº 497 - São Paulo - SP",
+        "Av. Ipiranga nº952 - São Paulo - SP",
+        "Rua Líbero Badaró nº 613 - São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/citassp/photos/?tab=album&album_id=288664915420539&locale=pt_BR&_rdr",
+        "https://www.instagram.com/citas_sp/",
+        "https://www.youtube.com/@citas_sp",
+        "https://api.whatsapp.com/send?phone=5511952896695&text=Ola!%20Estou%20no%20site%20do%20Citas%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20",
+        "https://api.whatsapp.com/send/?phone=5511952896695&text=Ola%2C+Gostaria+de+maiores+informa%C3%A7%C3%B5es+https%3A%2F%2Fwww.citas.com.br%2F&type=phone_number&app_absent=0",
+        "https://citas-apartamentos-para-alugar-no-centro-de-sao-paulo.myshopify.com/collections/apartamentos-republica-497-citas-republica",
+        "https://shopify.com/89787498794/account?locale=pt-BR&region_country=BR",
+        "https://api.whatsapp.com/send/?phone=5511952896695&text=Ola%2C+Gostaria+de+maiores+informa%C3%A7%C3%B5es+sobre+a+Liberdade+https%3A%2F%2Fwww.citas.com.br%2F&type=phone_number&app_absent=0",
+        "https://calendly.com/visitas-palacete-citas/30min",
+        "https://calendly.com/citassp/visitas-citas-republica",
+        "https://calendly.com/citas-ipiranga/visitas",
+        "https://calendly.com/citas-libero/visitas",
+        "https://api.whatsapp.com/send/?phone=5511952896695&text=Ola%2C+Gostaria+de+maiores+informa%C3%A7%C3%B5es+https%3A%2F%2Fapp.respond.io%2Fspace%2F68313%2Fsettings%2Fgrowth_widgets%2Fcustomize%2F6122&type=phone_number&app_absent=0"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://hausarquitetura.com.br",
+    "emails": [],
+    "phone_numbers": ["551938013018", "1938013018"],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551938013018",
+        "https://www.instagram.com/",
+        "https://www.facebook.com/",
+        "https://g.page/HAUSarquitetura?share"
+    ]
+}
+```

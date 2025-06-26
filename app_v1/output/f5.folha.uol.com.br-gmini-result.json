@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://f5.folha.uol.com.br",
+    "emails": ["pesquisa@folhapress.com.br", "uolads@uol.com.br"],
+    "phone_numbers": ["+55 11 3224 3090", "0800 775 8080", "4003-1838", "0800 015 8000", "4003 6118", "0800 703 3000", "4003 5973", "0800 703 3000", "4003 9011", "0800 881 9011"],
+    "addresse": ["Av. Brigadeiro Faria Lima, 1.384, São Paulo/SP - CEP 01452-002"],
+    "social_links": [
+        "https://www.facebook.com/sitef5",
+        "https://x.com/sitef5",
+        "https://www.instagram.com/sitef5",
+        "https://www.facebook.com/uolads",
+        "https://www.youtube.com/c/UOLAds",
+        "https://www.linkedin.com/showcase/uol-ads",
+        "https://www.tiktok.com/@uolads",
+        "https://api.whatsapp.com/send?phone=551140032002",
+        "https://www.whatsapp.com/channel/0029Vams7vqKWEL0IRWy3u34"
+    ]
+}
+```

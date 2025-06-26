@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://portal.loft.com.br",
+    "emails": [],
+    "phone_numbers": ["5540202208"],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/loftbr",
+        "https://www.instagram.com/loft_br/",
+        "https://www.linkedin.com/company/loftbr/",
+        "https://www.youtube.com/c/LoftBrasil",
+        "https://api.whatsapp.com/send/?phone=5540202208&text&type=phone_number&app_absent=0"
+    ]
+}
+```

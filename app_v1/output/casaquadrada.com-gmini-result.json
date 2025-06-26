@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://casaquadrada.com",
+    "emails": ["arquitetura@casaquadrada.com"],
+    "phone_numbers": ["+55 11. 3287-1512", "+55 11. 97956-2592"],
+    "addresses": ["Avenida Paulista, 326, Cj. 31 - São Paulo"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511979562592&text=Ol%C3%A1,%20vi%20o%20site%20da%20CasaQuadrada%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es",
+        "https://www.facebook.com/casaquadrada.arquitetura/",
+        "https://www.instagram.com/casaquadrada/",
+        "https://www.linkedin.com/company/casaquadrada-arquitetura-e-interiores/",
+        "https://br.pinterest.com/casaquadrada/"
+    ]
+}
+```

@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://vaga.arq.br",
+    "emails": ["contato@vaga.arq.br", "trabalheconosco@vaga.arq.br"],
+    "phone_numbers": ["+55 (11) 3129-8297"],
+    "addresses": ["Av. Ipiranga, 318 - Bloco A, cj. 202, República - São Paulo - SP Brasil - CEP: 01046-927"],
+    "social_links": [
+        "https://www.instagram.com/vaga.arquitetura/?hl=pt-br",
+        "https://www.linkedin.com/company/vaga-arquitetura/",
+        "https://www.facebook.com/espacovaga",
+        "https://br.pinterest.com/espacovaga/",
+        "https://api.whatsapp.com/send?phone=551131298297"
+    ]
+}
+```

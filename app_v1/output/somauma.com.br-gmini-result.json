@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.somauma.com.br",
+    "emails": ["ola@somauma.com", "contato@somauma.com"],
+    "phone_numbers": [],
+    "addresses": ["Avenida São Luís, 84 - Centro - São Paulo -SP", "Avenida São Luís, 86  19º andar - Centro São Paulo - SP CEP 01045-911", "Rua Ribeiro da Silva, 700 Campos Eliseos | São Paulo", "Rua Martins Fontes, 197 Centro | São Paulo", "Largo da Misericórdia, 20 Centro Histórico de São Paulo", "Rua Pedro Américo, 32, 19° andar, São Paulo/SP"],
+    "social_links": [
+        "https://www.instagram.com/somauma.br/",
+        "https://br.linkedin.com/company/somauma",
+        "https://www.youtube.com/channel/UCJME2gSt68XvBnJamhAEBmA",
+        "http://instagram.com/somauma.br/",
+        "https://www.linkedin.com/company/somauma/",
+        "https://www.youtube.com/@somauma",
+        "https://somauma.cvcrm.com.br/cliente/"
+    ]
+}
+```

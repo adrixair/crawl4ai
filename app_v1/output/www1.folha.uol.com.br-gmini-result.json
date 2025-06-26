@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://www1.folha.uol.com.br",
+    "emails": ["pesquisa@folhapress.com.br"],
+    "phone_numbers": ["(55 11) 3224-3090", "0800 775 8080"],
+    "addresses": [],
+    "social_links": [
+        "https://twitter.com/folha",
+        "https://www.linkedin.com/company/folha-de-spaulo/",
+        "https://www.instagram.com/folhadespaulo/"
+    ]
+}
+```

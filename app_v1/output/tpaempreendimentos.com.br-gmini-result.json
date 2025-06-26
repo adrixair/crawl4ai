@@ -1,0 +1,60 @@
+```json
+{
+    "website": "https://tpaempreendimentos.com.br/",
+    "emails": [
+        "sac@tpaempreendimentos.com.br",
+        "secretaria@tpavendas.com.br"
+    ],
+    "phone_numbers": [
+        "+5511997521732",
+        "(11) 2780-0388",
+        "(11) 97329-8747",
+        "(11) 3093-6199",
+        "552130936199",
+        "(11) 3104-7682"
+    ],
+    "addresses": [
+        "Rua Ferreira de Araújo, 221 - 12º Andar - Conj. Nº 121 - Pinheiros - São Paulo - SP",
+        "Rua Aurora, 904 - República",
+        "Rua Aurora, 850 - República - São Paulo - SP",
+        "Rua Francisca Miquelina, 277 - Bela Vista - São Paulo - SP",
+        "Rua Francisca Miquelina, 237 - Bela Vista - São Paulo - SP",
+        "Alameda Lorena, 878 Jardins - São Paulo - SP",
+        "Rua Santo Amaro, 27 - São Paulo - SP",
+        "Avenida Senador Queirós, 101 - Centro - São Paulo - SP",
+        "Rua Brigadeiro Tobias, 334 - Centro - São Paulo - SP",
+        "Rua Brigadeiro Tobias, 478 - Centro - São Paulo - SP",
+        "Rua Santo Amaro, 320 - Centro - São Paulo - SP",
+        "Rua Genebra, 151 - Bela Vista - São Paulo - SP",
+        "R. Gen. Fernando V.C. Albuquerque, 80 - Granja Vianna - Cotia - SP",
+        "Rua Dr. Emilio Ribas, 336 - Nova Campinas - Campinas - SP",
+        "Rua Adib Auada, 35 - Granja Vianna - Cotia - SP",
+        "Rua Major Sertório, 321 - Vila Buarque - São Paulo - SP",
+        "Rua Joaquim Nabuco, 344 - Ponte de São João - Jundiaí - SP",
+        "Estrada São Francisco, 2701 - Jardim Henriqueta - Taboão da Serra - SP",
+        "Avenida Duque de Caxias, 159 - São Paulo - SP",
+        "Avenida Pedroso de Morais, 1647 - Pinheiros - São Paulo - SP",
+        "Rua Oscar Pinheiro Coelho, 115 - Butantã - São Paulo - SP",
+        "Rodovia Raposo Tavares, - Jardim Boa Vista (Zona Oeste) - São Paulo - SP",
+        "Rua Sagrado Coração de Jesus, 190 - Jardim Iracema - São Paulo - SP",
+        "Rodovia Raposo Tavares, 2255 - Vila Yara - Osasco - SP",
+        "Rua Ferreira de Araújo, 221 - Pinheiros - São Paulo - SP",
+        "Rua Natingui, 113 - Alto de Pinheiros - São Paulo - SP",
+        "Rua Francisco Isoldi, 320 - Sumarezinho - São Paulo - SP",
+        "Avenida da Moenda Velha, 31 - Capão Redondo - São Paulo - SP",
+        "Rua Prof. Fonseca Rodrigues, esq. rua Baiás, - Alto de Pinheiros - São Paulo - SP",
+        "Rua Morás, 656 - Alto de Pinheiros - São Paulo - SP",
+        "Rua Morás, 546 - Alto de Pinheiros - São Paulo - SP",
+        "Rua Francisco Isoldi, 315 - Sumarezinho - São Paulo - SP",
+        "Rua Dom Rosalvo, 140 - São Paulo - SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511995881792&text=Ol%C3%A1,%20%0AGostaria%20de%20mais%20informa%C3%A7%C3%B5es%20dos%20im%C3%B3veis%20TPA,%20tive%20conhecimento%20pelo%20site",
+        "https://www.instagram.com/tpaempreendimentos/",
+        "https://www.facebook.com/tpaempreendimentos/",
+        "https://www.youtube.com/channel/UC5GbR6r-3xL1mpuLNgji1qQ",
+        "https://www.linkedin.com/company/tpaempreendimentos/about/",
+        "https://api.whatsapp.com/send?phone=5511997521732"
+    ]
+}
+```

@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://revistalide.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/revistalide/",
+        "https://www.youtube.com/channel/UC1GZbETdeHQPfnCr-kMsecQ",
+        "https://www.facebook.com/sharer/sharer.php?u=https://revistalide.com.br/robb-report-brasil/noticias/viagem-e-turismo/pulso-e-o-novo-hotel-de-luxo-de-sao-paulo&src=sdkpreparse",
+        "https://twitter.com/intent/tweet?text=&url=https://revistalide.com.br/robb-report-brasil/noticias/viagem-e-turismo/pulso-e-o-novo-hotel-de-luxo-de-sao-paulo",
+        "https://www.linkedin.com/shareArticle?mini=true&url=https://revistalide.com.br/robb-report-brasil/noticias/viagem-e-turismo/pulso-e-o-novo-hotel-de-luxo-de-sao-paulo",
+        "https://wa.me/?text=+https://revistalide.com.br/robb-report-brasil/noticias/viagem-e-turismo/pulso-e-o-novo-hotel-de-luxo-de-sao-paulo"
+    ]
+}
+```

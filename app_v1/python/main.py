@@ -35,7 +35,7 @@ async def main(url):
 
         deep_crawl_strategy=BestFirstCrawlingStrategy(
             max_depth=2,
-            max_pages=15,
+            max_pages=5,
             include_external=False,
             filter_chain=filter_chain,
             url_scorer=keyword_scorer
@@ -90,7 +90,7 @@ async def main(url):
                     external_links_md = ""
                 results.append(result.markdown + external_links_md)
 
-                
+
     # Clean up browser contexts and cache after each crawl
     import shutil
     import os
@@ -110,4 +110,5 @@ async def main(url):
             print(f"✅ Crawl4AI cache folder cleared: {crawl4ai_cache_path}")
     except Exception as cleanup_error:
         print(f"⚠️ Error while clearing Crawl4AI cache: {cleanup_error}")
+        
     return "\n".join(results)

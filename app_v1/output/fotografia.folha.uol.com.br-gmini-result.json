@@ -1,0 +1,29 @@
+```json
+{
+    "website": "https://fotografia.folha.uol.com.br",
+    "emails": ["pesquisa@folhapress.com.br", "uolads@uol.com.br"],
+    "phone_numbers": ["4003 6118", "0800 703 3000", "4003 2002", "0800 771 7774", "4003 5973", "0800 703 3000", "4003 9011", "0800 881 9011", "(55 11)3224-3090", "0800-775-8080", "4003-1838"],
+    "addresse": [],
+    "social_links": [
+        "https://x.com/folha",
+        "https://www.linkedin.com/company/folha-de-spaulo/",
+        "https://www.instagram.com/folhadespaulo/",
+        "https://api.whatsapp.com/send?phone=551140039011&utm_content=parceiro",
+        "https://www.instagram.com/uolhost?utm_content=parceiro",
+        "https://www.facebook.com/uolhost?utm_content=parceiro",
+        "https://www.youtube.com/user/uolhost?utm_content=parceiro",
+        "https://www.linkedin.com/showcase/uolhost?utm_content=parceiro",
+        "https://www.whatsapp.com/channel/0029Vams7vqKWEL0IRWy3u34?utm_content=parceiro",
+        "https://www.instagram.com/batepapo.uol/",
+        "https://pt-br.facebook.com/BatePapoUOL/",
+        "https://www.tiktok.com/@batepapouol_?lang=pt-BR",
+        "https://wa.me/551140032002/?text=Oi%2C+quero+assinar+UOL+Bate+papo%21",
+        "https://www.instagram.com/uolads",
+        "https://www.facebook.com/uolads",
+        "https://www.youtube.com/c/UOLAds",
+        "https://www.linkedin.com/showcase/uol-ads",
+        "https://www.tiktok.com/@uolads",
+        "https://wa.me/551140032002/?text=Oi%2C+quero+assinar+UOL+Mail%21"
+    ]
+}
+```

@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://oneluxo.com.br",
+    "emails": ["contato@oneluxo.com.br", "contato-sp@oneluxo.com.br", "miami@oneluxo.com.br"],
+    "phone_numbers": ["+55 (51) 4001-2121", "+55 (11) 3078-8592", "+55 (51) 99318-9982", "+55 (11) 91002-5522", "+1 (407) 984-2705"],
+    "addresses": [
+        "Av. Carlos Gomes, 716 Boa Vista - RS, CEP: 90480-000",
+        "R. Joaquim Floriano, 960 - 7º Andar Itaim Bibi - SP - CEP: 04534-004",
+        "South Beach - Miami Beach FL 33139 USA"
+    ],
+    "social_links": []
+}
+```

@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://villavolpi.com.br",
+    "emails": [
+        "villavolpi@miroimoveis.com.br",
+        "mirolisoninvest@gmail.com"
+    ],
+    "phone_numbers": [
+        "+5511943931818",
+        "(11) 94393-1818"
+    ],
+    "addresses": [
+        "Av. Morumbi, 1.566"
+    ],
+    "social_links": [
+        "https://www.instagram.com/villavolpi.cj/",
+        "https://wa.me//5511943931818?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20as%20casas%20da%20Villa%20Volpi%2E",
+        "https://maps.app.goo.gl/4mSDm1VekMw4qHWXA"
+    ]
+}
+```

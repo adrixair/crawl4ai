@@ -1,0 +1,26 @@
+```json
+{
+    "website": "https://healthcare.grupomidia.com",
+    "emails": [],
+    "phone_numbers": ["+55 16 3913 – 9800", "16 3913 – 9800"],
+    "addresses": ["Av. Braz Olaia Acosta, 727, 21º andar, Edifício Office Tower. Jardim California, Ribeirão Preto/SP."],
+    "social_links": [
+        "https://www.linkedin.com/company/grupo-midia/",
+        "https://www.instagram.com/healthcare_br/",
+        "https://www.youtube.com/user/grupomidia",
+        "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhealthcare.grupomidia.com%2Fbia-gadia-projeto-blanc-hospital%2F",
+        "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhealthcare.grupomidia.com%2Fbia-gadia-projeto-blanc-hospital%2F&title=Bia+Gadia+Arquitetura+e+Design+aplica+neuroci%C3%AAncia+em+projeto+de+luxo+para+o+Blanc+Hospital",
+        "whatsapp://send?text=Bia+Gadia+Arquitetura+e+Design+aplica+neuroci%C3%AAncia+em+projeto+de+luxo+para+o+Blanc+Hospital%0Ahttps%3A%2F%2Fhealthcare.grupomidia.com%2Fbia-gadia-projeto-blanc-hospital%2F",
+        "https://www.linkedin.com/showcase/healthcare-management-/?originalSubdomain=br",
+        "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-healtharq-digital%2F",
+        "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-healtharq-digital%2F&title=Revista+HealthARQ+%7C+Digital",
+        "whatsapp://send?text=Revista+HealthARQ+%7C+Digital%0Ahttps%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-healtharq-digital%2F",
+        "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-health-it-digital%2F",
+        "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-health-it-digital%2F&title=Revista+Health-IT+%7C+Digital",
+        "whatsapp://send?text=Revista+Health-IT+%7C+Digital%0Ahttps%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-health-it-digital%2F",
+        "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-healthcare-management-digital%2F",
+        "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-healthcare-management-digital%2F&title=Revista+Healthcare+Management+%7C+Digital",
+        "whatsapp://send?text=Revista+Healthcare+Management+%7C+Digital%0Ahttps%3A%2F%2Fhealthcare.grupomidia.com%2Frevista-healthcare-management-digital%2F"
+    ]
+}
+```

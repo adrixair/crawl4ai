@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://escoladacidade.edu.br",
+    "emails": [
+        "posgraduacao@escoladacidade.edu.br",
+        "processoseletivo@escoladacidade.edu.br",
+        "vera.moreira@escoladacidade.edu.br",
+        "pagamentos@escoladacidade.edu.br",
+        "secretaria@fabricaescola.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 3258-8108",
+        "11 99453-3788",
+        "11 99449-8225",
+        "(11) 93251-7248"
+    ],
+    "addresses": [
+        "Rua General Jardim, 65 Vila Buarque [metrô República] CEP: 01223-011 – São Paulo SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/escoladacidade/",
+        "https://www.youtube.com/channel/UC1T3exm9jEHNi_S2l9wYjEQ",
+        "https://www.instagram.com/escoladacidade/",
+        "https://comunicaescoladacidade.com/whatsapp"
+    ]
+}
+```

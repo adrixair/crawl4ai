@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.chavesnamao.com.br",
+    "emails": ["cancelamento@chavesnamao.com.br"],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "http://www.facebook.com/ChavesNaMao",
+        "https://www.youtube.com/ChavesNaMao",
+        "https://www.tiktok.com/@portalchavesnamao",
+        "https://instagram.com/chavesnamao/",
+        "https://www.linkedin.com/company/chavesnamao/",
+        "https://br.pinterest.com/chavesnamao/",
+        "https://play.google.com/store/apps/details?id=br.com.chavesnamao.www&utm_source=portal",
+        "https://apps.apple.com/br/app/chaves-na-m%C3%A3o/id6443436581?platform=iphone&pt=footer-cnm&ct=portal"
+    ]
+}
+```

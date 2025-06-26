@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://paddan.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 4979-5283"
+    ],
+    "addresses": [
+        "Santo André Av. Dom Pedro II, 620 - Sala 131 - Bairro Jardim - 09080-000",
+        "Av. Pereira Barreto, 1981, em Santo André",
+        "Rua das Bandeiras, 361 - Bairro Jardim - Santo André - SP",
+        "Avenida Senador Vergueiro, em São Bernardo do Campo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/pages/Paddan-Incorporadora-e-Construtora/313951162134919?fref=ts",
+        "https://www.instagram.com/paddan.incorporadora/",
+        "https://www.youtube.com/@paddanincorporadora"
+    ]
+}
+```

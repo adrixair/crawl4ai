@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://grupobaeta.com.br",
+    "emails": ["comercial@grupobaeta.com.br"],
+    "phone_numbers": ["(11) 3815-3366"],
+    "addresses": ["Av. Brig. Faria Lima, 1912 – 4º Andar, Jardim Paulistano, São Paulo – SP"],
+    "social_links": [
+        "https://www.instagram.com/grupobaeta/",
+        "https://www.linkedin.com/company/grupobaeta/",
+        "https://api.whatsapp.com/send/?phone=5511997120410"
+    ]
+}
+```

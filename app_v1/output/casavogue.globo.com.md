@@ -211,189 +211,204 @@ Localizada no Campo Belo, Zona Sul de São Paulo, a casa onde viveu o arquiteto 
 +
 25 Jan 2022 - 06h01 Atualizado em 25 Jan 2022 - 06h01
 Conteúdo Publicitário
-Manchas, rugas e pele opaca? Uma aplicação disso à noite está virando febre.A arte do herbalismo | 
-PatrocinadoPatrocinado
-Desfazer
-Médicos alertam: se você tem varizes, faça isso todos os diasAcabe com as Varizes!  | 
-PatrocinadoPatrocinado
-Desfazer
-Nunca use o saca-rolhas para abrir um vinho. O motivo vai te surpreenderBlog Amo Vinhos | 
-PatrocinadoPatrocinado
-Desfazer
-Os melhores produtos pelos melhores preços estão aqui!Shopper.com.br  | 
+6 dias no Reino da MagiaCom 6 dias, cada parque vira um novo capítulo na sua viagem. A partir de R$2.953,18Azul Linhas Aéreas  | 
 PatrocinadoPatrocinado
 Compre já
 Desfazer
-by Taboolaby Taboola
-Would you like to know more?- | 
-PatrocinadoPatrocinado
-Desfazer
-São Paulo, tênis de marca famosa estão sendo vendidos a preço de fábrica.Queima de estoque: Tênis a preço de fábrica | 
-PatrocinadoPatrocinado
-Desfazer
-Fogo de Chão: a experiência máxima do churrascoFogo de Chão | 
-PatrocinadoPatrocinado
-Clique aqui
-Desfazer
-Doutor: Manter a massa muscular após os 50 anos depende deste hábito noturnoRevista do Homem | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-by Taboolaby Taboola
-You might be interested in the content above- | 
-PatrocinadoPatrocinado
-Desfazer
-Garanta o seu sorvete Artisano preferido aqui na Shopper!Shopper.com.br  | 
+Abra seu passaporte mágicoAproveite 6 dias de emoção nos Parques Disney. Comprando 4 ingressos, você ganha mais 2.Azul Linhas Aéreas  | 
 PatrocinadoPatrocinado
 Compre já
 Desfazer
-Doutor: Reverter encolhimento muscular após os 50 depende deste hábito noturnoRevista do Homem | 
+Garanta máxima proteção para seus equipamentos de segurançaProteja seu sistema de segurança garantindo uma operação ininterrupta. Auxiliamos desde sistemas de portões até servidores. A TS Shara é sua melhor escolha para a proteção dos seus equipamentosTs Shara | 
 PatrocinadoPatrocinado
 Saiba Mais
 Desfazer
-Nunca use o saca-rolhas para abrir um vinho acima de R$100. O motivo vai te surpreenderBlog Amo Vinhos | 
+Picape rival de Hilux e Ranger fica mais bruta e com visual ousadoWebmotors | 
+PatrocinadoPatrocinado
+Leia mais
+Desfazer
+by Taboolaby Taboola
+You might be interested- | 
 PatrocinadoPatrocinado
 Desfazer
-Sabonete que ajuda a escurecer os fios sem química viraliza entre homens e mulheres maduros.Cabelo e Barba grisalhos | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-Alarme c/ Câmera Mais moderna do Mercado por até 40% Off Alarme Verisure | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-Queima de estoque: marca de tênis famosa com preço de fábrica e frete grátis para todo BrasilQueima de estoque: Tênis a preço de fábrica | 
-PatrocinadoPatrocinado
-Desfazer
-Chegou o Alarme que afasta rapidamente os Ladrões Alarme Verisure | 
-PatrocinadoPatrocinado
-Ver oferta
-Desfazer
-Muita gordura na barriga? Faça isso antes de dormirNotícias | Emagrecimento | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-Segredo chocante para aliviar varizes de forma rápida Acabe com as Varizes!  | 
-PatrocinadoPatrocinado
-Desfazer
-Especialista em intestino: “Imploro a todos brasileiros que lavem o intestino com isso”Revista Saúde | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-Doutora: “Um hábito simples antes de dormir me fez eliminar 1kg a cada 7 dias!”Notícias | Emagrecimento | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-Fim da neuropatia? Prove isso agora para aliviar os sintomas.A arte do herbalismo | 
-PatrocinadoPatrocinado
-Desfazer
-After Losing Weight Kevin James Looks Like A Model33 Bridges | 
-PatrocinadoPatrocinado
-Desfazer
-Dispositivo contra ronco e apneia chega ao Brasil e vira febre de vendasContra Ronco e Apneia | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-Chevrolet SUV LTZ: recursos inovadoresKnowledge Knower | 
-PatrocinadoPatrocinado
-Desfazer
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo | 
-PatrocinadoPatrocinado
-Desfazer
-Quem • São JoãoTudo sobre Festas Juninas, São João e Arraiás com comidas típicas e shows: os melhores eventos de São João 2025 pelo Brasil! Veja fotos e leia conteúdos exclusivo! | 
-PatrocinadoPatrocinado
-Desfazer
-Hyundai HB20 é o hatch compacto de melhor custo no Brasil em 2025Hyundai HB20 venceu a categoria de hatch compacto do Qual Comprar 2025Auto Esporte | 
-PatrocinadoPatrocinado
-Desfazer
-Desfrute do melhor na Fogo de ChãoFogo de Chão | 
-PatrocinadoPatrocinado
-Clique aqui
-Desfazer
-O Brasil está pirando com o novo Chevrolet Onix!Carros | Links Patrocinados | 
-PatrocinadoPatrocinado
-Saiba Mais
-Desfazer
-Veja as casas contêiner que estão em alta (Informações)Casas de contêineres | Links Patrocinados | 
+Cardiologist Reveals: The Simple Morning Habit for a Flatter Belly After 50!Lulutox | 
 PatrocinadoPatrocinado
 Desfazer
 They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
 PatrocinadoPatrocinado
 Desfazer
-A casa de 500 m² do ator e músico Dudu Azevedo, no Rio de JaneiroCasa Vogue
+SUV sensação do ano passado tem desconto de R$ 7 milWebmotors | 
+PatrocinadoPatrocinado
+Leia mais
 Desfazer
-Quantos assentos você deve ter em casa, segundo o Feng Shui?Casa Vogue
+by Taboolaby Taboola
+You might be interested in the content above- | 
+PatrocinadoPatrocinado
 Desfazer
-O novo Chevrolet Onix é impressionante, especialmente por esses preços!Carros | Links Patrocinados | 
+Descubra como garantir proteção energética em Hospitais.Descubra como nobreaks TS Shara asseguram a continuidade dos cuidados médicos, mesmo durante interrupções energéticas. Clique aqui e leia maisTs Shara | 
 PatrocinadoPatrocinado
 Saiba Mais
 Desfazer
-Dermatologista se você tem fungo nas unhas, faça isso imediatamenteAcabe com o Fungo | 
+Doutor: Manter a massa muscular após os 50 anos depende deste hábito noturnoDr. das celebridades revela rotina noturna que faz se sentir mais forte aos 60 anos do que aos 30, descobertas inovadoras expostas em vídeo revelador que viralizouRevista do Homem | 
 PatrocinadoPatrocinado
+Saiba Mais
 Desfazer
-Médico: Eu imploro que os Brasileiros usem isso para emagrecerPalmilha Emagrecedora | 
+O Brasil está pirando com o novo Chevrolet Onix!Carros | Links Patrocinados | 
+PatrocinadoPatrocinado
+Saiba Mais
+Desfazer
+Marmitas Pronto Light com até 20% OFF aqui na Shopper!Experimente e economize!Shopper.com.br  | 
 PatrocinadoPatrocinado
 Compre já
 Desfazer
-She Was Everyone's Dream Girl In 90's, This Is Her Recently.Investructor | 
+Os melhores produtos pelos melhores preços estão aqui!Experimente e economize!Shopper.com.br  | 
+PatrocinadoPatrocinado
+Compre já
+Desfazer
+Como a FutFanatics se tornou a maior loja esportiva do Brasil! Tray | 
+PatrocinadoPatrocinado
+Clique aqui
+Desfazer
+6 hidratantes para pele envelhecida que podem surpreender vocêDescubra 6 hidratantes que podem transformar a aparência da sua pele envelhecida de maneiras inesperadas e revigorantes! Prepare-se para ser positivamente surpreendido.Anti-envelhecimento | Links Patrocinados | 
+PatrocinadoPatrocinado
+Busque agora
+Desfazer
+Chevrolet SUV LTZ: recursos inovadoresKnowledge Knower | 
 PatrocinadoPatrocinado
 Desfazer
-Aos 20 anos, filho de Giovanna Antonelli e Murilo Benício estrela ensaio como modeloMarie Claire | 
+A franquia que abriu caminho para The Last of Us e The Walking Dead está de volta aos cinemasRetorno da franquia pós-apocalíptica de Danny Boyle e Alex Garland. Saiba mais sobre a nova sequência e seu impacto no gênero.AC | 
+PatrocinadoPatrocinado
+Clique aqui
 Desfazer
-Enzo Celulari sobre estilo de vida sustentável: "Deixei de consumir diversas marcas de moda e beleza"Um Só Planeta | 
+Manchas marrons: um creme que muitos desconhecem - descubra agora!Manchas marrons incomodando? Conheça um creme pouco conhecido que pode ajudar a melhorar sua pele! Confira agora!Remoção de manchas escuras | Links Patrocinados | 
+PatrocinadoPatrocinado
+Busque agora
 Desfazer
-Shampoo que ajuda a rejuvenescer o cabelo, chegou ao BrasilCabelo e Barba grisalhos | 
+Promoções imperdíveis de voos baratosVoos | Anúncios de Pesquisa | 
 PatrocinadoPatrocinado
 Saiba Mais
 Desfazer
-Casas de propriedade bancária à venda em São Paulo (ver preços)LocalPlan | 
+Neuropatia incomodando à noite? Veja o que muitos idosos estão usando para aliviar os sintomas.aartedoherbalismo | 
+PatrocinadoPatrocinado
+Desfazer
+A única estratégia que mudou tudo para a Mister Muscle! Tray | 
+PatrocinadoPatrocinado
+Clique aqui
+Desfazer
+Detalhes do SUV compacto Chevrolet Tracker 2025Visionary Echo | 
+PatrocinadoPatrocinado
+Busque agora
+Desfazer
+After Losing Weight Kevin James Looks Like A Model33 Bridges | 
+PatrocinadoPatrocinado
+Desfazer
+Doutor: Reverter encolhimento muscular após os 50 depende deste hábito noturnoDr. das celebridades revela rotina noturna que faz se sentir mais forte aos 50 anos do que aos 30, descobertas inovadoras expostas em vídeo revelador que viralizouRevista do Homem | 
 PatrocinadoPatrocinado
 Saiba Mais
+Desfazer
+Depurador de ar Electrolux e Suggar: 5 itens para cuidar da cozinha  
+Lista traz versões compactas, retráteis e potentes, que ajudam a manter a casa livre de gordura eQual Comprar | 
+PatrocinadoPatrocinado
+Desfazer
+Teste: BYD Song Plus 2026 vale a compra mesmo com rivais mais baratos?  
+SUV híbrido plug-in está de cara nova, ficou R$ 5 mil mais caro eAuto Esporte | 
+PatrocinadoPatrocinado
 Desfazer
 O Brasil está adorando o novo Chevrolet Tracker 2025! (Confira os preços)Smartfinancetips | 
 PatrocinadoPatrocinado
 Saiba Mais
 Desfazer
-Qual deles é você? É isso que diz sobre a sua personalidade!Conselhos E Truques | 
+Saiba mais sobre o seguro de carro para maiores de 65 anos no Brasilsouthermore | 
 PatrocinadoPatrocinado
+Busque agora
 Desfazer
-Casa alemã de 38 m² à beira do lago surpreende com interior minimalistaCasa Vogue
-Desfazer
-Dia de São João: a história e as tradições da dataCasa Vogue
-Desfazer
-Tênis com tecnologia premium e preço de liquidação relâmpago!Queima estoque: Tênis exclusivo a preco de custo | 
+Saiba mais sobre o seguro de carro para maiores de 60 anos no Brasil em 2025FindingFrenzy | 
 PatrocinadoPatrocinado
+Busque agora
 Desfazer
-Luuna: o descanso que você merece!Luuna | 
+Tendências de cozinhas modulares em 2025FindingFrenzy | 
 PatrocinadoPatrocinado
-Clique aqui
+Saiba Mais
 Desfazer
-1 sip (before bedtime) cleanses the liver and reduces belly fatLulutox | 
+Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no larCasa Vogue
+Desfazer
+Quantos assentos você deve ter em casa, segundo o Feng Shui?Casa Vogue
+Desfazer
+Stop Wasting Time! Get VayuTab NOW!Instant news, weather, search & more on EVERY new tab! Don't miss out. Install VayuTab & simplify your browsing TODAY!Vayutab | 
 PatrocinadoPatrocinado
+Install Now
 Desfazer
-Tenha mais conforto em 2025Luuna | 
+O novo Chevrolet Tracker é simplesmente perfeito com esses preços!Novo Chevrolet Tracker no Brasil! (2025)Smartfinancetips | 
 PatrocinadoPatrocinado
-Compre tempo
+Saiba Mais
 Desfazer
-6 cidades que podem ser engolidas pelo oceano nas próximas décadasUm Só Planeta | 
-Desfazer
-Isabella Santoni admite insegurança com olheiras e usa truque com blush para camuflá-lasMarie Claire | 
-Desfazer
-Melhores Pianos AcústicosTeclacenter | 
+Phooto revela o segredo: Eternize suas melhores memórias!Descubra a inovação que dá vida às suas histórias! E mantenha suas lembranças intactas com um Fotolivro Capa Dura GlowPhooto Brasil - Revelação de Fotos, Fotolivros, Presentes e Muito Mais | 
 PatrocinadoPatrocinado
-Compre já
+Leia mais
+Desfazer
+Sugestões de hidratantes e cremes anti-idade com bom custo-benefício em 2025LocalPlan | 
+PatrocinadoPatrocinado
+Saiba Mais
+Desfazer
+Aos 20 anos, filho de Giovanna Antonelli e Murilo Benício estrela ensaio como modeloMarie Claire | 
+Desfazer
+Enzo Celulari sobre estilo de vida sustentável: "Deixei de consumir diversas marcas de moda e beleza"Um Só Planeta | 
 Desfazer
 Todos riram dele quando ele se casou com ela, olhe para ela agoraDirect Sharing | 
 PatrocinadoPatrocinado
 Desfazer
-Liquidação: tênis da marca mais vendida do ano, com preço de fábricaQueima estoque: Tênis exclusivo a preco de custo | 
+Chevrolet 2025 no Brasil – confira ofertas e planos de financiamento Chevrolet SempreLocalPlan | 
+PatrocinadoPatrocinado
+Busque agora
+Desfazer
+Veja as quarenta mulheres mais lindas do BrasilGloriousa | 
 PatrocinadoPatrocinado
 Desfazer
-Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delasAs fases da lua foram cruciais ao longo da história humana, e as razões são infinitasCasa Vogue
+Promoção pneus Goodyear 2025 no Brasil: Preços e ofertas das marcas mais popularesDescubra as promoções imperdíveis de pneus Goodyear 2025 no Brasil e confira preços especiais das marcas mais populares!southermore | 
+PatrocinadoPatrocinado
+Busque agora
 Desfazer
-'Ser catadora salvou a minha vida': quem são as mulheres que fazem sucesso nas redes sociais e lutam por direitos da profissãoUm Só Planeta | 
+Casa alemã de 38 m² à beira do lago surpreende com interior minimalistaCasa Vogue
 Desfazer
-Elon Musk oferece U$ 100 milhões em concurso para quem conseguir extrair CO2 da atmosferaUm Só Planeta | 
+A casa de 500 m² do ator e músico Dudu Azevedo, no Rio de JaneiroCasa Vogue
+Desfazer
+Monitor de glicose sem agulhas: (veja os preços)Monitor de glicose no sangue | Links Patrocinados | 
+PatrocinadoPatrocinado
+Busque agora
+Desfazer
+Casas container de 50m² em 2025 – descubra as vantagens e o design modernoVisionary Echo | 
+PatrocinadoPatrocinado
+Busque agora
+Desfazer
+O novo Chevrolet Onix é impressionante, especialmente por esses preços!Carros | Links Patrocinados | 
+PatrocinadoPatrocinado
+Saiba Mais
+Desfazer
+Melhores Pianos AcústicosTeclaCenter: a loja do pianista e tecladista. Descubra mais.Teclacenter | 
+PatrocinadoPatrocinado
+Compre já
+Desfazer
+6 cidades que podem ser engolidas pelo oceano nas próximas décadasUm Só Planeta | 
+Desfazer
+Em Cannes, Jennifer Lawrence faz primeira aparição após a chegada de seu segundo filhoMarie Claire | 
+Desfazer
+Quanto tenho que pagar por um cuidador 24 horas? Veja os preçosCuidado em casa | Links Patrocinados | 
+PatrocinadoPatrocinado
+Busque agora
+Desfazer
+Fogo de Chão: a experiência máxima do churrascoFaça sua reserva pelo site e viva essa experiênciaFogo de Chão | 
+PatrocinadoPatrocinado
+Clique aqui
+Desfazer
+Tenha mais conforto em 2025Alta tecnologia para proporcionar o descanso de qualidade que você merece.Luuna | 
+PatrocinadoPatrocinado
+Compre tempo
+Desfazer
+Veneza está afundando? Aqui está o que você precisa saberVeneza está afundando? O turismo excessivo e as mudanças climáticas ameaçam seriamente esta proeza arquitetônicaCasa Vogue
+Desfazer
+Jacaré de quase dois metros surpreende hóspedes e policiais ao “passear” por motel nos EUA; assistaUm Só Planeta | 
+Desfazer
+Kylie Jenner mostra como faz ondas em seu cabeloMarie Claire | 
 Desfazer
 #### Assine a nossa newsletter!
 Fique por dentro das últimas notícias.
@@ -420,19 +435,22 @@ Copyright © 2022
 ######  Globo.com
 ######  Globo Lifestyle
 Continue lendo
+Por dentro de mansão de R$ 325 milhões em deserto na CalifórniaCasa conta com três piscinas, sete quartos e 12 banheirosCasa Vogue
+Desfazer
 Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
 Desfazer
-Casa alemã de 38 m² à beira do lago surpreende com interior minimalistaO escritório Keßler Plescher Architekten transformou completamente a planta do destino de férias, mas manteve um detalhe charmoso: o telhado de palha originalCasa Vogue
-Desfazer
-Manchas, rugas e pele opaca? Uma aplicação disso à noite está virando febre.A arte do herbalismo | 
+6 dias no Reino da MagiaCom 6 dias, cada parque vira um novo capítulo na sua viagem. A partir de R$2.953,18Azul Linhas Aéreas  | 
 Links patrocinadosLinks patrocinados
+Compre já
 Desfazer
-A casa de 500 m² do ator e músico Dudu Azevedo, no Rio de JaneiroInspirados no modernismo brasileiro, Zanini de Zanine e Pedro Coimbra criaram a morada abraçada pela Mata AtlânticaCasa Vogue
+Desabafo de turista ao citar gastos na Disney viraliza nas redesPai conta que gastou mais de R$ 5 mil em café da manhã com princesasCasa Vogue
 Desfazer
-Médicos alertam: se você tem varizes, faça isso todos os diasAcabe com as Varizes!  | 
+Abra seu passaporte mágicoAproveite 6 dias de emoção nos Parques Disney. Comprando 4 ingressos, você ganha mais 2.Azul Linhas Aéreas  | 
 Links patrocinadosLinks patrocinados
+Compre já
 Desfazer
-Leonardo usa joia de mais de R$ 30 mil que ganhou de Virginia e Zé Felipe; vejaJoia é uma homenagem aos três netos mais novos do sertanejo: Maria Alice, Maria Flor e José Leonardo | 
+Além da JBL Go: 6 caixas de som portáteis que cabem em qualquer bolso  
+Lista conta com opções da LG, Aiwa, Amazon e da própria JBL, com preços que variam desde R$ Qual Comprar | 
 Links patrocinadosLinks patrocinados
 Desfazer
 Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
@@ -448,83 +466,94 @@ Prosseguir
 - https://www.facebook.com/sharer.php?u=https://casavogue.globo.com/Arquitetura/Cidade/noticia/2022/01/13-lugares-que-os-amantes-de-arquitetura-precisam-visitar-em-sao-paulo.html&utm_source=facebook&utm_medium=social&utm_campaign=compartilharMobile
 - https://twitter.com/intent/tweet?url=https://casavogue.globo.com/Arquitetura/Cidade/noticia/2022/01/13-lugares-que-os-amantes-de-arquitetura-precisam-visitar-em-sao-paulo.html&utm_source=twitter&utm_medium=social&utm_campaign=compartilharMobile
 - https://www.linkedin.com/shareArticle?mini=true&url=https://casavogue.globo.com/Arquitetura/Cidade/noticia/2022/01/13-lugares-que-os-amantes-de-arquitetura-precisam-visitar-em-sao-paulo.html&title=&summary=&source=Casa Vogue&utm_source=linkedin&utm_medium=social&utm_campaign=compartilharMobile
-- https://grupopuralife.com.br/sf
+- https://www.voeazul.com.br/br/pt/home/hotel
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 1:
-- https://novidade-agora.com/adv01-varizes
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 2:
-- https://vinovation.com.br/sp/advertorial
-- https://landing.shopper.com.br
+- https://tsshara.com.br/seja-um-parceiro
+- https://www.webmotors.com.br/wm1/noticias/chevrolet-10-100-anos-serie-especial
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 3:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=google-adx-card-delta:Below Article Thumbnails | Card 4:
-- https://portalg7-noticias.kainuxnews.com
+- https://dailylifeinsider.com/lulutox-en-s
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 6:
-- https://fogodechao.com.br/reservas
-- https://info.doutornature.com/sfunnel/10526
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://www.webmotors.com.br/wm1/dinheiro-e-economia/suv-que-agitou-o-mercado-em-2024-fica-r-7-mil-mais-barato
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 7:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=google-adx-card-delta:Below Article Thumbnails | Card 8:
+- https://tsshara.com.br/blog/nobreaks/nobreak-hospitalar-como-mitigar-problemas-na-rede-eletrica-de-um-hospital
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 9:
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 10:
-- https://casainfoco.com/ruby-men-care-desconto
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 11:
-- https://www.verisure.com.br/lp/calculadora-pred/index.php
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 12:
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 13:
-- https://fu.blivo.com.br/bb/tab/adv04-03
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 14:
-- https://info.blivo.com.br/sfunnel/3659
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 15:
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 16:
-- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 17:
-- https://portalg9.com.br/anti-ronco-reportagem
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 18:
-- https://knowledgeknower.com/article/SIN-1257
-- https://derma-fung.com/ts1
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 19:
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-2x1:Below Article Thumbnails | Card 20:
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 21:
+- https://info.doutornature.com/sfunnel/10526
 - https://track.consistent-track.com/5a940d93-7277-4786-96a2-a39b8822a6b5
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 10:
+- https://landing.shopper.com.br
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 11:
+- https://tray.com.br/artigo-futfanatics
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 12:
+- https://6h05lw.srsnxkkwcxkpkbj.com
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 13:
+- https://knowledgeknower.com/article/SIN-1257
+- https://www.adorocinema.com/noticias/filmes/noticia-1000147936
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 14:
+- https://0dlnsh.srsnxkkwcxkpkbj.com
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 15:
+- https://qsearch.io/index.php
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 16:
+- https://grupopuralife.com.br/sf
+- https://tray.com.br/artigo-mister-muscle
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 17:
+- https://9st932.srsnxkkwcxkpkbj.com
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 18:
+- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 19:
+- https://www.techtudo.com.br/listas/2025/06/depurador-de-ar-electrolux-e-suggar-itens-para-cuidar-da-cozinha-edqualcomprarlb.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUoo5-yrlo2gkYG3ATCu_0k#tblciGiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUoo5-yrlo2gkYG3ATCu_0k
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-2x1:Below Article Thumbnails | Card 20:
+- https://track.consistent-track.com/c3d08022-42be-49ff-a75c-368618257499
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 21:
+- https://southermore.com/article/SIN-1459
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 22:
-- https://knowledgeknower.com/article/SIN-1307
-- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://findingfrenzy.com/finance/advantages-of-car-insurance-for-seniors-pt-br
+- https://findingfrenzy.com/home-garden/cost-benefit-of-modular-kitchens-pt-br
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 23:
+- https://chromewebstore.google.com/detail/vayutab/bceailbjokmnndobejkookaohgbpfece
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 25:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 26:
-- https://nativegoldpro.com/r3d.php
-- https://investructor.com/trending/50-favorite-stars-whose-talent-timeless-looks-richard-dean-anderson-a1
+- https://www.phooto.com.br/fotolivro-glow
+- https://localplan.co/article/SIN-8753
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 27:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=exchange-thumbs-feed-2x1-new:Below Article Thumbnails | Card 28:
+- https://directsharing.com/trending/da-agua-para-o-vinho-uma-jornada-de-amor-transformacao-e-muitas-reviravoltas-2-tb-fat
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 29:
-- https://localplan.co/article/SIN-5697
+- https://localplan.co/article/SIN-11373
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 30:
-- https://track.consistent-track.com/c3d08022-42be-49ff-a75c-368618257499
-- https://www.conselhosetruques.com/varios/dedos-personalidade
+- https://www.gloriousa.com/worldwide/brazil-ta-pr
+- https://southermore.com/article/SIN-9646
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 31:
-- https://noticia-atualg9.kainuxnews.com
+- https://wq37t7.hgrnfkdkdmrtndwg.com
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 33:
-- https://www.luuna.com.br
+- https://jwsxk5.srsnxkkwcxkpkbj.com
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 34:
-- https://dailylifeinsider.com/lulutox-en-c
+- https://www.teclacenter.com.br
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 35:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=exchange-thumbs-feed-2x1-new:Below Article Thumbnails | Card 36:
-- https://www.teclacenter.com.br
+- https://x10l2g.srsnxkkwcxkpkbj.com
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01:Below Article Thumbnails | Card 37:
-- https://directsharing.com/trending/da-agua-para-o-vinho-uma-jornada-de-amor-transformacao-e-muitas-reviravoltas-2-tb-fat
+- https://fogodechao.com.br/reservas
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-a:Below Article Thumbnails | Card 38:
+- https://www.luuna.com.br
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=exchange-thumbs-feed-2x1-new:Below Article Thumbnails | Card 40:
 - https://www.assineglobo.com.br/hotsite/casavogue-yearbook23/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_yb23&versao_par=banner-materia&utm_source=sitecasavogue&utm_medium=banner-materia&utm_campaign=eg_cv_banner_materia_yb23
 - https://s3.glbimg.com/v1/AUTH_91e21bc490b44c808f2d722ecf06a8e6/casa-vogue/M%C3%ADdia%20Kit%20Casa%20Vogue.pdf
 - https://www.assineglobo.com.br/sac
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
+- https://www.techtudo.com.br/listas/2025/06/alem-da-jbl-go-caixas-de-som-portateis-que-cabem-em-qualquer-bolso-edqualcomprar.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUookJDfn-C-1JxVMK7_SQ#tblciGiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUookJDfn-C-1JxVMK7_SQ
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
-Atendimento On-line
+Atendimento Off-line
 Nome
 CPF/CNPJ
 Chat por
 O Globo e Valor Econômico
 Início da conversa  
-24 de junho de 2025
+25 de junho de 2025
   *   * 
 
 Chat por
@@ -755,14 +784,15 @@ CONTINUA DEPOIS DA PUBLICIDADE
 ## Tour pela casa de Luedji Luna em São Paulo
 por Taboolapor Taboola
 Conteúdo Publicitário
-Manchas, rugas e pele opaca? Uma aplicação disso à noite está virando febre.A arte do herbalismo
+Garanta o seu sorvete Artisano preferido aqui na Shopper!Shopper.com.br 
+Compre já
 Desfazer
-Alivio da neuropatia? Tente isso agora é genial!A arte do herbalismo
+Marmitas Pronto Light com até 20% OFF aqui na Shopper!Shopper.com.br 
+Compre já
 Desfazer
-Médicos alertam: se você tem varizes, faça isso todos os diasAcabe com as Varizes! 
+Salma Hayek, 58,Shows Her Huge Size In New PhotosReportingly
 Desfazer
-Desfrute do melhor na Fogo de ChãoFogo de Chão
-Clique aqui
+15 Most Beautiful Women EverPaperela
 Desfazer
 ####  Decoração 
 ##  Salas envidraçadas: 8 projetos cheios de luz natural 
@@ -927,9 +957,9 @@ AceitoNão, obrigado
 - https://edicoesglobocondenast.lojavirtualnuvem.com.br/
 - https://www.youtube.com/c/CasaVogue/featured
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:
-- https://grupopuralife.com.br/sf
-- https://novidade-agora.com/adv01-varizes
-- https://fogodechao.com.br/reservas
+- https://landing.shopper.com.br
+- https://reportingly.com/trending/your-favorite-80s-stars-that-are-still-going-strong-find-out-where-they-are-nancy-110shasif-tb
+- https://paperela.com/trending/these-stunning-women-have-stopped-aging-whats-their-secret-rana
 - https://www.instagram.com/casavoguebrasil/
 - https://twitter.com/casavoguebrasil
 - https://www.facebook.com/casavoguebrasil
@@ -951,6 +981,9 @@ Série A
 Série B
 Europa
 buscar
+  * MAIS BUSCADOS:
+
+
 é o seu time do coração?
 Sim Não
 Obrigado pela participação.   
@@ -977,51 +1010,54 @@ Enviar comentário
 Queremos saber a sua opinião
 O Mundial chegou ao Cartola! Assine agora e garanta R$10 de desconto.
 **Assine**
-  * ESTÊVÃO ADMITE QUESTÕES PARA MANTER FOCO: "VOCÊ SE IMAGINA NA EUROPA"
-  * Palmeiras faz seu pior jogo e liga alerta; análise
-  * Murilo é substituído por lesão na coxa e preocupa
-  * Abel diz qual foi principal falha do Palmeiras e assume culpa
+  * LAF
+11
+FLA
+INVENCIBILIDADE MANTIDA
+Flamengo leva gol do Los Angeles FC aos 38 do segundo tempo, mas empata dois minutos depois e termina fase de Grupos com sete pontos
 
 
-  * Imprensa internacional elogia Botafogo e exalta ida às oitavas
-  * Jornalista espanhol: "Botafogo não ficaria entre os dez da LaLiga"
-  * Análise: Botafogo supera o grupo da morte e avança com talento
+  * ESP
+03
+CHE
+CLASSIFICAÇÃO TRANQUILA
+Chelsea enche o time de reservas, mas mesmo assim derrota o Espérance com facilidade e vai pegar o Benfica nas oitavas de final da Copa
 
 
-  * 6 min
-  * Inter x Palmeiras tem golaço de Suárez e reação alviverde; veja
+  * 57 seg
+  * Wallace Yan de novo! Joia do Fla salva o time da derrota
 
 
 Copa do Mundo de Clubes da FIFA™ 2025
-Grupo A P V SG  
+Grupo D P V SG  
 1
-PAL
+FLA
 0
-5 1 2  
+7 2 4  
 2
-IMI
+CHE
 0
-5 1 1  
+6 2 2  
 3
-POR
+ESP
 0
-2 0 -1  
+3 1 -3  
 4
-AHL
+LAF
 0
-2 0 -2  
+1 0 -3  
   * Copa do Mundo de Clubes da FIFA™
-**Hoje****16:00**
-BENBAY
-_Fique por dentro_
+**Ontem****16:00**
+BEN1BAY0
+_Saiba como foi_
   * Copa do Mundo de Clubes da FIFA™
-**Hoje****22:00**
-LAFFLA
-_Fique por dentro_
+**Ontem****22:00**
+LAF1FLA1
+_Ao vivo_
   * Copa do Mundo de Clubes da FIFA™
-**Hoje****22:00**
-ESPCHE
-_Fique por dentro_
+**Ontem****22:00**
+ESP0CHE3
+_Ao vivo_
 
 
 Mais Jogos
@@ -1036,12 +1072,12 @@ O que é e como funciona o Reserva de Luxo no Cartola? Entenda
 
 Tudo sobre Seja PRO! Assina que vale!
 ## Blogs
+  * mundo do futsal
+Futsal é confirmado nos Jogos Olímpicos da Juventude de 2026
+  * dona do campinho
+Seleção feminina fará amistoso no Brasil na data Fifa depois da Copa América em outubro
   * blog do mansur
 Botafogo avança e mostra por que o novo formato da Copa do Mundo é tão desafiador para brasileiros
-  * blog do mario alberto
-"Nas oitavas": veja charge sobre a classificação do Botafogo
-  * brasil em los angeles
-Hugo Calderano é o grande nome do esporte brasileiro no pós-Paris 2024
 
 
 Mais Blogs
@@ -1078,107 +1114,32 @@ Andrey Santos fala sobre Diniz: "Acho que encaixaria bem com o meu futebol"
 
 
 Mais vídeos
-podcast
-## 
-Resumo do dIA tem vagas de Botafogo e Palmeiras nas oitavas e mais; veja
-Hernán Crespo chega ao Brasil para iniciar o trabalho no São Paulo. Fora de campo, treta entre Neto e Memphis Depay movimenta as redes sociais. 
-Há 4 horas
-copa do mundo de clubes
-## 
-Luis Suárez assina camisas de jogadores do Palmeiras; veja o vídeo
-Uruguaio deu autógrafos a jogadores do Verdão perto dos vestiários em confronto entre as equipes
-34 seg
-Vídeo em Alta
-Há 1 hora mundial de clubes 
-copa do mundo de clubes
-## 
-Flamengo encara Los Angeles FC com time misto; veja onde assistir ao vivo
-Há 4 horas mundial de clubes 
-  * Fla vê assédio por Wesley crescer
-Há 4 horas
-  * Veja provável escalação do Rubro-Negro
-Há 4 horas
-  * Time recarrega energias no maior reduto rubro-negro fora do Brasil
-Há 4 horas
-
-
-futebol
-## 
-Polícia faz operação contra grupo que aplicava golpes para desviar salário de jogadores como Gabigol e Kannemann
-Mandados são cumpridos em cidades do Paraná, de Rondônia, do Mato Grosso e do Amazonas
-Há 29 minutos pr (paraná) 
-copa do mundo de clubes
-## Veja o minuto a minuto da classificação do grupo A na Copa do Mundo
-2 min
-Há 42 minutos Copa do Mundo de Clubes da FIFA 2025 
 copa de clubes
+## ▶️ Sem goleiro, Pedro manda a bola no travessão; veja
+28 seg
+Há 1 hora Copa do Mundo de Clubes da FIFA 2025 
+martelo batido
 ## 
-🔥 Que pintura, Luisito! Suárez faz golaço e se aproxima de recorde de CR7 e Pelé em Mundiais
-21 seg
-Há 11 horas gato mestre 
-  * Weverton, sobre jogo contra o Botafogo: "Jogo mais chato"
-Há 11 horas
-
-
-copa do mundo de clubes
-## 
-Zagueiro do Real Madrid faz post sobre erros na Copa de Clubes: "Vou reverter a situação"
-Depois de cometer pênalti na estreia e ser expulso no segundo jogo, Raúl Asencio se comprometeu a melhorar na competição e agradeceu o apoio dos torcedores
-Há 51 minutos mundial de clubes 
-santos
-## 
-Santos se mantém otimista e acredita em renovação de Neymar até retorno das férias
-Ideia é ter o craque de contrato novo quando o time voltar a treinar no CT Rei Pelé, antes do dia 30
-Há 4 horas santos 
-fluminense
-## 
-Fluminense liga alerta para cartões e tem trio pendurado antes do jogo contra o Mamelodi
-Nonato e Martinelli foram punidos contra o Borussia Dortmund, e Keno contra o Ulsan. Se receberam novas advertências, eles não atuarão em caso de classificação para as oitavas de final 
-Há 10 minutos fluminense 
-de messi a arrascaeta
-## 
-Veja lista de jogadores que marcaram em Copa do Mundo e na Copa de Clubes
-Uruguaio do Flamengo é o único representante de clube brasileiro na lista, que tem trios de argentinos e de ingleses
-Há 4 horas mundial de clubes 
-Varela diz que conversa com Flamengo por renovação "caminhou um pouco mais"
-Vídeo em Alta
+Corinthians acerta renovação com a Nike; veja valores e tempo de contrato
+Clube também estava conversando com a Adidas
+Há 53 minutos corinthians 
+lafc x flamengo
+## ▶️Arrascaeta manda na trave após belo chute; veja
+35 seg
+Há 2 horas Copa do Mundo de Clubes da FIFA 2025 
+lafc x flamengo
+## ▶️Danilo acerta a trave na primeira chance do Fla; veja
 23 seg
-Há 10 horasCopa do Mundo de Clubes da FIFA 2025
-fórmula 1
-## 
-Companheiro de Bortoleto na Sauber elogia o brasileiro: "Impressionante"
-Apesar de vencer o duelo de equipe até aqui, Nico Hulkenberg menciona qualidades do novato e diz que é "questão de tempo" para Gabriel mostrar seu talento
-Há 1 hora fórmula 1 
-copa de clubes
-## Porto x Al Ahly tem hat-trick, golaço de ex-São Paulo e Pepê fechando o placar; veja os lances
-7 min
-Há 10 horas Copa do Mundo de Clubes da FIFA 2025 
-tênis
-## 
-Mais novo a vencer em Eastbourne desde Fritz, João Fonseca encara 5° do mundo na segunda rodada
-Há 4 horas tênis 
-  * Bia Haddad estreia com vitória e avança às oitavas de final no WTA de Bad Homburg
-Há 4 horas
-
-
-dona do campinho
-## 
-Seleção feminina fará amistoso no Brasil na data Fifa depois da Copa América em outubro
-CBF busca colocar os jogos no país em estádios da Copa do Mundo de 2027. Última data Fifa do ano, em novembro, será na Europa
-Há 4 horas Dona do Campinho 
-sem conversa
-## 
-Benfica tenta Almada, ex-Botafogo, mas Textor avisa: "Não vamos vender"
-Meia de 24 anos foi titular da Argentina nos últimos quatro jogos da equipe de Lionel Scaloni nas eliminatórias da Copa do Mundo e atualmente defende o Lyon
-Há 3 horas futebol internacional 
-nova chance
-## 
-Após vice da Copa América, Arias retorna a Miami com chance de redenção com o Fluminense 
-Meia foi derrotado na final para a Argentina no mesmo Hard Rock Stadium, onde o Tricolor buscará a classificação para as oitavas de final da Copa do Mundo de Clubes 
-Há 4 horas fluminense 
+Há 2 horas Copa do Mundo de Clubes da FIFA 2025 
 ## vídeos curtos do ge 
 Voltar Uma seta apontando para esquerda
 Próximo Uma seta apontando para direita
+  * 15 seg
+Iniciar Um Icone para iniciar
+## Torcida do Bayern escolhe entre Flamengo e Chelsea
+  * 57 seg
+Iniciar Um Icone para iniciar
+## Times brasileiros na Copa do Mundo de Clubes f...
   * 38 seg
 Iniciar Um Icone para iniciar
 ## 💰 DINHEIRO NO BOLSO DO BOTAFOGO!
@@ -1263,127 +1224,229 @@ Iniciar Um Icone para iniciar
   * 43 seg
 Iniciar Um Icone para iniciar
 ## André Rizek "corneta" seleção da primeira roda...
-  * 38 seg
-Iniciar Um Icone para iniciar
-## Alex Telles fala sobre amizade com Vitinha, do PSG
-  * 1 min
-Iniciar Um Icone para iniciar
-## Flamengo precisa fazer isso pra vencer o Chelsea
 
 
-nba
+lafc x flamengo
+## ▶️ Que chute! Delgado acerta a trave e quase abre o placar para o LA
+11 seg
+Há 2 horas Copa do Mundo de Clubes da FIFA 2025 
+copa do mundo de clubes
 ## 
-Haliburton se manifesta após cirurgia: "Voltar a ser minha melhor versão"
-Em longo desabafo, armador do Indiana Pacers fala sobre dor e decepção com ruptura do tendão de Aquiles e cita Kobe Bryant: "Trabalhar com a mesma motivação"
-Há 7 horas nba 
-palmeiras
-## 
-Estêvão, do Palmeiras, troca camisa com Messi e Suárez; veja vídeos
-29 seg
-Há 10 horas palmeiras 
-  * Jornal argentino define reencontro de Messi com PSG na Copa de Clubes: "Histórico e agridoce"
-Há 10 horas
+Imprensa argentina repercute queda do Boca Juniors: "Papelão"
+Há 5 horas mundial de clubes 
+  * Auckland City se despede com empate heroico contra o Boca Juniors
+Há 5 horas
 
 
-velhos conhecidos
+copa de clubes
 ## 
-Técnico do Bayern vê time pronto para reencontro com Benfica: "Conhecemos muito bem"
+Rival do Fla nas oitavas, técnico do Bayern diz que jogo "vai ser duro"
 Há 4 horas mundial de clubes 
-  * Benfica x Bayern: veja onde assistir ao vivo e horário
+  * Bayern perde para o Benfica e enfrentará o Fla nas oitavas
 Há 4 horas
-  * Boca Juniors encara o Auckland City; veja detalhes
+  * Veja datas e horários das oitavas de final da Copa de Clubes
 Há 4 horas
 
 
-wsl
-## 
-Do banana boat para a WSL: quem é Gabriel Klaussner, convidado que encara número 1 em Saquarema
-Surfista de Ubatuba, que cresceu acompanhando o trabalho dos pais em passeios turísticos de barco, enfrenta Jordy Smith na repescagem, em busca de vaga nas oitavas
-Há 3 horas wsl 
-IMI
-22
-PAL
-## 
-Palmeiras empata com Inter Miami e vai às oitavas da Copa como líder do grupo
-Alviverde sai atrás do placar, mas empata com gols de Paulinho e Maurício, e avança em primeiro para enfrentar o Botafogo no mata-mata; Inter pega o PSG
-## 
-Memphis publica foto de Neto com nariz de palhaço e ex-Corinthians retruca na mesma moeda
-Atacante holandês e comentarista trocam provocações em redes sociais
-corinthians 
-## 
-Oitavas de final da Copa do Mundo de Clubes: veja datas e horários
-Próxima fase da competição começará no sábado, com dois jogos
-mundial de clubes 
-ATL
-10
-BOT
-## 
-Botafogo perde para o Atlético de Madrid, mas garante vaga nas oitavas da Copa
-Griezmann dá fim a jejum de 18 jogos sem gol e define vitória espanhola no Rose Bowl; Alvinegro avança em segundo lugar
-POR
-44
-AHL
-## 
-Em jogo de oito gols, Porto e Al Ahly ficam no empate e se despedem da Copa do Mundo de Clubes
-Equipes ficaram apenas com terceiro e quarto lugar, respectivamente, e não se classificaram para fase mata-mata da competição
-## 
-Entenda por que influenciador e jogador do Fortaleza aparecem em investigação policial no Corinthians
-Buzeira, que conta com mais de 13 milhões de seguidores no Instagram, e Lucero são citados no relatório final da Polícia Civil no caso VaideBet
-corinthians 
-## 
-São Paulo prepara Ryan Francisco para novas funções no time; entenda os planos para a joia
-Tricolor vê garoto de 18 anos como um possível segundo atacante por suas características físicas
-são paulo 
-## 
-Angelim mostra construção de campos para time feminino e provoca o Vasco
-Nas redes sociais, ex-jogador do Flamengo publicou vídeos mostrando obras em andamento para time feminino
-futebol 
-## 
-Vasco trata contratação de atacante como prioridade na janela para aumentar poder de fogo de Diniz
-Clube deseja aumentar repertório no ataque com atleta que "chegue para jogar" e primeiro volante com status de titular
-vasco 
-## 
-Filipe Luís diz que Flamengo terá mudanças contra o Los Angeles: "Se puder, darei minutos a todos"
-Time entra em campo nesta terça já garantido na liderança do Grupo D e nas oitavas de final da Copa do Mundo de Clubes: "Vou fazer uma equipe que possa ser competitiva e ganhar"
-flamengo 
-SEA
-02
-PSG
-## 
-PSG vence Seattle sem fazer força e avança às oitavas de final como líder do Grupo B
-Kvaratskhelia e Hakimi marcam os gols dos franceses
-## 
-Paulinho decide no Palmeiras, mas se frustra por seguir com dores: "Não tem como estar 100%"
-Atacante convive com limitação e evita dar detalhes sobre sua condição para não tirar foco da Copa do Mundo de Clubes; mesmo fora do seu auge, camisa 10 tem entrado bem
-palmeiras 
-## 
-Lucas, Oscar e mais cinco atletas se reapresentam antecipadamente aos trabalhos no São Paulo
-Jogadores abriram mão de parte do recesso para acelerarem recuperação no Reffis do Tricolor
-são paulo 
-## 
-Zico vê supervalorização do futebol europeu e critica: "Começam a arrumar desculpas"
-Ídolo rubro-negro passou a manhã com torcedores nos Estados Unidos
-flamengo 
-## 
-Nike faz proposta para renovar com o Corinthians; contrato pode chegar a R$ 1,3 bilhão até 2036
-Empresa aumenta valores em meio a disputa com a Adidas, que cogita retirar oferta
-corinthians 
-## 
-Imprensa espanhola critica arbitragem de Atlético de Madrid x Botafogo: "Não deixaram"
-Jornais como "AS" e "Marca" destacam pênaltis não marcados; espanhóis vencem, mas são eliminados, e Botafogo avança em segundo lugar no grupo
-botafogo 
 Vai e Vem do MercadoConfira as últimas negociações do mercado
   1. Falta assinar
 ViverosAtacante
 R$ 27,5 milhões
   2. Falta assinar
-PogbaVolante
+Nico WilliamsAtacante
 
 
-central da copa de clubes
-## ▶️ "Profeta" Sigér Gnisor prevê Flamengo x Los Angeles FC
+flamengo
+## Zico fala sobre duelo contra o Bayern: "Quem quer ganhar, não escolhe adversário"
+4 min
+Vídeo em Alta
+Há 3 horas Copa do Mundo de Clubes da FIFA 2025 
+afunilando!
+## 
+Copa do Mundo de Clubes: veja classificados e eliminados até aqui
+Há 6 horas mundial de clubes 
+  * Veja a tabela da Copa do Mundo de Clubes
+Há 6 horas
+
+
+a internet não perdoa
+## 
+Fla x Bayern nas oitavas da Copa enche as redes de memes; veja
+Há 5 horas flamengo 
+  * Müller projeta Bayern x Flamengo nas oitavas
+Há 5 horas
+
+
+Auckland 1 x 1 Boca Juniors | Melhores momentos | Copa do Mundo de Clubes da FIFA 2025
+Vídeo em Alta
+6 min
+Há 8 horasCopa do Mundo de Clubes da FIFA 2025
+copa do mundo de clubes
+## ▶️ Benfica segura pressão do Bayern e garante 1º lugar; veja os lances
+7 min
+Vídeo em Alta
+Há 6 horas Copa do Mundo de Clubes da FIFA 2025 
+copa do mundo de clubes
+## 
+Simule os jogos das oitavas e arrisque os resultados até a final
+Há 5 horas
+copa do mundo de clubes
+## ▶️ Auckland faz história em empate com o Boca; veja melhores momentos
+7 min
+Há 5 horas Copa do Mundo de Clubes da FIFA 2025 
+copa do mundo de clubes
+## 
+Zagueiro-artilheiro do Auckland comenta retorno ao trabalho de professor: "Tarefas acumuladas"
+Gray marcou o único gol do Auckland City na competição ao empatar jogo com o Boca na última rodada
+Há 3 horas mundial de clubes 
+copa do mundo de clubes
+## 
+🥵 Muito quente! Jogador do Benfica passa mal pelo calor e recebe atendimento no gramado; veja vídeo
+Prestianni leva as mãos a cabeça e recebeu bolsa de gelo na nuca no primeiro tempo contra o Bayern
 2 min
-Há 7 horas Central da Copa de Clubes 
+mundial de clubes 
+basquete
+## 
+Thunder reúne multidão em desfile de comemoração do título inédito da NBA; veja vídeo
+nba 
+  * Entenda como o Thunder montou o elenco campeão
+  * NBB: Didi vai atuar no Japão após se despedir do Franca
+
+
+corinthians
+## 
+Ronaldo diz que SAF é única saída e afirma ter interesse em investir
+Ex-atacante do clube diz não ter esperança com o modelo atual de gestão
+corinthians 
+seleção sportv
+## Palmeiras x Botafogo: quem se classifica para as quartas da Copa do Mundo de Clubes?
+7 min
+Seleção Sportv 
+copa do mundo de clubes
+## 
+Atacante do Chelsea pega dois jogos de suspensão por expulsão contra o Flamengo
+Nicolas Jackson está fora da partida contra o Espérance e, em caso de classificação, não jogará as oitavas
+flamengo 
+wsl
+## 
+Medina quer volta no Taiti, aprova formato para 2026 e aposta em Yago ou Italo em Fiji
+wsl 
+  * Kanoa Igarashi se surpreende com fãs no Brasil: "Amo a cultura"
+
+
+futebol francês
+## 
+Clube de Textor, Lyon é rebaixado para a segunda divisão do Campeonato Francês
+futebol francês 
+  * Lyon classifica decisão como "incompreensível" e vai recorrer
+
+
+fim do ciclo
+## 
+Nacional-URU vai pagar para rescindir com Vargas, ex-Galo; veja valores
+Dirigente do clube diz que negócio deu errado
+atlético-mg 
+fluminense
+## 
+Renato Gaúcho cita Gabigol para defender Everaldo de críticas: "Não desaprendeu"
+fluminense 
+  * Hoje no Mamelodi, Arthur Sales reencontra o Flu na Copa
+  * Ex-Fluminense, Ulisses morre aos 39 anos 
+  * Flu liga alerta para cartões e tem trio pendurado antes do jogo
+
+
+atletismo
+## 
+Brasileira garante prata e assume segunda melhor marca do Brasil, atrás apenas de Fabiana Murer
+Juliana Campos saltou 4,66 metros e conquistou também seu recorde pessoal
+atletismo 
+brasileirão série b
+## 
+Athletiba: STJD acata pedido do Coritiba por 10% de ingressos em clássico com Athletico na Arena
+brasileirão série b 
+  * Athletico anuncia Eduardo Freeland como novo diretor de futebol
+
+
+desejos do técnico
+## 
+Dono do Cruzeiro revela pedidos de Jardim para contratações e conversa para jogos no interior
+cruzeiro 
+  * Fabrizio Peralta viaja para acertar com o Cerro Porteño 
+
+
+são paulo
+## 
+Reforços? Crespo quer avaliar elenco antes de pensar em contratações
+são paulo 
+  * Crespo revela prioridade em sua volta: "Urgência é o Brasileirão"
+  * Argentino conta o que aprendeu com Ancelotti em estágio
+
+
+futsal
+## 
+Sorocaba faz cinco gols no segundo tempo, goleia o Minas e segue 100% na Liga Futsal
+Time do interior paulista chega à nona vitória e abre sete pontos do vice-líder Joinville
+futsal 
+botafogo-sp
+## 
+Zagueiro revela mensagem de Pedro Severino antes de jogo: "Vai ser vitória"
+botafogo-sp 
+  * Atacante ex-Corinthians deixa o Guarani e fecha com o Juventude 
+  * Londrina negocia o atacante Pablo com o Nacional, de Portugal
+
+
+copa do mundo de clubes
+## Inter x Palmeiras tem golaço de Suárez e reação alviverde; veja
+6 min
+Copa do Mundo de Clubes da FIFA 2025 
+botafogo
+## 
+Marlon Freitas levanta o astral por classificação na Copa de Clubes: "Orgulho e gratidão"
+botafogo 
+  * Classificação tem John x Simeone e Allan líder; veja ângulos
+
+
+mercado da bola
+## 
+Nico Williams comunica ao Athletic Bilbao que jogará pelo Barcelona; confira valores
+futebol internacional 
+  * Joia do River revela fator decisivo para acerto com o Real
+  * Após De Bruyne, Napoli abre negociações por Darwin Núñez
+  * Barcelona emprestará Ansu Fati ao Monaco
+
+
+copa do mundo de clubes
+## 
+Guardiola joga altinha na praia com elenco do Manchester City
+1 min
+mundial de clubes 
+  * Messi faz 38 anos com "sangue nos olhos" por título inédito
+  * Goleiro do Monterrey polemiza sobre "incentivo" ao Urawa 
+
+
+crime
+## 
+Polícia apreende cerca de R$ 700 mil em operação que desviava salários de jogadores da Série A
+mt 
+  * Polícia faz operação contra grupo que aplicava golpes
+  * Delegado detalha ação de grupo que desviou R$ 1,2 milhão
+
+
+de messi a arrascaeta
+## 
+Veja lista de jogadores que marcaram em Copa do Mundo e na Copa de Clubes
+Uruguaio do Flamengo é o único representante de clube brasileiro na lista, que tem trios de argentinos e de ingleses
+mundial de clubes 
+vasco
+## 
+GB supera venda frustrada no Vasco e é acompanhado de perto por Diniz em treinamentos
+Depois de DM bancar que o jogador não precisava de cirurgia, atacante volta a treinar e tem agradado ao técnico do clube no período sem jogos
+vasco 
+futebol
+## 
+Lembra dele? Ex-Cruzeiro assume gestão de barbearia do Benfica em Portugal
+Ex-goleiro tornou-se empresário do ramo de beleza masculina, além de trabalhar como dirigente no futebol português 
+futebol 
 Veja mais
 agenda tabelas
 © Copyright 2000-2025 Globo Comunicação e Participações S.A.
@@ -1777,9 +1840,9 @@ ou cadastre-se grátis
     * sair da conta
 
 
+arrow-desktoparrow-mobileclose
 Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
 Prosseguir
-arrow-desktoparrow-mobileclose
   *[BEN]: Benfica
   *[BAY]: Bayern de Munique
   *[LAF]: Los Angeles FC
@@ -1801,52 +1864,57 @@ arrow-desktoparrow-mobileclose
 MENU
 MENU
 buscar
-  * Trump diz que Israel e Irã violaram cessar-fogo e exige que Netanyahu 'não jogue bombas'
-Presidente dos EUA, que havia anunciado a trégua ontem, disse hoje não estar feliz com os dois países e que Israel 'tem que se acalmar'.
+  * MAIS BUSCADOS:
 
 
-  * Exclusivo
-  * PCC espalha crime por 28 países; veja mapa da atuação
-  * Brasil e Itália vão assinar acordo de investigação
+  * Guerra no Oriente Médio
+  * Irã e Israel anunciam trégua e reivindicam 'vitória' após 12 dias de bombardeios
+  * Últimas notícias: Israel diz ter interceptado drones que seriam do Irã
+  * Após mísseis e bombas, disputa agora é de narrativas
+  * Bombas de Trump não destruíram programa nuclear do Irã, diz jornal
 
 
-  * Alerta no Sul
-  * Morador de Porto Alegre encara frio e cheia do Guaíba para chegar em casa
-  * SC marca -8ºC e registra nova menor temperatura do ano
+  * Exclusivo JN
+  * Príncipe William explica por que Brasil vai sediar prêmio de sustentabilidade
+
+
+  * 'Pedaço tirado de mim', diz pai de Juliana Marins
+  * Local da queda tinha 3 mil metros de altitude
+  * INFOGRÁFICO: como foi a queda da brasileira
 
 
 ## Previsão do Tempo
-São Paulo
-Probabilidade de chuva: 99% 30mm
+Mariana
+Probabilidade de chuva: 0% 0mm
 manhã
 tarde
 noite
-18ºmax
-11ºmin
+19ºmax
+12ºmin
 Informações meteorológicas fornecidas pelo Climatempo
 Veja a previsão do Climatempo
 ## Assuntos em alta
-Montanhista vê falha de guia em trilha na Indonésia e destaca planejamento de brasileira que sofreu acidente
-Banheiro químico, aromatizador, colchão inflável: por dentro do B-2 Spirit, avião 'invisível' que os EUA usaram para atacar o Irã; INFOGRÁFICO
-Resgate de Juliana Marins, brasileira que caiu em vulcão na Indonésia, é retomado, diz família
+INFOGRÁFICO: como foi a queda de brasileira achada morta em vulcão na Indonésia
+Juliana Marins, brasileira que caiu em trilha de vulcão na Indonésia, é encontrada morta
+Morte de Juliana Marins: vídeo mostra últimos momentos de brasileira antes de cair em trilha de vulcão 
 Mais conteúdos recomendados 
 ## Mais Lidas
-  1. PCC é mapeado em 28 países, se infiltra em presídios no exterior para recrutar novos membros e expande tráfico de drogas e armas
-  2. Montanhista vê falha de guia em trilha na Indonésia e destaca planejamento de brasileira que sofreu acidente
-  3. Banheiro químico, aromatizador, colchão inflável: por dentro do B-2 Spirit, avião 'invisível' que os EUA usaram para atacar o Irã; INFOGRÁFICO
-  4. Trump diz que Irã e Israel violaram cessar-fogo e exige que Netanyahu não volte a bombardear Teerã
-  5. Resgate de Juliana Marins, brasileira que caiu em vulcão na Indonésia, é retomado, diz família
+  1. INFOGRÁFICO: como foi a queda de brasileira achada morta em vulcão na Indonésia
+  2. Morte de Juliana Marins: vídeo mostra últimos momentos de brasileira antes de cair em trilha de vulcão 
+  3. É #FAKE que vídeo mostrou Juliana Marins mexendo as mãos em penhasco um dia antes de ser encontrada morta na Indonésia 
+  4. Jovem assassinado após suposto furto de chocolate trabalhava em multinacional em Curitiba
+  5. 'Pedaço tirado de mim', posta pai de Juliana Marins
 
 
 ## Economia
 Ibovespa
--0.59%
-136.304 pts
++0.6%
+137.368 pts
 Created with Highcharts 4.2.710h11h12h13h14h15h16h17h18h
-Atualizado há 17 horas
+Atualizado há 7 horas
 Compra de Moedas
-Dólar Comercial R$ 5,503 -0,4%  
-Euro R$ 6,370 +0,12%  
+Dólar Comercial R$ 5,518 +0,29%  
+Euro R$ 6,408 +0,6%  
 Tudo sobre economia
 ## 🎧 Ouça no g1
   * O Assunto
@@ -1858,29 +1926,104 @@ As notícias mais importantes, em 3 edições por dia
 
 
 Tudo sobre podcasts
-ao vivo
+Descontos indevidos
 ## 
-SIGA: após troca de acusações, Israel confirma mais um ataque ao Irã
-Há 26 minutos Mundo 
-  * Mil km de carro: a saga de 2 brasileiros para fugir do Irã
-Há 26 minutos
+Fraude no INSS: devolução de valores deve começar em julho
+Há 4 horas Política 
+  * Governo recua e prevê 60 dias de auxílio doença sem perícia médica
+Há 4 horas
 
 
-Blog da Sandra Cohen 
+Trama do golpe
 ## 
-ANÁLISE: Trump corre para encerrar guerra na qual entrou sem vontade
-Há 1 hora Blog da Sandra Cohen 
-  * Bolsas, dólar, petróleo: cessar-fogo é 'respiro' para mercados
-Há 1 hora
-
-
-## 
-B-2 Spirit: como é por dentro o avião 'invisível' usado pelos EUA contra Irã
-Há 8 horas Mundo 
-  * Megabomba: confira explicação do ataque em detalhes
+Cid diz que estimou dinheiro em sacola pelo peso; Braga Netto nega entrega
+Há 8 horas Política 
+  * CAMAROTTI: STF avalia que tudo permanece igual após acareação
 Há 8 horas
 
 
+Imagens de satélite
+## 
+Área queimada na Amazônia e na Mata Atlântica foi a maior em 4 décadas em 2024
+Há 3 horas Jornal Nacional 
+  * Fogo consome 62% do Pantanal brasileiro em 40 anos, diz estudo
+Há 3 horas
+  * Couro ilegal da Amazônia abastece marcas de bolsas luxuosas
+Há 3 horas
+
+
+São Paulo
+## 
+Vídeo mostra abordagem violenta da PM contra idosa no Centro de SP
+Há 1 hora São Paulo 
+4 dias depois
+## 
+Brasileira que caiu durante trilha é encontrada morta na Indonésia
+Juliana Marins tinha 26 anos e fazia mochilão viajando por países do leste asiático.
+Há 9 horas Rio de Janeiro 
+Acidente em trilha
+## 
+VÍDEO: últimas imagens de Juliana mostram frustração com neblina
+Há 5 horas Fantástico 
+  * 'Muito difícil': italiana que acompanhava Juliana conta como foi trilha
+Há 5 horas
+  * 'Pedaço tirado de mim', diz pai de Juliana Marins
+Há 5 horas
+
+
+## 
+É #FAKE que vídeo mostrou Juliana mexendo as mãos antes de ser encontrada
+Há 3 horas Fato ou Fake 
+Copa do Mundo de Clubes
+LAF
+11
+FLA
+## 
+Los Angeles FC x Flamengo
+Há 3 horas
+  * Chelsea pode empatar com Espérance; SIGA
+Há 3 horas
+  * Benfica vence e empurra o Bayern para pegar o Flamengo
+Há 3 horas
+
+
+## 
+Mais velho da Copa, Fábio busca recorde de número de jogos
+Há 28 minutos Jornal Nacional 
+Marco Civil da Internet
+## 
+STF retoma amanhã julgamento sobre responsabilização das redes sociais
+Há 50 minutos Jornal Nacional 
+Rio Grande do Sul
+## 
+Após enchente, população sofre com o frio em Porto Alegre
+Há 5 horas Rio Grande do Sul 
+  * Para quem doar: ajude as vítimas da chuva no sul
+Há 5 horas
+  * 'Minha casa está destruída da outra enchente', lamenta moradora
+Há 5 horas
+
+
+Príncipe William, da Inglaterra, confirma Prêmio Earthshot no Museu do Amanhã, no Rio
+Vídeo em Alta
+3 min
+Há 4 horasJornal Nacional
+Deputada foragida
+## 
+Polícia italiana investiga paradeiro de Carla Zambelli
+Há 4 horas Política 
+Loterias
+## 
+Mega-Sena acumula e prêmio vai a R$ 40 milhões
+Há 52 minutos Mega-Sena 
+  * Lotofácil: duas apostas vencem e cada uma leva mais de R$ 730 mil
+Há 52 minutos
+
+
+Para poucos
+## 
+Brasileira se forma com a nota mais alta de Harvard: 'Jamais imaginaria'
+Há 9 horas Educação 
 Guerra Irã x Israel, brasileira perdida em vulcão e mais VÍDEOS...
 34 seg 
 Conheça o avião B-2, usado nos ataques dos EUA contra instalações do Irã
@@ -1888,34 +2031,124 @@ Conheça o avião B-2, usado nos ataques dos EUA contra instalações do Irã
 Por que o Irã avisou Catar e EUA horas antes de ataque?
 25 seg 
 Brasileiro registra mísseis no céu de Doha, no Catar: 'Pânico'
-Fraude contra jogadores
+Nevou no Brasil ❄️🥶
 ## 
-Operação mira golpistas que desviaram salários de Gabigol e Kannemann
-Há 1 hora Política 
-  * Suspeito de chefiar esquema é preso em Curitiba
-Há 1 hora
+VÍDEO: com mínima de 2ºC, cidade do RS tem neve na madrugada
+Há 7 horas Rio Grande do Sul 
+  * Dia mais frio do ano em SC tem -8ºC e chafariz congelado
+Há 7 horas
 
 
-Presa em penhasco
+Espinhas no rosto
 ## 
-Socorristas montam acampamento perto de onde brasileira está na Indonésia
-Há 14 minutos Rio de Janeiro 
-  * Por que o resgate está demorando tanto
-Há 14 minutos
+Remédio contra acne usado por Ana Castela exige cuidados; saiba mais
+1 min
+Há 17 horas Bem Estar 
+  * Azeite ou óleo? O que você deve observar para não ser enganado
+Há 17 horas
 
 
+São João
 ## 
-Montanhista vê falha na condução de trilha em que brasileira caiu
-Há 9 horas Rio de Janeiro 
-  * 'Juliana precisa de tudo muito rápido e não está sendo', diz família
-Há 9 horas
-  * O que atrai tantos turistas ao Monte Rinjani, na Indonésia
-Há 9 horas
+Fogueira gigante de 31 metros queima por quase 24 horas em MG
+Há 5 horas Sul de Minas 
+  * Bonecos de Olinda são vestidos de matutos em cortejo 
+Há 5 horas
 
 
+Trilha junina
+## 
+Só hits: por que o forró eletrônico dos anos 90 nunca sai de moda
+Há 5 horas São João de Pernambuco 2025 
+Bahia
+## 
+Fã que derrubou Simaria há 8 anos vai a show de Simone pedir desculpas
+Há 2 horas São João 
+Por um fio
+## 
+VÍDEO: ponte desaba na China e deixa motorista de caminhão pendurado
+35 seg
+Há 2 horas Mundo 
+Desvio de salários
+## 
+Polícia apreende R$ 700 mil em investigação de golpe contra Gabigol
+Há 4 horas Mato Grosso 
+  * 7 são presos suspeitos de desviar salários de jogadores
+Há 4 horas
+
+
+Procurado por crime sexual
+## 
+Homem é preso após organizar casamento fake com criança na Disney Paris
+Há 3 horas Turismo e Viagem 
+Expansão do crime
+## 
+Suíça, Inglaterra, EUA e até Japão; levantamento revela presença global do PCC
+10 min
+Há 5 horas São Paulo 
+Agronegócios
+## 
+Gripe aviária: 17 países retiram restrições à carne de frango do Brasil
+Há 7 horas Agronegócios 
+Bolada de R$ 127 milhões
+## 
+Família sofre ameaça e pedido de dinheiro após boato de prêmio da Mega
+Há 5 horas Minas Gerais 
+Empresa punida
+## 
+Voepass perde recurso e não poderá operar voos nem vender passagens
+Há 7 horas Campinas e Região 
+  * Famílias de vítimas falam em alívio e indignação: 'Tarde demais para os nossos'
+Há 7 horas
+
+
+13 milhões de anos
+## 
+Pesquisadores descobrem fóssil de tartaruga gigante da Amazônia
+Há 11 horas Acre 
+  * Todo siri é caranguejo, mas nem todo caranguejo é siri; entenda
+Há 11 horas
+
+
+g1 Jogos
+  * #### Soletra
+  * #### Combinado
+  * #### Palavras Cruzadas
+  * #### Dito
+  * #### Caça-Palavras
+  * #### Palavras Cruzadas Mini
+  * #### Sudoku
+  * #### Todos os jogos
+
+
+Festa em Veneza
+## 
+Bilionário Jeff Bezos muda local de casamento para evitar protestos
+Há 7 horas Tecnologia 
 ## vídeos do g1
 Voltar Uma seta apontando para esquerda
 Próximo Uma seta apontando para direita
+  * 1 min
+Iniciar Um Icone para iniciar
+## Barões da Pisadinha: 'Lançar um hit de piseiro...
+  * 1 min
+Iniciar Um Icone para iniciar
+## PCC é mapeado em 28 países e expande tráfico d...
+  * 1 min
+Iniciar Um Icone para iniciar
+## Israel e Irã disputam narrativa de vitória apó...
+  * 1 min
+Iniciar Um Icone para iniciar
+## Por dentro do B-2 Spirit, avião 'invisível' qu...
+  * 1 min
+Iniciar Um Icone para iniciar
+## O que é Roacutan, medicamento usado por Ana Ca...
+  * 1 min
+Iniciar Um Icone para iniciar
+## Quem foi Juliana Marins, brasileira morta na I...
+  * 1 min
+Iniciar Um Icone para iniciar
+## Previsão do tempo: Frio em boa parte do Brasil
   * 1 min
 Iniciar Um Icone para iniciar
 ## Por que o Irã avisou Catar e EUA horas antes d...
@@ -1961,9 +2194,6 @@ Iniciar Um Icone para iniciar
   * 2 min
 Iniciar Um Icone para iniciar
 ## Como criar uma senha forte e proteger suas contas
-  * 2 min
-Iniciar Um Icone para iniciar
-## Conheça a história da música que virou trilha ...
   * 34 seg
 Iniciar Um Icone para iniciar
 ## Veja quais são os 6 feriados que restam em 202...
@@ -1985,132 +2215,21 @@ Iniciar Um Icone para iniciar
   * 1 min
 Iniciar Um Icone para iniciar
 ## Mais de mil pessoas ficaram milionárias por di...
-  * 48 seg
-Iniciar Um Icone para iniciar
-## Chuvas inundam cidade do RS
-  * 1 min
-Iniciar Um Icone para iniciar
-## Corpus Christi: data varia a cada ano e depend...
-  * 1 min
-Iniciar Um Icone para iniciar
-## Brasil se declara livre da gripe aviária nesta...
-  * 1 min
-Iniciar Um Icone para iniciar
-## Quem são os advogados suspeitos de mandar mata...
-  * 1 min
-Iniciar Um Icone para iniciar
-## Quem é Wisdom Kaye, o influenciador mais bem v...
-  * 1 min
-Iniciar Um Icone para iniciar
-## EUA podem entrar na guerra Israel x Irã? Enten...
   * 1 min
 Iniciar Um Icone para iniciar
 ## Ozempic e medicamentos similares passam a ser ...
 
 
-Cúpula da Otan
-## 
-Rússia pode testar defesa da Europa nos próximos 5 anos, diz chefe da UE
-Há 16 minutos Mundo 
-  * Kremlin acusa a Otan de 'militarização desenfreada'
-Há 16 minutos
-
-
 ☄️🌌☄️
 ## 
-VÍDEO: observatório registra mais de 2 mil asteroides inéditos em 10 horas
-Há 36 minutos Ciência 
-g1 Jogos
-  * #### Soletra
-  * #### Combinado
-  * #### Palavras Cruzadas
-  * #### Dito
-  * #### Caça-Palavras
-  * #### Palavras Cruzadas Mini
-  * #### Sudoku
-  * #### Todos os jogos
-
-
-O inverno chegou ❄️
-## 
-Onda de frio avança em boa parte do país; RS e SC podem ter neve
-Há 9 horas Meio Ambiente 
-  * Confira como fica o tempo hoje na sua cidade 
-Há 9 horas
-
-
-Grande Recife
-## 
-Corpo de advogada que desapareceu após acidente de lancha é achado
-Há 15 minutos Pernambuco 
-Condenado pelo 8 de janeiro
-## 
-Juiz que mandou soltar homem que destruiu relógio diz que cometeu erro
-Há 21 minutos Triângulo Mineiro 
-Copa do Mundo de Clubes
-IMI
-22
-PAL
-## 
-Palmeiras busca empate e vai encarar o Botafogo nas oitavas
-Há 10 horas
-  * Com empate, Inter Miami vai pegar o PSG nas oitavas
-Há 10 horas
-  * Porto e Al Ahly empatam em 4 a 4 se despedem da Copa
-Há 10 horas
-
-
-Copa do Mundo de Clubes: Botafogo se classifica em segundo lugar no Grupo B mesmo com derrota para o Atlético de Madrid
-Vídeo em Alta
-2 min
-Há 12 horasJornal Nacional
-Tragédia em SC
-## 
-Sobreviventes de queda de balão relatam pânico: 'A gente viu pessoas caírem'
-Há 4 horas Fantástico 
-  * Fogo em balão se espalhou para cilindros de gás
-Há 4 horas
-  * SP: dono de empresa foi responsável por 2 acidentes
-Há 4 horas
-
-
+Maior câmera já criada para observar o espaço descobre 2,1 mil asteroides
+Há 8 horas Ciência 
 'Momento de desespero'
 ## 
 'Estou vivo': falso médico que forjou a própria morte reaparece e se defende
-Há 3 horas Fantástico 
+Há 17 horas Fantástico 
   * Busca gratuita permite identificar quem é médico de verdade
-Há 3 horas
-
-
-## Fantástico
-  * Queda de balão em SP mata mulher e acende debate sobre segurança
-    * Golpe do seguro: quadrilhas forjam roubos, acidentes e até mortes
-    * Como advogados viraram principais suspeitos de matar casal
-    * Perdeu o Fantástico? Assista todas as reportagens 
-
-
-🤠🎶🪗🎸
-## 
-Como o forró eletrônico dos anos 90 produziu bandas e hits eternos
-Há 54 minutos São João de Pernambuco 2025 
-Mudanças hormonais
-## 
-Entenda riscos do remédio usado por Ana Castela contra acne
-Há 3 horas Bem Estar 
-  * De pulinhos ao álcool: os segredos para aliviar dor de ouvido
-Há 3 horas
-
-
-Sinais de alerta 
-## 
-Azeite falsificado: como identificar fraudes em restaurantes e mercados
-Há 4 horas Saúde 
-Blog do Valdo Cruz
-## 
-De olho no Oriente Médio, governo vai subir mistura de etanol na gasolina
-Há 32 minutos Blog do Valdo Cruz 
-  * Em SP, motos por app só podem operar com autorização do município
-Há 32 minutos
+Há 17 horas
 
 
 ## Economia, negócios e finanças 💲💵
@@ -2120,20 +2239,11 @@ Há 32 minutos
     * Bolsa Família: veja calendário de pagamentos de julho
 
 
-Ataque a tiros
-## 
-Tiktoker venezuelano é assassinado durante transmissão ao vivo
-Há 19 minutos Mundo 
-Flagra em escola
-## 
-Professora presa no DF usou cartões de colegas para comprar roupas fitness
-Há 6 horas Distrito Federal 
-Acareações no STF
-## 
-Cid e Braga Netto confrontam hoje versões da tentativa de golpe
-Há 8 horas Política 
-  * Anderson Torres e Freire Gomes também ficam frente a frente
-Há 8 horas
+## Fantástico
+  * Queda de balão em SP mata mulher e acende debate sobre segurança
+    * Golpe do seguro: quadrilhas forjam roubos, acidentes e até mortes
+    * Como advogados viraram principais suspeitos de matar casal
+    * Perdeu o Fantástico? Assista todas as reportagens 
 
 
 Blogs e colunas
@@ -2152,52 +2262,6 @@ Blogs e colunas
   * #### Ana Flor
 
 
-Bioma mais atingido
-## 
-Fogo consome 62% do Pantanal brasileiro em 40 anos, diz estudo
-Há 6 horas Mato Grosso do Sul 
-  * Couro ilegal da Amazônia abastece marcas de bolsas luxuosas
-Há 6 horas
-
-
-Música brasileira
-## 
-Festival em SP reúne Glória Groove, Seu Jorge, Só Pra Contrariar e Raça Negra
-Há 2 horas Guia SP 
-Amazônia
-## 
-São João perfumado: conheça tradição do banho que atrai amor e sorte
-Há 2 horas Pará 
-  * Fé em São João deu vida aos bois Caprichoso e Garantido
-Há 2 horas
-
-
-Descontos irregulares
-## 
-Fraude no INSS: governo deve apresentar hoje calendário de devolução
-Há 3 horas Política 
-  * INSS começa pagamento de benefícios de junho; veja calendário
-Há 3 horas
-  * Sorteio da Mega-Sena pode pagar R$ 3,5 milhões hoje
-Há 3 horas
-
-
-Morte de cantor 
-## 
-10 anos sem Cristiano Araújo: filhos herdam gosto por música e futebol
-Há 4 horas Goiás 
-  * Pai do cantor tem acervo para 'matar a saudade' do filho
-Há 4 horas
-
-
-Blog da Mariza Tavares
-## 
-Por que microplásticos são risco para quem vive perto do mar
-Há 5 horas Blog Longevidade: modo de usar 
-  * Bactéria modificada transforma plástico em remédio, aponta estudo
-Há 5 horas
-
-
 ## FATO ✅ ou FAKE ❌
   * É #FAKE que Snoop Dogg e Johnny Depp vestiram camisa do Botafogo
     * Frio NÃO é causado por fenômeno conhecido como afélio; entenda
@@ -2205,14 +2269,6 @@ Há 5 horas
     * 'Simpsons' NÃO previram vitória do Flamengo sobre o Chelsea
 
 
-Distrito Federal
-## 
-Menino picado 5 vezes por escorpião há 2 anos tem piora no quadro
-Há 4 horas Distrito Federal 
-Interior de SP
-## 
-Veja o que se sabe sobre morte de militar forçado a beber ácido em assalto
-Há 4 horas São Carlos e Araraquara 
 ## Carros 🚙🏍️
   * Tesla lança táxi robô em teste nos EUA
     * Novo Nissan Kicks chega a partir de R$ 164.990; veja o teste
@@ -2228,14 +2284,10 @@ Há 4 horas São Carlos e Araraquara
 
 
 ## 
-Braga Netto chega ao STF para audiência de acareação com Mauro Cid sobre tentativa de golpe
-Nesta terça (24), réus no processo e uma testemunha participação de audiências no Supremo para esclarecer contradições nos depoimentos.
-39 seg
-Há 7 minutos Política 
-## 
-Governo vai propor corte de gastos tributários, mas relatório da IFI aponta que só reformas evitam crise fiscal 
-3 min
-Há 13 minutos Blog do Valdo Cruz 
+Câmeras flagram mulher que disse ter carro roubado dirigindo veículo minutos depois do suposto crime; VÍDEO 
+Ministério Público acusa motorista de tentar aplicar golpe em seguradora. Caso é investigado como estelionato.
+14 min
+Há 7 minutos Fantástico 
 Veja mais
 Últimas Notícias
 © Copyright 2000-2025 Globo Comunicação e Participações S.A.
@@ -3028,7 +3080,7 @@ arrow-desktoparrow-mobileclose
 - https://www.climatempo.com.br/
 - http://www.valor.com.br/valor-data
 - http://www.valor.com.br/valor-data/
-- https://www.climatempo.com.br/previsao-do-tempo?page=HOJE
+- https://emergencia.paraquemdoar.com.br/?ref=home_banner
 - https://assinecoquetel.com.br/
   * Carregando...
 Acesse sua conta   
@@ -3135,7 +3187,7 @@ Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experi
 ### Dicas de decoração, ideias para decorar ambientes, casas e apartamentos inspiradores: tudo em um só lugar!
 ## A casa de 500 m² do ator e músico Dudu Azevedo, no Rio de Janeiro
 Inspirados no modernismo brasileiro, Zanini de Zanine e Pedro Coimbra criaram a morada abraçada pela Mata Atlântica
-Ontem Casas de famosos 
+Há 2 dias Casas de famosos 
 ## Giovanna Ewbank e Bruno Gagliasso abrem a brinquedoteca dos filhos
 Com projeto da arquiteta Hana Lerner, atores pensaram em ambiente lúdico para Títi, Bless e Zyan
 Há 2 dias Casas de famosos 
@@ -3147,20 +3199,21 @@ Atriz contou que precisou desmontar móvel parcialmente para instalar em novo am
 Há 4 dias Casas de famosos 
 ## Casa alemã de 38 m² à beira do lago surpreende com interior minimalista
 O escritório Keßler Plescher Architekten transformou completamente a planta do destino de férias, mas manteve um detalhe charmoso: o telhado de palha original
-Há 4 dias Casas 
+Há 5 dias Casas 
 ## Com arquitetura maranhense, casarão de 1870 conta histórias de gerações
 Em São Luís, a residência que preserva memórias tem janelas que se abrem para novos tempos
-Há 6 dias Casas 
+Há 7 dias Casas 
 por Taboolapor Taboola
 Conteúdo Publicitário
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
 Desfazer
-Fim da neuropatia? Prove isso agora para aliviar os sintomas.A arte do herbalismo
+After Losing Weight Kevin James Looks Like A Model33 Bridges
 Desfazer
-Médicos alertam: se você tem varizes, faça isso todos os diasAcabe com as Varizes! 
-Desfazer
-Dispositivo contra ronco e apneia chega ao Brasil e vira febre de vendasContra Ronco e Apneia
+Promoções imperdíveis de voos baratosVoos | Anúncios de Pesquisa
 Saiba Mais
+Desfazer
+Fogo de Chão: a experiência máxima do churrascoFogo de Chão
+Clique aqui
 Desfazer
 ## Em Saint-Tropez, apartamentos reverenciam Bauhaus, estética náutica e design italiano
 O Dimorestudio assina a reforma de duas unidades de um edifício vanguardista na Riviera Francesa
@@ -3206,7 +3259,7 @@ Detalhes personalizados e inspiração no Japão decoram ambiente pensado para o
 Há 4 semanas Casas de famosos 
 ## Atriz Maria Carol Rebello abre apartamento com heranças afetivas da família
 Envolvida com as gravações da novela 'Êta Mundo Melhor!', artista tem imóvel com recordações do tio, o diretor Jorge Fernando, e conta que fez reforma para integrar sala e cozinha
-Há 4 semanas Casas de famosos 
+Há 1 mês Casas de famosos 
 ## Com venda encalhada, casa onde morou Greta Garbo pode ser alugada por R$ 250 mil; fotos 
 Localizada em Beverly Hills, nos Estados Unidos, imóvel foi construído em 1937 e passou por reforma e modernização
 Há 1 mês Casa Vogue Estate 
@@ -3348,20 +3401,20 @@ SIGA
 Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
 Prosseguir
 Continue lendo
-Boa Vista Surf Lodge une charme serrano à cultura do surfeOs arquitetos Sig Bergamin e Murilo Lomas assinam o projeto de interiores e o arquitetônico – este último, em colaboração com o PSA Arquitetura, de Pablo SlemensonCasa Vogue
+Loucura prática: Barnaba Fornasetti mantém fábrica e legado do pai com fábrica em MilãoNo norte de Milão, Barnaba Fornasetti mantém viva a fantástica fábrica de porcelanas, móveis, papéis de parede – e sonhos – imaginada pelo pai, PieroCasa Vogue
 Desfazer
-Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
+Por dentro de mansão de R$ 325 milhões em deserto na CalifórniaCasa conta com três piscinas, sete quartos e 12 banheirosCasa Vogue
 Desfazer
-Apartamento para Venda em Praia Grande/SP - Cidade Ocian - 1 QuartosApartamentos com localização ótima , valores aceitam proposta no Financiamento Bancário e Negociação direto Proprietário , e desconto no pagamento a vista , e claro variação de plantas , lazer completo , lado praia , vista mar e próximo a comércios em geral , sem contar que próximo ao Breve Shopping Vila Mar ao lado da Prefeitura Praia GrandeChaves na Mão Imóveis | 
-Links patrocinadosLinks patrocinados
-Veja mais
-Desfazer
-Como preparar a casa para o inverno e deixá-la mais quente e aconcheganteCom pequenas mudanças é possível deixar o lar mais acolhedor para enfrentar os dias mais frios do anoCasa Vogue
-Desfazer
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo | 
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
 Links patrocinadosLinks patrocinados
 Desfazer
-Fiat Toro é a picape intermediária de melhor custo no Brasil em 2025Qual Comprar 2025: picape tem pacote de peças competitivo, bom desempenho e oferta na rede de concessionárias é um diferencialAuto Esporte | 
+Veneza está afundando? Aqui está o que você precisa saberVeneza está afundando? O turismo excessivo e as mudanças climáticas ameaçam seriamente esta proeza arquitetônicaCasa Vogue
+Desfazer
+After Losing Weight Kevin James Looks Like A Model33 Bridges | 
+Links patrocinadosLinks patrocinados
+Desfazer
+Volkswagen Virtus 2026: preços, versões, equipamentos e consumo  
+Sedã compacto chega à linha 2026 sem grandes mudanças, mas com nova versãAuto Esporte | 
 Links patrocinadosLinks patrocinados
 Desfazer
 A Casa Vogue gostaria de enviar notificações das principais notícias para você.
@@ -3375,10 +3428,10 @@ AceitoNão, obrigado
 - https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
 - https://edicoesglobocondenast.lojavirtualnuvem.com.br/
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://derma-fung.com/ts1
-- https://grupopuralife.com.br/sf
-- https://novidade-agora.com/adv01-varizes
-- https://portalg9.com.br/anti-ronco-reportagem
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
+- https://qsearch.io/index.php
+- https://fogodechao.com.br/reservas
 - https://www.instagram.com/casavoguebrasil/
 - https://twitter.com/casavoguebrasil
 - https://www.facebook.com/casavoguebrasil
@@ -3389,9 +3442,731 @@ AceitoNão, obrigado
 - https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
 - https://www.publicidadeeditoraglobo.com.br/
 - https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
-- https://cat.da.us.criteo.com/delivery/ckn.php
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
-- https://privacy.us.criteo.com/adchoices?cppv=3&cpp=ppezA3-fE7_D_WtXBW4y-vo9kmLp8jR_paAVUYHbRrOeYCGA9s2uUbYMX5s28-jo0kP7es6AdkcoHelvJAwdmLGQ9ODqSU6ehtiJ4Y5Re8--RoRGIjpRg1oGqhrdpMEACJQxgEeRT2emrUfCddEnQdCeni8
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
+  * Carregando...
+Acesse sua conta   
+ou cadastre-se grátis
+  * Home
+  * Newsletter
+  * Interiores
+    * Voltar 
+    * Interiores
+    * Apartamentos
+    * Casas
+    * Casas de famosos
+    * Home office
+    * Décor do dia
+    * Gente
+    * Tudo sobre interiores
+    * Ambientes
+  * Design
+    * Voltar 
+    * Design
+    * Móveis
+    * Objetos
+    * Sustentabilidade
+    * Luminárias
+    * Prêmio Casa Vogue Design
+    * Tecnologia
+    * Gente
+    * Tudo sobre design
+    * Feiras
+  * Arquitetura
+    * Voltar 
+    * Arquitetura
+    * Cidade
+    * Edifícios
+    * Paisagismo
+    * Gente
+    * Tudo sobre arquitetura
+    * Casas
+  * Lazer & Cultura
+    * Voltar 
+    * Lazer & Cultura
+    * Receitas
+    * Fotografia
+    * Restaurantes
+    * Viagem
+    * Livros
+    * Hotéis
+    * Tudo sobre lazer & cultura
+    * Arte
+  * Mostras & expos
+    * Voltar 
+    * Mostras & expos
+    * Arte
+    * Decoração
+    * Design
+    * Tudo sobre mostras & expos
+    * Arquitetura
+  * Seleção Archa + Casa Vogue
+  * Casa Vogue Experience
+  * Casa Vogue Estate
+  * Casa Vogue Smart
+  * Negócios
+  * Marcas parceiras
+  * Um só planeta
+  * Shopping
+  * Edição digital
+  * Colunas
+    * Voltar 
+    * Colunas
+    * A Botânica
+    * Arte em prosa
+    * Casa Conectada
+    * Casinha Vogue
+    * Cozinha de casa
+    * Organize a casa
+    * Revestindo a casa
+    * Tudo sobre colunas
+  * --
+  * Anuncie
+  * Assine
+  * Expediente
+  *     * princípios editoriais
+    * termos de uso
+    * política de privacidade
+
+
+  * g1
+  * ge
+  *   * gshow
+  *   * OGlobo
+
+
+  * todos os sites
+
+
+Menu
+casavogue / Casa Vogue Estate 
+#  Casa  
+Vogue Estate 
+Entrar
+Carregando...
+Casa Vogue Estate 
+Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experience  Casa Vogue Estate  Smart  Loja 
+## Casa Vogue | Estate
+### Acompanhe a melhor curadoria do mercado imobiliário de luxo
+## Boa Vista Surf Lodge une charme serrano à cultura do surfe
+Os arquitetos Sig Bergamin e Murilo Lomas assinam o projeto de interiores e o arquitetônico – este último, em colaboração com o PSA Arquitetura, de Pablo Slemenson
+Há 3 dias Casa Vogue Estate 
+## Mansão de 'The White Lotus' pode ser alugada com diárias de R$ 75 mil
+Com 4.000 m², imóvel comporta 16 pessoas e conta com piscinas, praia artificial, simulador de golfe, quadra poliesportiva, academia, cinema particular, spa.,oito quartos e oito banheiros
+Há 4 dias Casa Vogue Estate 
+## Por dentro de mansão de R$ 325 milhões em deserto na Califórnia
+Casa conta com três piscinas, sete quartos e 12 banheiros
+Há 4 dias Casa Vogue Estate 
+## Bem-estar nas alturas: Curitiba ganha primeiro wellness building do Brasil
+Primeiro wellness building do Brasil, o Age360, em Curitiba, tem a chancela de Greg Bousquet, do Architects Office
+Há 5 dias Casa Vogue Estate 
+## Um passeio pelo antigo refúgio de Barack e Michelle Obama, disputado por R$ 214,6 milhões
+Imóvel localizado em Massachusetts ficou apenas seis semanas no mercado
+Há 5 dias Casa Vogue Estate 
+## Você moraria em uma cela? Delegacia abandonada vai a leilão por R$ 4 milhões
+Imóvel na Inglaterra tem 20 cômodos, 10 banheiros, celas e um tribunal 
+Há 6 dias Casa Vogue Estate 
+por Taboolapor Taboola
+Conteúdo Publicitário
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
+Desfazer
+After Losing Weight Kevin James Looks Like A Model33 Bridges
+Desfazer
+She Was Everyone's Dream Girl In 90's, This Is Her Recently.Investructor
+Desfazer
+Fogo de Chão: a experiência máxima do churrascoFogo de Chão
+Clique aqui
+Desfazer
+## Aluguel de temporada: tudo o que você precisa saber antes de dispor o seu imóvel
+Especialistas falam das vantagens e desvantagens de disponibilizar o imóvel em plataformas de locação temporárias
+Há 1 semana Casa Vogue Estate 
+## Primeira casa de Frank Lloyd Wright em Indiana, nos Estados Unidos, está à venda por R$ 6,5 milhões
+Imóvel é considerado tesouro arquitetônico
+Há 1 semana Casa Vogue Estate 
+## Os 10 bairros com condomínios mais caros da cidade de São Paulo
+No ranking nacional, entre os bairros que compõem o TOP 10, sete estão na capital paulista – e os três primeiros colocados superam os R$ 2.600 mensais
+Há 2 semanas Casa Vogue Estate 
+## Casa onde Papa Leão XIV morou na infância será leiloada nos EUA
+Lance inicial está definido em 250 mil dólares, equivalente a R$ 1,39 milhão, em leilão marcado para o dia 18 de junho
+Há 2 semanas Casa Vogue Estate 
+## Ilha com casa e cabanas no Alasca está à venda por R$ 20 milhões
+Há 2 semanas Casa Vogue Estate 
+## A história do arranha-céu em Dubai que impressionou o mundo, mas está encalhado até hoje
+Símbolo da arquitetura futurista, edifício avaliado em US$ 1 bilhão nunca ultrapassou 65% de ocupação
+Há 3 semanas Casa Vogue Estate 
+## Cidade alemã oferece acomodações gratuitas para atrair novos moradores
+Ação faz parte da comemoração de 75 anos de Eisenhüttenstadt, cidade que fica na divisa entre Alemanha e Polônia
+Há 3 semanas Casa Vogue Estate 
+## Esta ilha na Nicarágua pode ser sua por R$ 2,7 milhões
+Propriedade a 45 minutos da costa é um refúgio no mar do Caribe
+Há 3 semanas Casa Vogue Estate 
+## Antes um barraco, esta simples cabana de pescador foi vendida por R$ 11,4 milhões
+Imóvel de 56m² localizado em Massachusetts foi disputada no mercado imobiliário 
+Há 3 semanas Casa Vogue Estate 
+## Casa de R$ 1,2 milhão viraliza por decoração peculiar na sala de estar; veja
+Imóvel localizado no País de Gales tem detalhes curiosos
+Há 3 semanas Casa Vogue Estate 
+## O que fazer em caso de atraso na entrega da obra? Veja seus direitos
+Advogado explica quais medidas tomar para diminuir os prejuízos quando uma obra atrasa
+Há 4 semanas Casa Vogue Estate 
+## Com venda encalhada, casa onde morou Greta Garbo pode ser alugada por R$ 250 mil; fotos 
+Localizada em Beverly Hills, nos Estados Unidos, imóvel foi construído em 1937 e passou por reforma e modernização
+Há 1 mês Casa Vogue Estate 
+## Única casa construída por Oscar Niemeyer nos EUA está à venda por R$ 101 milhões; veja por dentro
+Projetada em 1964, a casa histórica foi construída na mesma época em que o célebre arquiteto brasileiro foi banido de exercer sua profissão nos Estados Unidos devido suas posições políticas
+Há 1 mês Casa Vogue Estate 
+##  Antiga casa da família Gucci e Calvin Klein à venda por R$ 90 milhões; veja fotos
+Imóvel no coração de Nova York também foi lar de embaixadores italianos
+Há 1 mês Casa Vogue Estate 
+##  Esta mansão de R$ 36,8 milhões vem com um brinde luxuoso na garagem
+Localizado em Nova York, imóvel dará um automóvel para comprador 
+Há 1 mês Casa Vogue Estate 
+## Gosta de gatos? Esta casa de R$ 1,9 milhão tem decoração incomum para amantes dos felinos
+Banheiro temático chama a atenção em imóvel na Escócia
+Há 1 mês Casa Vogue Estate 
+## Esta mansão de R$ 341 milhões mais parece um resort – e já pertenceu a Quincy Jones
+A área de lazer desta casa tem piscina, quadra de tênis, lounge ao ar livre, salão de jogos e uma vista incrível de Los Angeles 
+Há 1 mês Casa Vogue Estate 
+## Esta mansão de R$ 84 milhões já foi de Avril Lavigne — e agora pode ser sua
+Com mais de 930 m², cinema residencial, piscina e espaço para jogos, a casa passou por uma renovação completa
+Há 1 mês Casa Vogue Estate 
+## Ilha particular frequentada por Rihanna está à venda por R$ 187,5 milhões
+Situada a 64 quilômetros do centro de Londres, a Osea Island tem 163 hectares e conta com 38 residências
+Há 1 mês Casa Vogue Estate 
+## R$ 112 milhões: Por dentro de mansão integrada à natureza nos Estados Unidos
+Localizada em Utah, imóvel de 1.044m² integra arquitetura ao ambiente
+Há 1 mês Casa Vogue Estate 
+## Os 10 bairros mais valorizados do Brasil e o que faz deles tão especiais
+Estudo inédito produzido pelo DataZAP analisou quais são os bairros com o metro quadrado mais caro entre as capitais brasileiras
+Há 2 meses Casa Vogue Estate 
+## Meg Ryan coloca mansão à venda por R$ 110 milhões após reforma completa; veja fotos
+Propriedade localizada na Califórnia tem vista para o mar
+Há 2 meses Casa Vogue Estate 
+##  Por dentro de um bunker assustador da Guerra Fria à venda por R$ 150 mil; veja fotos
+Localizada na Inglaterra, estrutura foi construída em 1957
+Há 2 meses Casa Vogue Estate 
+##  Por dentro da mansão de conto de fadas de Emma Roberts que está à venda por R$ 28,2 milhões
+Imóvel localizado na Califórnia foi construído em 1940 
+Há 2 meses Casa Vogue Estate 
+##  Morar em um farol em funcionamento é possível por R$ 8,4 milhões; veja fotos
+Imóvel localizado em Nova York tem 130 anos
+Há 2 meses Casa Vogue Estate 
+## Mansão de R$ 140 milhões tem rochas como elementos arquitetônicos na Grécia; fotos
+Com 930 m², imóvel brutalista foi idealizado pelo designer Tom Dixon
+Há 2 meses Casa Vogue Estate 
+Veja mais
+###  Assine a nossa newsletter! 
+Tudo que você precisa saber, diretamente no seu e-mail. É rápido e gratuito. 
+Cadastre seu email
+Li e concordo com os Termos de Uso e Política de Privacidade. Cadastrar meu email 
+####  Mais Lidas 
+  1. ##  Dia de São João: a história e as tradições da data
+  2. ##  Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
+  3. ##  Veneza está afundando? Aqui está o que você precisa saber
+  4. ##  Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
+  5. ##  1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
+
+
+CONTINUA DEPOIS DA PUBLICIDADE
+## Siga Casa Vogue
+## Mais em Globo Condé Nast
+### VOGUE: Daiane Sodré estreia na capa da Vogue Brasil: "Sempre quis fazer parte desta família"
+### GQ: 5 benefícios dos shots de gengibre comprovados pela ciência
+### CASA VOGUE: Como é a estrutura da escola mais cara do Brasil?
+### GLAMOUR: Isima: Shakira lança marca de beleza e aqui está tudo o que sabemos sobre ela
+SIGA
+### Paisagismo
+  * Suculenta 
+  * Rosa-do-Deserto 
+  * Girassol 
+  * Flor-da-Fortuna 
+  * Costela-de-Adão 
+
+
+### Interiores
+  * Banheiros modernos 
+  * Cores no quarto 
+  * Parede geométrica 
+  * Feng Shui 
+  * Rose gold 
+
+
+### Design
+  * Varal de fotos 
+  * Minimalismo 
+  * Design e arte 
+  * Tecnologia 
+  * Objetos 
+
+
+### Smart
+  * Bancada na cozinha 
+  * Tons de vermelho 
+  * Pau d'água 
+  * Modelos de cozinha 
+  * Casa de praia 
+
+
+### Lazer & Cultura
+  * Poke 
+  * Salgados 
+  * Hambúrguer 
+  * Casa do Porco 
+  * Drinks 
+
+
+  * Valor
+  * Pipeline
+  * Valor Investe
+
+
+  * O Globo
+  * Extra
+  * Autoesporte
+  * BHFM
+  * Casa e Jardim
+  * Casa Vogue
+  * CBN
+
+
+  * Crescer
+  * Época Negócios
+  * Galileu
+  * Glamour
+  * Globo Rural
+  * GQ
+  * Marie Claire
+
+
+  * Monet
+  * PEGN
+  * Quem
+  * Rádio Globo
+  * TechTudo
+  * Um Só Planeta
+  * Vida de Bicho
+  * Vogue
+
+
+  * Quem Somos
+  * Termos e Condições
+  * Trabalhe Conosco
+  * Política de Privacidade
+  * Princípios Editoriais
+  * Anuncie
+  * Minha Editora
+  * Rel. Transparência Salarial
+
+
+© 1996 - 2025. Todos direitos reservados a Editora Globo S/A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. 
+Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
+Prosseguir
+Continue lendo
+Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no larVer três árvores da janela; morar em um bairro com 30% de cobertura arbórea e estar a menos de 300 metros de uma área verde são os preceitos da regra, que ajuda a combater doenças, mortalidade e problemas de saúde mentalCasa Vogue
+Desfazer
+Por dentro de mansão de R$ 325 milhões em deserto na CalifórniaCasa conta com três piscinas, sete quartos e 12 banheirosCasa Vogue
+Desfazer
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
+Links patrocinadosLinks patrocinados
+Desfazer
+Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
+Desfazer
+After Losing Weight Kevin James Looks Like A Model33 Bridges | 
+Links patrocinadosLinks patrocinados
+Desfazer
+Galaxy Book4, Dell Inspiron 15 e mais notebooks para investir agora  
+Está em busca de um notebook com bom custo-benefício? Nessa lista, você confere modQual Comprar | 
+Links patrocinadosLinks patrocinados
+Desfazer
+A Casa Vogue gostaria de enviar notificações das principais notícias para você.
+AceitoNão, obrigado
+
+
+# Liens externes trouvés
+- https://archa.com.br/casa-vogue?utm_source=site_CV&utm_medium=menu_desk&utm_campaign=ArchaCV
+- https://casavogue.pressreader.com/casa-vogue/
+- https://s3.glbimg.com/v1/AUTH_91e21bc490b44c808f2d722ecf06a8e6/casa-vogue/M%C3%ADdia%20Kit%20Casa%20Vogue.pdf
+- https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
+- https://edicoesglobocondenast.lojavirtualnuvem.com.br/
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
+- https://investructor.com/trending/50-favorite-stars-whose-talent-timeless-looks-richard-dean-anderson-a1
+- https://fogodechao.com.br/reservas
+- https://www.instagram.com/casavoguebrasil/
+- https://twitter.com/casavoguebrasil
+- https://www.facebook.com/casavoguebrasil
+- https://br.pinterest.com/casavoguebrasil/
+- https://www.youtube.com/@CasaVogueBrasil
+- https://www.tiktok.com/@casavoguebrasil?_t=8e4M6cMDrxl&_r=1
+- https://www.techtudo.com.br/
+- https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
+- https://www.publicidadeeditoraglobo.com.br/
+- https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
+- https://www.techtudo.com.br/listas/2025/06/galaxy-book4-dell-inspiron-15-e-mais-notebooks-para-investir-agora-edqualcomprar.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUoon8yrz97kjJN3MK7_SQ#tblciGiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUoon8yrz97kjJN3MK7_SQ
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
+  * Carregando...
+Acesse sua conta   
+ou cadastre-se grátis
+  * Home
+  * Newsletter
+  * Interiores
+    * Voltar 
+    * Interiores
+    * Apartamentos
+    * Casas
+    * Casas de famosos
+    * Home office
+    * Décor do dia
+    * Gente
+    * Tudo sobre interiores
+    * Ambientes
+  * Design
+    * Voltar 
+    * Design
+    * Móveis
+    * Objetos
+    * Sustentabilidade
+    * Luminárias
+    * Prêmio Casa Vogue Design
+    * Tecnologia
+    * Gente
+    * Tudo sobre design
+    * Feiras
+  * Arquitetura
+    * Voltar 
+    * Arquitetura
+    * Cidade
+    * Edifícios
+    * Paisagismo
+    * Gente
+    * Tudo sobre arquitetura
+    * Casas
+  * Lazer & Cultura
+    * Voltar 
+    * Lazer & Cultura
+    * Receitas
+    * Fotografia
+    * Restaurantes
+    * Viagem
+    * Livros
+    * Hotéis
+    * Tudo sobre lazer & cultura
+    * Arte
+  * Mostras & expos
+    * Voltar 
+    * Mostras & expos
+    * Arte
+    * Decoração
+    * Design
+    * Tudo sobre mostras & expos
+    * Arquitetura
+  * Seleção Archa + Casa Vogue
+  * Casa Vogue Experience
+  * Casa Vogue Estate
+  * Casa Vogue Smart
+  * Negócios
+  * Marcas parceiras
+  * Um só planeta
+  * Shopping
+  * Edição digital
+  * Colunas
+    * Voltar 
+    * Colunas
+    * A Botânica
+    * Arte em prosa
+    * Casa Conectada
+    * Casinha Vogue
+    * Cozinha de casa
+    * Organize a casa
+    * Revestindo a casa
+    * Tudo sobre colunas
+  * --
+  * Anuncie
+  * Assine
+  * Expediente
+  *     * princípios editoriais
+    * termos de uso
+    * política de privacidade
+
+
+  * g1
+  * ge
+  *   * gshow
+  *   * OGlobo
+
+
+  * todos os sites
+
+
+Menu
+casavogue / Smart 
+#  Smart 
+Entrar
+Carregando...
+Smart 
+Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experience  Casa Vogue Estate  Smart  Loja 
+## Casa Vogue | Smart
+### Um apanhado de matérias que prometem facilitar o seu dia a dia e renovar a sua casa com personalidade
+## Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
+As fases da lua foram cruciais ao longo da história humana, e as razões são infinitas
+Há 18 horas Smart 
+## Como preparar a casa para o inverno e deixá-la mais quente e aconchegante
+Com pequenas mudanças é possível deixar o lar mais acolhedor para enfrentar os dias mais frios do ano
+Há 5 dias Smart 
+## Quantos assentos você deve ter em casa, segundo o Feng Shui?
+No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específico
+Há 5 dias Smart 
+## Kanso, a decoração semelhante ao Feng Shui que você vai adorar
+A decoração kanso vai te ajudar a viver com mais limpeza e harmonia, pois te faz questionar se cada objeto em sua casa realmente merece estar ali
+Há 6 dias Smart 
+## Elefante indiano: onde colocá-lo em casa para atrair fortuna, segundo o Feng Shui
+Mais do que um objeto decorativo, o elefante da sorte pode se tornar um verdadeiro ímã de energia positiva
+Há 6 dias Smart 
+## Cachorro sente frio? Saiba onde o pet deve dormir quando a temperatura cai
+Veterinárias ensinam a montar um local seguro e confortável para os cães dormirem no inverno
+Há 7 dias Smart 
+por Taboolapor Taboola
+Conteúdo Publicitário
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
+Desfazer
+Promoções imperdíveis de voos baratosVoos | Anúncios de Pesquisa
+Saiba Mais
+Desfazer
+After Losing Weight Kevin James Looks Like A Model33 Bridges
+Desfazer
+Fogo de Chão: a experiência máxima do churrascoFogo de Chão
+Clique aqui
+Desfazer
+## Salas envidraçadas: 8 projetos cheios de luz natural
+Salas com grandes painéis de vidro costumam ter vistas incríveis e muita luz natural. Abaixo, você confere alguns projetos arquitetônicos que propõe um diálogo com a paisagem e ainda valorizam o design autoral e a arte
+Há 7 dias Decoração 
+## Plantas pendentes lindas para ter em casa
+Há 1 semana Smart 
+## Como tirar cheiro de tinta da casa? Veja dicas de especialistas
+Receitas caseiras, plantas e, sobretudo, a ventilação, estão entre as soluções apontadas
+Há 2 semanas Smart 
+## Quais são os tipos de taça e para que servem?
+Especialistas explicam como usar corretamente os tipos de taças mais comuns para diferentes bebidas
+Há 2 semanas Smart 
+## Como higienizar frutas corretamente?
+Ao longo da cadeia produtiva, as frutas podem ser contaminadas por bactérias, vírus, parasitas, fungos e sujeira. Aprenda a higienizá-las com especialistas
+Há 2 semanas Smart 
+## O que significa receber visita de bem-te-vi em casa
+Além de sua beleza e simpatia, o bem-te-vi carrega uma rica carga de significados simbólicos e espiritual
+Há 2 semanas Smart 
+## Banheiro sem janela: dicas e soluções para eliminar mofo e umidade
+Especialistas dão soluções práticas para deixar banheiros sem janelas sempre secos e saudáveis
+Há 2 semanas Smart 
+## Monstera: o significado espiritual da costela-de-adão no Feng Shui
+A planta tem um significado muito especial no Feng Shui graças a sua exuberância e comportamento na natureza
+Há 2 semanas Smart 
+## Qual a frequência ideal para trocar os lençóis e por que isso é importante para a sua saúde
+Especialistas ainda explicam qual a maneira correta de lavar os lençóis, conforme o tipo de tecido
+Há 3 semanas Smart 
+## Quadro grande para sala: 7 ideias de decoração
+A escolha de obras de arte tem um peso enorme em um projeto de interiores: além de contar sobre os moradores, elas também são capazes de transformar a sensação de todo um ambiente 
+Há 3 semanas Smart 
+## Adicionar limão na água deixa o chão mais limpo e brilhante? O que dizem especialistas
+Limão pode ajudar em algumas situações, mas deve ser utilizado com cuidado 
+Há 3 semanas Smart 
+## Estante aberta: 10 ideias de decoração para se inspirar
+Além de versátil, a estante aberta traz leveza, fluidez e permite uma maior interação visual entre ambientes
+Há 3 semanas Smart 
+## Tipos de aspirador de pó: qual deles é o ideal para a sua rotina?
+Os aspiradores de pó estão ficando cada dia mais práticos e tecnológicos. Alguns modelos até acumulam a função de passar pano
+Há 3 semanas Smart 
+## Como fazer bandeirinha de festa junina
+Há 3 semanas Smart 
+## Como proteger a casa de ratos e acabar com infestações
+Especialistas explicam o que atrai os roedores para dentro de casa e o que fazer para mantê-los bem longe do lar
+Há 3 semanas Smart 
+## Quais são os principais produtos de limpeza e para que servem?
+Confira um guia prático com os principais itens usados no dia a dia, suas funções e as melhores formas de utilizá-los em casa
+Há 3 semanas Smart 
+## Luminária de trilho: vantagens e desvantagens que você não sabia sobre a peça
+Especialistas explicam quando e como usar a iluminação que permite direcionar os pontos de luz, de acordo com a necessidade do ambiente
+Há 3 semanas Luminárias 
+## Por que o filtro de barro brasileiro é um dos melhores do mundo
+Presente em muitos lares brasileiros, o filtro de barro permanece atual graças à sua eficácia, simplicidade e sustentabilidade
+Há 3 semanas Smart 
+## Como usar a planta jiboia para purificar a energia da casa e atrair bem-estar
+Se você não sabe como aproveitar a energia da jiboia e ativá-la para atrair abundância, aqui estão os melhores conselhos
+Há 4 semanas Smart 
+## 7 dicas para tirar cheiro de fritura da cozinha
+Há 4 semanas Smart 
+## 6 dicas para fazer a faxina em menos tempo
+Segundo especialistas, manutenção e utensílios corretos ajudam a diminuir o tempo gasto na limpeza do lar
+Há 4 semanas Smart 
+## É o fim do bege na decoração? Por que a Geração Z não quer saber mais do minimalismo nórdico
+A Geração Z está deixando a ordem bege e nórdica para trás. Contamos quais estilos estão chegando para tomar o lugar deles 
+Há 4 semanas Decoração 
+## Fachada envidraçada: o que saber antes de optar por uma
+Condições climáticas e orientação solar da fachada estão entre os pontos a serem observados ao optar por uma fachada envidraçada
+Há 4 semanas Smart 
+## Como tirar mau cheiro da máquina de lavar
+Acúmulo de resíduos e falta de ventilação estão entre as principais causas do mau cheiro na máquina de lavar roupas
+Há 1 mês Smart 
+## Como limpar sofá de suede: confira dicas de especialista
+A limpeza correta deste tipo de tecido, que imita a camurça, ajuda a aumentar a durabilidade do móvel
+Há 1 mês Smart 
+## Bedscaping: o que é e como transformar o quarto com a tendência
+Segundo especialistas, mudanças simples podem tornar o quarto mais aconchegante e ajudar a dormir melhor
+Há 1 mês Smart 
+Veja mais
+###  Assine a nossa newsletter! 
+Tudo que você precisa saber, diretamente no seu e-mail. É rápido e gratuito. 
+Cadastre seu email
+Li e concordo com os Termos de Uso e Política de Privacidade. Cadastrar meu email 
+####  Mais Lidas 
+  1. ##  Dia de São João: a história e as tradições da data
+  2. ##  Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
+  3. ##  Veneza está afundando? Aqui está o que você precisa saber
+  4. ##  Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
+  5. ##  1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
+
+
+CONTINUA DEPOIS DA PUBLICIDADE
+## Siga Casa Vogue
+## Mais em Globo Condé Nast
+### VOGUE: Daiane Sodré estreia na capa da Vogue Brasil: "Sempre quis fazer parte desta família"
+### GQ: 5 benefícios dos shots de gengibre comprovados pela ciência
+### CASA VOGUE: Como é a estrutura da escola mais cara do Brasil?
+### GLAMOUR: Isima: Shakira lança marca de beleza e aqui está tudo o que sabemos sobre ela
+SIGA
+### Paisagismo
+  * Suculenta 
+  * Rosa-do-Deserto 
+  * Girassol 
+  * Flor-da-Fortuna 
+  * Costela-de-Adão 
+
+
+### Interiores
+  * Banheiros modernos 
+  * Cores no quarto 
+  * Parede geométrica 
+  * Feng Shui 
+  * Rose gold 
+
+
+### Design
+  * Varal de fotos 
+  * Minimalismo 
+  * Design e arte 
+  * Tecnologia 
+  * Objetos 
+
+
+### Smart
+  * Bancada na cozinha 
+  * Tons de vermelho 
+  * Pau d'água 
+  * Modelos de cozinha 
+  * Casa de praia 
+
+
+### Lazer & Cultura
+  * Poke 
+  * Salgados 
+  * Hambúrguer 
+  * Casa do Porco 
+  * Drinks 
+
+
+  * Valor
+  * Pipeline
+  * Valor Investe
+
+
+  * O Globo
+  * Extra
+  * Autoesporte
+  * BHFM
+  * Casa e Jardim
+  * Casa Vogue
+  * CBN
+
+
+  * Crescer
+  * Época Negócios
+  * Galileu
+  * Glamour
+  * Globo Rural
+  * GQ
+  * Marie Claire
+
+
+  * Monet
+  * PEGN
+  * Quem
+  * Rádio Globo
+  * TechTudo
+  * Um Só Planeta
+  * Vida de Bicho
+  * Vogue
+
+
+  * Quem Somos
+  * Termos e Condições
+  * Trabalhe Conosco
+  * Política de Privacidade
+  * Princípios Editoriais
+  * Anuncie
+  * Minha Editora
+  * Rel. Transparência Salarial
+
+
+© 1996 - 2025. Todos direitos reservados a Editora Globo S/A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. 
+Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
+Prosseguir
+Continue lendo
+Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
+Desfazer
+A casa de 500 m² do ator e músico Dudu Azevedo, no Rio de JaneiroInspirados no modernismo brasileiro, Zanini de Zanine e Pedro Coimbra criaram a morada abraçada pela Mata AtlânticaCasa Vogue
+Desfazer
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
+Links patrocinadosLinks patrocinados
+Desfazer
+Quentão com chá: aprenda receita para festa juninaTradicional no Dia de São João, bebida ganha versão com uso de chá preto, vinho e especiariasCasa Vogue
+Desfazer
+Promoções imperdíveis de voos baratosVoos | Anúncios de Pesquisa | 
+Links patrocinadosLinks patrocinados
+Saiba Mais
+Desfazer
+Teste: novo BMW X5, 1° híbrido plug-in nacional, anda muito e faz 21 km/l  
+Fabricado em Araquari (SC), primeiro carro híbrido plug-in produziAuto Esporte | 
+Links patrocinadosLinks patrocinados
+Desfazer
+A Casa Vogue gostaria de enviar notificações das principais notícias para você.
+AceitoNão, obrigado
+
+
+# Liens externes trouvés
+- https://archa.com.br/casa-vogue?utm_source=site_CV&utm_medium=menu_desk&utm_campaign=ArchaCV
+- https://casavogue.pressreader.com/casa-vogue/
+- https://s3.glbimg.com/v1/AUTH_91e21bc490b44c808f2d722ecf06a8e6/casa-vogue/M%C3%ADdia%20Kit%20Casa%20Vogue.pdf
+- https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
+- https://edicoesglobocondenast.lojavirtualnuvem.com.br/
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://qsearch.io/index.php
+- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
+- https://fogodechao.com.br/reservas
+- https://www.instagram.com/casavoguebrasil/
+- https://twitter.com/casavoguebrasil
+- https://www.facebook.com/casavoguebrasil
+- https://br.pinterest.com/casavoguebrasil/
+- https://www.youtube.com/@CasaVogueBrasil
+- https://www.tiktok.com/@casavoguebrasil?_t=8e4M6cMDrxl&_r=1
+- https://www.techtudo.com.br/
+- https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
+- https://www.publicidadeeditoraglobo.com.br/
+- https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
   * Carregando...
@@ -3499,13 +4274,13 @@ Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experi
 ### Notícias sobre tendências de design, entrevistas com designers brasileiros e internacionais, lançamentos de móveis, objetos de decoração, luminárias e mais. Confira! 
 ## Loucura prática: Barnaba Fornasetti mantém fábrica e legado do pai com fábrica em Milão
 No norte de Milão, Barnaba Fornasetti mantém viva a fantástica fábrica de porcelanas, móveis, papéis de parede – e sonhos – imaginada pelo pai, Piero
-Ontem Design 
+Há 2 dias Design 
 ## Brasília Design Week 2025: confira os destaques da terceira edição evento
 A semana de design na capital federal ocorre até o dia 24 de junho, no Museu Nacional da República e em diversos endereços da cidade
 Há 5 dias Feiras 
 ## Oficina Francisco Brennand inaugura loja em São Paulo e amplia presença no mercado nacional
 Museu-ateliê do Recife chega a São Paulo com projeto de Mauricio Arruda e reforça vocação como embaixada da cerâmica autoral brasileira
-Há 5 dias Negócios 
+Há 6 dias Negócios 
 ## Em Campinas, nova loja da Lider combina áreas verdes, concreto aparente e iluminação natural
 O showroom celebra os 80 anos da marca de mobiliário de alto padrão 
 Há 6 dias Lojas 
@@ -3517,14 +4292,14 @@ O espaço com mais de 1200 m² tem projeto arquitetônico assinado por Guilherme
 Há 2 semanas Lojas 
 por Taboolapor Taboola
 Conteúdo Publicitário
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
 Desfazer
-Garanta o seu sorvete Artisano preferido aqui na Shopper!Shopper.com.br 
-Compre já
+After Losing Weight Kevin James Looks Like A Model33 Bridges
 Desfazer
-Médicos alertam: se você tem varizes, faça isso todos os diasAcabe com as Varizes! 
+Promoções imperdíveis de voos baratosVoos | Anúncios de Pesquisa
+Saiba Mais
 Desfazer
-Paolla Oliveira, 43, exibe seu tamanho real em novas fotos.Favour Lifestyle
+Jolie-Pitt Family Shows Support For Shiloh's ChangeDrivepedia
 Desfazer
 ## Tadao Ando revisita o tempo com poesia e precisão em seu primeiro relógio autoral
 O arquiteto japonês consagrado imprime sua visão minimalista — agora inspirada em uma maçã verde — em colaboração com a Cauny
@@ -3712,383 +4487,20 @@ SIGA
 Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
 Prosseguir
 Continue lendo
-Cidade catarinense ganha 'Festa do Roupão' no invernoDestaque no 'Globo Repórter', cidade turística conhecida por águas termais tem ruas com turistas e moradores fazendo uso de roupõesCasa Vogue
+Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
 Desfazer
-Giovanna Ewbank e Bruno Gagliasso abrem a brinquedoteca dos filhosCom projeto da arquiteta Hana Lerner, atores pensaram em ambiente lúdico para Títi, Bless e ZyanCasa Vogue
+Mansão de 'The White Lotus' pode ser alugada com diárias de R$ 75 milCom 4.000 m², imóvel comporta 16 pessoas e conta com piscinas, praia artificial, simulador de golfe, quadra poliesportiva, academia, cinema particular, spa.,oito quartos e oito banheirosCasa Vogue
 Desfazer
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo | 
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
 Links patrocinadosLinks patrocinados
 Desfazer
-Brasília Design Week 2025: confira os destaques da terceira edição eventoA semana de design na capital federal ocorre até o dia 24 de junho, no Museu Nacional da República e em diversos endereços da cidadeCasa Vogue
+1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São PauloCom visitas guiadas e exposições, evento revela joias ocultas da arquitetura moderna de São Paulo, de Carlos Millan a Paulo Mendes da RochaCasa Vogue
 Desfazer
-Garanta o seu sorvete Artisano preferido aqui na Shopper!Shopper.com.br  | 
-Links patrocinadosLinks patrocinados
-Compre já
-Desfazer
-Cafeteira Três Corações: 5 modelos que fazem um café perfeito  
-Conheça cinco cafeteiras de cápsula da marca que combinam bom desempenho, design elegante e pQual Comprar | 
+After Losing Weight Kevin James Looks Like A Model33 Bridges | 
 Links patrocinadosLinks patrocinados
 Desfazer
-A Casa Vogue gostaria de enviar notificações das principais notícias para você.
-AceitoNão, obrigado
-
-
-# Liens externes trouvés
-- https://archa.com.br/casa-vogue?utm_source=site_CV&utm_medium=menu_desk&utm_campaign=ArchaCV
-- https://casavogue.pressreader.com/casa-vogue/
-- https://s3.glbimg.com/v1/AUTH_91e21bc490b44c808f2d722ecf06a8e6/casa-vogue/M%C3%ADdia%20Kit%20Casa%20Vogue.pdf
-- https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
-- https://edicoesglobocondenast.lojavirtualnuvem.com.br/
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://derma-fung.com/ts1
-- https://landing.shopper.com.br
-- https://novidade-agora.com/adv01-varizes
-- https://favourlifestyle.com/trending/o-peso-e-altura-dessas-celebridades-irao-te-surpreender-2-tb-paolla-142
-- https://www.instagram.com/casavoguebrasil/
-- https://twitter.com/casavoguebrasil
-- https://www.facebook.com/casavoguebrasil
-- https://br.pinterest.com/casavoguebrasil/
-- https://www.youtube.com/@CasaVogueBrasil
-- https://www.tiktok.com/@casavoguebrasil?_t=8e4M6cMDrxl&_r=1
-- https://www.techtudo.com.br/
-- https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
-- https://www.publicidadeeditoraglobo.com.br/
-- https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
-- https://www.techtudo.com.br/listas/2025/05/cafeteira-tres-coracoes-modelos-que-fazem-um-cafe-perfeito-qualcomprarlb.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUooitnN9K3vwP49MK7_SQ#tblciGiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUooitnN9K3vwP49MK7_SQ
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
-  * Carregando...
-Acesse sua conta   
-ou cadastre-se grátis
-  * Home
-  * Newsletter
-  * Interiores
-    * Voltar 
-    * Interiores
-    * Apartamentos
-    * Casas
-    * Casas de famosos
-    * Home office
-    * Décor do dia
-    * Gente
-    * Tudo sobre interiores
-    * Ambientes
-  * Design
-    * Voltar 
-    * Design
-    * Móveis
-    * Objetos
-    * Sustentabilidade
-    * Luminárias
-    * Prêmio Casa Vogue Design
-    * Tecnologia
-    * Gente
-    * Tudo sobre design
-    * Feiras
-  * Arquitetura
-    * Voltar 
-    * Arquitetura
-    * Cidade
-    * Edifícios
-    * Paisagismo
-    * Gente
-    * Tudo sobre arquitetura
-    * Casas
-  * Lazer & Cultura
-    * Voltar 
-    * Lazer & Cultura
-    * Receitas
-    * Fotografia
-    * Restaurantes
-    * Viagem
-    * Livros
-    * Hotéis
-    * Tudo sobre lazer & cultura
-    * Arte
-  * Mostras & expos
-    * Voltar 
-    * Mostras & expos
-    * Arte
-    * Decoração
-    * Design
-    * Tudo sobre mostras & expos
-    * Arquitetura
-  * Seleção Archa + Casa Vogue
-  * Casa Vogue Experience
-  * Casa Vogue Estate
-  * Casa Vogue Smart
-  * Negócios
-  * Marcas parceiras
-  * Um só planeta
-  * Shopping
-  * Edição digital
-  * Colunas
-    * Voltar 
-    * Colunas
-    * A Botânica
-    * Arte em prosa
-    * Casa Conectada
-    * Casinha Vogue
-    * Cozinha de casa
-    * Organize a casa
-    * Revestindo a casa
-    * Tudo sobre colunas
-  * --
-  * Anuncie
-  * Assine
-  * Expediente
-  *     * princípios editoriais
-    * termos de uso
-    * política de privacidade
-
-
-  * g1
-  * ge
-  *   * gshow
-  *   * OGlobo
-
-
-  * todos os sites
-
-
-Menu
-casavogue / Smart 
-#  Smart 
-Entrar
-Carregando...
-Smart 
-Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experience  Casa Vogue Estate  Smart  Loja 
-## Casa Vogue | Smart
-### Um apanhado de matérias que prometem facilitar o seu dia a dia e renovar a sua casa com personalidade
-## Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
-As fases da lua foram cruciais ao longo da história humana, e as razões são infinitas
-Há 4 horas Smart 
-## Como preparar a casa para o inverno e deixá-la mais quente e aconchegante
-Com pequenas mudanças é possível deixar o lar mais acolhedor para enfrentar os dias mais frios do ano
-Há 4 dias Smart 
-## Quantos assentos você deve ter em casa, segundo o Feng Shui?
-No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específico
-Há 4 dias Smart 
-## Kanso, a decoração semelhante ao Feng Shui que você vai adorar
-A decoração kanso vai te ajudar a viver com mais limpeza e harmonia, pois te faz questionar se cada objeto em sua casa realmente merece estar ali
-Há 5 dias Smart 
-## Elefante indiano: onde colocá-lo em casa para atrair fortuna, segundo o Feng Shui
-Mais do que um objeto decorativo, o elefante da sorte pode se tornar um verdadeiro ímã de energia positiva
-Há 5 dias Smart 
-## Cachorro sente frio? Saiba onde o pet deve dormir quando a temperatura cai
-Veterinárias ensinam a montar um local seguro e confortável para os cães dormirem no inverno
-Há 6 dias Smart 
-por Taboolapor Taboola
-Conteúdo Publicitário
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo
-Desfazer
-Como corrigir as bolsas nos olhos (Faça isso todos os dias)Notícias | Beleza | Mulher
-Saiba Mais
-Desfazer
-Dispositivo contra ronco e apneia chega ao Brasil e vira febre de vendasContra Ronco e Apneia
-Saiba Mais
-Desfazer
-Médicos alertam: se você tem varizes, faça isso todos os diasAcabe com as Varizes! 
-Desfazer
-## Salas envidraçadas: 8 projetos cheios de luz natural
-Salas com grandes painéis de vidro costumam ter vistas incríveis e muita luz natural. Abaixo, você confere alguns projetos arquitetônicos que propõe um diálogo com a paisagem e ainda valorizam o design autoral e a arte
-Há 6 dias Decoração 
-## Plantas pendentes lindas para ter em casa
-Há 1 semana Smart 
-## Como tirar cheiro de tinta da casa? Veja dicas de especialistas
-Receitas caseiras, plantas e, sobretudo, a ventilação, estão entre as soluções apontadas
-Há 2 semanas Smart 
-## Quais são os tipos de taça e para que servem?
-Especialistas explicam como usar corretamente os tipos de taças mais comuns para diferentes bebidas
-Há 2 semanas Smart 
-## Como higienizar frutas corretamente?
-Ao longo da cadeia produtiva, as frutas podem ser contaminadas por bactérias, vírus, parasitas, fungos e sujeira. Aprenda a higienizá-las com especialistas
-Há 2 semanas Smart 
-## O que significa receber visita de bem-te-vi em casa
-Além de sua beleza e simpatia, o bem-te-vi carrega uma rica carga de significados simbólicos e espiritual
-Há 2 semanas Smart 
-## Banheiro sem janela: dicas e soluções para eliminar mofo e umidade
-Especialistas dão soluções práticas para deixar banheiros sem janelas sempre secos e saudáveis
-Há 2 semanas Smart 
-## Monstera: o significado espiritual da costela-de-adão no Feng Shui
-A planta tem um significado muito especial no Feng Shui graças a sua exuberância e comportamento na natureza
-Há 2 semanas Smart 
-## Qual a frequência ideal para trocar os lençóis e por que isso é importante para a sua saúde
-Especialistas ainda explicam qual a maneira correta de lavar os lençóis, conforme o tipo de tecido
-Há 2 semanas Smart 
-## Quadro grande para sala: 7 ideias de decoração
-A escolha de obras de arte tem um peso enorme em um projeto de interiores: além de contar sobre os moradores, elas também são capazes de transformar a sensação de todo um ambiente 
-Há 3 semanas Smart 
-## Adicionar limão na água deixa o chão mais limpo e brilhante? O que dizem especialistas
-Limão pode ajudar em algumas situações, mas deve ser utilizado com cuidado 
-Há 3 semanas Smart 
-## Estante aberta: 10 ideias de decoração para se inspirar
-Além de versátil, a estante aberta traz leveza, fluidez e permite uma maior interação visual entre ambientes
-Há 3 semanas Smart 
-## Tipos de aspirador de pó: qual deles é o ideal para a sua rotina?
-Os aspiradores de pó estão ficando cada dia mais práticos e tecnológicos. Alguns modelos até acumulam a função de passar pano
-Há 3 semanas Smart 
-## Como fazer bandeirinha de festa junina
-Há 3 semanas Smart 
-## Como proteger a casa de ratos e acabar com infestações
-Especialistas explicam o que atrai os roedores para dentro de casa e o que fazer para mantê-los bem longe do lar
-Há 3 semanas Smart 
-## Quais são os principais produtos de limpeza e para que servem?
-Confira um guia prático com os principais itens usados no dia a dia, suas funções e as melhores formas de utilizá-los em casa
-Há 3 semanas Smart 
-## Luminária de trilho: vantagens e desvantagens que você não sabia sobre a peça
-Especialistas explicam quando e como usar a iluminação que permite direcionar os pontos de luz, de acordo com a necessidade do ambiente
-Há 3 semanas Luminárias 
-## Por que o filtro de barro brasileiro é um dos melhores do mundo
-Presente em muitos lares brasileiros, o filtro de barro permanece atual graças à sua eficácia, simplicidade e sustentabilidade
-Há 3 semanas Smart 
-## Como usar a planta jiboia para purificar a energia da casa e atrair bem-estar
-Se você não sabe como aproveitar a energia da jiboia e ativá-la para atrair abundância, aqui estão os melhores conselhos
-Há 3 semanas Smart 
-## 7 dicas para tirar cheiro de fritura da cozinha
-Há 4 semanas Smart 
-## 6 dicas para fazer a faxina em menos tempo
-Segundo especialistas, manutenção e utensílios corretos ajudam a diminuir o tempo gasto na limpeza do lar
-Há 4 semanas Smart 
-## É o fim do bege na decoração? Por que a Geração Z não quer saber mais do minimalismo nórdico
-A Geração Z está deixando a ordem bege e nórdica para trás. Contamos quais estilos estão chegando para tomar o lugar deles 
-Há 4 semanas Decoração 
-## Fachada envidraçada: o que saber antes de optar por uma
-Condições climáticas e orientação solar da fachada estão entre os pontos a serem observados ao optar por uma fachada envidraçada
-Há 4 semanas Smart 
-## Como tirar mau cheiro da máquina de lavar
-Acúmulo de resíduos e falta de ventilação estão entre as principais causas do mau cheiro na máquina de lavar roupas
-Há 4 semanas Smart 
-## Como limpar sofá de suede: confira dicas de especialista
-A limpeza correta deste tipo de tecido, que imita a camurça, ajuda a aumentar a durabilidade do móvel
-Há 4 semanas Smart 
-## Bedscaping: o que é e como transformar o quarto com a tendência
-Segundo especialistas, mudanças simples podem tornar o quarto mais aconchegante e ajudar a dormir melhor
-Há 1 mês Smart 
-Veja mais
-###  Assine a nossa newsletter! 
-Tudo que você precisa saber, diretamente no seu e-mail. É rápido e gratuito. 
-Cadastre seu email
-Li e concordo com os Termos de Uso e Política de Privacidade. Cadastrar meu email 
-####  Mais Lidas 
-  1. ##  Dia de São João: a história e as tradições da data
-  2. ##  Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
-  3. ##  Veneza está afundando? Aqui está o que você precisa saber
-  4. ##  Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
-  5. ##  1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
-
-
-CONTINUA DEPOIS DA PUBLICIDADE
-## Siga Casa Vogue
-## Mais em Globo Condé Nast
-### VOGUE: Daiane Sodré estreia na capa da Vogue Brasil: "Sempre quis fazer parte desta família"
-### GQ: 5 benefícios dos shots de gengibre comprovados pela ciência
-### CASA VOGUE: Como é a estrutura da escola mais cara do Brasil?
-### GLAMOUR: Isima: Shakira lança marca de beleza e aqui está tudo o que sabemos sobre ela
-SIGA
-### Paisagismo
-  * Suculenta 
-  * Rosa-do-Deserto 
-  * Girassol 
-  * Flor-da-Fortuna 
-  * Costela-de-Adão 
-
-
-### Interiores
-  * Banheiros modernos 
-  * Cores no quarto 
-  * Parede geométrica 
-  * Feng Shui 
-  * Rose gold 
-
-
-### Design
-  * Varal de fotos 
-  * Minimalismo 
-  * Design e arte 
-  * Tecnologia 
-  * Objetos 
-
-
-### Smart
-  * Bancada na cozinha 
-  * Tons de vermelho 
-  * Pau d'água 
-  * Modelos de cozinha 
-  * Casa de praia 
-
-
-### Lazer & Cultura
-  * Poke 
-  * Salgados 
-  * Hambúrguer 
-  * Casa do Porco 
-  * Drinks 
-
-
-  * Valor
-  * Pipeline
-  * Valor Investe
-
-
-  * O Globo
-  * Extra
-  * Autoesporte
-  * BHFM
-  * Casa e Jardim
-  * Casa Vogue
-  * CBN
-
-
-  * Crescer
-  * Época Negócios
-  * Galileu
-  * Glamour
-  * Globo Rural
-  * GQ
-  * Marie Claire
-
-
-  * Monet
-  * PEGN
-  * Quem
-  * Rádio Globo
-  * TechTudo
-  * Um Só Planeta
-  * Vida de Bicho
-  * Vogue
-
-
-  * Quem Somos
-  * Termos e Condições
-  * Trabalhe Conosco
-  * Política de Privacidade
-  * Princípios Editoriais
-  * Anuncie
-  * Minha Editora
-  * Rel. Transparência Salarial
-
-
-© 1996 - 2025. Todos direitos reservados a Editora Globo S/A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. 
-Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
-Prosseguir
-Continue lendo
-Zé Felipe mostra área externa de nova mansão ao brincar com filhosApós fim de casamento com apresentadora Virginia Fonseca, cantor se mudou de casa e fez questão que espaço contasse com área de lazerCasa Vogue
-Desfazer
-Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delasAs fases da lua foram cruciais ao longo da história humana, e as razões são infinitasCasa Vogue
-Desfazer
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo | 
-Links patrocinadosLinks patrocinados
-Desfazer
-Na Espanha, monumento de aço corten homenageia Walter BenjaminAo norte de Cadaqués, na Espanha, quase na fronteira com a França, esconde-se um dos monumentos mais impressionantes da Europa: o Memorial de Walter Benjamin. Perfeitamente integrado à paisagem, ele é uma aula magistral sobre o encontro entre arquitetura e memóriaCasa Vogue
-Desfazer
-Como corrigir as bolsas nos olhos (Faça isso todos os dias)Notícias | Beleza | Mulher | 
-Links patrocinadosLinks patrocinados
-Saiba Mais
-Desfazer
-Além da JBL Go: 6 caixas de som portáteis que cabem em qualquer bolso  
-Lista conta com opções da LG, Aiwa, Amazon e da própria JBL, com preços que variam desde R$ Qual Comprar | 
+Lavadora Brastemp e Electrolux: 5 itens para equipar qualquer lavanderia  
+Modelos oferecem praticidade e eficiência para todos os tamanhos de família, com opções Qual Comprar | 
 Links patrocinadosLinks patrocinados
 Desfazer
 A Casa Vogue gostaria de enviar notificações das principais notícias para você.
@@ -4102,10 +4514,10 @@ AceitoNão, obrigado
 - https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
 - https://edicoesglobocondenast.lojavirtualnuvem.com.br/
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://derma-fung.com/ts1
-- https://info.blivo.com.br/sfunnel/2908
-- https://portalg9.com.br/anti-ronco-reportagem
-- https://novidade-agora.com/adv01-varizes
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
+- https://qsearch.io/index.php
+- https://drivepedia.com/articles/shiloh-story-syn
 - https://www.instagram.com/casavoguebrasil/
 - https://twitter.com/casavoguebrasil
 - https://www.facebook.com/casavoguebrasil
@@ -4118,7 +4530,7 @@ AceitoNão, obrigado
 - https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
-- https://www.techtudo.com.br/listas/2025/06/alem-da-jbl-go-caixas-de-som-portateis-que-cabem-em-qualquer-bolso-edqualcomprar.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUoo0czD6djmiL3SATCu_0k#tblciGiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUoo0czD6djmiL3SATCu_0k
+- https://www.techtudo.com.br/listas/2025/06/lavadora-brastemp-e-electrolux-itens-para-equipar-qualquer-lavanderia-edqualcomprarlb.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUooo-zJ39HSv-oVMK7_SQ#tblciGiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUooo-zJ39HSv-oVMK7_SQ
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
   * Carregando...
 Acesse sua conta   
@@ -4225,13 +4637,13 @@ Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experi
 ### Fique por dentro de todas as notícias de arquitetura, urbanismo, cidades, edifícios, paisagismo, além de entrevistas e muitas casas e apartamentos incríveis. Confira!
 ## Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
 Ver três árvores da janela; morar em um bairro com 30% de cobertura arbórea e estar a menos de 300 metros de uma área verde são os preceitos da regra, que ajuda a combater doenças, mortalidade e problemas de saúde mental
-Há 4 horas Um só planeta 
+Há 18 horas Um só planeta 
 ## Veneza está afundando? Aqui está o que você precisa saber
 Veneza está afundando? O turismo excessivo e as mudanças climáticas ameaçam seriamente esta proeza arquitetônica
-Há 4 horas Um só planeta 
+Há 18 horas Um só planeta 
 ## 1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
 Com visitas guiadas e exposições, evento revela joias ocultas da arquitetura moderna de São Paulo, de Carlos Millan a Paulo Mendes da Rocha
-Ontem Arquitetura 
+Há 2 dias Arquitetura 
 ## Arranha-céu de 52 andares tem construção retomada em Nova York
 Há 2 dias Edifícios 
 ## Na China, as obras do arranha-céu abandonado mais alto do mundo serão retomadas
@@ -4242,15 +4654,13 @@ Entre ambições modernistas e pragmatismo político, o estádio mais emblemáti
 Há 1 semana Edifícios 
 por Taboolapor Taboola
 Conteúdo Publicitário
-Video from our partners Brought to you by Taboola
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
 Desfazer
-Dispositivo contra ronco e apneia chega ao Brasil e vira febre de vendasContra Ronco e Apneia
-Saiba Mais
+After Losing Weight Kevin James Looks Like A Model33 Bridges
 Desfazer
-Médicos alertam: se você tem varizes, faça isso todos os diasAcabe com as Varizes! 
+Jolie-Pitt Family Shows Support For Shiloh's ChangeDrivepedia
 Desfazer
-Fim da neuropatia? Prove isso agora para aliviar os sintomas.A arte do herbalismo
+She Was Everyone's Dream Girl In 90's, This Is Her Recently.Investructor
 Desfazer
 ## O ritual japonês para fazer suas flores crescerem 
 Uma tradição ancestral que você pode reproduzir em casa para se conectar com suas plantas e deixá-las florescer com intenção
@@ -4272,7 +4682,7 @@ Uma ideia errada de progresso, pressão do setor imobiliário e falta de recurso
 Há 2 semanas Arquitetura 
 ## Este é o hospital veterinário mais incrível que você já viu
 Com uma fachada marcada por estruturas curvilíneas de concreto, o projeto do arquiteto suíço Davide Macullo já se tornou um ícone na paisagem de Tirana, na Albânia
-Há 2 semanas Edifícios 
+Há 3 semanas Edifícios 
 ## Ícone da arquitetura de Milão, Torre Velasca reabre após restauro de cinco anos
 O projeto de restauro conduzido pelo Studio Asti Architetti recuperou elementos originais dos anos 1950, atualizou os interiores do edifício e reformou a piazza Velasca 
 Há 3 semanas Edifícios 
@@ -4302,7 +4712,7 @@ Projetadas pelo escritório carioca Gávea, estas cabanas foram criadas de manei
 Há 4 semanas Casas 
 ## Moraria? Casa no Arizona é construída sobre rochas (e tem até um riacho na sala)
 No deserto do Arizona (EUA), esta casa incorporou as formações rochosas aos ambientes e ganhou uma atmosfera rústica e quase inóspita
-Há 4 semanas Casas 
+Há 1 mês Casas 
 ## Edifício na Tailândia tem plataforma inclinada a quase 300 metros
 Instalação fica no 75º andar em famoso arranha-céu da cidade de Bangkok e atrai turistas
 Há 1 mês Edifícios 
@@ -4438,386 +4848,20 @@ SIGA
 Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
 Prosseguir
 Continue lendo
-Zé Felipe mostra área externa de nova mansão ao brincar com filhosApós fim de casamento com apresentadora Virginia Fonseca, cantor se mudou de casa e fez questão que espaço contasse com área de lazerCasa Vogue
+Este é o terraço em Barcelona que todo amante de arquitetura (e bons drinques) deveria conhecerDo topo do Hotel Almanac, o Azimuth Rooftop redefine a experiência urbana: vistas históricas, design e coquetéis se unem para oferecer uma nova maneira de ver a cidadeCasa Vogue
 Desfazer
-A casa de 500 m² do ator e músico Dudu Azevedo, no Rio de JaneiroInspirados no modernismo brasileiro, Zanini de Zanine e Pedro Coimbra criaram a morada abraçada pela Mata AtlânticaCasa Vogue
+Como preparar a casa para o inverno e deixá-la mais quente e aconcheganteCom pequenas mudanças é possível deixar o lar mais acolhedor para enfrentar os dias mais frios do anoCasa Vogue
 Desfazer
-Apartamento para Venda em Praia Grande/SP - Cidade Ocian - 1 QuartosApartamentos com localização ótima , valores aceitam proposta no Financiamento Bancário e Negociação direto Proprietário , e desconto no pagamento a vista , e claro variação de plantas , lazer completo , lado praia , vista mar e próximo a comércios em geral , sem contar que próximo ao Breve Shopping Vila Mar ao lado da Prefeitura Praia GrandeChaves na Mão Imóveis | 
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
 Links patrocinadosLinks patrocinados
-Veja mais
 Desfazer
 Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
 Desfazer
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo | 
+After Losing Weight Kevin James Looks Like A Model33 Bridges | 
 Links patrocinadosLinks patrocinados
 Desfazer
-Compare o preço de 5 Alexas e escolha a que vale a pena para você  
-Versões com e sem display da linha Echo, da Amazon, prometem otimizar a rotina e levar músicaQual Comprar | 
-Links patrocinadosLinks patrocinados
-Desfazer
-A Casa Vogue gostaria de enviar notificações das principais notícias para você.
-AceitoNão, obrigado
-
-
-# Liens externes trouvés
-- https://archa.com.br/casa-vogue?utm_source=site_CV&utm_medium=menu_desk&utm_campaign=ArchaCV
-- https://casavogue.pressreader.com/casa-vogue/
-- https://s3.glbimg.com/v1/AUTH_91e21bc490b44c808f2d722ecf06a8e6/casa-vogue/M%C3%ADdia%20Kit%20Casa%20Vogue.pdf
-- https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
-- https://edicoesglobocondenast.lojavirtualnuvem.com.br/
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://derma-fung.com/ts1
-- https://portalg9.com.br/anti-ronco-reportagem
-- https://novidade-agora.com/adv01-varizes
-- https://grupopuralife.com.br/sf
-- https://www.instagram.com/casavoguebrasil/
-- https://twitter.com/casavoguebrasil
-- https://www.facebook.com/casavoguebrasil
-- https://br.pinterest.com/casavoguebrasil/
-- https://www.youtube.com/@CasaVogueBrasil
-- https://www.tiktok.com/@casavoguebrasil?_t=8e4M6cMDrxl&_r=1
-- https://www.techtudo.com.br/
-- https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
-- https://www.publicidadeeditoraglobo.com.br/
-- https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
-- https://cat.da.us.criteo.com/delivery/ckn.php
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
-- https://privacy.us.criteo.com/adchoices?cppv=3&cpp=1kH-jSXcIMynKXWBdrPbnyXlGfhCnZkXydhTMUXVPtJ9nzk2AuCjqo2pkPDPqGxhLt49oCkub1BiraVE6Zf3PkHY-oeRZj_YfFsE13BjNy18lycDCjhlsTCQ5Lw6lezVUst_jxdp2Qo15ptARoLqUvh8Bb4
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
-- https://www.techtudo.com.br/listas/2025/06/compare-o-preco-de-alexas-e-escolha-a-que-vale-a-pena-para-voce-edqualcomprar.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUoolvuHzMm_p8gBMK7_SQ#tblciGiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUoolvuHzMm_p8gBMK7_SQ
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
-  * Carregando...
-Acesse sua conta   
-ou cadastre-se grátis
-  * Home
-  * Newsletter
-  * Interiores
-    * Voltar 
-    * Interiores
-    * Apartamentos
-    * Casas
-    * Casas de famosos
-    * Home office
-    * Décor do dia
-    * Gente
-    * Tudo sobre interiores
-    * Ambientes
-  * Design
-    * Voltar 
-    * Design
-    * Móveis
-    * Objetos
-    * Sustentabilidade
-    * Luminárias
-    * Prêmio Casa Vogue Design
-    * Tecnologia
-    * Gente
-    * Tudo sobre design
-    * Feiras
-  * Arquitetura
-    * Voltar 
-    * Arquitetura
-    * Cidade
-    * Edifícios
-    * Paisagismo
-    * Gente
-    * Tudo sobre arquitetura
-    * Casas
-  * Lazer & Cultura
-    * Voltar 
-    * Lazer & Cultura
-    * Receitas
-    * Fotografia
-    * Restaurantes
-    * Viagem
-    * Livros
-    * Hotéis
-    * Tudo sobre lazer & cultura
-    * Arte
-  * Mostras & expos
-    * Voltar 
-    * Mostras & expos
-    * Arte
-    * Decoração
-    * Design
-    * Tudo sobre mostras & expos
-    * Arquitetura
-  * Seleção Archa + Casa Vogue
-  * Casa Vogue Experience
-  * Casa Vogue Estate
-  * Casa Vogue Smart
-  * Negócios
-  * Marcas parceiras
-  * Um só planeta
-  * Shopping
-  * Edição digital
-  * Colunas
-    * Voltar 
-    * Colunas
-    * A Botânica
-    * Arte em prosa
-    * Casa Conectada
-    * Casinha Vogue
-    * Cozinha de casa
-    * Organize a casa
-    * Revestindo a casa
-    * Tudo sobre colunas
-  * --
-  * Anuncie
-  * Assine
-  * Expediente
-  *     * princípios editoriais
-    * termos de uso
-    * política de privacidade
-
-
-  * g1
-  * ge
-  *   * gshow
-  *   * OGlobo
-
-
-  * todos os sites
-
-
-Menu
-casavogue / Casa Vogue Estate 
-#  Casa  
-Vogue Estate 
-Entrar
-Carregando...
-Casa Vogue Estate 
-Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experience  Casa Vogue Estate  Smart  Loja 
-## Casa Vogue | Estate
-### Acompanhe a melhor curadoria do mercado imobiliário de luxo
-## Boa Vista Surf Lodge une charme serrano à cultura do surfe
-Os arquitetos Sig Bergamin e Murilo Lomas assinam o projeto de interiores e o arquitetônico – este último, em colaboração com o PSA Arquitetura, de Pablo Slemenson
-Há 2 dias Casa Vogue Estate 
-## Mansão de 'The White Lotus' pode ser alugada com diárias de R$ 75 mil
-Com 4.000 m², imóvel comporta 16 pessoas e conta com piscinas, praia artificial, simulador de golfe, quadra poliesportiva, academia, cinema particular, spa.,oito quartos e oito banheiros
-Há 3 dias Casa Vogue Estate 
-## Por dentro de mansão de R$ 325 milhões em deserto na Califórnia
-Casa conta com três piscinas, sete quartos e 12 banheiros
-Há 4 dias Casa Vogue Estate 
-## Bem-estar nas alturas: Curitiba ganha primeiro wellness building do Brasil
-Primeiro wellness building do Brasil, o Age360, em Curitiba, tem a chancela de Greg Bousquet, do Architects Office
-Há 4 dias Casa Vogue Estate 
-## Um passeio pelo antigo refúgio de Barack e Michelle Obama, disputado por R$ 214,6 milhões
-Imóvel localizado em Massachusetts ficou apenas seis semanas no mercado
-Há 5 dias Casa Vogue Estate 
-## Você moraria em uma cela? Delegacia abandonada vai a leilão por R$ 4 milhões
-Imóvel na Inglaterra tem 20 cômodos, 10 banheiros, celas e um tribunal 
-Há 5 dias Casa Vogue Estate 
-por Taboolapor Taboola
-Conteúdo Publicitário
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo
-Desfazer
-Dispositivo contra ronco e apneia chega ao Brasil e vira febre de vendasContra Ronco e Apneia
-Saiba Mais
-Desfazer
-Fim da neuropatia? Prove isso agora para aliviar os sintomas.A arte do herbalismo
-Desfazer
-Apenas 2 minutos ao dia para você cuidar das varizes com este truque caseiroAcabe com as Varizes! 
-Desfazer
-## Aluguel de temporada: tudo o que você precisa saber antes de dispor o seu imóvel
-Especialistas falam das vantagens e desvantagens de disponibilizar o imóvel em plataformas de locação temporárias
-Há 1 semana Casa Vogue Estate 
-## Primeira casa de Frank Lloyd Wright em Indiana, nos Estados Unidos, está à venda por R$ 6,5 milhões
-Imóvel é considerado tesouro arquitetônico
-Há 1 semana Casa Vogue Estate 
-## Os 10 bairros com condomínios mais caros da cidade de São Paulo
-No ranking nacional, entre os bairros que compõem o TOP 10, sete estão na capital paulista – e os três primeiros colocados superam os R$ 2.600 mensais
-Há 2 semanas Casa Vogue Estate 
-## Casa onde Papa Leão XIV morou na infância será leiloada nos EUA
-Lance inicial está definido em 250 mil dólares, equivalente a R$ 1,39 milhão, em leilão marcado para o dia 18 de junho
-Há 2 semanas Casa Vogue Estate 
-## Ilha com casa e cabanas no Alasca está à venda por R$ 20 milhões
-Há 2 semanas Casa Vogue Estate 
-## A história do arranha-céu em Dubai que impressionou o mundo, mas está encalhado até hoje
-Símbolo da arquitetura futurista, edifício avaliado em US$ 1 bilhão nunca ultrapassou 65% de ocupação
-Há 3 semanas Casa Vogue Estate 
-## Cidade alemã oferece acomodações gratuitas para atrair novos moradores
-Ação faz parte da comemoração de 75 anos de Eisenhüttenstadt, cidade que fica na divisa entre Alemanha e Polônia
-Há 3 semanas Casa Vogue Estate 
-## Esta ilha na Nicarágua pode ser sua por R$ 2,7 milhões
-Propriedade a 45 minutos da costa é um refúgio no mar do Caribe
-Há 3 semanas Casa Vogue Estate 
-## Antes um barraco, esta simples cabana de pescador foi vendida por R$ 11,4 milhões
-Imóvel de 56m² localizado em Massachusetts foi disputada no mercado imobiliário 
-Há 3 semanas Casa Vogue Estate 
-## Casa de R$ 1,2 milhão viraliza por decoração peculiar na sala de estar; veja
-Imóvel localizado no País de Gales tem detalhes curiosos
-Há 3 semanas Casa Vogue Estate 
-## O que fazer em caso de atraso na entrega da obra? Veja seus direitos
-Advogado explica quais medidas tomar para diminuir os prejuízos quando uma obra atrasa
-Há 4 semanas Casa Vogue Estate 
-## Com venda encalhada, casa onde morou Greta Garbo pode ser alugada por R$ 250 mil; fotos 
-Localizada em Beverly Hills, nos Estados Unidos, imóvel foi construído em 1937 e passou por reforma e modernização
-Há 1 mês Casa Vogue Estate 
-## Única casa construída por Oscar Niemeyer nos EUA está à venda por R$ 101 milhões; veja por dentro
-Projetada em 1964, a casa histórica foi construída na mesma época em que o célebre arquiteto brasileiro foi banido de exercer sua profissão nos Estados Unidos devido suas posições políticas
-Há 1 mês Casa Vogue Estate 
-##  Antiga casa da família Gucci e Calvin Klein à venda por R$ 90 milhões; veja fotos
-Imóvel no coração de Nova York também foi lar de embaixadores italianos
-Há 1 mês Casa Vogue Estate 
-##  Esta mansão de R$ 36,8 milhões vem com um brinde luxuoso na garagem
-Localizado em Nova York, imóvel dará um automóvel para comprador 
-Há 1 mês Casa Vogue Estate 
-## Gosta de gatos? Esta casa de R$ 1,9 milhão tem decoração incomum para amantes dos felinos
-Banheiro temático chama a atenção em imóvel na Escócia
-Há 1 mês Casa Vogue Estate 
-## Esta mansão de R$ 341 milhões mais parece um resort – e já pertenceu a Quincy Jones
-A área de lazer desta casa tem piscina, quadra de tênis, lounge ao ar livre, salão de jogos e uma vista incrível de Los Angeles 
-Há 1 mês Casa Vogue Estate 
-## Esta mansão de R$ 84 milhões já foi de Avril Lavigne — e agora pode ser sua
-Com mais de 930 m², cinema residencial, piscina e espaço para jogos, a casa passou por uma renovação completa
-Há 1 mês Casa Vogue Estate 
-## Ilha particular frequentada por Rihanna está à venda por R$ 187,5 milhões
-Situada a 64 quilômetros do centro de Londres, a Osea Island tem 163 hectares e conta com 38 residências
-Há 1 mês Casa Vogue Estate 
-## R$ 112 milhões: Por dentro de mansão integrada à natureza nos Estados Unidos
-Localizada em Utah, imóvel de 1.044m² integra arquitetura ao ambiente
-Há 1 mês Casa Vogue Estate 
-## Os 10 bairros mais valorizados do Brasil e o que faz deles tão especiais
-Estudo inédito produzido pelo DataZAP analisou quais são os bairros com o metro quadrado mais caro entre as capitais brasileiras
-Há 2 meses Casa Vogue Estate 
-## Meg Ryan coloca mansão à venda por R$ 110 milhões após reforma completa; veja fotos
-Propriedade localizada na Califórnia tem vista para o mar
-Há 2 meses Casa Vogue Estate 
-##  Por dentro de um bunker assustador da Guerra Fria à venda por R$ 150 mil; veja fotos
-Localizada na Inglaterra, estrutura foi construída em 1957
-Há 2 meses Casa Vogue Estate 
-##  Por dentro da mansão de conto de fadas de Emma Roberts que está à venda por R$ 28,2 milhões
-Imóvel localizado na Califórnia foi construído em 1940 
-Há 2 meses Casa Vogue Estate 
-##  Morar em um farol em funcionamento é possível por R$ 8,4 milhões; veja fotos
-Imóvel localizado em Nova York tem 130 anos
-Há 2 meses Casa Vogue Estate 
-## Mansão de R$ 140 milhões tem rochas como elementos arquitetônicos na Grécia; fotos
-Com 930 m², imóvel brutalista foi idealizado pelo designer Tom Dixon
-Há 2 meses Casa Vogue Estate 
-Veja mais
-###  Assine a nossa newsletter! 
-Tudo que você precisa saber, diretamente no seu e-mail. É rápido e gratuito. 
-Cadastre seu email
-Li e concordo com os Termos de Uso e Política de Privacidade. Cadastrar meu email 
-####  Mais Lidas 
-  1. ##  Dia de São João: a história e as tradições da data
-  2. ##  Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
-  3. ##  Veneza está afundando? Aqui está o que você precisa saber
-  4. ##  Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
-  5. ##  1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
-
-
-CONTINUA DEPOIS DA PUBLICIDADE
-## Siga Casa Vogue
-## Mais em Globo Condé Nast
-### VOGUE: Daiane Sodré estreia na capa da Vogue Brasil: "Sempre quis fazer parte desta família"
-### GQ: 5 benefícios dos shots de gengibre comprovados pela ciência
-### CASA VOGUE: Como é a estrutura da escola mais cara do Brasil?
-### GLAMOUR: Isima: Shakira lança marca de beleza e aqui está tudo o que sabemos sobre ela
-SIGA
-### Paisagismo
-  * Suculenta 
-  * Rosa-do-Deserto 
-  * Girassol 
-  * Flor-da-Fortuna 
-  * Costela-de-Adão 
-
-
-### Interiores
-  * Banheiros modernos 
-  * Cores no quarto 
-  * Parede geométrica 
-  * Feng Shui 
-  * Rose gold 
-
-
-### Design
-  * Varal de fotos 
-  * Minimalismo 
-  * Design e arte 
-  * Tecnologia 
-  * Objetos 
-
-
-### Smart
-  * Bancada na cozinha 
-  * Tons de vermelho 
-  * Pau d'água 
-  * Modelos de cozinha 
-  * Casa de praia 
-
-
-### Lazer & Cultura
-  * Poke 
-  * Salgados 
-  * Hambúrguer 
-  * Casa do Porco 
-  * Drinks 
-
-
-  * Valor
-  * Pipeline
-  * Valor Investe
-
-
-  * O Globo
-  * Extra
-  * Autoesporte
-  * BHFM
-  * Casa e Jardim
-  * Casa Vogue
-  * CBN
-
-
-  * Crescer
-  * Época Negócios
-  * Galileu
-  * Glamour
-  * Globo Rural
-  * GQ
-  * Marie Claire
-
-
-  * Monet
-  * PEGN
-  * Quem
-  * Rádio Globo
-  * TechTudo
-  * Um Só Planeta
-  * Vida de Bicho
-  * Vogue
-
-
-  * Quem Somos
-  * Termos e Condições
-  * Trabalhe Conosco
-  * Política de Privacidade
-  * Princípios Editoriais
-  * Anuncie
-  * Minha Editora
-  * Rel. Transparência Salarial
-
-
-© 1996 - 2025. Todos direitos reservados a Editora Globo S/A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. 
-Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
-Prosseguir
-Continue lendo
-Veneza está afundando? Aqui está o que você precisa saberVeneza está afundando? O turismo excessivo e as mudanças climáticas ameaçam seriamente esta proeza arquitetônicaCasa Vogue
-Desfazer
-Desabafo de turista ao citar gastos na Disney viraliza nas redesPai conta que gastou mais de R$ 5 mil em café da manhã com princesasCasa Vogue
-Desfazer
-Dermatologista recomenda: simples truque elimina o fungo facilmenteAcabe com o Fungo | 
-Links patrocinadosLinks patrocinados
-Desfazer
-Arranha-céu de 52 andares tem construção retomada em Nova YorkcontentCasa Vogue
-Desfazer
-Dispositivo contra ronco e apneia chega ao Brasil e vira febre de vendasContra Ronco e Apneia | 
-Links patrocinadosLinks patrocinados
-Saiba Mais
-Desfazer
-Quem • São JoãoTudo sobre Festas Juninas, São João e Arraiás com comidas típicas e shows: os melhores eventos de São João 2025 pelo Brasil! Veja fotos e leia conteúdos exclusivo! | 
+BYD ultrapassa Toyota em vendas no varejo mesmo sem fábrica no Brasil  
+Fabricante chinesa desbanca japoneses e fica atrás apenas de VW, Fiat e GM em emplaAuto Esporte | 
 Links patrocinadosLinks patrocinados
 Desfazer
 A Casa Vogue gostaria de enviar notificações das principais notícias para você.
@@ -4831,10 +4875,10 @@ AceitoNão, obrigado
 - https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
 - https://edicoesglobocondenast.lojavirtualnuvem.com.br/
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://derma-fung.com/ts1
-- https://portalg9.com.br/anti-ronco-reportagem
-- https://grupopuralife.com.br/sf
-- https://novidade-agora.com/adv01-varizes
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
+- https://drivepedia.com/articles/shiloh-story-syn
+- https://investructor.com/trending/50-favorite-stars-whose-talent-timeless-looks-richard-dean-anderson-a1
 - https://www.instagram.com/casavoguebrasil/
 - https://twitter.com/casavoguebrasil
 - https://www.facebook.com/casavoguebrasil
@@ -4848,13 +4892,13 @@ AceitoNão, obrigado
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
-Atendimento On-line
+Atendimento Off-line
 Nome
 CPF/CNPJ
 Chat por
 O Globo e Valor Econômico
 Início da conversa  
-24 de junho de 2025
+25 de junho de 2025
   *   * 
 
 Chat por
@@ -4909,13 +4953,13 @@ Dúvidas
 # Liens externes trouvés
 - http://www.portaldoassinante.com.br/
 - https://api.whatsapp.com/send/?phone=552140025300&text&type=phone_number&app_absent=0
-Atendimento On-line
+Atendimento Off-line
 Nome
 CPF/CNPJ
 Chat por
 O Globo e Valor Econômico
 Início da conversa  
-24 de junho de 2025
+25 de junho de 2025
   *   * 
 
 Chat por
@@ -5038,13 +5082,13 @@ Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experi
 ### Fique por dentro de todas as notícias de arquitetura, urbanismo, cidades, edifícios, paisagismo, além de entrevistas e muitas casas e apartamentos incríveis. Confira!
 ## Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
 Ver três árvores da janela; morar em um bairro com 30% de cobertura arbórea e estar a menos de 300 metros de uma área verde são os preceitos da regra, que ajuda a combater doenças, mortalidade e problemas de saúde mental
-Há 4 horas Um só planeta 
+Há 18 horas Um só planeta 
 ## Veneza está afundando? Aqui está o que você precisa saber
 Veneza está afundando? O turismo excessivo e as mudanças climáticas ameaçam seriamente esta proeza arquitetônica
-Há 4 horas Um só planeta 
+Há 18 horas Um só planeta 
 ## 1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
 Com visitas guiadas e exposições, evento revela joias ocultas da arquitetura moderna de São Paulo, de Carlos Millan a Paulo Mendes da Rocha
-Ontem Arquitetura 
+Há 2 dias Arquitetura 
 ## Arranha-céu de 52 andares tem construção retomada em Nova York
 Há 2 dias Edifícios 
 ## Na China, as obras do arranha-céu abandonado mais alto do mundo serão retomadas
@@ -5055,16 +5099,15 @@ Entre ambições modernistas e pragmatismo político, o estádio mais emblemáti
 Há 1 semana Edifícios 
 por Taboolapor Taboola
 Conteúdo Publicitário
-Especialista em intestino: “Imploro a todos brasileiros que lavem o intestino com isso”Revista Saúde
-Saiba Mais
+Potência analgésica e alívio rápidoDoril
+Saiba mais
 Desfazer
-Manchas, rugas e pele opaca? Uma aplicação disso à noite está virando febre.A arte do herbalismo
+Neuropatia incomodando à noite? Veja o que muitos idosos estão usando para aliviar os sintomas.aartedoherbalismo
 Desfazer
-Doutor: Manter a massa muscular após os 50 anos depende deste hábito noturnoRevista do Homem
-Saiba Mais
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
 Desfazer
-Doutor: Reverter encolhimento muscular após os 50 depende deste hábito noturnoRevista do Homem
-Saiba Mais
+Desfrute do melhor na Fogo de ChãoFogo de Chão
+Clique aqui
 Desfazer
 ## O ritual japonês para fazer suas flores crescerem 
 Uma tradição ancestral que você pode reproduzir em casa para se conectar com suas plantas e deixá-las florescer com intenção
@@ -5086,7 +5129,7 @@ Uma ideia errada de progresso, pressão do setor imobiliário e falta de recurso
 Há 2 semanas Arquitetura 
 ## Este é o hospital veterinário mais incrível que você já viu
 Com uma fachada marcada por estruturas curvilíneas de concreto, o projeto do arquiteto suíço Davide Macullo já se tornou um ícone na paisagem de Tirana, na Albânia
-Há 2 semanas Edifícios 
+Há 3 semanas Edifícios 
 ## Ícone da arquitetura de Milão, Torre Velasca reabre após restauro de cinco anos
 O projeto de restauro conduzido pelo Studio Asti Architetti recuperou elementos originais dos anos 1950, atualizou os interiores do edifício e reformou a piazza Velasca 
 Há 3 semanas Edifícios 
@@ -5116,7 +5159,7 @@ Projetadas pelo escritório carioca Gávea, estas cabanas foram criadas de manei
 Há 4 semanas Casas 
 ## Moraria? Casa no Arizona é construída sobre rochas (e tem até um riacho na sala)
 No deserto do Arizona (EUA), esta casa incorporou as formações rochosas aos ambientes e ganhou uma atmosfera rústica e quase inóspita
-Há 4 semanas Casas 
+Há 1 mês Casas 
 ## Edifício na Tailândia tem plataforma inclinada a quase 300 metros
 Instalação fica no 75º andar em famoso arranha-céu da cidade de Bangkok e atrai turistas
 Há 1 mês Edifícios 
@@ -5249,26 +5292,26 @@ SIGA
 
 
 © 1996 - 2025. Todos direitos reservados a Editora Globo S/A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. 
-Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
-Prosseguir
 Continue lendo
-Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
-Desfazer
-Casa alemã de 38 m² à beira do lago surpreende com interior minimalistaO escritório Keßler Plescher Architekten transformou completamente a planta do destino de férias, mas manteve um detalhe charmoso: o telhado de palha originalCasa Vogue
-Desfazer
-Apartamento para Venda em Praia Grande/SP - Cidade Ocian - 1 QuartosApartamentos com localização ótima , valores aceitam proposta no Financiamento Bancário e Negociação direto Proprietário , e desconto no pagamento a vista , e claro variação de plantas , lazer completo , lado praia , vista mar e próximo a comércios em geral , sem contar que próximo ao Breve Shopping Vila Mar ao lado da Prefeitura Praia GrandeChaves na Mão Imóveis | 
-Links patrocinadosLinks patrocinados
-Veja mais
+Na Espanha, monumento de aço corten homenageia Walter BenjaminAo norte de Cadaqués, na Espanha, quase na fronteira com a França, esconde-se um dos monumentos mais impressionantes da Europa: o Memorial de Walter Benjamin. Perfeitamente integrado à paisagem, ele é uma aula magistral sobre o encontro entre arquitetura e memóriaCasa Vogue
 Desfazer
 Este é o terraço em Barcelona que todo amante de arquitetura (e bons drinques) deveria conhecerDo topo do Hotel Almanac, o Azimuth Rooftop redefine a experiência urbana: vistas históricas, design e coquetéis se unem para oferecer uma nova maneira de ver a cidadeCasa Vogue
 Desfazer
-Especialista em intestino: “Imploro a todos brasileiros que lavem o intestino com isso”Revista Saúde | 
+Potência analgésica e alívio rápidoDoril tem uma linha completa com potência analgésica e alívio rápido para a dor não virar rotina.Doril | 
 Links patrocinadosLinks patrocinados
-Saiba Mais
+Saiba mais
 Desfazer
-Leonardo usa joia de mais de R$ 30 mil que ganhou de Virginia e Zé Felipe; vejaJoia é uma homenagem aos três netos mais novos do sertanejo: Maria Alice, Maria Flor e José Leonardo | 
+Quantos assentos você deve ter em casa, segundo o Feng Shui?No Feng Shui, o número de poltronas em uma casa deve ser baseado mais nas necessidades e na harmonia do que em um número específicoCasa Vogue
+Desfazer
+Neuropatia incomodando à noite? Veja o que muitos idosos estão usando para aliviar os sintomas.aartedoherbalismo | 
 Links patrocinadosLinks patrocinados
 Desfazer
+Fiat Pulse Abarth 2026 muda visual e tem teto solar contra Nivus GTS  
+Facelift confere nova dianteira ao SUV esportivo e mantém motor Auto Esporte | 
+Links patrocinadosLinks patrocinados
+Desfazer
+Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
+Prosseguir
 A Casa Vogue gostaria de enviar notificações das principais notícias para você.
 AceitoNão, obrigado
 
@@ -5280,9 +5323,10 @@ AceitoNão, obrigado
 - https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
 - https://edicoesglobocondenast.lojavirtualnuvem.com.br/
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://info.blivo.com.br/sfunnel/3659
+- https://adssettings.google.com/whythisad?source=display&reasons=ASp5-QA5HR9Flwj74UfBDDRH6O2GgIK1cIaXgeIWErHWZ2Uk793S6qWPKK7H7knJogF0Hu-kCC7Ti3Iy8kHXq84kltqzEOZvdHZTcd1dCeS272fAgScWSutcUYhPxMAbcj9cvLblGB8KRZayPqY_zVekGUJ3baXM5rmqxeRz9a41_UhCAuT0H30U1iOG9QnqhPQnFE8UMpBIF6_JAfOD8_Rh29UK07xXlBd5QmHQ6QCLLN9IZZ2cnVZ8JbvdPV3IfbDGgFFz0Fo1w7oyp_MTH_1pizFlp5aNB_z9tjZQ6Udm6Un6JzNQoFZ7UU0Jb3B5FK9KMFgXX0dlTyKFoDGO4mJXNvp7rNwqKXziYn9SOu1KjbpQiOn5ORXMLEs9ZTotN8NviwmVUVmQgmc0H9zq5NOHl-HVM1XIGzG41HkRSS_Bv90II5cF6PdYL3klTkQLkm6r8YxTzKyWBfCl50l7hQHILn4SGAryUdu6nuXWLpGjld-uNQros-YXp_ipDY3fJKxw7BBrpmQJ4rzo0RjsvBwrJvmT7MrcLpFJSE5MjC_IKnoBV90C8Zdz-j0XykoCr0MkCSc_FSPt2MYDGCb0nDOI7X0XZfNT2NUTI9TxDNBi50osRv25D-gJYxdfWTak1_v6SQDP7W57BrD3ZS2fRfpbUTNp2pRlKxC-uobYNhiYY14ihWTV2rlkU-t0rNk0bHjpW5emuHoZ-BCCLMm8rzcnMAGmzUKBRFGINrSnnuhkOmDQ7Wq00Z6eUWr84XLAwiKWigxNxw7VuMfZQOrDTpTQgkVd0rIFjysF53Hkg8oS0bZyEvPlrCgatIWFWRU83yG6FKKPMPTsmHbg-OxAI_q8otQsZsp3pr0vglh5OD_JQwxo7KRvAlkvapkE8KIniT0lwZbh8kEVmTwYwkfhV7Cjyp3wrmI5_YqpIz5P7ot7s-zSVfVWWQY1UQZMmdcEDLqRvezC1ebHk3k1De_-sppwF4AUgPniOwpQ9MVLG_jB21S883nr5mhBhDKPwmsLtIWFrqkJtrEw-zP9Y_PwtWPc8r-VA21Ow2EpZFYPZRW5UnpQ65bAuBIUQxHq3N-18tuCkDZpEjScvXFpGz9MNyQH0ZJK_ROqqH2HXmXPzgax_f9tHp2i7VwCDHdaZhK7wX2sFPmfRhJSbnaPUeuid_6pBtgZd4nTH0IYrjI2xVs27r8qDQf6jjVpfhBZXFqPs6t5KAQUVQdL2fVOia7Z35_a3bxM2eP4U8R4atWpRX5ffGZtJ5C3Fie0cinN2ftyPA4WZUT32RHR-tHJGHCswqIX4ETFd46w5qgfZumVMqk3H32wltCrsAIdYKpEZ_gJxlqSbptrQiInD2yiYMNYBp6gzd7_xIR2aifjc3HVkSTuRtwz8M_JGIhITGldp4IxAr4o33AQGBe6dUrcQ6aHJh63RSxbe4WBlrMtK0U143SKc22zl4D1b0seDF4QtGSAPI4aLGNnQ_XpysfSM9E1nA6IU_wjgEXanhpqZlYNaMLDP22beNoNPrpTzOo8M-q1ZLUFb94Zhi3JdAtKSn5szdnwrSvwqmo2lcDIPOO79HQqHCqUHpGmIVnfflRjMcaN7DzEauxHfvcSzMz1k52W&opi=122715837
 - https://grupopuralife.com.br/sf
-- https://info.doutornature.com/sfunnel/10526
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://fogodechao.com.br/reservas
 - https://www.instagram.com/casavoguebrasil/
 - https://twitter.com/casavoguebrasil
 - https://www.facebook.com/casavoguebrasil
@@ -5293,9 +5337,8 @@ AceitoNão, obrigado
 - https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
 - https://www.publicidadeeditoraglobo.com.br/
 - https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
-- https://cat.da.us.criteo.com/delivery/ckn.php
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
-- https://privacy.us.criteo.com/adchoices?cppv=3&cpp=kRBVXCFD9fKFVDXQdyrseFlBE4WLxF5M5gvCwPcDQ4LWW2OcmjcjxUdVmAt7k-y780rTud7G86jj1uHPOYG-n6EHmyYGH-NT5_RIhCNbH3oKRywd2rYqFDt_jklY-eDVII3ymEy4a1ikF7TUxSzSK0v1xdw
+- https://adssettings.google.com/whythisad?source=display&reasons=ASp5-QAb3Z0zLE9YaQtShj_A08ClZ-ZyS3rYQe9DhK7m3gD5Mg1o3KwGlcXelXfGyCd5PsWY-Y4p6cruMMCyf67kyHbtdXw3nIxmtVlI-F57QAAoFJ22XscQnnxzGa1-oY1W-X8ZDejnyP_0xCc7J3i_G0A_e9g5xfEAxRnmmiPAqpdC1lX3V_dJCsEIHQXhOkRL_WHs0JyztVIhYaj3qvDuT_aM7BfXR3gFvIqlItyKvJr326jKztp8Q6L_LZrn085OnInHR7QnIIeFXCAoIS_d5ccekSDRqsTs7BTX6x7JQG1FHYOBNkATjHRou2kmP2ogwt2IOaow6ere1B4Ghxi3vlA2O6OGIkdyD5n9pFe91F4LnL_9byEujCl0P0dupu0stNBxUczPkGH_q8yuvrx3_0MgX7-G16cGx8OtTrWiVn8wqK3-u_HFDELMkEvjyPET1COdtWZClmVl4yqjce-LuBZnLDiDIGtGfgAswLweIGceG9RCifhmOX99FBCB4vCcoqQp3u8cXcrsUi8txc9B9DHtL9P5jAuc4YZpofzuJfS-fsoX1BxgLefOvByFCnf77tgy_8R623P2HeoiwOP5Va0rSAG-Br5RJdr8XxY2oMVqAn5T7BXSEREn5YtQiA2D0ZkLsq76AEMlHnZmOndMbaFPaVjTn7mua9sfs3z3IPVshr-JBfTVL_5GoHp48EGAGrdnzc8qDcsXInlDmUcgRuNkKqc3uDQlnSJ3oIVos6i-SPiDWa5Pn4gMzXjLxVXfjVUwbPypIMTzswP2gv8v5ovuD7qqdMujNDmRILS_8xUqEi4JHRtYDRf2Scg37lJwdL4jbGChv3U6rGju74eK3KgunDQxGmEl2glUFpdS61weJkl3B-Sc-GGc1bQ4engBllDfBz2QZ4R7hh1LQfBDvSFQYmbqubPZiFzSt15kd_iphjnGkm1KJe1pE-cC9JA4uPcqVqp2KsannP0TGWhb5CbgrwRQxojnBxr3kjzCUQQRdORZmovvXi7KnMxTv1r36fC71AqczP9KKAPUViPspQSDGONlXVht2DPS4EJrqfxDcOtcwt5Jl-UjZwBZN_OrnLiQV2hAY1E_cwwF9wg48WRSKQGEuyKwS-_9nAsI-zjY5WNpl4xBrYtoXcxGaVLwvU_qaH1WFgP4v3TXHnM5IOw1QjzwcqrA1lb3pvxhoRRB7qqLGZ5WehAlWw6FGuE5wZ4N2mZqJoL4Ci_2Ky9oy_RkNQBDs07Kk-sFe2BEYVHyKdB4HvOvR2sixAQU_DWotbuMWyi-qoj0RW_UDPQib4JUrNltk64T7LDEq3sxzcQWK8Yx3kzhUOsgwsMfyw12HreId8S6duzkwJD26Xmx-uIt9teOn7DOsWM6EKSR5xLAnH82uQ7L3a6TNAVcdcjhjQvobPSJ3O7NRpvs34j9M3MZae9ADXFcb_Xhzjne8ihRoWXUp2n22x6IFM-XOK9A6C7LRh8uTRT-v58EfSZeLOisUn9DOLodWoSQbvL1dqb92oRF46e3qIxRUkqoXrXL8wOe4M1zbZc4F4wQbjYEMOUTUpfGUGadZPileg&opi=122715837
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
 MENU
@@ -5309,75 +5352,75 @@ buscar
 
 Moedas
 **Dólar Comercial**
-R$ 5,503
--0,4%
+R$ 5,518
+0,29%
 **Dólar Turismo**
-R$ 5,714
--0,37%
+R$ 5,729
+0,26%
 **Euro Comercial**
-R$ 6,370
-0,12%
+R$ 6,408
+0,6%
 **Euro Turismo**
-R$ 6,635
-0,08%
+R$ 6,678
+0,65%
 B3
 **Ibovespa**
-136.304 pts
--0,59%
+137.368 pts
+0,6%
 Moedas
 **Dólar Comercial**
-R$ 5,503
--0,4%
+R$ 5,518
+0,29%
 **Dólar Turismo**
-R$ 5,714
--0,37%
+R$ 5,729
+0,26%
 **Euro Comercial**
-R$ 6,370
-0,12%
+R$ 6,408
+0,6%
 **Euro Turismo**
-R$ 6,635
-0,08%
+R$ 6,678
+0,65%
 B3
 **Ibovespa**
-136.304 pts
--0,59%
+137.368 pts
+0,6%
 Moedas
 **Dólar Comercial**
-R$ 5,503
--0,4%
+R$ 5,518
+0,29%
 **Dólar Turismo**
-R$ 5,714
--0,37%
+R$ 5,729
+0,26%
 **Euro Comercial**
-R$ 6,370
-0,12%
+R$ 6,408
+0,6%
 **Euro Turismo**
-R$ 6,635
-0,08%
+R$ 6,678
+0,65%
 B3
 **Ibovespa**
-136.304 pts
--0,59%
+137.368 pts
+0,6%
 Moedas
 **Dólar Comercial**
-R$ 5,503
--0,4%
+R$ 5,518
+0,29%
 **Dólar Turismo**
-R$ 5,714
--0,37%
+R$ 5,729
+0,26%
 **Euro Comercial**
-R$ 6,370
-0,12%
+R$ 6,408
+0,6%
 **Euro Turismo**
-R$ 6,635
-0,08%
+R$ 6,678
+0,65%
 B3
 **Ibovespa**
-136.304 pts
--0,59%
+137.368 pts
+0,6%
 Oferecido por
   * Conflito entre Israel e Irã
-  * Bolsas, dólar, petróleo: cessar-fogo no Oriente Médio seria 'respiro temporário' aos mercados
+  * Cessar-fogo no Oriente Médio é 'respiro temporário' aos mercados; entenda
   * Petróleo, inflação e bolsas: os efeitos do possível bloqueio do Estreito de Ormuz
 
 
@@ -5386,7 +5429,7 @@ Oferecido por
 
 
   * Loterias
-  * Mega-Sena pode pagar R$ 3,5 milhões nesta terça-feira
+  * Mega-Sena acumula e prêmio vai a R$ 40 milhões
 
 
 ## Podcast Educação Financeira 🎧 
@@ -5405,13 +5448,13 @@ Compras de US$ 50: calculadora mostra como ficam os preços
 
 
 Compra de Moedas
-Dólar Comercial R$ 5,497 -0,11%  
-Euro R$ 6,383 +0,19%  
+Dólar Comercial R$ 5,519 +0,29%  
+Euro R$ 6,408 +0,6%  
 Ibovespa
--0.59%
-136.304 pts
++0.6%
+137.368 pts
 Created with Highcharts 4.2.710h11h12h13h14h15h16h17h18h
-Atualizado há 17 horas
+Atualizado há 7 horas
 ## Podcasts
 O Assunto 
 Resumão 
@@ -5431,79 +5474,125 @@ O que há de mais relevante na economia
 
 
 ## 
-Dólar opera em queda, com foco em acusações de violação do cessar-fogo entre Israel e Irã; Ibovespa sobe
-Na véspera, a moeda norte-americana caiu 0,40%, cotada a R$ 5,5026. Já a bolsa de valores teve queda de 0,41%, aos 136.550 pontos.
-Há 1 hora Economia 
+Anac diz que Voepass fez 2,6 mil voos com aviões sem manutenção adequada após tragédia em Vinhedo
+Relator de processo que cassou certificado de operação da empresa aponta falhas em inspeções de itens obrigatórios de sete aeronaves que operaram com condições não aeronavegáveis entre 15 de agosto de 2024 e 11 de março de 2025.
+Há 7 minutos Campinas e Região 
+## 
+Lula participa nesta quarta de reunião sobre energia em meio à guerra e risco de escalada do preço do petróleo 
+Reunião ocorre em um momento de atenção do governo federal ao cenário internacional. Com as guerras no Oriente Médio, há preocupação com possíveis impactos no preço dos combustíveis no Brasil.
+2 min
+Há 7 minutos Política 
+## 
+Famílias de vítimas da tragédia da Voepass falam em alívio e indignação após cassação pela Anac: 'Tarde demais para os nossos'
+Decisão impede companhia aérea de realizar transporte aéreo de passageiros. Há 10 meses, queda de avião da empresa causou 62 mortes.
+Há 5 horas Campinas e Região 
+## 
+Ministério vê risco de encarecimento e exclusão social com exigência de exame toxicológico para tirar CNH
+Projeto foi aprovado pela Câmara dos Deputados em 29 de maio e agora aguarda sanção do presidente Luiz Inácio Lula da Silva, que pode vetar trechos da proposta.
+1 min
+Há 5 horas Política 
+## 
+Anac cassa certificado de operação de voos da Voepass 
+Decisão impede companhia aérea de realizar transporte aéreo de passageiros. Há 10 meses, queda de avião da empresa causou 62 mortes.
+Há 7 horas Campinas e Região 
+## 
+Gripe aviária: 17 países retiram restrições à carne de frango do Brasil
+Bloqueios foram impostos após foco da doença em granja de Montenegro (RS), em maio. Brasil se declarou livre da doença na última quarta (18).
+2 min
+Há 8 horas Agronegócios 
+## 
+Governo recua e prevê 60 dias de auxílio doença sem perícia médica
+Medida era parte de pacote de corte de gastos anunciado no começo do mês. Expectativa era de economizar R$ 3,8 bilhões até 2026.
+7 min
+Há 8 horas Economia 
+## 
+Trump chama Powell de 'burro' e 'teimoso', e chefe do Fed reafirma que corte nos juros pode esperar
+O republicano tem pressionado e criticado repetidamente o presidente do banco central dos EUA por redução nas taxas. Decisão da última semana manteve os juros do país na faixa de 4,25% a 4,50% ao ano.
+Há 9 horas Economia 
+## 
+Ibama concede primeira licença prévia para projeto de eólica offshore no Brasil 
+Isso significa que o órgão atestou a viabilidade ambiental do projeto na fase de planejamento. Essa é a primeira etapa até a licença de instalação. 
+Há 9 horas Economia 
+## 
+Governo passa a permitir que hospitais privados e filantrópicos troquem dívidas por atendimento a pacientes do SUS
+Objetivo é reduzir a fila de espera do SUS. Quem não tiver dívidas e quiser aderir ao programa, poderá receber um crédito tributário para abater no pagamento de impostos. Governo autorizou R$ 2 bilhões para o programa por ano.
+1 min
+Há 9 horas Política 
+## 
+Caixa Tem apresenta falhas e clientes enfrentam fila de espera para acessar aplicativo
+Clientes reclamaram nas redes sociais, afirmando enfrentar problemas e fila de espera para acessar o aplicativo. Caixa não havia respondido ao pedido de um posicionamento até a última atualização desta reportagem.
+Há 11 horas Economia 
+## 
+Dólar sobe e fecha a R$ 5,51, com ata do Copom e cessar-fogo entre Israel e Irã; Ibovespa sobe
+A moeda norte-americana avançou 0,29%, cotada a R$ 5,5188. A bolsa de valores encerrou em alta de 0,45%, aos 137.165 pontos.
+Há 15 horas Economia 
 ## 
 Tarifa social de energia elétrica começa na próxima semana; veja quem tem direito a energia gratuita
 Além da gratuidade para famílias do CadÚnico e que tenham consumo mensal de até 80 kWh, também há previsão de descontos para outros grupos. 
-Há 2 horas Economia 
+Há 16 horas Economia 
 ## 
 BC confirma parada na alta de juro e diz que é cedo para concluir qual será o impacto da guerra no Irã sobre o petróleo e a economia
 Copom subiu a taxa de juros de 14,75% para 15% ao ano na semana passada. Foi o sétimo aumento seguido, que fixou o juro no maior patamar em 20 anos. Também representa o segundo maior juro real do planeta. 
-Há 2 horas Economia 
+Há 16 horas Economia 
+## 
+Mega-Sena pode pagar R$ 3,5 milhões nesta terça-feira
+Apostas podem ser feitas até as 19h em lotéricas ou pela internet. 
+3 min
+Ontem Mega-Sena 
 ## 
 PIB da Argentina cresce 0,8% no primeiro trimestre
 O resultado ocorre em meio à recuperação da recessão do ano anterior. Em comparação com o primeiro trimestre de 2024, o PIB cresceu 5,8%, o maior avanço desde 2022.
-Há 13 horas Economia 
+Ontem Economia 
 ## 
 Feicorte 2025 reúne público de 16,5 mil pessoas em Presidente Prudente, aponta balanço final
 Organização já confirmou a realização do evento em 2026.
-Há 14 horas Presidente Prudente e Região 
+Ontem Presidente Prudente e Região 
 ## 
 Anatel faz primeira operação contra impressoras 3D ilegais e lacra mais de R$ 1 milhão em produtos 
 De acordo com a agência reguladora, todos os produtos que utilizam sinais sem fio — como WI-FI, Bluetooth ou rádio — precisam ser homologados pela antes de serem comercializados.
-Há 14 horas Economia 
+Ontem Economia 
 ## 
 MPF pede à Justiça suspensão das próximas etapas do leilão de petróleo na foz do Amazonas
 Procuradores apontam falta de estudos ambientais e consulta a comunidades tradicionais; homologação dos resultados está prevista para 1º de setembro
-Há 15 horas Economia 
+Ontem Economia 
 ## 
 ANS limita reajuste a 6,06% nos planos de saúde individuais e familiares; entenda os impactos no seu bolso
 Mudança tem validade de maio de 2025 até abril de 2026 para os contratos de mais de 8,5 milhões de beneficiários. 
-Há 20 horas Economia 
+Ontem Economia 
 ## 
 STF fará audiência de conciliação nesta terça sobre ressarcimento de vítimas de fraudes no INSS 
 Governo deve levar proposta de acordo para ressarcimento das vítimas. AGU pediu que procedimento seja feito administrativamente, sem a necessidade de processos judiciais.
 3 min
-Há 24 horas Política 
+Há 2 dias Política 
 ## 
 Banco Central deve começar a cortar taxa de juros somente a partir de janeiro, prevê mercado financeiro
 Na semana passada, o Banco Central elevou a taxa básica de juros da economia para 15% ao ano. Esse é o maior patamar em 20 anos. Também representa a segunda maior taxa real do mundo.
 1 min
-Há 24 horas Economia 
+Há 2 dias Economia 
 ## 
 Bolsa Família 2025: veja calendário de pagamentos de julho
 Primeiros a receber serão os beneficiários com Número de Identificação Social (NIS) com final 1, no dia 18 de julho. Pagamento previsto é de R$ 600 por família, com possíveis adicionais; valores serão pagos de forma escalonada até o fim do mês.
-Ontem Economia 
+Há 2 dias Economia 
 ## 
 Dólar fecha em queda, aos R$ 5,50, de olho no conflito no Oriente Médio; Ibovespa cai
 A moeda norte-americana caiu 0,40%, cotada a R$ 5,5026. Já a bolsa de valores teve queda de 0,41%, aos 136.550 pontos.
-Ontem Economia 
-## 
-Boletim Focus: mercado reduz estimativa de inflação em 2025 pela 4ª semana seguida, para 5,24%
-Números foram divulgados pelo Banco Central nesta segunda-feira (23). Projeção dos analistas dos bancos para o crescimento do PIB em 2026 avançou para 2,21%.
-Ontem Economia 
-## 
-'Agrogays' enfrentam exclusão e preconceito para encontrar lugar no campo
-Odorico Reis e Ivan Rangel cresceram negando a sua sexualidade, já que nunca conheceram ninguém igual a eles em suas cidades.
-Ontem Agronegócios 
+Há 2 dias Economia 
 ## 
 Bolsas da Europa caem, com temores por retaliação iraniana após ataque dos EUA; Wall Street passa a subir
 O Parlamento do Irã aprovou neste domingo (22) o fechamento da principal via marítima de transporte mundial de petróleo. Decisão ainda precisa ser aprovada por autoridades de segurança iranianas.
-Ontem Economia 
+Há 2 dias Economia 
 ## 
 Dia de São João: terça-feira será feriado em ao menos 5 capitais e cidades onde santo é padroeiro
 Embora não esteja no calendário nacional, o 24 de junho será folga garantida para trabalhadores de cinco capitais brasileiras. 
-Ontem Trabalho e Carreira 
+Há 2 dias Trabalho e Carreira 
 ## 
 Imposto de Renda 2025: consulta ao 2º lote de restituição começa nesta segunda; veja como fazer
 Pagamentos serão feitos a partir de 30 de junho. Serão contemplados mais de 6,5 milhões de contribuintes, com um crédito bancário total de R$ 11 bilhões.
-Ontem Imposto de Renda 
+Há 2 dias Imposto de Renda 
 ## 
 Petróleo cai 8% com expectativa de alívio nas tensões no Oriente Médio
 Para analistas, o fluxo de petróleo não será o alvo principal do Irã. Essa percepção reduziu os receios de fechamento do Estreito de Ormuz, rota responsável por 20% do comércio global da commodity.
-Ontem Economia 
+Há 2 dias Economia 
 ## 
 Petróleo, inflação e bolsas: os efeitos do possível bloqueio no Estreito de Ormuz pelo Irã
 A decisão pelo fechamento da via marítima, responsável por escoar 20% do petróleo global, ainda precisa do aval de autoridades de segurança iranianas. Analistas do mercado, no entanto, já preveem impactos negativos para a economia mundial.
@@ -5515,27 +5604,27 @@ Há 2 dias Ribeirão Preto e Franca
 ## 
 Parlamento do Irã aprova fechamento do Estreito de Ormuz após ofensiva dos EUA, diz mídia local
 Protegido pelos EUA, o estreito é a principal rota marítima para navios petroleiros no mundo — e responsável por cerca de 20% do transporte global da commodity. Medida ainda precisa passar pelo Conselho de Segurança e pelo aiatolá Khamenei para entrar em vigor.
-Há 2 dias Economia 
+Há 3 dias Economia 
 ## 
 É época de safra de tangerina
 Fruta tem diversas variações e tem conquistado o interesse de agricultores do interior de São Paulo.
-Há 2 dias Nosso Campo 
+Há 3 dias Nosso Campo 
 ## 
 Produtores usam cada vez mais ferramentas de inteligência artificial
 Fazendeiros têm aderido a inteligência artificial para facilitar e agilizar os trabalhos de fazendas.
-Há 2 dias Nosso Campo 
+Há 3 dias Nosso Campo 
 ## 
 Urucum está no pico de colheita no interior de SP
 Agricultores do interior de São Paulo têm investido na plantação de urucum, uma planta com fácil adaptabilidade com o clima e manejo prático.
-Há 2 dias Nosso Campo 
+Há 3 dias Nosso Campo 
 ## 
 Produção de caqui em meio a outras culturas ganha espaço nas lavouras e vira alternativa de renda de agricultores
 Município de Alfredo Chaves, no Sul do Espírito Santo, tem o maior rendimento por hectare do estado e colhe 60 toneladas em uma única propriedade. Produção acontece em meio a outras culturas nas propriedades.
-Há 2 dias Agronegócios no Espírito Santo 
+Há 3 dias Agronegócios no Espírito Santo 
 ## 
 Existe LGBT no campo: as histórias de quem enfrenta o preconceito e busca deixar de ser 'invisível' 
 Grupo rural tem menos acesso a saúde, educação e segurança. Entrevistados relatam também dificuldades para conseguirem emprego e para participarem de debates sociais.
-Há 2 dias Agronegócios 
+Há 3 dias Agronegócios 
 ## 
 Mega-Sena, concurso 2.878: aposta de MG leva sozinha prêmio de R$ 127 milhões 
 Veja os números sorteados: 15 - 16 - 43 - 46 - 47 - 51. A quina teve 116 apostas vencedoras que levaram mais de R$ 75.238,28 mil cada.
@@ -5543,24 +5632,16 @@ Há 3 dias Loterias
 ## 
 Datafolha: 59% dos brasileiros preferem trabalhar por conta própria a ter emprego formal
 Instituto apurou também que 31% se dizem dispostos a trabalhar sem registro se ganharem mais, ante 67% que preferem carteira assinada mesmo com salário menor.
-Há 3 dias Economia 
+Há 4 dias Economia 
 ## 
 Congresso protege o 'andar de cima' ao resistir a alta de impostos de Haddad, diz economista
 Para Bráulio Borges, pesquisador da FGV, postura de parlamentares diante da crise fiscal reflete tanto lobbies econômicos de setores interessados em manter privilégios, como cálculos políticos dos próprios congressistas.
 2 min
-Há 3 dias Economia 
+Há 4 dias Economia 
 ## 
 Consignado CLT: Banco Central tem ranking com juros cobrados pelas instituições financeiras; veja
 Mecanismo tem o objetivo de estimular a concorrência. Para governo, juros do crédito consignado para setor privado cobrados por algumas instituições financeiras estão elevados.
-Há 3 dias Economia 
-## 
-Vaca tem parto raro e dá à luz bezerros trigêmeos no ES; veja VÍDEO
-Animal já teve outros partos de gêmeos em fazenda de Pancas, no Noroeste do Espírito Santo. 
-Há 3 dias Norte e Noroeste - ES 
-## 
-Mega-Sena pode pagar R$ 130 milhões neste sábado
-Apostas podem ser feitas até as 19h em lotéricas ou pela internet. 
-Há 3 dias Mega-Sena 
+Há 4 dias Economia 
 Veja mais
 Últimas Notícias
 G1 Economia
@@ -6345,9 +6426,9 @@ ou cadastre-se grátis
     * sair da conta
 
 
+arrow-desktoparrow-mobileclose
 Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
 Prosseguir
-arrow-desktoparrow-mobileclose
 
 
 # Liens externes trouvés
@@ -6542,197 +6623,200 @@ Carregando...
 
 PUBLICIDADE
 Mais lidas
-Oriente Médio  Resgate de brasileira  Flamengo  Trama golpista  Reclamação 
+Oriente Médio  Resgate de brasileira  Flamengo  Trama golpista  Gil e Gal 
 Lauro Jardim
-##  Advogado que trocava mensagens com Mauro Cid contrata criminalista para defendê-lo 
-Merval Pereira
-##  Futuro sem espaço para radicais assusta Bolsonaro 
-Pedro Doria
-##  Desenvolvimento de IA militar dos EUA é preocupante 
+##  A cobrança de deputados ao Itamaraty sobre morte de turista brasileira na Indonésia 
+Malu Gaspar
+##  A pergunta de Fux na acareação de Mauro Cid com Braga Netto 
+Bernardo Mello Franco
+##  Brics expressam 'profunda preocupação' com ataques de Israel e EUA ao Irã 
 Míriam Leitão
-##  O peso do Estreito de Ormuz na economia mundial 
+##  Ata é dura, inclui alertas, e indica que juros ficarão no alto por longo tempo 
 ### 🔴 Ao vivo
-## Trump acusa Israel e Irã de violarem o cessar-fogo: 'Não estou feliz com Israel e com o Irã'
-Presidente americano havia anunciado que os dois países teriam uma janela de 12 horas sem lançar ataques
-### Conflito
-## Em conversa por telefone, Trump pede que Netanyahu não ataque o Irã, diz jornal
-'Eles já não sabem o que diabos estão fazendo', diz presidente americano sobre os dois países em guerra 
+## Em lados opostos, Israel e Irã proclamam 'vitória histórica' com cessar-fogo na 'guerra de 12 dias'
+Exército israelense informa que voltará a concentrar suas tropas contra o Hamas na Faixa de Gaza
 ### Oriente Médio
-## Entenda como golpe orquestrado por EUA e Reino Unido nos anos 1950 no Irã está na raiz da guerra
-  * ### Meio ambiente
-## Lixão fluvial na fronteira entre Peru e Brasil na Amazônia gera impasse 'ambiental-diplomático'
-  * ### Entenda
-## Se houver uma guerra nuclear, Brasil escaparia? Depende de quem travar o conflito
-  * ### Clima Extremo
-## Neve no Sul e geada que pode levar Curitiba a zero grau: frente fria faz inverno começar com tudo no país
-  * ### Saúde
-## Vale a pena reclamar? Por que expressar desconforto pode trabalhar contra você
-  * ### Turista brasileira na Indonésia
-## Acidentes graves se repetem em trilha famosa no Monte Rinjani
-  * ### Meio ambiente
-## Lixão fluvial na fronteira entre Peru e Brasil na Amazônia gera impasse 'ambiental-diplomático'
-  * ### Entenda
-## Se houver uma guerra nuclear, Brasil escaparia? Depende de quem travar o conflito
+## Inteligência dos EUA aponta que ataques atrasaram programa nuclear do Irã em apenas alguns meses, diz jornal
+Em entrevista, JD Vance sugere que bombardeios não destruíram atividade por completo
+### Esmail Qaani
+## Dado como morto após ataque, general da Guarda do Irã aparece em protesto em Teerã
+  * ### Thales Machado
+## Clássico do caos: o caso clínico chamado Botafogo x Palmeiras
+  * ### Acidente na Indonésia
+## Tristeza e indignação tomam conta das redes após confirmação da morte de brasileira
+  * ### Tragédia na Ásia
+## Pai de Juliana Marins se despede da filha em rede social: 'Pedaço tirado de mim'
+  * ### Mundial de clubes
+## Torcida do Flamengo enfrenta sol, pregação e corrida por água em Orlando
+  * ### Copa do Mundo de Clubes
+## Bayern será o adversário do Flamengo nas oitavas de final; veja data e horário
+  * ### Thales Machado
+## Clássico do caos: o caso clínico chamado Botafogo x Palmeiras
+  * ### Acidente na Indonésia
+## Tristeza e indignação tomam conta das redes após confirmação da morte de brasileira
 
 
 ## ㅤㅤㅤ
+### Fraude no INSS
+## Toffoli pede remessa de inquéritos ao STF após citações de políticos
+### Descontos ilegais
+## Fraudes no INSS: governo propõe no STF ressarcimento em lotes a partir de julho
 ### Trama golpista
-## Braga Netto chega ao STF para acareação com Mauro Cid 
-### Bela Megale
-## PL recebe má notícia sobre candidatura de Carlos Bolsonaro por SC 
-### Política
-## Solidariedade e PRD acertam federação, afastam-se de Lula e sugerem apoio a Caiado
-Na Indonésia 
-##  Sem condições para helicóptero, equipes focam em 'resgate vertical' de brasileira em trilha 
-Sem eletrônicos 
-##  Irã adota 'protocolo contra assassinatos' e promete executar quem ajudar o 'inimigo' 
+## Sacola de vinho com dinheiro e 'choque': a acareação entre Braga Netto e Cid em 5 pontos 
 Economia 
-##  Com cessar-fogo ou não, o mundo está 'nadando em petróleo'; entenda a queda nas cotações 
-Capital 
-##  XP entra como sócia em residencial de luxo na orla do Rio assinado pela Pininfarina 
-Depoimento 
-##  'Chegaram a me proibir de estudar', conta médica que ficou tetraplégica durante a faculdade 
-###  Futebol 2025
-##  Entenda trabalho de 'recovery' que é trunfo do Flamengo para sobrar fisicamente no Mundial antes das oitavas 
-###  Análise
-##  Classificação do Botafogo às oitavas do Mundial consagra volta por cima de Renato Paiva 
-###  Copa do Mundo de Clubes
-##  Com alternância no campo e nos bastidores, Palmeiras e Botafogo se reencontram em 'duelo definitivo' 
-Portugal Giro 
-##  Entenda quais são as regras mais rígidas para cidadania e imigração em Portugal 
-Saúde 
-##  Whey protein: Anvisa suspende lote de suplemento por presença de glúten; saiba qual 
-Sob pressão 
-##  Governo acelera liberação de emendas e desembolsa R$ 620 milhões em sete dias 
-Economia 
-##  Saiba o que diz a ata do Copom sobre inflação, PIB e juros 
+##  Tesouro projeta superávit de R$ 20 bi em 12 meses e reforça tom contracionista da política fiscal 
+Governador de SP 
+##  Deputados de SP aprovam programa social de Tarcísio e garantem vitrine contra Bolsa Família em 2026 
+Julgamento suspenso 
+##  STF acumula 5 votos para barrar lei que proíbe Marcha da Maconha em Sorocaba 
+Crise interna 
+##  Servidores da Abin decidem recorrer à Justiça para afastar diretor-geral 
+Violência 
+##  Aluna de 13 anos é baleada durante educação física dentro de escola do Rio 
+###  Lauro Jardim
+##  O romance de Gilberto Gil e Gal Costa 
+###  Jogo contra Real Madrid
+##  FIFA abre procedimento contra Pachuca e o jogador Gustavo Cabral por acusação de racismo 
+###  Loteria
+##  Mega-Sena sorteia prêmio de R$ 2,7 milhões; veja números 
+Rio 
+##  Polícia abre inquérito sobre desabamento na Urca; obra não tinha autorização 
+Cota 
+##  Senado aprova reserva de 30% das vagas para mulheres em conselhos de estatais 
+Futebol 
+##  Como rebaixamento do Lyon devido a dívidas pode afetar futuro do Botafogo 
+Vídeo 
+##  Frio intenso no Sul congela paredão da Serra do Rio do Rastro em Santa Catarina 
 ## Recomendado para você
+Bela Megale
+##  O resultado da pesquisa presidencial que testou Eduardo e Flávio Bolsonaro contra Lula
 Merval Pereira
 ##  O futuro assusta Bolsonaro
 Rio
-##  Juliana Marins: brasileira foi achada 'visualmente imóvel' a 500m de profundidade, e Indonésia avalia opções para resgate 'crítico'
-Rio
 ##  Guia que levava brasileira por trilha em vulcão na Indonésia dá a sua versão: 'Não abandonei a Juliana'
-Saúde
-##  Um idoso é morto a cada 8 dias dentro de casa no Japão por cuidadores exaustos
-Saúde
-##  Para quem tem mais de 80 anos: é possível ganhar massa muscular apesar do envelhecimento?
 Rio
-##  Mulher luta com assaltante no Humaitá: 'Me deixa!'; vídeo
+##  Juliana Marins: brasileira foi achada 'visualmente imóvel' a 500m de profundidade, e Indonésia avalia opções para resgate 'crítico'
+Malu Gaspar
+##  Trama golpista: a pergunta de Fux na acareação de Mauro Cid com Braga Netto
+Mundo
+##  Se houver uma guerra nuclear, Brasil escaparia? Depende de quem travar o conflito; entenda com mapas
 * * *
-Leo Aversa
-##  Um resgate do humor que é alegria e diversão 
+Capital
+##  Gigante filipino compra antigo Estaleiro Inhaúma, na zona portuária do Rio 
+Lauro Jardim
+##  Um ato que reafirma quem manda no PT fluminense 
+Carlos Eduardo Mansur
+##  Por mais paradoxal que pareça, sensações deixadas pelo Palmeiras até aqui não foram as melhores 
 Ancelmo Gois
-##  Rogério Andrade será interrogado no processo que apura a morte de outro bicheiro 
-Marcelo Ninio
-##  Como a China vê o pós-guerra no Oriente Médio 
-Angelica Banhara
-##  O sistema de faxina do cérebro 
+##  Instituto Carioca Cão Guia corre o risco de suspender as atividades no Rio 
 ####  Mais notícias 
-###  Previsão 
-##  Em passagem de frente fria, Rio pode ter ventos de até 70 km/h e ondas de três metros 
-###  Aos 92 anos
-##  Produtora Lucy Barreto fala sobre novos projetos e cuidados do marido: 'Meu Barretinho' 
-###  Meio ambiente
-##  Um quarto do território brasileiro queimou nos últimos 40 anos; total equivale a soma das áreas do Pará e do Mato Grosso 
+###  Rio
+##  Aprovado na Câmara, projeto que libera megacomplexo de entretenimento no Parque Olímpico segue para sanção ou veto de Eduardo Paes 
+###  Lenda da NFL
+##  Aaron Rodgers anuncia aposentadoria: 'é minha última temporada' 
+###  Holger Rune
+##  Tenista top 10 da ATP vende raquetes quebradas durante partidas em nova loja virtual 
 * * *
 por Taboolapor Taboola
 Conteúdo Publicitário
-Bolsa de luxo que virou desejo entre as famosas agora tem um preço que você vai amar. Saiba mais!Bolsa de Luxo - Oferta Exclusiva
+Esse novo alarme com câmera é quase gratuito em Rio De Janeiro (consulte o preço)Alarmes
+Solicite orçamento
 Desfazer
-Bolsa de luxo com preço promocional e frete grátis para todo o Brasil Bolsa de Luxo - Oferta Exclusiva
+Doutor: Reverter encolhimento muscular após os 50 depende deste hábito noturnoRevista do Homem
+Saiba Mais
 Desfazer
-Promoção inacreditável: Tênis da marca mais famosa do mundo, por preço de fábrica e frete grátis!Queima de estoque: Tênis a preço de fábrica
+Doutor: Manter a massa muscular após os 50 anos depende deste hábito noturnoRevista do Homem
+Saiba Mais
 Desfazer
-Pare a neuropatia: descubra comoNeuroFit
+Kelly Key, 42, exibe seu corpo perfeito nessas fotos.33 Bridges
 Desfazer
 ####  Rio 
-###  Caiu na Indonésia
-##  Resgate: mais de 86h depois da queda em vulcão buscas se tornam corrida contra o tempo 
-###  'À deriva no oceano'
-##  Videomaker relata falhas cometidas por organizadores de passeio de stand up paddle no Leme 
+###  Orçamento
+##  Alerj derruba aumento das emendas impositivas e aprova LDO previsão de R$ 17 bilhões de déficit em 2026 
 ###  Bilhete eletrônico
-##  Corrida contra o tempo pelo Jaé: idosos madrugam em filas para garantir cartão de gratuidade 
-###  Em 4 cidades
-##  Operação mira esquema de internet do Comando Vermelho 
+##  Cartão Jaé gratuidade é entregue na hora nos superpostos 
+###  Ilha do Governador
+##  Funcionários da Águas do Rio são baleados ao cobrar dívidas de cliente 
+###  Quadrilha
+##  Libertado de cárcere privado, homem é preso um dia depois pela polícia 
 Galeria de fotos 
+  * Veja fotos de brasileira em trilha de vulcão antes de queda na Indonésia 
+  * Gabriel David e Giovanna Lancellotti publicam fotos do casamento no Rio 
   * Celebridades acompanham lançamento de filme da Fórmula 1 em Londres 
-  * Veja fotos das férias dos jogadores que não estão no Mundial de Clubes 
-  * Maturano: veja fotos da vinícola de Teresópolis 
 
 
 1 de 3 
 Próximo 
-Tom Cruise e Brad Pitt fazem primeira aparição juntos em 24 anos para estreia de filme sobre F1 em Londres — Foto: AFP Modelo britânica Naomi Campbell posa no tapete vermelho ao chegar para a estreia europeia do filme F1 — Foto: AFP Atriz britânica Sarah Niles posa no tapete vermelho ao chegar para a estreia europeia do filme F1 — Foto: AFP Simone Ashley comparece à estreia europeia de "F1" — Foto: AFP Lewis Hamilton, um dos produtores do filme, compareceu ao evento de lançamento da obra, na Leicester Square, em Londres Lewis Hamilton, um dos produtores do filme, compareceu ao evento de lançamento da obra, na Leicester Square, em Londres — Foto: AFP O rapper americano will.i.am posa no tapete vermelho ao chegar para a estreia europeia do filme F1 — Foto: AFP Tom Cruise e Brad Pitt — Foto: AFP Neymar e Yamal trocam camisas durante encontro — Foto: Divulgação/Santos Medina e Yamal surfaram juntos em São Paulo — Foto: Reprodução De férias no Brasil, Lamine Yamal bebe água de coco num quiosque do Rio — Foto: Reprodução Neymar joga futevôlei com Yamal — Foto: Reprodução Gabigol sobe no palco em evento no Rio de Janeiro — Foto: Reprodução Gabigol com os amigos em evento no Rio de Janeiro — Foto: Reprodução Cristiano Ronaldo posa ao lado de filho na academia — Foto: Reprodução Cristiano Ronaldo durante as férias — Foto: Instagram Mulher de CR7 posta foto das férias — Foto: Instagram Hulk curte lua de mel com a mulher, Camila Sousa — Foto: Instagram Hulk curte lua de mel com a mulher, Camila Sousa — Foto: Instagram Hulk nas Ilhas Seychelles — Foto: Instagram Hulk e Camila Sousa nas Ilhas Seychelles — Foto: Instagram Salah curte férias na praia — Foto: Instagram Salah curte férias na praia — Foto: Instagram Salah curte férias na praia — Foto: Instagram Luis Díaz se casa durante pausa para Mundial — Foto: Instagram Luis Díaz se casa durante pausa para Mundial — Foto: Instagram Luis Díaz se casa durante pausa para Mundial — Foto: Instagram Luis Díaz se casa durante pausa para Mundial — Foto: Instagram Vinícola Maturano, em Teresópolis. Na foto, a colheita da uva Syrah. Ao fundo, as Torres de Bonsucesso, na Serra dos Três Picos. — Foto: Ana Branco / Agência O Globo Caixa com uvas Syrah colhidas na safra deste ano. — Foto: Ana Branco / Agência O Globo A produtora Manuela Maturano na colheita da uva Syrah. — Foto: Ana Branco / Agencia O Globo A enóloga Mônica Rossetti junto aos tanques de inox da Maturano. — Foto: Ana Branco / Agencia O Globo O agrônomo Frederico Novelli (à esquerda) e o proprietário da vinícola Marcelo Maturano. — Foto: Ana Branco / Agência O Globo Vinhedos da Maturano, em Teresópolis. — Foto: Ana Branco / Agencia O Globo A bela paisagem da Serra se revela pelas janelas da Vinícola Maturano. — Foto: Ana Branco / Agência O Globo
+Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Fotos de Juliana Marins durante trilha no Monte Rinjani — Foto: Instagram Gabriel David e Giovanna Lancellotti se casaram neste sábado (21), aos pés do Cristo Redentor, no Rio de Janeiro — Foto: Reprodução / Instagram O bicheiro Anísio Abrahão David, pai de Gabriel, marcou presença na celebração religiosa — Foto: Reprodução / Instagram Aos 88 anos, contraventor é presidente de honra da escola de samba Beija-Flor — Foto: Reprodução / Instagram Fabíola David, mãe de Gabriel e mulher de Anísio, posa ao lado do filho — Foto: Reprodução / Instagram Casamento foi celebrado na noite deste sábado (21), com muitos famosos entre os convidados — Foto: Reprodução / Instagram Dentre os padrinhos do casal estão Agatha Moreira, Enzo Celulari, Fernanda Paes Leme, Pedro Scooby e Rodrigo Simas — Foto: Reprodução / Instagram 'Pessoas especiais para um momento especial', escreveu Gabriel David no álbum de fotos publicado nas redes sociais — Foto: Reprodução / Instagram Bruno Gissoni, Caíque Nogueira e Miguel Rômulo também estão entre os nomes que abençoaram a união — Foto: Reprodução / Instagram Tom Cruise e Brad Pitt fazem primeira aparição juntos em 24 anos para estreia de filme sobre F1 em Londres — Foto: AFP Modelo britânica Naomi Campbell posa no tapete vermelho ao chegar para a estreia europeia do filme F1 — Foto: AFP Atriz britânica Sarah Niles posa no tapete vermelho ao chegar para a estreia europeia do filme F1 — Foto: AFP Simone Ashley comparece à estreia europeia de "F1" — Foto: AFP Lewis Hamilton, um dos produtores do filme, compareceu ao evento de lançamento da obra, na Leicester Square, em Londres Lewis Hamilton, um dos produtores do filme, compareceu ao evento de lançamento da obra, na Leicester Square, em Londres — Foto: AFP O rapper americano will.i.am posa no tapete vermelho ao chegar para a estreia europeia do filme F1 — Foto: AFP Tom Cruise e Brad Pitt — Foto: AFP
 ####  Cultura e Entretenimento 
 ###  Cinema
 ##  Brad Pitt e Tom Cruise roubam a cena na estreia de F1 em Londres 
-###  'Atrasado com papelada'
-##  The Edge, guitarrista do U2, ganha cidadania na Irlanda após 62 anos morando no país 
-###  Boa Viagem
-##  Conheça alguns dos bares secretos mais charmosos do mundo (e saiba como encontrá-los) 
-###  Nikita Chikita
-##  Quem é a namorada de Flor, que apoia família durante o tratamento de Preta Gil em Nova York 
+###  Festival literário
+##  Flip divulga programação completa; confira 
+###  Atriz
+##  Andréa Beltrão reflete sobre passagem do tempo e politicamente incorreto no humor 
+###  'Tudo arrumadinho'
+##  Mãe de Marília Mendonça fala de cuidados com o neto em meio à disputa judicial com Murilo Huff 
 ####  Saúde e bem-estar 
-###  Cuidados
-##  Dieta, hidratação, higiene e respiração: 5 soluções científicas para se livrar do mau hálito 
+###  'Agora tem especialistas'
+##  Atendimento de pacientes do SUS em hospitais particulares deve começar em agosto 
+###  Estudo
+##  Canabidiol tem potencial para ajudar crianças com autismo, mas ainda faltam pesquisas 
+###  'Maldição do faraó'
+##  Fungos responsáveis pela morte de exploradores de tumbas egípcias pode ser promissor no combate ao câncer 
 ###  Saúde
-##  Alzheimer: qual é o caso mais jovem já registrado? Paciente teve sintomas com menos de 20 anos 
-###  Custos
-##  Horário escolar mais tardio? Entenda por que experiência na Flórida fracassou 
-###  Sopão
-##  Especialistas explicam como fazer caldo de osso rico em colágeno e anti-inflamatório 
+##  Quanto tempo sobrevivemos sem água e comida? 
 ####  Esportes 
+###  Atacante
+##  Santos anuncia renovação de Neymar: 'Eu vou, eu volto e eu fico' 
+###  Mundial de Clubes
+##  Boca Juniors fica apenas no empate com Auckland e dá adeus ao campeonato 
 ###  Copa do Mundo de Clubes
-##  Palmeiras reverte domínio do Inter Miami, empata no fim e enfrenta o Botafogo nas oitavas do Mundial; leia análise 
-###  Copa do Mundo de Clubes
-##  Danilo vira peça importante na defesa e no ataque do Flamengo 
-###  Reencontro
-##  Após alcançar sonho europeu, PSG encara Messi no Mundial 
-###  Oitavas do Mundial
-##  Com Palmeiras e Botafogo, veja confrontos já definidos e chaves 
+##  Site leiloa camisas usadas no 'grupo da morte' com PSG, Botafogo e Atlético de Madrid por até R$ 13 mil: veja quais são as mais caras 
+###  Tênis
+##  Bia Haddad vence americana por 2 a 0 e avança às oitavas de final em Bad Homburg 
 ####  Negócios e finanças 
-###  Tecnologia
-##  Quais os aparelhos que já podem instalar o Android 16? Veja lista 
+###  Aérea
+##  Anac cassa em definitivo certificado de operação da Voepass 
 ###  Economia
-##  E-commerce de micro e pequenas empresas dispara e atinge R$ 67 bi em 2024 
-###  EUA 
-##  Trump volta a exigir que BC americano baixe os juros 
+##  Aneel demite mais de 140 terceirizados por falta de orçamento 
+###  Logística
+##  Shopee anuncia primeira rota aérea com Azul e amplia entregas rápidas para Rio e BH 
 ###  Valor Investe
 ##  O sobe e desce dos ativos não acabou, mesmo com possível trégua entre Israel e Irã. Como investir na bolsa? 
 ####  Mundo 
-###  Era procurado
-##  Britânico que 'fingiu' se casar com menina de 9 anos na Disney Paris tem registro de crimes sexuais contra menores 
-###  B-21
-##  Bombardeiro com IA, autonomia total e alcance global: EUA já preparam o sucessor do avião invisível usado em ataque no Irã 
-###  Guerra no Oriente Médio
-##  Incertezas, sinalizações contraditórias e movimentos calculados de desinformação: como Trump decidiu atacar o Irã 
-###  Estados Unidos
-##  Juíza vai ordenar libertação de salvadorenho deportado por engano 
+###  Meta de 3.000 prisões por dia
+##  Agência migratória de Trump intensifica prisões contra cidadãos iranianos nos EUA 
+###  Colômbia
+##  Família de pré-candidato presidencial baleado processa Petro por 'assédio' e 'incitação ao ódio' 
+###  Air India
+##  Passageiros e tripulantes passam mal após comerem refeição fornecida pela companhia aérea 
+###  Mundo
+##  Trump revela mensagem do secretário-geral da Otan, que elogiou ataque dos EUA ao Irã 
 #### Variedades
-###  Veja números
-##  Lei Seca completa 17 anos com mais de 3 milhões de multas aplicadas no país, 90% delas contra homens 
-###  Aeroespacial
-##  Caças da Segunda Guerra, de acervo da TAM, são restaurados para evento de aviação e futuro museu em SP 
-###  Intercolegial
-##  Autoestima: como o esporte pode ajudar os adolescentes a se tornarem mais confiantes? 
-###  'Alcatraz dos jacarés'
-##  Flórida constrói prisão para imigrantes em área cercada por cobras e outros animais selvagens 
+###  Presidente da Liesa
+##  Gabriel David abre álbum de casamento com Giovanna Lancellotti aos pés do Cristo 
+###  'Feliz aniversário, velho Ranzinza'
+##  Messi ganha homenagem e bolo de Smurfs da mulher por seus 38 anos 
+###  Embarcação em perigo
+##  Navio carregado de carros elétricos afunda no Oceano Pacífico após pegar fogo 
+###  Gente
+##  Príncipe William e Kate Middleton quebram tradição e tomam decisão sobre o futuro dos filhos 
 ####  Clube O GLOBO 
 ###  Evento no Bosque Bar
 ##  Venha torcer em grande estilo na Casa da Torcida Carioca no Mundial de Clubes 2025: assinante O GLOBO garante até 60% OFF em ingressos 
-###  Show
-##  Terno Rei aterriza no palco do Circo Voador para lançamento de novo disco: assinante do GLOBO garante 50% de desconto em até 2 ingressos cada 
+###  Entretenimento
+##  O Baú do Raul celebra a vida e obra de Raul Seixas no Circo Voador: assinante do GLOBO garante 50% de desconto em até 2 ingressos 
 ###  Serviços
 ##  Veluplast - Centro Automotivo chegou ao Clube: assinante do GLOBO garante 15% de desconto 
 ###  Gastronomia
 ##  O tradicional Di Paolo promove uma experiência autêntica e memorável: assinante do GLOBO garante desconto especial 
 ####  Mais Lidas 
-  1. ##  Juliana Marins: parque fecha acesso ao vulcão e mobiliza seis equipes para resgatar brasileira presa em encosta na Indonésia
-  2. ##  Se houver uma guerra nuclear, Brasil escaparia? Depende de quem travar o conflito; entenda com mapas
-  3. ##  Bombardeiro com IA, autonomia total e alcance global: EUA já preparam o sucessor do avião invisível usado em ataque no Irã
-  4. ##  Israel x Irã: Cessar-fogo de Trump será cumprido? Saiba quais os ganhos de cada país com o fim do conflito
-  5. ##  Turista brasileira cai na Indonésia: acidentes graves se repetem em trilha famosa no Monte Rinjani
+  1. ##  Relatório de inteligência dos EUA aponta que ataques atrasaram programa nuclear do Irã em apenas alguns meses
+  2. ##  Cid afirma no STF que calculou dinheiro recebido de Braga Netto na trama golpista a partir do 'peso da sacola' de vinho
+  3. ##  Como rebaixamento do Lyon devido a dívidas pode afetar futuro do Botafogo
+  4. ##  Se houver uma guerra nuclear, Brasil escaparia? Depende de quem travar o conflito; entenda com mapas
+  5. ##  Juliana Marins é encontrada sem vida na Indonésia após quatro dias presa em encosta de vulcão
 
 
 Jogos online 
@@ -6852,9 +6936,9 @@ Prosseguir
 # Liens externes trouvés
 - http://www.portaldoassinante.com.br/
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-oglobo&utm_medium=referral&utm_content=thumbnails-b:Below Homepage Thumbnails:
-- https://noticiaatualizada.com/mk
-- https://portalg7-noticias.kainuxnews.com
-- https://portalg5.com.br/a-meia-de-compressao-que-esta-surpreendendo-v2
+- https://cert.home4four.com/v2/click/gmdqe82ep60sib411int%0A
+- https://info.doutornature.com/sfunnel/10526
+- https://33bridges.com/trending/celebridades-brasileiras-que-estao-envelhecendo-de-forma-especial-2-tb-mara-142
 - https://www.facebook.com/jornaloglobo
 - https://www.instagram.com/jornaloglobo
 - https://www.tiktok.com/jornaloglobo
@@ -6870,6 +6954,269 @@ Prosseguir
 - https://editoraglobo.my.site.com/assinante/s/
 - https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
 - https://www.publicidadeeditoraglobo.com.br/
+# Saiba quanto cobrar de aluguel com a Calculadora 
+Q
+Preço
+Pra começar, qual o endereço do imóvel?
+Calcular o aluguel
+Receba recomendações baseadas nas informações da sua casa ou apartamento, compare com similares e saiba o valor ideal do aluguel usando a calculadora QPreço.
+## O QPreço combina dados exclusivos e públicos para oferecer informações confiáveis
+### Estimativas confiáveis
+Saiba o preço certo para vender ou alugar a sua casa ou apartamento, e defina sua estratégia: esperar para ganhar mais ou negociar rápido.
+### Tendências e análises
+Acompanhe a evolução dos preços do seu imóvel e na sua região. Descubra tendências do mercado e tome decisões informadas.
+### Históricos de transações
+Acompanhe as negociações de venda e aluguel no seu condomínio e na sua região, com dados públicos atualizados regularmente.
+### É seguro e gratuito
+O QPreço não acessa dados pessoais de proprietários, compradores ou inquilinos, garantindo segurança e privacidade em todas as transações analisadas. E o melhor: é grátis!
+Calcule agora o valor do seu imóvel
+### Saiba o melhor momento para vender ou alugar com a Área QPreço
+Acompanhe a valorização dos seus imóveis e tendências de mercado em um só lugar.
+Acessar a Área QPreço
+## Acesse o histórico de imóveis no seu condomínio e compare com a região
+## Condomínios populares no QuintoAndar
+### PENTHOUSE
+Avenida Giovanni Gronchi, 3891
+Jardim Leonor • São Paulo, SP
+### Cores da Lapa
+Rua Riachuelo, 92
+Centro • Rio de Janeiro, RJ
+6 imóveis para alugar 
+### Copan
+Avenida Ipiranga, 200
+Centro Histórico de São Paulo • São Paulo, SP
+### Mansão Ravello
+Rua Tavares Bastos, 68
+Perdizes • São Paulo, SP
+2 imóveis para alugar 
+### DOMO HOME
+Avenida Aldino Pinotti, 601
+Centro • São Bernardo do Campo, SP
+6 imóveis para alugar 
+### Edifício JK (Bloco A)
+Rua dos Timbiras, 2500
+Funcionários • Belo Horizonte, MG
+### Arena Park
+Avenida Dom Hélder Câmara, 6001
+Engenho de Dentro • Rio de Janeiro, RJ
+21 imóveis para alugar 
+### Condomínio Cidade Maia
+Avenida Bartolomeu de Carlos, 901
+Jardim Flor da Montanha • Guarulhos, SP
+1 imóvel para alugar 
+### JARDINS DO BRASIL
+Avenida Hilário Pereira de Souza, 492
+Centro • Osasco, SP
+6 imóveis para alugar 
+### Único Guarulhos
+Avenida Guarulhos, 2845
+Ponte Grande • Guarulhos, SP
+## Alugue seu imóvel sem burocracias
+#### Rapidez e segurança na hora de fechar negócio
+Usamos a nossa tecnologia e conhecimento para fechar um contrato a cada 4 minutos.
+#### Pagamento garantido
+Aluguel garantido até o dia 12, mesmo se o inquilino atrasar.
+#### Proteção para seu imóvel
+Tenha a tranquilidade de anunciar na plataforma que tem cobertura contra danos ao final do contrato de aluguel.
+#### Seu anúncio em suas mãos
+Tenha controle e visibilidade das visitas agendadas, da performance do anúncio e das propostas recebidas.
+Anuncie agora o seu imóvel
+No QuintoAndar você aluga até 10x mais rápido
+Anunciar imóvel
++12 mil contratos
+De aluguel fechados todo mês
++10 milhões de visitas
+Agendadas todo mês
+Precisa de ajuda?
+Tenha ajuda para anunciar o seu imóvel e tire as suas dúvidas com nossos especialistas
+## Dúvidas frequentes
+### O que é o QPreço?
+O QPreço é a inteligência de precificação de imóveis desenvolvida pelo QuintoAndar, feita para fornecer estimativas reais e confiáveis sobre o valor de um imóvel. Utilizando dados do mercado, como anúncios ativos, transações públicas e tendências históricas de preços, o QPreço oferece uma visão completa do mercado imobiliário. Além disso, ele permite comparar o imóvel com outros similares, ajudando você a tomar decisões informadas ao comprar, vender ou alugar, identificando as melhores oportunidades disponíveis.
+* * *
+### Como saber o quanto cobrar no aluguel do seu imóvel?
+Utilizando a Calculadora QPreço.  
+A Calculadora QPreço é uma ferramenta gratuita desenvolvida pelo QuintoAndar que utiliza inteligência de dados para fornecer estimativas do valor de venda ou aluguel para imóveis residenciais. Baseada em transações reais, a Calculadora QPreço combina dados de mercado, públicos ou fornecidos por usuários, bem como negócios realizados por meio da nossa plataforma. Com isso, a Calculadora QPreço ajuda a reduzir as incertezas ao precificar imóveis, analisando aspectos como localização, metragem, e número de vagas na garagem, entre outros.
+* * *
+### Como a Calculadora QPreço avalia o valor do aluguel do imóvel?
+A estimativa do valor do seu imóvel é realizada com base em suas características e na região em que ele está localizado. Diversos fatores são considerados, incluindo:  
+
+  * **Área do imóvel:** Tamanho e distribuição dos espaços internos.
+  * **Valores de IPTU e condomínio:** Custos associados à manutenção e tributação do imóvel.
+  * **Número de quartos, banheiros, suítes e vagas de garagem:** Disponibilidade e configuração dos cômodos.
+  * **Histórico de negociações de imóveis similares na região:** Preços recentes de venda e aluguel de imóveis com características parecidas.
+  * **Localização:** Imóveis em bairros com boa infraestrutura, localização estratégica, proximidade de serviços essenciais e alto índice de segurança tendem a ser mais valorizados.
+
+Outros fatores, como o estado de conservação do imóvel, presença de itens de acabamento e mobília, podem influenciar o valor do imóvel, mas nem todos são diretamente considerados na estimativa da calculadora. É importante lembrar que esses elementos podem causar variações nos resultados sugeridos.  
+Esses fatores, quando combinados, ajudam a criar uma estimativa do valor do seu imóvel ajustada ao mercado atual, embora possam haver distorções dependendo das especificidades não capturadas pela calculadora.
+* * *
+### Quanto custa avaliar um imóvel com a Calculadora de aluguel QPreço?
+A Calculadora QPreço é uma ferramenta gratuita e você pode estimar o valor para quantos imóveis quiser. Para usar a Calculadora QPreço, siga estes passos:  
+
+  * Acesse a página da Calculadora QPreço no site do QuintoAndar.
+  * Insira as informações sobre o seu imóvel.
+  * Obtenha instantaneamente a estimativa de preço para aluguel e venda.
+
+
+* * *
+### Como saber a estimativa do valor de aluguel do imóvel atualizada?
+Na Área QPreço, você pode acessar a estimativa do valor do seu imóvel a qualquer momento, sempre com dados atualizados. A área também oferece informações sobre propriedades similares, detalhes do condomínio e insights do mercado — tudo para ajudar você a tomar decisões mais informadas.
+* * *
+### Por que usar a Calculadora de aluguel QPreço?
+A Calculadora QPreço ajuda a alinhar suas expectativas de preço e velocidade do negócio com a realidade do mercado, fornecendo informações relevantes e gratuitas sobre o imóvel, como estimativas de valor mínimo e máximo para aluguel ou venda, comparação com imóveis similares, médias de valores na região e características do condomínio. Assim, a ferramenta empodera todos os interessados - em especial proprietários, potenciais compradores ou inquilinos - com dados relevantes sobre o imóvel, colocando em suas mãos informações estratégicas para tomar decisões com autonomia e confiança.
+Ver todas as dúvidas sobre o QPreço
+## Como anunciar no QuintoAndar?
+1
+Cadastre seus dados e os dos seu imóvel em menos de 10 minutos. O anúncio é totalmente gratuito.
+2
+Enviamos um profissional para fotografar seu imóvel. Fotos bem feitas valorizam seu imóvel e atraem mais pessoas.
+3
+Pronto! Seu imóvel já começa a receber visitas e propostas. Tudo isso com o acompanhamento de um corretor parceiro/credenciado.
+Anuncie agora o seu imóvel
+## Explore o mercado em cidades populares e compare
+### São Paulo
+Apartamentos para alugar em São PauloCasas para alugar em São PauloStudios e kitnets para alugar em São PauloCasas em condomínio para alugar em São Paulo
+### Rio de Janeiro
+Apartamentos para alugar em Rio de JaneiroCasas para alugar em Rio de JaneiroStudios e kitnets para alugar em Rio de JaneiroCasas em condomínio para alugar em Rio de Janeiro
+### Porto Alegre
+Apartamentos para alugar em Porto AlegreCasas para alugar em Porto AlegreStudios e kitnets para alugar em Porto AlegreCasas em condomínio para alugar em Porto Alegre
+### Belo Horizonte
+Apartamentos para alugar em Belo HorizonteCasas para alugar em Belo HorizonteStudios e kitnets para alugar em Belo HorizonteCasas em condomínio para alugar em Belo Horizonte
+### Campinas
+Apartamentos para alugar em CampinasCasas para alugar em CampinasStudios e kitnets para alugar em CampinasCasas em condomínio para alugar em Campinas
+### Santo André
+Apartamentos para alugar em Santo AndréCasas para alugar em Santo AndréStudios e kitnets para alugar em Santo AndréCasas em condomínio para alugar em Santo André
+### São Bernardo do Campo
+Apartamentos para alugar em São Bernardo do CampoCasas para alugar em São Bernardo do CampoStudios e kitnets para alugar em São Bernardo do CampoCasas em condomínio para alugar em São Bernardo do Campo
+### Guarulhos
+Apartamentos para alugar em GuarulhosCasas para alugar em GuarulhosStudios e kitnets para alugar em GuarulhosCasas em condomínio para alugar em Guarulhos
+### Osasco
+Apartamentos para alugar em OsascoCasas para alugar em OsascoStudios e kitnets para alugar em OsascoCasas em condomínio para alugar em Osasco
+### Sorocaba
+Apartamentos para alugar em SorocabaCasas para alugar em SorocabaStudios e kitnets para alugar em SorocabaCasas em condomínio para alugar em Sorocaba
+Sobre nós
+Conheça o QuintoAndarSegurança no QuintoAndarRegiões atendidasCondomíniosConheça a Garantia QuintoAndarCentral de AjudaMapa do SiteMapa de CondomíniosRelatório de Transparência Salarial
+Produtos
+Indique um imóvelValor de aluguel por bairroGuiasImovelweb
+Trabalhe com a gente
+CarreirasCorretagemFotografiaVistoriasParceria de ReparosParceria com Portarias
+Para proporcionar uma experiência inesquecível para quem precisa de um lar ou anuncia com a gente, o QuintoAndar aposta em design, segurança e tecnologia de ponta.
+Mais informações
+Aviso de privacidadeTermos e condições de usoPolítica de CookiesPreferências de cookiesManual do usuário
+GRPQA Ltda.
+CRECI-SP J24.344
+|
+CRECI-MG J5851
+Ver outros
+Versão: 1750355363
+Usamos cookies para otimizar o funcionamento do site e recomendar conteúdo de seu interesse. Saiba mais na política de cookies e no aviso de privacidade.
+PreferênciasAceitar todos
+## Preferência de Cookies
+Usamos cookies para garantir as funcionalidades do site e aprimorar sua experiência online. Você pode escolher se deseja permitir ou bloquear cada categoria. Para mais detalhes a respeito de cookies, por favor leia nossa política de cookies.
+Cookies estritamente necessáriosCookies estritamente necessários
+Estes cookies são necessários para que o website funcione e não podem ser desligados nos nossos sistemas. Normalmente, eles só são configurados em resposta a ações que correspondem a uma solicitação de serviços, tais como definir as suas preferências de privacidade, iniciar sessão ou preencher formulários. Você pode configurar o seu navegador para bloquear ou alertar sobre esses cookies, mas algumas partes do website não funcionarão.
+Cookies de desempenhoCookies de desempenho
+Estes cookies nos permitem contar visitas e fontes de tráfego, para que possamos medir e melhorar o desempenho do nosso website. Eles nos ajudam a saber quais são as páginas mais e menos populares e a ver como os visitantes se movimentam pelo website. Todas as informações recolhidas por estes cookies são agregadas. Se não permitir estes cookies, não saberemos quando visitou o nosso site.
+Cookies de publicidadeCookies de publicidade
+Estes cookies podem ser estabelecidos através do nosso site pelos nossos parceiros de publicidade. Podem ser usados por essas empresas para construir um perfil sobre os seus interesses e mostrar-lhe anúncios relevantes em outros websites. Eles não armazenam diretamente informações pessoais, mas são baseados na identificação exclusiva do seu navegador e dispositivo de internet. Se não permitir estes cookies, terá menos publicidade direcionada.
+Cookies de funcionalidadeCookies de funcionalidade
+Estes cookies permitem que o site forneça uma funcionalidade e personalização melhoradas. Podem ser estabelecidos por nós ou por fornecedores externos cujos serviços adicionamos às nossas páginas. Se não permitir estes cookies algumas destas funcionalidades, ou mesmo todas, podem não atuar corretamente.
+Aceitar todosRejeitar todosSalvar preferências
+
+
+# Liens externes trouvés
+- https://www.quintoandar.com.br/area-qpreco?from_route=lp-price-calculator
+- https://quintoandar.com.br/condominio/penthouse-jardim-leonor-sao-paulo-4pxnsz84nd
+- https://quintoandar.com.br/condominio/cores-da-lapa-centro-rio-de-janeiro-8kojs1ne9d
+- https://quintoandar.com.br/condominio/copan-centro-historico-de-sao-paulo-sao-paulo-ndv7sq7j2d
+- https://quintoandar.com.br/condominio/mansao-ravello-perdizes-sao-paulo-k27sgew40p
+- https://quintoandar.com.br/condominio/domo-home-centro-sao-bernardo-do-campo-4pxnson6xd
+- https://quintoandar.com.br/condominio/edificio-jk-bloco-a-funcionarios-belo-horizonte-1d47s45e5d
+- https://quintoandar.com.br/condominio/arena-park-engenho-de-dentro-rio-de-janeiro-9p6js14xjk
+- https://quintoandar.com.br/condominio/condominio-cidade-maia-jardim-flor-da-montanha-guarulhos-6knzsr52xk
+- https://quintoandar.com.br/condominio/jardins-do-brasil-centro-osasco-6knzsxeogk
+- https://quintoandar.com.br/condominio/unico-guarulhos-ponte-grande-guarulhos-rdyose23qk
+- https://proprietario.quintoandar.com.br/novo-imovel?from_route=calculadora_aluguel
+- https://wa.me/551149337764
+- https://help.quintoandar.com.br/hc/pt-br
+- https://www.quintoandar.com.br/alugar/imovel/sao-paulo-sp-brasil
+- https://www.quintoandar.com.br/alugar/imovel/sao-paulo-sp-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/sao-paulo-sp-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/sao-paulo-sp-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/sao-paulo-sp-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/rio-de-janeiro-rj-brasil
+- https://www.quintoandar.com.br/alugar/imovel/rio-de-janeiro-rj-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/rio-de-janeiro-rj-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/rio-de-janeiro-rj-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/rio-de-janeiro-rj-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/porto-alegre-rs-brasil
+- https://www.quintoandar.com.br/alugar/imovel/porto-alegre-rs-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/porto-alegre-rs-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/porto-alegre-rs-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/porto-alegre-rs-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/belo-horizonte-mg-brasil
+- https://www.quintoandar.com.br/alugar/imovel/belo-horizonte-mg-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/belo-horizonte-mg-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/belo-horizonte-mg-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/belo-horizonte-mg-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/campinas-sp-brasil
+- https://www.quintoandar.com.br/alugar/imovel/campinas-sp-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/campinas-sp-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/campinas-sp-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/campinas-sp-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/santo-andre-sp-brasil
+- https://www.quintoandar.com.br/alugar/imovel/santo-andre-sp-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/santo-andre-sp-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/santo-andre-sp-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/santo-andre-sp-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/sao-bernardo-do-campo-sp-brasil
+- https://www.quintoandar.com.br/alugar/imovel/sao-bernardo-do-campo-sp-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/sao-bernardo-do-campo-sp-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/sao-bernardo-do-campo-sp-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/sao-bernardo-do-campo-sp-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/guarulhos-sp-brasil
+- https://www.quintoandar.com.br/alugar/imovel/guarulhos-sp-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/guarulhos-sp-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/guarulhos-sp-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/guarulhos-sp-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/osasco-sp-brasil
+- https://www.quintoandar.com.br/alugar/imovel/osasco-sp-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/osasco-sp-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/osasco-sp-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/osasco-sp-brasil/casacondominio
+- https://www.quintoandar.com.br/alugar/imovel/sorocaba-sp-brasil
+- https://www.quintoandar.com.br/alugar/imovel/sorocaba-sp-brasil/apartamento
+- https://www.quintoandar.com.br/alugar/imovel/sorocaba-sp-brasil/casa
+- https://www.quintoandar.com.br/alugar/imovel/sorocaba-sp-brasil/kitnet
+- https://www.quintoandar.com.br/alugar/imovel/sorocaba-sp-brasil/casacondominio
+- https://press.quintoandar.com.br/
+- https://mkt.quintoandar.com.br/seguranca/
+- https://www.quintoandar.com.br/regioes-atendidas
+- https://www.quintoandar.com.br/condominios
+- https://sobre.quintoandar.com.br/garantia
+- https://www.quintoandar.com.br/ajuda
+- https://www.quintoandar.com.br/mapa-do-site
+- https://www.quintoandar.com.br/mapa-do-site/condominios
+- https://mkt.quintoandar.com.br/relatorio-de-transparencia-e-igualdade-salarial/
+- https://indicaai.quintoandar.com.br/
+- https://mkt.quintoandar.com.br/plataforma-de-estatisticas
+- https://www.quintoandar.com.br/guias/
+- https://www.imovelweb.com.br/
+- https://carreiras.quintoandar.com.br/?lang=pt
+- https://mkt.quintoandar.com.br/corretor
+- https://mkt.quintoandar.com.br/fotografos-quintoandar
+- https://mkt.quintoandar.com.br/vistoriadores-quintoandar
+- https://facebook.com/quintoandar.com.br
+- https://www.instagram.com/quintoandar
+- https://www.linkedin.com/company/2836850
+- https://mkt.quintoandar.com.br/aviso-de-privacidade
+- https://www.quintoandar.com.br/termos
+- https://www.quintoandar.com.br/politica-de-cookies
+- https://www.quintoandar.com.br/manual-do-usuario
+- https://play.google.com/store/apps/details?id=br.com.quintoandar.inquilinos&hl=pt&gl=BR
+- https://apps.apple.com/br/app/quintoandar-aluguel-e-compra/id1109011232
+- https://help.quintoandar.com.br/hc/pt-br/articles/231347328-O-QuintoAndar-tem-CRECI-?utm_source=helpcenter_home&utm_medium=search&utm_term=creci
+- https://quintoandar.com.br/politica-de-cookies/
+- https://mkt.quintoandar.com.br/politica-de-privacidade/
 Ir para menuIr para conteúdo principalIr para rodapé
 Menu
 Acesse sua conta
@@ -7048,214 +7395,215 @@ Busca
 
 Que tal ficar por dentro das notícias mais importantes em tempo real? **Ative as notificações da globo.com!**
 Agora não Ativar
-AO VIVO
-## Israel confirma ataque após trégua, mas afirma que vai parar ofensiva
-  * ## EUA afirmam que Irã e Israel violaram o acordo de trégua
-  * ## Embaixador: Irã não abrirá mão do direito à energia nuclear pacífica
-  * ## Análise: a aposta arriscada de Trump que pode dar certo
+## Já classificado, Flamengo empata com o Los Angeles e fica sem os 100%
+  * ## Duelo entre Flamengo e Bayern nas oitavas da Copa gera memes; veja
+  * ## Flamengo soma mais de R$ 150 milhões em premiações na Copa
+  * ## Veja resultados, jogos e classificação da Copa do Mundo de Clubes
 
 
 * * *
-## Equipes focam em 'resgate vertical' de brasileira em parque
-  * ## Seis equipes tentam achar brasileira perto de vulcão
+## Chelsea vence o Espérance e avança para pegar o Benfica
+  * ## Copa de Clubes: veja os classificados e eliminados
 
 
 * * *
-## Socorristas montam acampamento perto de Juliana Marins
-  * ## Rinjani, na Indonésia, já foi cenário de acidentes
+## 'Pedaço tirado de mim', posta pai após morte de brasileira
+  * ## Corpo será içado ao amanhecer, diz Indonésia
 
 
 * * *
-## Israel mostra míssil que teria sido lançado na trégua
-  * ## Irã diz que trégua foi 'imposta ao inimigo'
+## #FAKE: vídeo com jovem se mexendo não é de ontem
+  * ## Deputados questionam Itamaraty sobre morte
 
 
 * * *
-## Braga Netto chega para acareação com Mauro Cid no STF
-  * ## Blog: Cid manterá versão de caixa de vinho
+## Corpo de Juliana estava a 600 metros de profundidade
+  * ## Mídia de fora repercute morte em trilha de vulcão
 
 
 * * *
-## Ação mira golpe que desviou salários de jogadores da Série A
-  * ## Falso médico que forjou a própria morte reaparece
+## Ataque não destruiu programa nuclear do Irã, diz jornal
+  * ## General do Irã dado como morto aparece em ato
 
 
 * * *
-## PCC se infiltra em presídios e expande tráfico para exterior
-  * ## Jovem diz ter feito 40 invasões de condomínios
+## Acareação: Cid diz que estimou valor em sacola pelo peso
+  * ## Blog: acareações não mudaram nada, diz STF
 
 
 * * *
-## Estádio para 65 mil deve lotar hoje no maior reduto do Fla fora do país
-  * ## Fla às 22h, Palmeiras x Bota nas oitavas; veja TABELA atualizada
+## Imprensa argentina não perdoa queda do Boca na Copa de Clubes: 'Papelão'
+* * *
+## Autor de gol histórico do Auckland fala de retorno ao trabalho de professor
+* * *
+## Botafogo atravessa os EUA e chega à Filadélfia para pegar o Palmeiras
+  * ## Renato Gaúcho cita Gabigol para defender Everaldo de críticas
 
 
 * * *
-## Já negociado, Estêvão cita dificuldade para focar: 'Você se imagina na Europa'
-  * ## Weverton sobre duelo com Bota: 'Acaba sendo jogo mais chato'
+## Lyon, de John Textor, é rebaixado para a segunda divisão do Francês
+  * ## 'Incompreensível': Lyon diz que vai recorrer de rebaixamento
+  * ## Como rebaixamento do Lyon pode afetar futuro do Botafogo
 
 
 * * *
-## Suárez assina camisas de jogadores depois do 2 a 2
-* * *
-## Jornalista espanhol critica o Bota: 'Não seria nem top 10 da LaLiga'
-  * ## Argentino Montoro fura a fila e consegue impacto imediato 
+## Reta final de 'Garota' tem passagem de tempo, casamento e nascimento
+  * ## Erros de gravação têm Maisa rindo em cena de beijo; VÍDEO
 
 
 * * *
-## Odete expõe Heleninha usando foto de recaída do celular de Celina
-  * ## 'Vale': Raquel ficará milionária 
+## 'Vale': Heleninha e Ivan têm DR e ela desabafa sobre ciúmes de Raquel
+* * *
+## Nos EUA tratando câncer, Preta Gil posta vídeos com três dos sobrinhos
+  * ## Lucas Lima celebra os 11 anos do filho que tem com Sandy; fotos
 
 
 * * *
-## Ligia emociona no palco e clima esquenta com o ex na reta final de 'Garota'
-* * *
-## Lucy Alves vê estigma e potência por ser mulher, bissexual e nordestina
-* * *
-## Sem poder, Viih Tube volta a trabalhar após combo de plásticas
-* * *
-##  Curiosidades 
-Veja mais curiosidades 
-  * ## O Brasil escaparia de uma guerra nuclear? A resposta é... depende
-* * *
-  * ## Tem até banheiro químico: veja avião 'invisível' dos EUA por dentro
-* * *
-  * ## Uma década sem Cristiano Araújo: como estão os filhos do sertanejo
-* * *
-  * ## Fungo achado em tumba de faraó pode ajudar a tratar leucemia
+## Gabriel David fala sobre o casamento e planos de lua de mel com Lancellotti
+  * ## Festa do casamento será em SP e terá escola de samba; detalhes
 
 
-Veja mais curiosidades 
+* * *
+##  Copa de Clubes 
+oferecido por
+Saiba tudo sobre o torneio 
+  * ## Müller projeta oitavas entre Bayern e Flamengo: 'Estou ansioso'
+* * *
+  * ## Joia do River quebra silêncio e diz o que foi decisivo para ida ao Real
+* * *
+  * ## Aníbal Moreno evolui, e Palmeiras vive expectativa por retorno
+* * *
+  * ## Fifa abre processo contra atleta do Pachuca após acusação de racismo
+
+
+Saiba tudo sobre o torneio 
 * * *
 ## Jornalismo
-## Drone flagra orcas arrancando algas para 'se massagear' em comportamento inédito
-Page Not FoundExtra
+## Família de MG sofre ameaça após homem inventar que vizinha ganhou na Mega
+Minas Geraisg1
 * * *
-## Sobreviventes relatam pânico em queda de balão em SC: 'A gente viu as pessoas caírem'
-Fantásticog1
+## Ninguém acerta dezenas, e prêmio da Mega-Sena acumula em R$ 40 milhões; veja números
+Loterias
 * * *
-## Pista congela com frio de 0ºC e causa dois acidentes na Serra do Rio Grande do Sul
-Rio Grande do Sulg1
+## Feirante do RJ ignora sintomas e descobre câncer em estágio 4: 'Achei que fosse alergia'
+HistóriasCrescer
 * * *
-## Videomaker relata falhas cometidas em passeio de SUP : 'Ficamos totalmente à deriva'
-RioO Globo
+## Jovem assassinado após suposto furto de chocolate trabalhava em multinacional em Curitiba
+Paranág1
 * * *
-## Embaixadora do Reino Unido foi salva por transplante de fígado após dengue: 'Nova chance'
-SaúdeMarie Claire
-* * *
-## Reclamar pode ser ainda pior: pesquisas contam quantas vezes fazemos isso e os efeitos
-SaúdeO Globo
-* * *
-## O que se sabe sobre a morte de militar reformado forçado a beber ácido em assalto em SP
+## PM chuta com força carrinho de idosa ambulante em abordagem no Centro de SP; VÍDEO
 São Paulog1
 * * *
-## Lei Seca completa 17 anos com mais de 3 milhões de multas aplicadas, 90% delas contra homens
-BrasilO Globo
+## Saiba quem era o goleiro de 17 anos que morreu após passar mal em alojamento de clube no RS
+Rio Grande do Sulg1
 * * *
-## Casal morre após acidente em estrada no interior da Bahia
+## Cemitério tem superlotação e prefeitura quer criar crematório
 Sugestão da IA
 * * *
-## Vídeo mostra ataque que matou pai e filho de 2 anos em Manaus
+## Homem é condenado a 18 anos de prisão por matar a irmã em Tatuí
+Sugestão da IA
+* * *
+## Homem é preso por importunação sexual em banheiro de shopping em Volta Redonda
+Sugestão da IA
+* * *
+## Cidade do RS registra neve
 Sugestão da IA
 * * *
 ### Economia
 oferecido por
 #### Ibovespa
-136.551pts (-565,33)
-0,41%
+137.165pts (+)
+0,45%
 MOEDASCOMPRA
-Dólar ComercialR$ 5,49
-Euro ComercialR$ 6,36
-atualizado 23/06/2025 17h21
+Dólar ComercialR$ 5,51
+Euro ComercialR$ 6,40
+atualizado 24/06/2025 17h24
 oferecido por
 Mais Jornalismo 
 * * *
 ## Esporte
-## Experiente, Hulkenberg se diz impressionado com Bortoleto: 'Colocando pressão'
-Fórmula 1ge
+## Ex-Atlético-MG, Eduardo Vargas vai deixar o Nacional-URU após 16 jogos: 'Deu errado'
+Atlético-MGge
 * * *
-## Análise: Palmeiras faz seu pior jogo na Copa, reage no fim para passar como líder, mas gera preocupação
+## Dono do Cruzeiro revela pedidos de Jardim por reforços
 Sugestão da IA
 * * *
-## Abel diz qual foi principal falha do Palmeiras e assume culpa: "Não fui capaz de ajudar"
+## Hoje no Mamelodi, Arthur Sales reencontra o Fluminense na Copa do Mundo de Clubes
 Sugestão da IA
 * * *
-## Memphis publica foto de Neto com nariz de palhaço e ex-Corinthians retruca na mesma moeda
+## Ronaldo diz que SAF é única saída para o Corinthians e afirma ter interesse em investir
 Sugestão da IA
 * * *
-## Bia Haddad estreia com vitória sobre nº 33 do mundo e vai às oitavas na grama na Alemanha
-Tênisge
+## Sem poder pagar R$ 27 milhões ao Sassuolo, São Paulo tenta novo empréstimo de Ruan
+São Pauloge
 * * *
-## Ex-Flamengo, Angelim mostra construção de campos para time feminino e provoca o Vasco
-Futebolge
-* * *
-## Brian Rodríguez, Helinho, Victor Sá: Vasco mapeia nomes para reforçar o ataque
-Vascoge
-* * *
-## Por que influenciador e jogador do Fortaleza aparecem em investigação policial no Corinthians?
+## Corinthians acerta renovação com a Nike por mais dez anos; veja os valores envolvidos
 Corinthiansge
 * * *
-## Santos se mantém otimista e acredita em renovação de Neymar até o retorno das férias
+## Juventude negocia contratação de atacante ex-Porto, Palmeiras e Santos, e mais 2 jogadores
+Juventudege
+* * *
+## Ele fica! Santos anuncia renovação de contrato com Neymar até o fim de 2025
 Santosge
 * * *
-## Jornal argentino define reencontro de Messi e PSG nos EUA como 'histórico e agridoce'
-Mundial de clubesge
+## Após lua de mel, Hulk e Camila Ângelo se exercitam em casal: 'Treino com amor'
+FitnessQuem
+* * *
+## Lenda da NFL, Aaron Rodgers anuncia aposentadoria: 'É minha última temporada'
+EsportesO Globo
 * * *
 ### Agenda
 oferecido por
 Jogos de hoje
 Copa do Mundo de Clubes da FIFA™
-BEN
-16:00
-BAY
-* * *
-Copa do Mundo de Clubes da FIFA™
 LAF
-22:00
+1x1
 FLA
+TEMPO REAL
 * * *
 Copa do Mundo de Clubes da FIFA™
 ESP
-22:00
+0x3
 CHE
+TEMPO REAL
 Mais jogos
 Mais Esportes 
 * * *
 ## Entretenimento
-## Carol Castro abre o álbum de férias em Fernando de Noronha: 'Inesquecível'
-gshow
-* * *
-## Semelhança de Suri, filha de Tom Cruise, com a mãe Katie Holmes é notada em passeio em NY
-Filhos dos FamososQuem
-* * *
-## Lembra dela? Estrela de 'Premonição' posa de biquíni e ganha elogios de fãs e famosos
-Monet
-* * *
-## Virginia Fonseca levanta a blusa e ostenta tanquinho ao mostrar resultado de bronzeamento
+## Filha de Neymar com Amanda Kimberlly comemora 1 ano com festa temática; fotos
 Quem
 * * *
-## Após mudar grafia do nome, Dieckmmann cita uso da inicial da mãe: 'Achei simbólico'
-Famososgshow
+## Ana Hickmann é só sorrisos em cliques de biquíni azul e ganha elogios de seguidores
+Marie Claire
 * * *
-## Filha de Bruce Willis é criticada nas redes por exibir fotos do pai, que sofre de demência
-Monet
+## Lucas Rangel e Lucas Bley revelam possíveis nomes para o bebê que esperam
+Cultura popgshow
 * * *
-## Aline Campos curte a natureza e recarrega a energia em viagem à Chapada dos Veadeiros
-gshow
+## Virginia participa do 1º ensaio da bateria da Grande Rio como rainha: 'Aquela visita surpresa'
+Carnavalgshow
 * * *
-## Fernanda Nobre se declara ao marido com quem tem relação aberto: 'Sou muito sortuda'
-CelebridadesMarie Claire
+## Isabella Santoni abre álbum com marido e enteada em Noronha: 'Recarregando energias'
+Marie Claire
 * * *
-## Em praia, esposa de Eduardo Costa leva 'bronca' do cantor por fotos sensuais
+## Ana Paula Araujo posa com filha de 19 anos e amigos jornalistas ao lançar livro em SP; fotos
+Quem
+* * *
+## Noiva de ex-presidente da CBF 52 anos mais velho rebate acusações de ser interesseira
+Quem
+* * *
+## Duda Nagle explica 'coisa triste' da guarda compartilhada de filha com Sabrina Sato
+Quem
+* * *
+## Após Murilo Huff relatar convivência diária com o filho, mãe de Marília Mendonça posta foto dormindo com a criança
 Sugestão da IA
 * * *
-## Carol Ribeiro celebra 29 anos de relacionamento com o marido, com quem começou a namorar aos 16
+## Rodrigo Mussi conta que reduziu 11% de gordura corporal em quatro meses; veja antes e depois
 Sugestão da IA
 * * *
 ### Horóscopo
 Áries
 21/03 a 19/04
-A rotina doméstica se dinamiza frente ao encontro entre o Sol e Júpiter no setor familiar, motivando-lhe a promover ações inovadoras que elevem a qualidade do dia a dia e descontraiam a convivência com os entes queridos. Mostre-se emocionalmente acessível nas conversas.
+O encontro entre o Sol, a Lua e Júpiter no setor doméstico lhe deixa mais disposta a promover melhorias no lar, otimizando com desenvoltura os recursos de que dispõe. Não se deixe desanimar por uma eventual falta de reciprocidade no meio familiar.
 Libra
 Escorpião
 Sagitário
@@ -7276,51 +7624,39 @@ Mais Entretenimento
 oferecido por
 Reproduzir vídeo
 Sair do vídeo
-Título:  Video mostra que senegalês morto pela PM não estava vendendo mercadorias 
-Subtítulo:  G1 SP 
+Título:  Santos anuncia renovação de contrato com Neymar 
+Subtítulo:  ge highlights 
 10
 10
 Assistir agora Pular Resumo Pular Abertura Pular anúncio Assistir do início
 Reproduzir
-00:00/01:35
+00:00/00:19
 AGORA
 Use as teclas 
 Silenciar som
 Minimizar vídeoEspelhar em outro dispositivoTela cheia
-## Video mostra que senegalês morto pela PM não estava vendendo mercadorias
+## Santos anuncia renovação de contrato com Neymar
 Assistindo
-## Video mostra que senegalês morto pela PM não estava vendendo mercadorias
+## Santos anuncia renovação de contrato com Neymar
+19 seg
+Assistindo
+## Por dentro do B-2 Spirit, avião 'invisível' que os EUA usaram para atacar o Irã
 1 min
 Assistindo
-## Homem é espancado por grupo de pessoas em Cássia
-28 seg
+## Quem foi Juliana Marins, brasileira morta na Indonésia
+1 min
 Assistindo
-## Despedida das vítimas do acidente com Balão
-8 min
+## Juliana Marins, que esperava resgate na Indonésia, é encontrada morta
+6 min
 Assistindo
-## Professora é presa por roubar dados de cartões de crédito de colegas em escola no DF
-24 seg
-Assistindo
-## Amiga conta dificuldades enfrentadas para resgatar Juliana Marins
-2 min
+## Corpo de advogada que sumiu no mar após acidente de lancha em Suape é encontrado
+1 min
 * * *
 ## 
 Veja os planos
 oferecido por
 ## Tá todo mundo assistindo
-Tá todo mundo assistindo: Carrossel horizontal de 7 itens
-AO VIVO
-09:30 - 10:34
-### Encontro Com Patrícia Poeta
-ASSINANTE
-09:30 - 12:59
-### Conexão GloboNews
-ASSINANTE
-09:31 - 10:46
-### Tvz Ao Vivo
-ASSINANTE
-10:07 - 12:03
-### Redação SporTV
+Tá todo mundo assistindo: Carrossel horizontal de 3 itens
 ### Guerreiros do Sol chegou!
 No Sertão, a paixão e o cangaço se encontram. Assista agora a essa novela cheia de bravura e chamego!
 ### Eleve o nível da disputa
@@ -7350,63 +7686,63 @@ Veja os planos
 * * *
 * * *
 * * *
-##  São João chegou! 🎉
-Acordai, João!
-## Entenda quem foi o santo e como a festa ganhou popularidade no Brasil
-CuriosidadesCasa Vogue 
-* * *
-Conhece a tradição?
-## Na Amazônia, data pede banho de cheiro para atrair amor, sorte e prosperidade
-Parág1
-* * *
-Feito no liquidificador
-## Adoce a data com um bolo de cocada na air fryer; vem aprender a fazer!
-Festa JuninaReceitas
 ##  Saúde e bem-estar
-Roacutan contra acne
-## Remédio usado por Ana Castela tem restrições; entenda quem deve usar e os riscos
-Bem Estarg1
-* * *
-Sistema glinfático
-## Corpo faz 'faxina do cérebro' à noite, mas precisamos de sono de qualidade para isso
-Bem-estarO Globo
+Hiperconectividade 
+## Dormir com o celular do lado da cama faz mal? O que diz a ciência
+CelularTechTudo
 * * *
 Sopa milenar
 ## Aprenda a fazer caldo de osso rico em colágeno e anti-inflamatório para ossos e articulações
 SaúdeO Globo
 * * *
+Após alerta de agência
+## Ozempic e Mounjaro: especialistas avaliam possível interação com anticoncepcionais
+SaúdeCrescer
+##  Comportamento
+Conheça alternativas
+## Rápidos e sem corte, procedimentos estéticos não invasivos caem no gosto dos homens
+BelezaGQ
+* * *
+Especialista explica 
+## Pessoas com síndrome de Down têm a sexualidade aflorada?
+ComportamentoCrescer
+* * *
+Sologamia e objectofilia
+## Por que as pessoas estão se casando consigo mesmas ou com objetos inanimados? 
+Sexo e afinsExtra
+* * *
 ##  gshow
-Guerreiros do Sol
-## Guerra entre irmãos termina com Arduíno atirando em Josué
-Guerreiros do Solgshow
+Dona de Mim
+## Davi e Leo transam, ele diz ‘eu te amo’ e faz proposta surpreendente
+Vem por aíNovelas
 * * *
 Êta Mundo Melhor!
 ## Relembre o fim de Candinho em 'Êta Mundo Bom!'; personagem irá voltar
-Êta Mundo Melhor!gshow
+Novelasgshow
 * * *
-'Aberto Ao Público' 
-## Confira quem estará no novo programa humorístico da TV Globo
-TVgshow
+Papo de Segunda
+## Sterblitch conta por que segurança não ria de Freddie Mercury Prateado
+GNT
 * * *
-Dona de Mim
-## Filipa encena peça, Abel sobe ao palco, e Danilo tem ataque de fúria 
-Vem por aíNovelas
+Competição
+## Prêmio Multishow de Humor' volta em formato de reality; participantes!
+MultishowTV
 ##  Tecnologia & jogos
 Conheça
 ## 5 celulares Android que prometem deixar qualquer iPhone 'no chinelo'
 Celulares e TabletsTechTudo
 * * *
 Dicas domésticas
-## Como tirar queimado do ferro de passar roupa? Veja passos e erros comuns
+## Como tirar queimado do ferro de passar? Veja passos e erros comuns
 GuiaTechTudo
 * * *
-De olho no boleto
-## Conta de luz aumenta no inverno? Descubra os vilões e saiba economizar 
-EletrodomésticosTechTudo
+Diversão em família
+## Novo jogo de escalada vira febre na Internet e custa só R$ 24
+Jogos de aventuraTechTudo
 * * *
-Estudos
-## Vai fazer o ENEM? Conheça 5 prompts para estudar pelo ChatGPT
-Inteligência ArtificialTechTudo
+Edição limitada
+## Xbox e Meta lançam novo óculos VR, que já está à venda; veja preço
+XboxTechTudo
 ## Podcasts
 ## Novo episódio de 'O Assunto' aborda a crise na diplomacia mundial; escute
 O Assuntog1
@@ -7416,27 +7752,27 @@ Isso é Fantásticog1
 globo.com
 top globo
 ### jornalismo
-  1. ## Por que o Irã avisou EUA e Catar horas antes de ataque
-  2. ## Brasileira é vista imóvel em penhasco, diz parque de vulcão
-  3. ## Trump anuncia acordo de cessar-fogo completo entre Israel e Irã
-  4. ## Por que o resgate da brasileira está demorando tanto
-  5. ## Defesa de Dona Ruth se manifesta após Murilo Huff pedir guarda unilateral do filho
+  1. ## Corpo de Juliana estava a 600 metros de profundidade
+  2. ## Brasileira que caiu em trilha de vulcão é encontrada morta
+  3. ## Mídia internacional repercute morte de Juliana em trilha
+  4. ## Irã anuncia fim do conflito, e Israel volta foco a Gaza
+  5. ## Vídeo mostra Juliana momentos antes de queda em penhasco
 
 
 ### esporte
-  1. ## Bota perde para o Atlético de Madrid, mas avança às oitavas da Copa de Clubes
-  2. ## Imprensa espanhola repercute confronto entre Bota x Atlético de Madrid
-  3. ## PSG vence o Seattle, avança às oitavas e entra no caminho do Fla
-  4. ## Palmeiras duela com Inter Miami por vaga nas oitavas; pré-jogo
-  5. ## Athletico acerta com colombiano, que pode ser o mais caro do Furacão
+  1. ## Benfica bate o Bayern, avança em 1º e coloca os alemães no caminho do Fla
+  2. ## Boca fica no empate com o Auckland e dá adeus à Copa da Fifa
+  3. ## Lyon, de John Textor, é rebaixado para a segunda divisão do Francês
+  4. ## Ronaldo diz que SAF é a única saída para Timão e demonstra interesse
+  5. ## Imprensa argentina não perdoa queda do Boca na Copa de Clubes: 'Papelão'
 
 
 ### entretenimento
-  1. ## 'Garota': velório de Zélia tem confissões e retorno de personagem
-  2. ## Fernanda Lima defende decisão de 'agendar sexo'
-  3. ## 40 mil balões e bolo de 3m: os bastidores da festa luxuosa da filha de Hulk e Camila
-  4. ## Fernando Scherer, o Xuxa, diz ter superado vício em pornografia: 'Corpo se acostuma à dopamina'
-  5. ## Humorista Gustavo Mendes diz se arrepender de bariátrica: 'Anemia para o resto da vida'
+  1. ## Foto de Gio Lancellotti e noivo com padrinhos do casamento impressiona: 'Elenco de novela'
+  2. ## Esposa diz ter editado fotos após 'briga' de Eduardo Costa: 'Excluí, cortei e repostei'
+  3. ## Noivo de Juliette alerta após contrair hepatite A: 'Não tomei a vacina'
+  4. ## Scarlett Johansson tasca beijo na boca de colega de 'Jurassic World' na frente do marido; veja
+  5. ## Filha de Neymar com Amanda Kimberlly comemora 1 ano com festa temática; fotos
 
 
   * g1
@@ -7754,10 +8090,11 @@ Prosseguir
 - https://www.techtudo.com.br/listas/
 - https://www.techtudo.com.br/playlist/videos-techtudo/
 - https://www.telecineplay.com.br/
+- https://www.techtudo.com.br/noticias/2025/06/dormir-com-o-celular-do-lado-da-cabeca-e-perigoso-veja-a-verdade-edmobile.ghtml
 - https://www.techtudo.com.br/listas/2025/06/esses-5-celulares-android-sao-mais-poderosos-que-iphones-conheca-edmobile.ghtml
 - https://www.techtudo.com.br/guia/2025/06/como-tirar-queimado-do-ferro-de-passar-roupa-lb.ghtml
-- https://www.techtudo.com.br/guia/2025/06/conta-de-luz-aumenta-no-inverno-descubra-os-viloes-e-saiba-economizar-lb.ghtml
-- https://www.techtudo.com.br/listas/2025/06/vai-fazer-o-enem-conheca-5-prompts-para-estudar-pelo-chatgpt-edsoftwares.ghtml
+- https://www.techtudo.com.br/guia/2025/06/novo-game-coop-peak-vira-febre-no-steam-conheca-veja-cosmeticos-e-mais-edjogos.ghtml
+- https://www.techtudo.com.br/noticias/2025/06/xbox-e-meta-lancam-novo-oculos-vr-que-ja-esta-a-venda-veja-preco-edjogos.ghtml
 - https://www.climatempo.com.br/
 - https://assinecoquetel.com.br/
 - https://www.acidadeon.com/
@@ -7798,921 +8135,6 @@ Prosseguir
 - https://www.winnin.com
 - https://zippi.com.br/
 - http://negocios8.redeglobo.com.br/Paginas/Midia-Kit.aspx
-Pular para o conteúdo
-Menu
-Mosaico BBB
-{'isVisible': False}
-Buscar
-buscar
-  * MAIS BUSCADOS:
-
-
-Entrar com Conta Globo
-Uma só conta para todos os produtos Globo. **É grátis!.**
-Utilize o mesmo login para todos os produtos Globo e receba recomendações e ofertas exclusivas para você.
-  * Entrar
-  * Criar uma conta
-
-
-Uma só conta para todos os produtos Globo. **É grátis!.**
-Utilize o mesmo login para todos os produtos Globo e receba recomendações e ofertas exclusivas para você.
-  * Entrar
-  * Criar uma conta
-
-
-CULTURA POP
-Carolina Dieckmmann muda grafia de nome após consultar numerologista e explica motivo
-COMPORTAMENTO
-Noivo de Juliette, Kaique Cerveny faz alerta ao contrair a hepatite A: 'Não tomei a vacina'
-NOVELAS
-Vale Tudo: Odete cria escândalo familiar e expõe Heleninha
-CULTURA POP
-Carolina Dieckmmann muda grafia de nome após consultar numerologista e explica motivo
-COMPORTAMENTO
-Noivo de Juliette, Kaique Cerveny faz alerta ao contrair a hepatite A: 'Não tomei a vacina'
-NOVELAS
-Vale Tudo: Odete cria escândalo familiar e expõe Heleninha
-CULTURA POP
-Carolina Dieckmmann muda grafia de nome após consultar numerologista e explica motivo
-COMPORTAMENTO
-Noivo de Juliette, Kaique Cerveny faz alerta ao contrair a hepatite A: 'Não tomei a vacina'
-NOVELAS
-Vale Tudo: Odete cria escândalo familiar e expõe Heleninha
-hoje, terça
-24/06 
-fixado por gshow
-2 min
-### Vale Tudo: pressionada por Raquel, Fátima chantageia Marco Aurélio 
-Resumo da semana
-1 min
-Resumo de Vale Tudo: veja os capítulos de 23 a 28 de junho
-No capítulo anterior...
-6 vídeos
-Vídeos do capítulo de 'Vale Tudo' de segunda-feira, 23 de junho de 2025
-se liga no capítulo de hojehorário de Brasília — atualizado às 21:37:11
-hoje, terça
-24/06 
-Resumo da semana
-42 seg
-Resumo de Dona de Mim: veja os capítulos de 23 a 28 de junho
-se liga no capítulo de hojehorário de Brasília — atualizado às 12:06:45
-## Colunistas gshow
-  * Didi Effe
-Uma programação de eventos musicais (com direito a playlist!) completa para você curtir o fim de semana do orgulho LGBT+ em São Paulo
-  * Ronald Villardo
-Fama, filtros e bebês de plástico: doc mostra que Andy Warhol enxergou tudo antes
-
-
-hoje, terça
-24/06 
-Resumo da semana
-30 seg
-Resumo de Garota do Momento: veja os últimos capítulos, de 23 a 28 de junho
-se liga no capítulo de hojehorário de Brasília — atualizado às 17:42:16
-## gshow no Whatsapp
-  * Entre para receber as novidades do entretenimento
-
-
-## Interatividade
-  * Corra para o Dito e descubra a palavra especial do dia!
-
-
-## Mais Lidas
-  1. Garota do Momento: velório de Zélia tem confissões e retorno de personagem
-  2. Carol Castro abre álbum de férias em Noronha: 'Sempre inesquecível'
-  3. Vale Tudo: Odete cria escândalo familiar e expõe Heleninha
-  4. Veja os looks juninos das famosas para curtir o São João 2025 
-  5. Aline Campos curte natureza em viagem a Chapada dos Veadeiros
-
-
-## Capa gshow
-  * Clara Moneke e Breno Ferreira
-Casal celebra primeiro Dia dos Namorados junto: 'Foi amor ao primeiro beijo'
-  * Protagonistas
-Atrizes falam dos desafios da nova versão de Vale Tudo 
-  * Viviane Araujo
-Rainha de bateria chega aos 50 anos em sua melhor fase na vida e no Carnaval
-
-
-Mais Capa gshow
-## No Receitas
-  * Chef de Alto Nível
-Ana Maria Braga fala da emoção de comandar novo reality: 'No Brasil não tem nada igual'
-  * No Receitas
-Arthur Paek vai ter quadro com eliminado do Chef de Alto Nível
-
-
-## Vale o Play ▶
-  * Vale Tudo
-César pede Fátima em casamento
-  * Dona de Mim
-Leo pede para Kami desistir de Marlon
-  * Garota do Momento
-Lígia vê Juliano batendo em Beto e intervém
-
-
-Mais Vale o Play ▶
-## Comportamento ❤️‍🔥
-  * Censo dos Fetiches
-Veja as preferências sexuais dos brasileiros de Norte a Sul do país
-  * Viralizou!
-Fisioterapeuta pélvica explica como exercícios ajudam na saúde sexual da mulher
-  * Semana de Moda Masculina:
-Confira os destaques da temporada de verão em Milão e Paris
-
-
-Tudo sobre Comportamento
-## Horóscopo Etc 🌞
-  * Signo de Câncer
-Veja as características e as previsões para 2025
-  * A gente pode provar!
-Mulheres levam a Astrologia mais a sério nos relacionamentos 
-  * São João
-Saiba como cada signo se comporta na festa junina
-
-
-Mais Horóscopo
-## Receitas
-  * Dica
-Como afiar as lâminas do liquidificador com casca de ovo
-  * Azeite
-Veja tipos, como usar e como armazenar
-  * Chá gelado
-9 receitas para refrescar no calor
-
-
-Mais Receitas
-Veja também no gshow
-  * #### Novelas
-  * #### Globoplay
-  * #### Cultura Pop
-  * #### TV
-  * #### Comportamento
-  * #### Receitas
-  * #### GNT
-  * #### Multishow
-  * #### Horóscopo Etc
-  * #### Realities
-  * #### BBB
-  * #### Estrela da Casa
-  * #### Festivais
-  * #### Carnaval
-  * #### Vídeos
-
-
-CULTURA POP
-Giovanna Buscacio posa com a filha, neta de Ronaldinho Gaúcho, e com o namorado: 'Tem jeito melhor de acordar?' 
-FESTIVAIS
-Murilo Huff fala do filho de 5 anos tocar bateria e piano: 'Se quiser trabalhar com música, tem apoio total'
-GNT
-Lucas Lucco fala sobre 'vida perfeita' de influencers na internet: 'Desserviço para a saúde mental das pessoas'
-Assista aos vídeos mais vistos do dia no gshow
-2 min 
-Juliano atira em Zélia
-6 min 
-Zélia se empenha em tirar uma confissão de Juliano, mas Juliano desconfia
-3 min 
-Zélia morre
-NOVELAS
-Em Garota do Momento, Ligia emociona ao apresentar nova música a Raimundo e os dois terminam na cama
-COMPORTAMENTO
-Veja os looks juninos das famosas para curtir o São João 2025 
-CULTURA POP
-Diretor de Superman, James Gunn enaltece Brasil: 'Único lugar que tinha certeza que deveríamos ir'
-REALITIES
-Inscrições BBB 26: veja quando reabrem e em quais regiões
-NOVELAS
-Garota do Momento: Alcione e Paulo Vieira fazem participação especial na última semana 
-Nas redes, ação inédita traz cenas exclusivas com desfechos paralelos às histórias exibidas na TV
-CULTURA POP
-Carol Castro abre álbum de férias em Noronha: 'Sempre inesquecível'
-A artista compartilhou em suas redes nesta segunda-feira (23)
-CULTURA POP
-Aline Campos curte natureza em viagem a Chapada dos Veadeiros
-Atriz mostrou momentos de relaxamento em suas redes sociais
-NOVELAS
-Garota do Momento: velório de Zélia tem confissões e retorno de personagem
-Na novela das 6, Bia tem uma desagradável surpresa ao ver Flora
-NOVELAS
-Dona de Mim: Filipa encena peça, Abel sobe ao palco, e Danilo tem ataque de fúria 
-Artista leva montagem de ‘A Tempestade’ para a frente da Boaz e causa alvoroço; confira
-NOVELAS
-Relembre o fim de Candinho em Êta Mundo Bom!; personagem volta em Êta Mundo Melhor!
-O caipira mais amado do Brasil ganha uma nova saga na próxima novela das 6, que estreia em 30/6
-CULTURA POP
-Fernanda Paes Leme se hospeda em mansão do ex João Vicente de Castro e nega recaída: 'Prescreveu'
-'Isso não aconteceu e não acontece há muitos anos', disse a apresentadora em resposta aos seguidores que shippam a volta do casal
-NOVELAS
-Vale Tudo: pressionada por Raquel, Fátima chantageia Marco Aurélio 
-Na novela das 9, cozinheira descobriu que a filha roubou a papelada da adoção de Sarita para o empresário 
-GLOBOPLAY
-Ravel Andrade cita perda gestacional de Andréia Horta e inspiração em Raul Seixas: 'Me ensinou muito sobre paternidade'
-Em coletiva de imprensa da série Raul Seixas: Eu Sou, ator relembrou momento difícil que enfrentou ao lado da companheira, a atriz Andréia Horta
-CULTURA POP
-Lexa celebra perda de 10 quilos: 'Voltei para o meu peso normal'
-Artista contou ter inchado muito após quadro de pré-eclâmpsia, que a levou a dar à luz Sophia prematuramente, em fevereiro: 'Obviamente meu corpo não está como já foi um dia'
-CULTURA POP
-Hugo Moura compartilha clique da namorada: 'uma das fotos mais lindas que já fiz'
-O fotógrafo e diretor de cinema compartilhou em suas redes nesta segunda-feira (23)
-TV
-Deborah Secco, Marcos Pasquim, Denílson e Gracyanne Barbosa estarão em ‘Aberto Ao Público’, novo humorístico da TV Globo
-O programa será exibido a partir do dia 6 de julho, logo após o Fantástico
-NOVELAS
-Filomena tem fim trágico em Êta Mundo Melhor!; saiba o que acontece com o papel de Débora Nascimento
-Na próxima novela das 6, que estreia em 30/6, a mocinha será vítima de uma tragédia
-NOVELAS
-Dona de Mim: tiro, término e detenção agitam a semana da novela das 7
-Saiba o que de melhor vem por aí nesta semana da trama de Rosane Svartman
-CULTURA POP
-Flora Gil compartilha cliques de visita à Preta Gil: 'A saudade já aperta o coração'
-A empresária compartilhou em suas redes nesta segunda-feira (23)
-GLOBOPLAY
-Em Guerreiros do Sol, Arduíno acerta tiro em Josué
-Confira cena que vai ao ar no décimo capítulo da novela original Globoplay, já disponível no streaming e exibido nesta terça (24) no canal Globoplay Novelas
-CULTURA POP
-Entenda o significado de 'Yarin', nome escolhido por MC Guimê para sua primeira filha 
-Cantor revelou o sexo da bebê em um chá revelação realizado no domingo (22) 
-NOVELAS
-Climão em Garota do Momento hoje (24): veja o resumo desta terça
-Novela das 6 começa às 18h05
-CULTURA POP
-Fernanda Paes Leme agradece a recepção na casa do ex João Vicente de Castro: 'Sua casa abraça igual você' 
-A artista ficou hospedada na casa do ator após o casamento de Giovanna Lancellotti e Gabriel David, que aconteceu no último sábado (23)
-CULTURA POP
-Após 3 semanas longe, Thiaguinho se surpreende com tamanho da barriga de Carol Peixinho: 'Muito grande'
-'Olha o tamanho do Bentão, cara, meu filhão', declarou o pai orgulhoso ao chegar de viagem; veja vídeo
-NOVELAS
-Garota do Momento: veja quem mudou de visual após término das gravações 
-Elenco postou mudança nas redes sociais e os fãs foram à loucura
-CULTURA POP
-Jessie J fala sobre recuperação após passar por cirurgia contra câncer de mama
-Em post no Instagram, a cantora agradeceu ao apoio da família, amigos e fãs: 'Sempre vou mostrar as partes boas e difíceis de qualquer jornada que eu passar'
-NOVELAS
-Zélia morre em Garota do Momento: Leticia Colin se despede e faz balanço da personagem 
-Em vídeo exclusivo, atriz mostra última caracterização antes de sequência trágica; vem ver!
-1 min
-Veja mais
-globo entretenimento
-© Copyright 2000-2025   
-Globo Comunicação e Participações S.A.
-  * princípios editoriais
-  * política de privacidade
-  * minha conta
-  * anuncie conosco
-
-
-  * novelas menu gshow novelas
-    * página inicial
-    * resumo das novelas novelas resumo das novelas
-      * todos os resumos
-      * resumo de garota do momento
-      * resumo de dona de mim
-      * resumo de vale tudo
-    * garota do momento novelas garota do momento
-      * página inicial
-      * mais novelas
-      * mais do gshow
-      * vem por aí
-      * personagens
-      * resumos da semanas
-    * dona de mim novelas dona de mim
-      * página inicial
-      * personagens
-      * todos os vídeos
-      * resumos das semanas
-      * vem por aí
-    * vale tudo novelas vale tudo
-      * página inicial
-      * capítulo de hoje
-      * resumos das semanas
-      * vem por aí
-      * personagens
-      * todos os vídeos 
-      * conheça a trama
-      * no globoplay
-      * mais novelas
-      * mais do gshow
-    * guerreiros do sol
-    * êta mundo melhor! novelas êta mundo melhor!
-      * mais novelas
-      * mais do gshow
-      * página inicial
-      * todos os vídeos
-      * personagens
-      * resumos das semanas
-  * realities menu gshow realities
-    * página inicial
-    * bbb realities bbb
-      * página inicial
-      * inscrições bbb 26
-      * bbb 25: últimas notícias
-      * relembre o bbb 25
-      * vídeos bbb vídeos
-        * todos os vídeos
-        * raio-x
-      * participantes
-      * resumo
-      * dentro da casa
-      * fora da casa
-      * dinâmicas bbb dinâmicas
-        * formação do paredão
-        * sincerão
-        * eliminação
-        * prova do líder
-        * prova do anjo
-        * festa
-        * show de quarta
-        * quarto secreto
-        * vitrine do seu fifi
-      * enquete bbb
-      * bate-papo bbb
-      * mesacast bbb
-      * big show
-      * prêmio gshow bbb
-      * big day
-      * bbb - o documentário
-      * parceiros bbb parceiros
-        * abb eletrificação
-        * altenburg
-        * century
-        * gart
-        * inoxcolor
-        * kless móveis planejados
-        * marina enxovais
-        * modalle
-        * panobianco
-        * rubinettos
-        * soccer grass
-        * tapecouro
-        * terracota cerâmica
-        * wolycasa
-      * no globoplay
-      * outras temporadas bbb outras temporadas
-        * bbb 24
-        * bbb 23
-        * bbb 22
-        * bbb 21
-        * bbb 20
-        * bbb 19
-        * bbb 18
-      * depois do bbb
-    * the masked singer brasil realities the masked singer brasil
-      * página inicial
-      * participantes
-      * no globoplay
-    * estrela da casa realities estrela da casa
-      * página inicial
-      * inscrições
-      * outras temporadas estrela da casa outras temporadas
-        * 2024
-      * reveja no globoplay
-    * chef de alto nível
-    * no limite realities no limite
-      * página inicial
-      * participantes
-      * no globoplay
-    * the voice brasil realities the voice brasil
-      * página inicial
-      * vídeos
-      * inscrições
-    * the voice kids realities the voice kids
-      * página inicial
-      * participantes
-      * + vídeos
-    * the voice + realities the voice +
-      * página inicial
-      * participantes
-      * vídeos
-      * inscreva-se
-    * mestre do sabor realities mestre do sabor
-      * página inicial
-      * no globoplay
-    * mais do gshow
-  * cultura pop menu gshow cultura pop
-    * página inicial
-    * filmes cultura pop filmes
-      * página inicial
-      * oscar® 2025
-    * séries
-    * música
-    * famosos
-    * viralizou
-    * show da lady gaga
-  * tv menu gshow tv
-    * página inicial
-    * altas horas
-    * caldeirão com mion
-    * domingão com huck
-    * é de casa
-    * encontro com patrícia poeta
-    * mais você
-    * viver sertanejo
-    * paulistar
-    * show da virada
-    * amigas
-  * globoplay menu gshow globoplay
-    * página inicial
-    * guerreiros do sol
-    * agora na tv
-    * acesse o globoplay
-    * mais do gshow
-  * gnt menu gshow gnt
-    * página inicial
-    * carnaval da sabrina gnt carnaval da sabrina
-      * página inicial
-      * episódios
-      * no globoplay
-    * casa de verão da eliana gnt casa de verão da eliana
-      * página inicial
-      * episódios
-      * no globoplay
-    * que história é essa, porchat? gnt que história é essa, porchat?
-      * página inicial
-      * episódios
-      * no globoplay
-    * na piscina com fê paes leme gnt na piscina com fê paes leme
-      * página inicial
-      * episódios
-    * panela quente gnt panela quente
-      * página inicial
-      * episódios
-      * no globoplay
-    * papo de segunda gnt papo de segunda
-      * página inicial
-      * episódios
-      * no globoplay
-    * quem não pode se sacode gnt quem não pode se sacode
-      * página inicial
-      * episódios
-      * no globoplay
-    * sábia ignorância gnt sábia ignorância
-      * página inicial
-      * episódios
-      * no globoplay
-    * saia justa gnt saia justa
-      * página inicial
-      * episódios
-      * no globoplay
-    * sobre nós dois gnt sobre nós dois
-      * página inicial
-      * episódios
-      * no globoplay
-    * the taste brasil gnt the taste brasil
-      * página inicial
-      * episódios
-      * no globoplay
-    * no globoplay
-  * multishow menu gshow multishow
-    * página inicial
-    * bbb a eliminação
-    * mesacast bbb
-    * na cama com pitanda multishow na cama com pitanda
-      * página inicial
-      * episódios
-      * no globoplay
-    * lady night
-    * portugal show multishow portugal show
-      * página inicial
-      * episódios
-      * no globoplay
-    * prêmio multishow multishow prêmio multishow
-      * página inicial
-      * vote nas categorias
-      * edições anteriores prêmio multishow edições anteriores
-        * 2023
-      * no globoplay
-    * te vejo no after
-    * túnel do amor multishow túnel do amor
-      * página inicial
-      * no globoplay
-    * no globoplay
-  * comportamento menu gshow comportamento
-    * página inicial
-    * moda
-    * beleza
-    * saúde
-    * sexualidade
-  * festivais menu gshow festivais
-    * página inicial
-    * lollapalooza
-    * the town
-    * rock in rio
-    * tomorrowland brasil
-    * circuito sertanejo
-    * festival de verão
-  * carnaval menu gshow carnaval
-    * página inicial
-    * edições carnaval edições
-      * carnaval 2025
-      * carnaval 2024
-  * colunistas menu gshow colunistas
-    * didi effe
-    * ronald villardo
-  * vídeos
-  * horóscopo etc menu gshow horóscopo etc
-    * página inicial
-    * seu horóscopo
-    * horóscopo chinês
-    * mapa astral
-    * tarot do dia
-    * tarot do amor
-    * astrologia
-    * numerologia
-    * tarot
-    * mais do gshow
-  * --
-  * g1
-  * guia de compras menu gshow guia de compras
-    * primeira página
-    * casa
-    * celulares
-    * lazer
-    * moda e beleza
-    * presentes
-    * tecnologia
-  * ge
-  * cartola
-  * receitas
-  * globo.com
-  *     * Acesse sua conta   
-ou cadastre-se grátis
-    * grupo globo
-    * sair da conta
-
-
-arrow-desktoparrow-mobileclose
-Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
-Prosseguir
-
-
-# Liens externes trouvés
-- https://whatsapp.com/channel/0029Va84cvX7T8bX4tLWZ93W
-  * Carregando...
-Acesse sua conta   
-ou cadastre-se grátis
-  * Home
-  * Newsletter
-  * Interiores
-    * Voltar 
-    * Interiores
-    * Apartamentos
-    * Casas
-    * Casas de famosos
-    * Home office
-    * Décor do dia
-    * Gente
-    * Tudo sobre interiores
-    * Ambientes
-  * Design
-    * Voltar 
-    * Design
-    * Móveis
-    * Objetos
-    * Sustentabilidade
-    * Luminárias
-    * Prêmio Casa Vogue Design
-    * Tecnologia
-    * Gente
-    * Tudo sobre design
-    * Feiras
-  * Arquitetura
-    * Voltar 
-    * Arquitetura
-    * Cidade
-    * Edifícios
-    * Paisagismo
-    * Gente
-    * Tudo sobre arquitetura
-    * Casas
-  * Lazer & Cultura
-    * Voltar 
-    * Lazer & Cultura
-    * Receitas
-    * Fotografia
-    * Restaurantes
-    * Viagem
-    * Livros
-    * Hotéis
-    * Tudo sobre lazer & cultura
-    * Arte
-  * Mostras & expos
-    * Voltar 
-    * Mostras & expos
-    * Arte
-    * Decoração
-    * Design
-    * Tudo sobre mostras & expos
-    * Arquitetura
-  * Seleção Archa + Casa Vogue
-  * Casa Vogue Experience
-  * Casa Vogue Estate
-  * Casa Vogue Smart
-  * Negócios
-  * Marcas parceiras
-  * Um só planeta
-  * Shopping
-  * Edição digital
-  * Colunas
-    * Voltar 
-    * Colunas
-    * A Botânica
-    * Arte em prosa
-    * Casa Conectada
-    * Casinha Vogue
-    * Cozinha de casa
-    * Organize a casa
-    * Revestindo a casa
-    * Tudo sobre colunas
-  * --
-  * Anuncie
-  * Assine
-  * Expediente
-  *     * princípios editoriais
-    * termos de uso
-    * política de privacidade
-
-
-  * g1
-  * ge
-  *   * gshow
-  *   * OGlobo
-
-
-  * todos os sites
-
-
-Menu
-casavogue / Design 
-#  Design 
-Entrar
-Carregando...
-Design 
-Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experience  Casa Vogue Estate  Smart  Loja 
-## Casa Vogue | Design
-### Notícias sobre tendências de design, entrevistas com designers brasileiros e internacionais, lançamentos de móveis, objetos de decoração, luminárias e mais. Confira! 
-## Loucura prática: Barnaba Fornasetti mantém fábrica e legado do pai com fábrica em Milão
-No norte de Milão, Barnaba Fornasetti mantém viva a fantástica fábrica de porcelanas, móveis, papéis de parede – e sonhos – imaginada pelo pai, Piero
-Ontem Design 
-## Brasília Design Week 2025: confira os destaques da terceira edição evento
-A semana de design na capital federal ocorre até o dia 24 de junho, no Museu Nacional da República e em diversos endereços da cidade
-Há 5 dias Feiras 
-## Oficina Francisco Brennand inaugura loja em São Paulo e amplia presença no mercado nacional
-Museu-ateliê do Recife chega a São Paulo com projeto de Mauricio Arruda e reforça vocação como embaixada da cerâmica autoral brasileira
-Há 5 dias Negócios 
-## Em Campinas, nova loja da Lider combina áreas verdes, concreto aparente e iluminação natural
-O showroom celebra os 80 anos da marca de mobiliário de alto padrão 
-Há 6 dias Lojas 
-## Natureza tátil: Lewis Kemmenoe cria peças em colaboração com a Fendi
-Em Londres, o designer Lewis Kemmenoe produz artesanalmente móveis e objetos com superfícies contrastantes. Seu trabalho, baseado na experimentação de materiais, acaba de render uma colaboração com a Fendi
-Há 1 semana Móveis 
-## Florense inaugura sua primeira flagship em Porto Alegre
-O espaço com mais de 1200 m² tem projeto arquitetônico assinado por Guilherme Torres e foi pensado para proporcionar uma experiência diferenciada para os visitantes 
-Há 2 semanas Lojas 
-por Taboolapor Taboola
-Conteúdo Publicitário
-She Was Everyone's Dream Girl In 90's, This Is Her Recently.Investructor
-Desfazer
-They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
-Desfazer
-Especialista em intestino: “Imploro a todos brasileiros que lavem o intestino com isso”Revista Saúde
-Saiba Mais
-Desfazer
-Desfrute do melhor na Fogo de ChãoFogo de Chão
-Clique aqui
-Desfazer
-## Tadao Ando revisita o tempo com poesia e precisão em seu primeiro relógio autoral
-O arquiteto japonês consagrado imprime sua visão minimalista — agora inspirada em uma maçã verde — em colaboração com a Cauny
-Há 2 semanas Objetos 
-## Na COP30, Belém ganhará praça flutuante adaptada às mudanças climáticas
-Projetada pelo escritório Höweler+Yoon Architecture em parceria com o CRA – Carlo Ratti Associati, a AquaPraça fará sua primeira aparição na Bienal de Arquitetura de Veneza 2025 e, depois, será uma instalação cultural permanente na região amazônica
-Há 2 semanas Um só planeta 
-## DW! Semana de Design Rio: segunda edição do evento promove reflexões sobre criatividade e tecnologia
-O evento reúne nomes de diferentes áreas criativas em um circuito repleto de lançamentos, talks e exposições no CasaShopping
-Há 2 semanas Feiras 
-## Poltrona inédita de Paulo Mendes da Rocha é destaque entre lançamentos da Ovo
-Em evento realizado na última quinta-feira, 5, no novo edifício do Masp, os designers lançaram peças de autoria do estúdio, além de colaborações com arquitetos
-Há 3 semanas Móveis 
-## Exposição da Casa Vogue traça panorama do design brasileiro nos últimos 50 anos
-'Fronteiras do Design' celebra 50 anos de transformações no Brasil pelo olhar do design e segue até 29 de junho no Parque Global Cultural, em São Paulo
-Há 3 semanas Design 
-## Em parceria inédita, RIMOWA e Vitra lançam coleção com peças que destacam o alumínio
-O Aluminium Stool e a Aluminium Toolbox são as duas primeiras novidades da linha RIMOWA e Vitra 2025, com ênfase na mobilidade e a multifuncionalidade
-Há 3 semanas Objetos 
-## Centro Pompidou adquire 70 obras dos irmãos Campana
-Mobiliários, esculturas e cadernos com esboços estão entre os artigos que passam a fazer parte do acervo do museu parisiense que está fechado para reformas
-Há 3 semanas Design 
-## 25 anos de The Sims: o jogo divertido que revolucionou a arquitetura e o design de interiores
-Inspirado por um incêndio, projetado para arquitetos e alimentado pelo interesse do público pela vida humana: esta é a história de The Sims, o jogo que despertou o interesse de uma geração inteira por design de interiores
-Há 3 semanas Tecnologia 
-## Luminária de trilho: vantagens e desvantagens que você não sabia sobre a peça
-Especialistas explicam quando e como usar a iluminação que permite direcionar os pontos de luz, de acordo com a necessidade do ambiente
-Há 3 semanas Luminárias 
-## MADE 2025: conheça os 13 estúdios estreantes da feira de design
-Até domingo, criativos apresentam artigos autorais pensados de acordo com o tema da edição, que tem foco na subjetividade e nas ideias relacionadas aos projetos 
-Há 4 semanas Feiras 
-## Tendências e lançamentos da Semana de Design de Milão 2025
-A seguir, uma compilação dos destaques conferidos in loco pela Casa Vogue
-Há 1 mês Semana de Design de Milão 
-## Granistone se une a Rodrigo Ohtake em nova coleção feita com as pedras amazonita e speranza
-Dona da maior jazida de produção de amazonita do mundo, a marca cearense quer consolidar a exclusividade e a versatilidade das rochas ornamentais na arquitetura brasileira
-Há 1 mês Marcas Parceiras 
-## A era da performance na Semana de Design de Milão 2025
-E como a maior Semana de Design do mundo ressaltou a importância de olhar para o contexto global 
-Há 1 mês Semana de Design de Milão 
-## Como o famoso "jeitinho brasileiro" moldou o design nacional
-Improviso, inventividade e uma noção positiva de gambiarra dão forma à identidade de parcela significativa do design nacional
-Há 1 mês Design 
-## Filtro da casa de Solange em 'Vale Tudo' recebeu Oscar do design; conheça
-Personagem de Alice Wegmann na novela da TV Globo vive em casa moderna com toque vintage; filtro de água é uma releitura do clássico filtro de barro e está avaliado em R$ 2.320
-Há 1 mês Design 
-## A Bauhaus e sua diáspora: o legado de uma escola revolucionária
-Descubra o que aconteceu com os criativos da Bauhaus que fugiram da Alemanha durante a Segunda Guerra Mundial
-Há 2 meses Design 
-## Assimply Studio resgata descartes para compor itens com traços esculturais
-Victor Huggo Xavier e Søren Hallberg mantêm os olhos firmes nas riquezas e particularidades brasileiras para dar forma a uma série de objetos e móveis que despertam cada vez mais desejo no mercado
-Há 2 meses Design 
-## Fora da caixa: a nova coleção de móveis da Louis Vuitton
-A marca francesa se lança em nova empreitada no design de móveis: nasce a Signature Collection, linha de mobiliário e iluminação apresentada na Semana de Design de Milão 2025
-Há 2 meses Design 
-## Juliana Lima Vasconsellos abre galeria com móveis autorais e arte brasileira
-Em seu primeiro espaço físico, a arquiteta e designer reuniu peças autorais em diálogo com obras cuidadosamente selecionadas pelo art advisor Mauricio Ferreira
-Há 2 meses Design 
-## Salone del Mobile 2025: 3 tendências que bombaram em Milão (e em breve chegarão à sua casa)
-Os anos 70, tranças e curvas assimétricas estão de volta em peças que automaticamente se tornarão seus maiores objetos de desejo
-Há 2 meses Salão do Móvel de Milão 
-## O melhor da Semana de Design de Milão 2025
-A Casa Vogue desembarcou em Milão para acompanhar, in loco, cada passo da semana mais aguardada do calendário do design internacional. Dos corredores efervescentes do Salone del Mobile aos caminhos inesperados do Fuorisalone, nossa equipe percorreu a cidade com um olhar atento, em busca dos lançamentos mais relevantes, das instalações mais impactantes e das conversas que estão moldando o futuro criativo
-Há 2 meses Semana de Design de Milão 
-## Euroluce 2025: as luminárias mais surpreendentes da feira
-Esculturais e interativos, com contornos que transitam entre a pureza formal e a organicidade de referências vindas da natureza, estes são os modelos que mais nos surpreenderam
-Há 2 meses Salão do Móvel de Milão 
-## A história de amor entre Charles e Ray Eames: o casal que moldou o design de móveis moderno
-De uma competição universitária à revolução do design do século XX, Charles e Ray Eames encontraram um no outro não apenas o amor, mas também a força motriz de uma criatividade que continua a moldar o presente
-Há 2 meses Design 
-## Salão do Móvel 2025: os melhores lançamentos que encontramos em Milão
-As novidades deste ano apostam em curvas generosas, volumes esculturais e materiais que despertam sensações
-Há 2 meses Salão do Móvel de Milão 
-## Semana de Design de Milão 2025: um resumo, dia por dia, com as principais atrações
-Como de praxe, a design week milanesa reafirmou sua vocação como epicentro de tendências e reflexões sobre o viver contemporâneo
-Há 2 meses Semana de Design de Milão 
-## Milão 2025: joaninhas e sereias inspiram novas criações de Humberto Campana
-A natureza sempre foi fonte de inspiração absoluta para os irmãos Campana – da terra, do céu e do mar saíram inúmeras criações da dupla. Nas duas novidades apresentadas pelo designer em Milão, as referências não poderiam ser outras
-Há 2 meses Semana de Design de Milão 
-Veja mais
-###  Assine a nossa newsletter! 
-Tudo que você precisa saber, diretamente no seu e-mail. É rápido e gratuito. 
-Cadastre seu email
-Li e concordo com os Termos de Uso e Política de Privacidade. Cadastrar meu email 
-####  Mais Lidas 
-  1. ##  Dia de São João: a história e as tradições da data
-  2. ##  Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
-  3. ##  Veneza está afundando? Aqui está o que você precisa saber
-  4. ##  Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
-  5. ##  1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
-
-
-CONTINUA DEPOIS DA PUBLICIDADE
-## Siga Casa Vogue
-## Mais em Globo Condé Nast
-### VOGUE: Daiane Sodré estreia na capa da Vogue Brasil: "Sempre quis fazer parte desta família"
-### GQ: 5 benefícios dos shots de gengibre comprovados pela ciência
-### CASA VOGUE: Como é a estrutura da escola mais cara do Brasil?
-### GLAMOUR: Isima: Shakira lança marca de beleza e aqui está tudo o que sabemos sobre ela
-SIGA
-### Paisagismo
-  * Suculenta 
-  * Rosa-do-Deserto 
-  * Girassol 
-  * Flor-da-Fortuna 
-  * Costela-de-Adão 
-
-
-### Interiores
-  * Banheiros modernos 
-  * Cores no quarto 
-  * Parede geométrica 
-  * Feng Shui 
-  * Rose gold 
-
-
-### Design
-  * Varal de fotos 
-  * Minimalismo 
-  * Design e arte 
-  * Tecnologia 
-  * Objetos 
-
-
-### Smart
-  * Bancada na cozinha 
-  * Tons de vermelho 
-  * Pau d'água 
-  * Modelos de cozinha 
-  * Casa de praia 
-
-
-### Lazer & Cultura
-  * Poke 
-  * Salgados 
-  * Hambúrguer 
-  * Casa do Porco 
-  * Drinks 
-
-
-  * Valor
-  * Pipeline
-  * Valor Investe
-
-
-  * O Globo
-  * Extra
-  * Autoesporte
-  * BHFM
-  * Casa e Jardim
-  * Casa Vogue
-  * CBN
-
-
-  * Crescer
-  * Época Negócios
-  * Galileu
-  * Glamour
-  * Globo Rural
-  * GQ
-  * Marie Claire
-
-
-  * Monet
-  * PEGN
-  * Quem
-  * Rádio Globo
-  * TechTudo
-  * Um Só Planeta
-  * Vida de Bicho
-  * Vogue
-
-
-  * Quem Somos
-  * Termos e Condições
-  * Trabalhe Conosco
-  * Política de Privacidade
-  * Princípios Editoriais
-  * Anuncie
-  * Minha Editora
-  * Rel. Transparência Salarial
-
-
-© 1996 - 2025. Todos direitos reservados a Editora Globo S/A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. 
-Continue lendo
-Casa alemã de 38 m² à beira do lago surpreende com interior minimalistaO escritório Keßler Plescher Architekten transformou completamente a planta do destino de férias, mas manteve um detalhe charmoso: o telhado de palha originalCasa Vogue
-Desfazer
-Mansão de 'The White Lotus' pode ser alugada com diárias de R$ 75 milCom 4.000 m², imóvel comporta 16 pessoas e conta com piscinas, praia artificial, simulador de golfe, quadra poliesportiva, academia, cinema particular, spa.,oito quartos e oito banheirosCasa Vogue
-Desfazer
-Apartamento para Venda em Praia Grande/SP - Cidade Ocian - 1 QuartosApartamentos com localização ótima , valores aceitam proposta no Financiamento Bancário e Negociação direto Proprietário , e desconto no pagamento a vista , e claro variação de plantas , lazer completo , lado praia , vista mar e próximo a comércios em geral , sem contar que próximo ao Breve Shopping Vila Mar ao lado da Prefeitura Praia GrandeChaves na Mão Imóveis | 
-Links patrocinadosLinks patrocinados
-Veja mais
-Desfazer
-As piscinas mais legais de Dubai para se refrescar ao anoitecerÀ medida que o calor aumenta com o verão, a cultura das piscinas em Dubai se estende à noite. De lounges em terraços a mergulhos à beira-mar, estes são os melhores lugares para nadar depois do anoitecerCasa Vogue
-Desfazer
-She Was Everyone's Dream Girl In 90's, This Is Her Recently.Investructor | 
-Links patrocinadosLinks patrocinados
-Desfazer
-Flagra: Toyota Hiace, van da Hilux, estreia antes do Yaris Cross no Brasil  
-Rival de Fiat Ducato e Renault Master já é produzida na Argentina e chegará ao BraAuto Esporte | 
-Links patrocinadosLinks patrocinados
-Desfazer
-Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
-Prosseguir
-A Casa Vogue gostaria de enviar notificações das principais notícias para você.
-AceitoNão, obrigado
-
-
-# Liens externes trouvés
-- https://archa.com.br/casa-vogue?utm_source=site_CV&utm_medium=menu_desk&utm_campaign=ArchaCV
-- https://casavogue.pressreader.com/casa-vogue/
-- https://s3.glbimg.com/v1/AUTH_91e21bc490b44c808f2d722ecf06a8e6/casa-vogue/M%C3%ADdia%20Kit%20Casa%20Vogue.pdf
-- https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
-- https://edicoesglobocondenast.lojavirtualnuvem.com.br/
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://investructor.com/trending/50-favorite-stars-whose-talent-timeless-looks-richard-dean-anderson-a1
-- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
-- https://info.blivo.com.br/sfunnel/3659
-- https://fogodechao.com.br/reservas
-- https://www.instagram.com/casavoguebrasil/
-- https://twitter.com/casavoguebrasil
-- https://www.facebook.com/casavoguebrasil
-- https://br.pinterest.com/casavoguebrasil/
-- https://www.youtube.com/@CasaVogueBrasil
-- https://www.tiktok.com/@casavoguebrasil?_t=8e4M6cMDrxl&_r=1
-- https://www.techtudo.com.br/
-- https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
-- https://www.publicidadeeditoraglobo.com.br/
-- https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
-- https://cat.da.us.criteo.com/delivery/ckn.php
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
-- https://privacy.us.criteo.com/adchoices?cppv=3&cpp=SfAYruSQu46Ni9_62DSLPDDpVheE2phMJKQev5H2STIbkZWHBYs1yrG_svLb9TllLxzcd3NzKywt5yd_0rwa_iOmQkFHyNBqrtoZlG3Y8yolSosozbAaegGC_vhRicOJTQwS1ZM5W9nK6i16o8DAdkOtecXOJDveDsyyOCDbi45eEEYE
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
-- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
   * Carregando...
 Acesse sua conta   
 ou cadastre-se grátis
@@ -8819,34 +8241,33 @@ Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experi
 ### Acompanhe a melhor curadoria do mercado imobiliário de luxo
 ## Boa Vista Surf Lodge une charme serrano à cultura do surfe
 Os arquitetos Sig Bergamin e Murilo Lomas assinam o projeto de interiores e o arquitetônico – este último, em colaboração com o PSA Arquitetura, de Pablo Slemenson
-Há 2 dias Casa Vogue Estate 
+Há 3 dias Casa Vogue Estate 
 ## Mansão de 'The White Lotus' pode ser alugada com diárias de R$ 75 mil
 Com 4.000 m², imóvel comporta 16 pessoas e conta com piscinas, praia artificial, simulador de golfe, quadra poliesportiva, academia, cinema particular, spa.,oito quartos e oito banheiros
-Há 3 dias Casa Vogue Estate 
+Há 4 dias Casa Vogue Estate 
 ## Por dentro de mansão de R$ 325 milhões em deserto na Califórnia
 Casa conta com três piscinas, sete quartos e 12 banheiros
 Há 4 dias Casa Vogue Estate 
 ## Bem-estar nas alturas: Curitiba ganha primeiro wellness building do Brasil
 Primeiro wellness building do Brasil, o Age360, em Curitiba, tem a chancela de Greg Bousquet, do Architects Office
-Há 4 dias Casa Vogue Estate 
+Há 5 dias Casa Vogue Estate 
 ## Um passeio pelo antigo refúgio de Barack e Michelle Obama, disputado por R$ 214,6 milhões
 Imóvel localizado em Massachusetts ficou apenas seis semanas no mercado
 Há 5 dias Casa Vogue Estate 
 ## Você moraria em uma cela? Delegacia abandonada vai a leilão por R$ 4 milhões
 Imóvel na Inglaterra tem 20 cômodos, 10 banheiros, celas e um tribunal 
-Há 5 dias Casa Vogue Estate 
+Há 6 dias Casa Vogue Estate 
 por Taboolapor Taboola
 Conteúdo Publicitário
-Como corrigir pele derretida (Faça isso todos os dias)Notícias | Beleza | Mulher
-Saiba Mais
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
 Desfazer
-Desfrute do melhor na Fogo de ChãoFogo de Chão
-Clique aqui
+Picape rival de Hilux e Ranger fica mais bruta e com visual ousadoWebmotors
+Leia mais
 Desfazer
-Como corrigir as bolsas nos olhos (Faça isso todos os dias)Notícias | Beleza | Mulher
-Saiba Mais
+BYD confirma picape para encarar Fiat Toro e ciaWebmotors
+Leia mais
 Desfazer
-After Losing Weight Kevin James Looks Like A Model33 Bridges
+Neuropatia incomodando à noite? Veja o que muitos idosos estão usando para aliviar os sintomas.aartedoherbalismo
 Desfazer
 ## Aluguel de temporada: tudo o que você precisa saber antes de dispor o seu imóvel
 Especialistas falam das vantagens e desvantagens de disponibilizar o imóvel em plataformas de locação temporárias
@@ -9033,22 +8454,21 @@ SIGA
 Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
 Prosseguir
 Continue lendo
-Giovanna Ewbank e Bruno Gagliasso abrem a brinquedoteca dos filhosCom projeto da arquiteta Hana Lerner, atores pensaram em ambiente lúdico para Títi, Bless e ZyanCasa Vogue
+Giovana Cordeiro mostra perrengue ao reposicionar sofá em casaAtriz contou que precisou desmontar móvel parcialmente para instalar em novo ambienteCasa Vogue
 Desfazer
-Cidade catarinense ganha 'Festa do Roupão' no invernoDestaque no 'Globo Repórter', cidade turística conhecida por águas termais tem ruas com turistas e moradores fazendo uso de roupõesCasa Vogue
+Como preparar a casa para o inverno e deixá-la mais quente e aconcheganteCom pequenas mudanças é possível deixar o lar mais acolhedor para enfrentar os dias mais frios do anoCasa Vogue
 Desfazer
-Como corrigir pele derretida (Faça isso todos os dias)Notícias | Beleza | Mulher | 
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
 Links patrocinadosLinks patrocinados
-Saiba Mais
 Desfazer
-Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delasAs fases da lua foram cruciais ao longo da história humana, e as razões são infinitasCasa Vogue
+Este é o terraço em Barcelona que todo amante de arquitetura (e bons drinques) deveria conhecerDo topo do Hotel Almanac, o Azimuth Rooftop redefine a experiência urbana: vistas históricas, design e coquetéis se unem para oferecer uma nova maneira de ver a cidadeCasa Vogue
 Desfazer
-Desfrute do melhor na Fogo de ChãoFogo de Chão | 
+Picape rival de Hilux e Ranger fica mais bruta e com visual ousadoWebmotors | 
 Links patrocinadosLinks patrocinados
-Clique aqui
+Leia mais
 Desfazer
-Fone QCY, JBL e mais opções com bom custo-benefício para comprar agora  
-Modelos bluetooth têm muita bateria e oferecem mais mobilidade; na lista, há itens variQual Comprar | 
+Projeção: Jeep Commander vai mudar e terá motor híbrido  
+SUV médio vai receber novo conjunto híbrido flex que pode rodar, pontualmAuto Esporte | 
 Links patrocinadosLinks patrocinados
 Desfazer
 A Casa Vogue gostaria de enviar notificações das principais notícias para você.
@@ -9062,9 +8482,10 @@ AceitoNão, obrigado
 - https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
 - https://edicoesglobocondenast.lojavirtualnuvem.com.br/
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
-- https://info.blivo.com.br/sfunnel/2908
-- https://fogodechao.com.br/reservas
-- https://33bridges.com/trending/dramatic-celebrity-weight-loss-transformations-the-secret-behind-their-success-wlmhtbus
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://www.webmotors.com.br/wm1/noticias/chevrolet-10-100-anos-serie-especial
+- https://www.webmotors.com.br/wm1/segredos-auto/byd-confirma-carro-que-tem-a-cara-do-cliente-brasileiro
+- https://grupopuralife.com.br/sf
 - https://www.instagram.com/casavoguebrasil/
 - https://twitter.com/casavoguebrasil
 - https://www.facebook.com/casavoguebrasil
@@ -9077,7 +8498,371 @@ AceitoNão, obrigado
 - https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
-- https://www.techtudo.com.br/listas/2025/06/fone-qcy-jbl-e-mais-opcoes-com-bom-custo-beneficio-para-comprar-agora-edqualcomprar.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUoo7bmPk5W0vYH_ATCu_0k#tblciGiALwi1ryKjMAnLdv_a-hi5rJRn5jubCYeZTZYLpxL-kVSCBrUoo7bmPk5W0vYH_ATCu_0k
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
+  * Carregando...
+Acesse sua conta   
+ou cadastre-se grátis
+  * Home
+  * Newsletter
+  * Interiores
+    * Voltar 
+    * Interiores
+    * Apartamentos
+    * Casas
+    * Casas de famosos
+    * Home office
+    * Décor do dia
+    * Gente
+    * Tudo sobre interiores
+    * Ambientes
+  * Design
+    * Voltar 
+    * Design
+    * Móveis
+    * Objetos
+    * Sustentabilidade
+    * Luminárias
+    * Prêmio Casa Vogue Design
+    * Tecnologia
+    * Gente
+    * Tudo sobre design
+    * Feiras
+  * Arquitetura
+    * Voltar 
+    * Arquitetura
+    * Cidade
+    * Edifícios
+    * Paisagismo
+    * Gente
+    * Tudo sobre arquitetura
+    * Casas
+  * Lazer & Cultura
+    * Voltar 
+    * Lazer & Cultura
+    * Receitas
+    * Fotografia
+    * Restaurantes
+    * Viagem
+    * Livros
+    * Hotéis
+    * Tudo sobre lazer & cultura
+    * Arte
+  * Mostras & expos
+    * Voltar 
+    * Mostras & expos
+    * Arte
+    * Decoração
+    * Design
+    * Tudo sobre mostras & expos
+    * Arquitetura
+  * Seleção Archa + Casa Vogue
+  * Casa Vogue Experience
+  * Casa Vogue Estate
+  * Casa Vogue Smart
+  * Negócios
+  * Marcas parceiras
+  * Um só planeta
+  * Shopping
+  * Edição digital
+  * Colunas
+    * Voltar 
+    * Colunas
+    * A Botânica
+    * Arte em prosa
+    * Casa Conectada
+    * Casinha Vogue
+    * Cozinha de casa
+    * Organize a casa
+    * Revestindo a casa
+    * Tudo sobre colunas
+  * --
+  * Anuncie
+  * Assine
+  * Expediente
+  *     * princípios editoriais
+    * termos de uso
+    * política de privacidade
+
+
+  * g1
+  * ge
+  *   * gshow
+  *   * OGlobo
+
+
+  * todos os sites
+
+
+Menu
+casavogue / Design 
+#  Design 
+Entrar
+Carregando...
+Design 
+Interiores  Design  Arquitetura  Seleção Archa + Casa Vogue  Casa Vogue Experience  Casa Vogue Estate  Smart  Loja 
+## Casa Vogue | Design
+### Notícias sobre tendências de design, entrevistas com designers brasileiros e internacionais, lançamentos de móveis, objetos de decoração, luminárias e mais. Confira! 
+## Loucura prática: Barnaba Fornasetti mantém fábrica e legado do pai com fábrica em Milão
+No norte de Milão, Barnaba Fornasetti mantém viva a fantástica fábrica de porcelanas, móveis, papéis de parede – e sonhos – imaginada pelo pai, Piero
+Há 2 dias Design 
+## Brasília Design Week 2025: confira os destaques da terceira edição evento
+A semana de design na capital federal ocorre até o dia 24 de junho, no Museu Nacional da República e em diversos endereços da cidade
+Há 5 dias Feiras 
+## Oficina Francisco Brennand inaugura loja em São Paulo e amplia presença no mercado nacional
+Museu-ateliê do Recife chega a São Paulo com projeto de Mauricio Arruda e reforça vocação como embaixada da cerâmica autoral brasileira
+Há 6 dias Negócios 
+## Em Campinas, nova loja da Lider combina áreas verdes, concreto aparente e iluminação natural
+O showroom celebra os 80 anos da marca de mobiliário de alto padrão 
+Há 6 dias Lojas 
+## Natureza tátil: Lewis Kemmenoe cria peças em colaboração com a Fendi
+Em Londres, o designer Lewis Kemmenoe produz artesanalmente móveis e objetos com superfícies contrastantes. Seu trabalho, baseado na experimentação de materiais, acaba de render uma colaboração com a Fendi
+Há 1 semana Móveis 
+## Florense inaugura sua primeira flagship em Porto Alegre
+O espaço com mais de 1200 m² tem projeto arquitetônico assinado por Guilherme Torres e foi pensado para proporcionar uma experiência diferenciada para os visitantes 
+Há 2 semanas Lojas 
+por Taboolapor Taboola
+Conteúdo Publicitário
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly
+Desfazer
+Picape rival de Hilux e Ranger fica mais bruta e com visual ousadoWebmotors
+Leia mais
+Desfazer
+BYD confirma picape para encarar Fiat Toro e ciaWebmotors
+Leia mais
+Desfazer
+Neuropatia incomodando à noite? Veja o que muitos idosos estão usando para aliviar os sintomas.aartedoherbalismo
+Desfazer
+## Tadao Ando revisita o tempo com poesia e precisão em seu primeiro relógio autoral
+O arquiteto japonês consagrado imprime sua visão minimalista — agora inspirada em uma maçã verde — em colaboração com a Cauny
+Há 2 semanas Objetos 
+## Na COP30, Belém ganhará praça flutuante adaptada às mudanças climáticas
+Projetada pelo escritório Höweler+Yoon Architecture em parceria com o CRA – Carlo Ratti Associati, a AquaPraça fará sua primeira aparição na Bienal de Arquitetura de Veneza 2025 e, depois, será uma instalação cultural permanente na região amazônica
+Há 2 semanas Um só planeta 
+## DW! Semana de Design Rio: segunda edição do evento promove reflexões sobre criatividade e tecnologia
+O evento reúne nomes de diferentes áreas criativas em um circuito repleto de lançamentos, talks e exposições no CasaShopping
+Há 2 semanas Feiras 
+## Poltrona inédita de Paulo Mendes da Rocha é destaque entre lançamentos da Ovo
+Em evento realizado na última quinta-feira, 5, no novo edifício do Masp, os designers lançaram peças de autoria do estúdio, além de colaborações com arquitetos
+Há 3 semanas Móveis 
+## Exposição da Casa Vogue traça panorama do design brasileiro nos últimos 50 anos
+'Fronteiras do Design' celebra 50 anos de transformações no Brasil pelo olhar do design e segue até 29 de junho no Parque Global Cultural, em São Paulo
+Há 3 semanas Design 
+## Em parceria inédita, RIMOWA e Vitra lançam coleção com peças que destacam o alumínio
+O Aluminium Stool e a Aluminium Toolbox são as duas primeiras novidades da linha RIMOWA e Vitra 2025, com ênfase na mobilidade e a multifuncionalidade
+Há 3 semanas Objetos 
+## Centro Pompidou adquire 70 obras dos irmãos Campana
+Mobiliários, esculturas e cadernos com esboços estão entre os artigos que passam a fazer parte do acervo do museu parisiense que está fechado para reformas
+Há 3 semanas Design 
+## 25 anos de The Sims: o jogo divertido que revolucionou a arquitetura e o design de interiores
+Inspirado por um incêndio, projetado para arquitetos e alimentado pelo interesse do público pela vida humana: esta é a história de The Sims, o jogo que despertou o interesse de uma geração inteira por design de interiores
+Há 3 semanas Tecnologia 
+## Luminária de trilho: vantagens e desvantagens que você não sabia sobre a peça
+Especialistas explicam quando e como usar a iluminação que permite direcionar os pontos de luz, de acordo com a necessidade do ambiente
+Há 3 semanas Luminárias 
+## MADE 2025: conheça os 13 estúdios estreantes da feira de design
+Até domingo, criativos apresentam artigos autorais pensados de acordo com o tema da edição, que tem foco na subjetividade e nas ideias relacionadas aos projetos 
+Há 4 semanas Feiras 
+## Tendências e lançamentos da Semana de Design de Milão 2025
+A seguir, uma compilação dos destaques conferidos in loco pela Casa Vogue
+Há 1 mês Semana de Design de Milão 
+## Granistone se une a Rodrigo Ohtake em nova coleção feita com as pedras amazonita e speranza
+Dona da maior jazida de produção de amazonita do mundo, a marca cearense quer consolidar a exclusividade e a versatilidade das rochas ornamentais na arquitetura brasileira
+Há 1 mês Marcas Parceiras 
+## A era da performance na Semana de Design de Milão 2025
+E como a maior Semana de Design do mundo ressaltou a importância de olhar para o contexto global 
+Há 1 mês Semana de Design de Milão 
+## Como o famoso "jeitinho brasileiro" moldou o design nacional
+Improviso, inventividade e uma noção positiva de gambiarra dão forma à identidade de parcela significativa do design nacional
+Há 1 mês Design 
+## Filtro da casa de Solange em 'Vale Tudo' recebeu Oscar do design; conheça
+Personagem de Alice Wegmann na novela da TV Globo vive em casa moderna com toque vintage; filtro de água é uma releitura do clássico filtro de barro e está avaliado em R$ 2.320
+Há 1 mês Design 
+## A Bauhaus e sua diáspora: o legado de uma escola revolucionária
+Descubra o que aconteceu com os criativos da Bauhaus que fugiram da Alemanha durante a Segunda Guerra Mundial
+Há 2 meses Design 
+## Assimply Studio resgata descartes para compor itens com traços esculturais
+Victor Huggo Xavier e Søren Hallberg mantêm os olhos firmes nas riquezas e particularidades brasileiras para dar forma a uma série de objetos e móveis que despertam cada vez mais desejo no mercado
+Há 2 meses Design 
+## Fora da caixa: a nova coleção de móveis da Louis Vuitton
+A marca francesa se lança em nova empreitada no design de móveis: nasce a Signature Collection, linha de mobiliário e iluminação apresentada na Semana de Design de Milão 2025
+Há 2 meses Design 
+## Juliana Lima Vasconsellos abre galeria com móveis autorais e arte brasileira
+Em seu primeiro espaço físico, a arquiteta e designer reuniu peças autorais em diálogo com obras cuidadosamente selecionadas pelo art advisor Mauricio Ferreira
+Há 2 meses Design 
+## Salone del Mobile 2025: 3 tendências que bombaram em Milão (e em breve chegarão à sua casa)
+Os anos 70, tranças e curvas assimétricas estão de volta em peças que automaticamente se tornarão seus maiores objetos de desejo
+Há 2 meses Salão do Móvel de Milão 
+## O melhor da Semana de Design de Milão 2025
+A Casa Vogue desembarcou em Milão para acompanhar, in loco, cada passo da semana mais aguardada do calendário do design internacional. Dos corredores efervescentes do Salone del Mobile aos caminhos inesperados do Fuorisalone, nossa equipe percorreu a cidade com um olhar atento, em busca dos lançamentos mais relevantes, das instalações mais impactantes e das conversas que estão moldando o futuro criativo
+Há 2 meses Semana de Design de Milão 
+## Euroluce 2025: as luminárias mais surpreendentes da feira
+Esculturais e interativos, com contornos que transitam entre a pureza formal e a organicidade de referências vindas da natureza, estes são os modelos que mais nos surpreenderam
+Há 2 meses Salão do Móvel de Milão 
+## A história de amor entre Charles e Ray Eames: o casal que moldou o design de móveis moderno
+De uma competição universitária à revolução do design do século XX, Charles e Ray Eames encontraram um no outro não apenas o amor, mas também a força motriz de uma criatividade que continua a moldar o presente
+Há 2 meses Design 
+## Salão do Móvel 2025: os melhores lançamentos que encontramos em Milão
+As novidades deste ano apostam em curvas generosas, volumes esculturais e materiais que despertam sensações
+Há 2 meses Salão do Móvel de Milão 
+## Semana de Design de Milão 2025: um resumo, dia por dia, com as principais atrações
+Como de praxe, a design week milanesa reafirmou sua vocação como epicentro de tendências e reflexões sobre o viver contemporâneo
+Há 2 meses Semana de Design de Milão 
+## Milão 2025: joaninhas e sereias inspiram novas criações de Humberto Campana
+A natureza sempre foi fonte de inspiração absoluta para os irmãos Campana – da terra, do céu e do mar saíram inúmeras criações da dupla. Nas duas novidades apresentadas pelo designer em Milão, as referências não poderiam ser outras
+Há 2 meses Semana de Design de Milão 
+Veja mais
+###  Assine a nossa newsletter! 
+Tudo que você precisa saber, diretamente no seu e-mail. É rápido e gratuito. 
+Cadastre seu email
+Li e concordo com os Termos de Uso e Política de Privacidade. Cadastrar meu email 
+####  Mais Lidas 
+  1. ##  Dia de São João: a história e as tradições da data
+  2. ##  Sua casa te acalma ou estressa? Essa é a chave para proteger a saúde mental no lar
+  3. ##  Veneza está afundando? Aqui está o que você precisa saber
+  4. ##  Fases da Lua: por que são tão importantes e quais rituais podem ser realizados durante cada uma delas
+  5. ##  1ª Semana de Arquitetura Moderna Paulista abre ao público casas raras em São Paulo 
+
+
+CONTINUA DEPOIS DA PUBLICIDADE
+## Siga Casa Vogue
+## Mais em Globo Condé Nast
+### VOGUE: Daiane Sodré estreia na capa da Vogue Brasil: "Sempre quis fazer parte desta família"
+### GQ: 5 benefícios dos shots de gengibre comprovados pela ciência
+### CASA VOGUE: Como é a estrutura da escola mais cara do Brasil?
+### GLAMOUR: Isima: Shakira lança marca de beleza e aqui está tudo o que sabemos sobre ela
+SIGA
+### Paisagismo
+  * Suculenta 
+  * Rosa-do-Deserto 
+  * Girassol 
+  * Flor-da-Fortuna 
+  * Costela-de-Adão 
+
+
+### Interiores
+  * Banheiros modernos 
+  * Cores no quarto 
+  * Parede geométrica 
+  * Feng Shui 
+  * Rose gold 
+
+
+### Design
+  * Varal de fotos 
+  * Minimalismo 
+  * Design e arte 
+  * Tecnologia 
+  * Objetos 
+
+
+### Smart
+  * Bancada na cozinha 
+  * Tons de vermelho 
+  * Pau d'água 
+  * Modelos de cozinha 
+  * Casa de praia 
+
+
+### Lazer & Cultura
+  * Poke 
+  * Salgados 
+  * Hambúrguer 
+  * Casa do Porco 
+  * Drinks 
+
+
+  * Valor
+  * Pipeline
+  * Valor Investe
+
+
+  * O Globo
+  * Extra
+  * Autoesporte
+  * BHFM
+  * Casa e Jardim
+  * Casa Vogue
+  * CBN
+
+
+  * Crescer
+  * Época Negócios
+  * Galileu
+  * Glamour
+  * Globo Rural
+  * GQ
+  * Marie Claire
+
+
+  * Monet
+  * PEGN
+  * Quem
+  * Rádio Globo
+  * TechTudo
+  * Um Só Planeta
+  * Vida de Bicho
+  * Vogue
+
+
+  * Quem Somos
+  * Termos e Condições
+  * Trabalhe Conosco
+  * Política de Privacidade
+  * Princípios Editoriais
+  * Anuncie
+  * Minha Editora
+  * Rel. Transparência Salarial
+
+
+© 1996 - 2025. Todos direitos reservados a Editora Globo S/A. Este material não pode ser publicado, transmitido por broadcast, reescrito ou redistribuído sem autorização. 
+Nós usamos cookies e outras tecnologias semelhantes para melhorar a sua experiência em nossos serviços, personalizar publicidade e recomendar conteúdo de seu interesse. Ao utilizar nossos serviços, você está ciente dessa funcionalidade. Informamos ainda que atualizamos nosso Aviso de Privacidade.. Conheça nosso Portal da Privacidade e veja o nosso novo Aviso.
+Prosseguir
+Continue lendo
+Desabafo de turista ao citar gastos na Disney viraliza nas redesPai conta que gastou mais de R$ 5 mil em café da manhã com princesasCasa Vogue
+Desfazer
+Mansão de 'The White Lotus' pode ser alugada com diárias de R$ 75 milCom 4.000 m², imóvel comporta 16 pessoas e conta com piscinas, praia artificial, simulador de golfe, quadra poliesportiva, academia, cinema particular, spa.,oito quartos e oito banheirosCasa Vogue
+Desfazer
+They Were So Beautiful Before; Now Look At Them; Number 10 Will Shock YouReportingly | 
+Links patrocinadosLinks patrocinados
+Desfazer
+Casa alemã de 38 m² à beira do lago surpreende com interior minimalistaO escritório Keßler Plescher Architekten transformou completamente a planta do destino de férias, mas manteve um detalhe charmoso: o telhado de palha originalCasa Vogue
+Desfazer
+Picape rival de Hilux e Ranger fica mais bruta e com visual ousadoWebmotors | 
+Links patrocinadosLinks patrocinados
+Leia mais
+Desfazer
+6 impressoras com frente e verso automático para imprimir sem esforço  
+Quem precisa imprimir dos dois lados do papel e não quer ficar virando a folha manualmente, essQual Comprar | 
+Links patrocinadosLinks patrocinados
+Desfazer
+A Casa Vogue gostaria de enviar notificações das principais notícias para você.
+AceitoNão, obrigado
+
+
+# Liens externes trouvés
+- https://archa.com.br/casa-vogue?utm_source=site_CV&utm_medium=menu_desk&utm_campaign=ArchaCV
+- https://casavogue.pressreader.com/casa-vogue/
+- https://s3.glbimg.com/v1/AUTH_91e21bc490b44c808f2d722ecf06a8e6/casa-vogue/M%C3%ADdia%20Kit%20Casa%20Vogue.pdf
+- https://www.assineglobo.com.br/hotsite/casavogue-impresso-digital/?campanha=nao&site_par=1&origem_par=1&formato_par=cv_botao&versao_par=botao_rodape&utm_source=sitegq&utm_medium=botao&utm_campaign=eg_cv_botao
+- https://edicoesglobocondenast.lojavirtualnuvem.com.br/
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbnails-b:Below Category Thumbnails:
+- https://reportingly.com/trending/celebrities-who-have-transformed-over-the-years-and-their-notable-achievements-11-tjasif-at-4
+- https://www.webmotors.com.br/wm1/noticias/chevrolet-10-100-anos-serie-especial
+- https://www.webmotors.com.br/wm1/segredos-auto/byd-confirma-carro-que-tem-a-cara-do-cliente-brasileiro
+- https://grupopuralife.com.br/sf
+- https://www.instagram.com/casavoguebrasil/
+- https://twitter.com/casavoguebrasil
+- https://www.facebook.com/casavoguebrasil
+- https://br.pinterest.com/casavoguebrasil/
+- https://www.youtube.com/@CasaVogueBrasil
+- https://www.tiktok.com/@casavoguebrasil?_t=8e4M6cMDrxl&_r=1
+- https://www.techtudo.com.br/
+- https://site.vagas.com.br/PagEmprCust_editora-globo_vagas.html
+- https://www.publicidadeeditoraglobo.com.br/
+- https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/valor-publicador-pdf-valorone/bs/2024/I/V/HJrC7ARcm8irCKl0pCLw/egcn-lei-igualdade-salarial-novo.pdf
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 3:
+- https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=thumbs-feed-01-x-delta:Explore More | Card 5:
+- https://www.techtudo.com.br/listas/2025/06/impressoras-com-frente-e-verso-automatico-para-imprimir-sem-esforco-edqualcomprar.ghtml?utm_source=taboola_native&utm_medium=native&tblci=GiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUoor46qsInFkMmzATCu_0k#tblciGiBHLeOe5BMxsZmhWBOb5gGzlPBrBk3nrTJp7xLPNl5xTyCBrUoor46qsInFkMmzATCu_0k
 - https://popup.taboola.com/pt/?template=colorbox&utm_source=editoraglobo-casavogue&utm_medium=referral&utm_content=native-thumbs-feed-01-x-delta:Explore More | Card 6:
 Logo Globoplay - 100 anos de Globo
   *   *   * Novelas
@@ -9093,20 +8878,18 @@ A partir de R$14,90, você já curte conteúdos exclusivos. Teste o Premium e de
 Assine já
 # Página inicial Globoplay
 ## Destaques
-  * Novidade
-    * Autoclassificação etária: 16A16
-    * Disponível em 4K4K
-    * Filme
-    * Drama
-Fernanda Montenegro é Vitória! Idosa denunciou tráfico de drogas e corrupção policial
-Saiba maisMinha Lista
-  *     * Esporte
-Gols, lances e muito mais! Acompanhe aqui tudo do maior torneio de clubes do mundo!
-Saiba maisMinha Lista
+  * Vitória, Ainda Estou Aqui e muito cinema nacional
+De Originais Globoplay a grandes clássicos: veja por 12x de R$ 14,90 no Plano Padrão com Anúncios
+AssineSaiba mais
+  *     * Ao vivo
+Troca de Passes
+A Copa do Mundo de Clubes da FIFA™ continua aqui, com entrevistas, análises, gols e mais!
+Assista
   *     * Agora na TV
     * Sinal gratuito
-    * Inicio às 09:30 e término às 10:34.09:30 - 10:34
-Encontro Com Patrícia Poeta
+    * Inicio às 00:05 e término às 00:24.00:05 - 00:24
+Central da Copa
+Central da Copa de Clubes
 AssistaProgramação
   * Capítulos às quartas
     * Autoclassificação etária: 16A16
@@ -9122,9 +8905,13 @@ Saiba maisMinha Lista
     * Drama
 Fernanda Montenegro é Vitória! Idosa denunciou tráfico de drogas e corrupção policial
 Saiba maisMinha Lista
-  *     * Esporte
-Gols, lances e muito mais! Acompanhe aqui tudo do maior torneio de clubes do mundo!
-Saiba maisMinha Lista
+  * Vitória, Ainda Estou Aqui e muito cinema nacional
+De Originais Globoplay a grandes clássicos: veja por 12x de R$ 14,90 no Plano Padrão com Anúncios
+AssineSaiba mais
+  *     * Ao vivo
+Troca de Passes
+A Copa do Mundo de Clubes da FIFA™ continua aqui, com entrevistas, análises, gols e mais!
+Assista
   *   * Capítulos às quartas
     * Autoclassificação etária: 16A16
     * Disponível em 4K4K
@@ -9163,6 +8950,15 @@ Saiba maisMinha Lista
 
 
 ## Melhores momentos - Copa do Mundo de Clubes da FIFA™ Mostrar mais
+  * 1 min
+Copa do Mundo de Clubes da FIFA 2025
+Auckland 1 x 1 Boca Juniors | Gols | Copa do Mundo de... 
+  * 6 min
+Copa do Mundo de Clubes da FIFA 2025
+Benfica 1 x 0 Bayern de Munique | Melhores... 
+  * 43 seg
+Copa do Mundo de Clubes da FIFA 2025
+Benfica 1 x 0 Bayern de Munique | Gol | 3ª rodada... 
   * 4 min
 Copa do Mundo de Clubes da FIFA 2025
 Porto 4 x 4 Al Ahly | Gols | 3ª rodada | Copa do... 
@@ -9226,52 +9022,37 @@ Sundowns 3 x 4 Borussia | Melhores momentos | 2ª...
   * 14 seg
 Copa do Mundo de Clubes da FIFA 2025
 Jogadores do Mamelodi Sundowns entram em... 
-  * 2 min
-Copa do Mundo de Clubes da FIFA 2025
-Bayern de Munique 2 x 1 Boca Juniors | Gols | 2ª... 
-  * 5 min
-Copa do Mundo de Clubes da FIFA 2025
-Bayern de Munique 2 x 1 Boca Juniors | Melhores... 
-  * 6 min
-Copa do Mundo de Clubes da FIFA 2025
-Los Angeles FC 0 x 1 Espérance | Melhores... 
 
 
 ## Programas liberados - Copa do Mundo de Clubes da FIFA™ Mostrar mais
-  * Assinante
-1h 18min
+  * 1h 18min
 Troca de Passes
 Edição de 23/06/2025
   * 22 min
 Central da Copa de Clubes
 Central Da Copa
-  * Assinante
-1h 30min
+  * 1h 30min
 Fechamento sportv
 Fechamento sportv - 22 de junho de 2025
-  * Assinante
-1h 4min
+  * 1h 4min
 Troca de Passes
 Edição de 21/06/2025
   * 19 min
 Central da Copa de Clubes
 Central Da Copa
-  * Assinante
-1h 20min
+  * 1h 20min
 Troca de Passes
 Edição de 20/06/2025
   * 19 min
 Central da Copa de Clubes
 Central Da Copa
-  * Assinante
-1h 37min
+  * 1h 37min
 Troca de Passes
 Edição de 19/06/2025
   * 27 min
 Central da Copa de Clubes
 Central Da Copa
-  * Assinante
-1h 16min
+  * 1h 16min
 Troca de Passes
 Edição de 18/06/2025
   * 15 min
@@ -9298,6 +9079,14 @@ Edição de 14/06/2025
 
 
 ## Copa do Mundo de Clubes da FIFA™
+  * Encerrado
+Los Angeles FCLAF1
+FlamengoFLA1
+Fase de grupos
+  * Encerrado
+EspéranceESP0
+ChelseaCHE3
+Fase de grupos
   * Hoje, 16:00
 Futebol
 Fase de grupos
@@ -9320,47 +9109,33 @@ Fase de grupos
 Futebol
 Fase de grupos
   * Amanhã, 22:00
-Futebol
-Fase de grupos
-  * 26/06, 16:00
-Futebol
-Fase de grupos
-  * 26/06, 16:00
-Futebol
-Fase de grupos
-  * 26/06, 22:00
-Futebol
-Fase de grupos
-  * 26/06, 22:00
 Futebol
 Fase de grupos
 
 
 ## Ao Vivo Grátis
   * Sinal gratuito
-Ao vivo
-Classificação etária: 1010
-09:30 - 10:34
-Encontro Com Patrícia Poeta
+00:05 - 00:24
+Central da Copa
+Central da Copa de Clubes
   * Sinal gratuito
 Autoclassificação etária: livreAL
-09:51 - 10:17
-Cozinha Prática
-Chutney De Manga
+23:41 - 00:11
+Restaurantes Inesquecíveis
+Fora Do Eixo
   * Sinal gratuito
-10:10 - 11:04
-Giro Da Rodada
-Melhores Momentos - Dias 1 E 2
+23:45 - 01:54
+Liga Das Nações Masculina De Vôlei
+Eua X Eslovênia
   * Sinal gratuito
-Classificação etária: 1010
-10:00 - 10:29
-Malhação - Múltipla Escolha
-Temp. - Ep. 0
+Autoclassificação etária: 10A10
+00:00 - 00:29
+Malhação.Com
   * Sinal gratuito
 Classificação etária: livreL
-10:15 - 10:29
+00:00 - 00:14
 D.P.A.- Detetives Do Prédio Az
-O Bilhete Premiado
+O Segredo Do Quadro
   * Sinal gratuito
 Ao vivo
 Agora
@@ -9370,10 +9145,10 @@ Ao vivo
 Agora
 CBN Ao Vivo SP
   * Sinal gratuito
-Autoclassificação etária: livreAL
-10:00 - 10:34
-Território 4.0
-A Grande Final
+Classificação etária: 1212
+23:25 - 00:25
+Mundo.Doc
+Jéssica Cristopherry
 
 
 ## Liberados: Orgulho LGBTQIAPN+ Mostrar mais
@@ -9394,32 +9169,37 @@ A Grande Final
 Para Ver de Graça
 Assista grátis a séries, novelas, documentários, conteúdos infantis e mais!
 Saiba mais
-## De Graça Para as Crianças Mostrar mais
-  * ### D.P.A. – Detetives do Prédio Azul
-  * ### Galinha Pintadinha Mini
-  * ### Meu Amigãozão
-  * ### Tainá e os Guardiões da Amazônia
-  * ### Valentins
-  * ### A Tropa da Roça
-  * ### Sítio do Picapau Amarelo
-  * ### Escola de Gênios
-  * ### Tara Duncan
-  * ### Bugados
-  * ### Booba
-  * ### Turma da Galinha Pintadinha
-  * ### O Diário De Mika
-  * ### Vlog da Berê
-  * ### Pequeno Príncipe e seus Amigos
-  * ### Acampamento de Férias
-  * ### D.P.A. – O Enigma dos Ovos de Páscoa
-  * ### Tuca, O Mestre Cuca
-  * ### Sopa de Letrinhas
-  * ### Vlog da Mila
-  * ### Rolê Gloob
-  * ### Mytikah - O livro dos heróis
-  * ### UAU Animal – Qual é o Bicho?
-  * ### D.P.A. - Uma Investigação Submarina - Especial 10 Anos
-  * Mostrar mais
+## Vale Tudo
+  * 2 min
+Vale Tudo
+Consuêlo fica indignada com o comportamento de... 
+  * 1 min
+Vale Tudo
+Raquel exige falar com Maria de Fátima
+  * 3 min
+Vale Tudo
+Heleninha pede desculpas a Celina
+  * 1 min
+Vale Tudo
+Raquel confronta Maria de Fátima
+  * 2 min
+Vale Tudo
+Raquel manda Maria de Fátima reaver os... 
+  * 6 min
+Vale Tudo
+Odete comemora o sucesso de seu plano
+  * 1 min
+Vale Tudo
+Consuêlo se enfurece com Jarbas
+  * 2 min
+Vale Tudo
+Odete pega uma foto de Heleninha que Celina... 
+  * 7 min
+Vale Tudo
+Maria de Fátima devolve os documentos para Raquel... 
+  * 9 min
+Vale Tudo
+Odete vaza a foto de Heleninha para a... 
 
 
 ## Novidades Gratuitas
@@ -9449,50 +9229,100 @@ Saiba mais
   * ### Descomplicando a Matemática - Pensamento Computacional
 
 
-## Vale Tudo
-  * 4 min
-Vale Tudo
-Laís descobre que os documentos de Sarita... 
-  * 3 min
-Vale Tudo
-Heleninha tenta convencer Celina a ir ao jantar sem... 
-  * 1 min
-Vale Tudo
-Heleninha bebe uísque em seu quarto e se recusa a... 
-  * 1 min
-Vale Tudo
-Celina liga insistentemente, mas Odete ignora
-  * 4 min
-Vale Tudo
-Afonso e Maria de Fátima chegam ao bistrô para a... 
-  * 3 min
-Vale Tudo
-Jarbas tenta conversar com Consuêlo, mas ela... 
-  * 1 min
-Vale Tudo
-Maria de Fátima tenta fazer compras online e... 
+## Garota do Momento
   * 5 min
-Vale Tudo
-Fátima confronta César, que admite ter pegado o... 
+Garota do Momento
+Lígia fica com ciúmes do Raimundo e não consegue... 
   * 2 min
-Vale Tudo
-Bartolomeu, Mário Sérgio e Sardinha discutem a... 
-  * 2 min
-Vale Tudo
-Consuêlo desabafa com Aldeíde sobre a sogra ter... 
+Garota do Momento
+Os polícias vão até a casa da Maristela a procura do... 
   * 4 min
-Vale Tudo
-Laís mostra a Raquel uma gravação de vídeo da... 
+Garota do Momento
+Maristela discute com Basílio e afirma que não... 
+  * 1 min
+Garota do Momento
+Começa o enterro da Branca/Zélia
+  * 1 min
+Garota do Momento
+Flora pede perdão para Arlete
+  * 4 min
+Garota do Momento
+Topete interage com Anita em seu programa de TV
+  * 4 min
+Garota do Momento
+Maristela encontra Juliano e lhe entrega roupa e... 
+  * 4 min
+Garota do Momento
+Lígia canta uma música em homenagem ao... 
+  * 5 min
+Garota do Momento
+Lígia e Raimundo se beijam
+
+
+## De Graça Para as Crianças Mostrar mais
+  * ### D.P.A. – Detetives do Prédio Azul
+  * ### Galinha Pintadinha Mini
+  * ### Meu Amigãozão
+  * ### Valentins
+  * ### Tainá e os Guardiões da Amazônia
+  * ### A Tropa da Roça
+  * ### Sítio do Picapau Amarelo
+  * ### Tara Duncan
+  * ### Bugados
+  * ### Booba
+  * ### Turma da Galinha Pintadinha
+  * ### Escola de Gênios
+  * ### O Diário De Mika
+  * ### Vlog da Berê
+  * ### Pequeno Príncipe e seus Amigos
+  * ### D.P.A. – O Enigma dos Ovos de Páscoa
+  * ### Acampamento de Férias
+  * ### Sopa de Letrinhas
+  * ### Rolê Gloob
+  * ### Tuca, O Mestre Cuca
+  * ### Vlog da Mila
+  * ### Mytikah - O livro dos heróis
+  * ### UAU Animal – Qual é o Bicho?
+  * ### D.P.A. – De Volta Ao Clubinho
+  * Mostrar mais
+
+
+## Dona de Mim
+  * 5 min
+Dona de Mim
+Yuri consegue a liberdade de Ryan, que se emociona... 
+  * 4 min
+Dona de Mim
+Marlon anuncia a Kami que Ryan cumprirá o regime... 
+  * 2 min
+Dona de Mim
+Abel elogia o trabalho de Leo e Filipa, mas afirma... 
+  * 6 min
+Dona de Mim
+Kami se preocupa com a libertação de Ryan
+  * 3 min
+Dona de Mim
+Abel confronta Ricardo sobre reuniões com... 
+  * 3 min
+Dona de Mim
+Jaques liga para Vanderson, que acaba... 
+  * 3 min
+Dona de Mim
+Jaques confirma que Vanderson é o pai... 
+  * 3 min
+Dona de Mim
+Dara ensaia um coral junino no bairro
 
 
 ## Programas gratuitos Mostrar mais
   * ### Hora de Agir
+  * ### Mais Você
+  * ### Mamilos Café
+  * ### Encontro com Patrícia Poeta
   * ### Conversa com Bial
   * ### Conexão
   * ### E Aí, Professora?
   * ### Preciso Falar Sobre ELA
-  * ### Mais Você
-  * ### Encontro com Patrícia Poeta
   * ### Identidade Brasil
   * ### Domingão com Huck
   * ### Viver Sertanejo
@@ -9502,7 +9332,6 @@ Laís mostra a Raquel uma gravação de vídeo da...
   * ### A(u)tores
   * ### Da Nascente À Foz
   * ### Braincast
-  * ### Mamilos Café
   * ### Movimento LED - Luz na Educação
   * ### Planeta Menos Um Lixo
   * ### Quantos Dias. Quantas Noites
@@ -9511,63 +9340,6 @@ Laís mostra a Raquel uma gravação de vídeo da...
   * ### As Duas Irenes
   * ### Curtas Negritudes Globo
   * Mostrar mais
-
-
-## Dona de Mim
-  * 2 min
-Dona de Mim
-Tânia tenta humilhar Filipa, que pisa no pé de Tânia
-  * 3 min
-Dona de Mim
-Tânia e Jaques se desentendem
-  * 2 min
-Dona de Mim
-Jacques liga para Higuy
-  * 3 min
-Dona de Mim
-Dedé e Marlon treinam juntos e Kami olha... 
-  * 3 min
-Dona de Mim
-Ryan corta o cabelo de um preso
-  * 3 min
-Dona de Mim
-Filipa fica com raiva
-  * 2 min
-Dona de Mim
-Yuri diz que vai levar o caso de Ryan para o juiz
-  * 5 min
-Dona de Mim
-Abel encerra a reunião
-  * 3 min
-Dona de Mim
-Ryan ora na cela
-
-
-## Garota do Momento
-  * 6 min
-Garota do Momento
-Zélia se empenha em tirar uma confissão de... 
-  * 2 min
-Garota do Momento
-Juliano descobre a escuta
-  * 2 min
-Garota do Momento
-Juliano atira em Zélia
-  * 3 min
-Garota do Momento
-Zélia morre
-  * 1 min
-Garota do Momento
-Clarice vê Zélia morta
-  * 5 min
-Garota do Momento
-Igor pede Guto em namoro, que fala que precisa de... 
-  * 3 min
-Garota do Momento
-Alfredo e Anita anunciam que estão esperando um... 
-  * 5 min
-Garota do Momento
-Juliano confessa a Maristela que matou Zélia
 
 
 ## Vem aí Mostrar mais
@@ -9661,9 +9433,10 @@ Ainda Estou Aqui
   * ### Breve Miragem de Sol
   * ### Doce de Mãe
   * ### A Sonhadora
+  * ### Onde Está Meu Coração
   * ### O Mundo Dos Casados
   * ### Amor e Sorte
-  * ### Segura Essa Pose
+  * ### Todas as Flores
   * ### Cosme & Damião: Quase Santos
   * ### El Turco
   * ### A Mulher do Diabo
@@ -9691,7 +9464,6 @@ Ainda Estou Aqui
   * ### Marte Um
   * ### Entre Os Homens De Bem
   * ### Segunda Chamada
-  * ### Todas As Cores do Brasil
   * Mostrar mais
 
 
@@ -9735,8 +9507,8 @@ Ainda Estou Aqui
   * ### A Viagem
   * ### Salve Jorge
   * ### Avenida Brasil
-  * ### Verdades Secretas
   * ### A Força do Querer
+  * ### Verdades Secretas
   * ### Malhação 2014
   * ### Amor à Vida
   * ### Cheias de Charme
@@ -9746,43 +9518,47 @@ Ainda Estou Aqui
   * ### Caminho das Índias
   * ### História de Amor
   * ### Laços de Família
+  * ### A Dona do Pedaço
   * ### Malhação 2012
-  * ### Fina Estampa
   * ### Vale Tudo (1988)
   * ### Além do Tempo
-  * ### Império
+  * ### Fina Estampa
   * Mostrar mais
 
 
+## Copa do Mundo de Clubes da FIFA™ ao vivo no Globoplay!
+Copa do Mundo de Clubes da FIFA™ ao vivo no Globoplay!
+Vem viver o sonho do mundo todo no sportv com o Globoplay - Plano Premium. Assine e veja 100% dos jogos ao vivo!
+Assine jáSaiba mais
 ## Séries do Padrão com Anúncios Mostrar mais
   * ### Pablo & Luisão
   * ### Tapas & Beijos
-  * Episódios semanais
-### Tô de Graça
   * ### Origem
   * Até 30/06
 ### Reinado
+  * Episódios semanais
+### Tô de Graça
   * ### Arcanjo Renegado
   * ### Chicago P.D.
+  * Novidade
+### A Oferta
   * ### Todo Mundo Odeia o Chris
   * ### Sob Pressão
   * ### Questão De Tempo
-  * ### Evil - Contatos Sobrenaturais
-  * ### A Casa das Sete Mulheres
-  * ### FBI
-  * ### Gabriela
   * ### Chicago Med
   * ### Chicago Fire
+  * ### FBI
+  * ### A Casa das Sete Mulheres
+  * ### Gabriela
+  * ### Evil - Contatos Sobrenaturais
+  * ### O Mundo Dos Casados
   * ### Vai Que Cola
   * ### Os Outros
-  * ### O Mundo Dos Casados
   * Estreia 26/06
 ### Raul Seixas: Eu Sou
-  * ### Medium
-  * Novidade
-### A Oferta
   * ### Hilda Furacão
-  * ### FBI: Os Mais Procurados
+  * ### Medium
+  * ### Sessão de Terapia
   * Mostrar mais
 
 
@@ -9835,71 +9611,66 @@ Ainda Estou Aqui
 
 ## Canais Globo Ao Vivo Mostrar mais
   * Ao vivo
-10:07 - 12:03
-Redação SporTV
-  * 08:53 - 10:46
-Liga Das Nações Feminina De Vôlei
-Bélgica X Brasil
-  * 08:53 - 10:53
-Circuito Mundial De Surfe
-Melhores Momentos - Episódio 2 - Etapa Bells Beach - Victoria, Austrália
+23:58 - 01:01
+Troca De Passes
+  * 00:01 - 01:14
+Hello LA
+  * 22:37 - 00:51
+Faixa Combate
+Pfl World Tournament
   * Ao vivo
 Agora
 Mosaico sportv
   * Ao vivo
-09:30 - 12:59
-Conexão GloboNews
-  * Autoclassificação etária: 12A12
-09:31 - 10:46
-Tvz Ao Vivo
-Tvz com Mc Daniel e Gominho - Thaynara OG e Ananda Paixão (ao vivo)
-  * Autoclassificação etária: livreAL
-09:57 - 10:24
-Casa Brasileira
-México
-  * Autoclassificação etária: 14A14
-09:38 - 10:24
-Hercai: Amor E Vingança
-Capítulo 13
-  * Autoclassificação etária: livreAL
-10:03 - 10:16
-Tara Duncan
-A Corrida
-  * Autoclassificação etária: livreAL
-10:13 - 10:24
-Trulli Tales
-Não Importa o Acompanhamento
-  * Classificação etária: livreL
-09:52 - 11:40
-Nanny McPhee - A Babá Encantada
+00:00 - 00:59
+Jornal GloboNews Edição da Meia-noite
   * Classificação etária: 1414
-09:50 - 10:39
-Chicago Fire
-Todas As Partes São Difíceis
+23:30 - 01:19
+Cine Hahaha
+S.O.S. Mulheres Ao Mar 2
+  * Classificação etária: 1212
+23:52 - 00:25
+Conversa Com Bial
+  * Classificação etária: 1414
+23:32 - 00:34
+Celebridade
+  * Autoclassificação etária: livreAL
+00:08 - 00:19
+Alvinnn!!! E Os Esquilos
+Plástico Bolha
+  * Autoclassificação etária: livreAL
+00:08 - 00:14
+Clube Da Anittinha
+Clube Do Estreller
   * Classificação etária: 1616
-08:40 - 10:19
+23:31 - 01:20
+O Código
+  * Autoclassificação etária: 16A16
+00:50 - 01:39
+Law & Order: Svu
+Enfeitiçada
+  * Autoclassificação etária: 10A10
+22:50 - 00:44
 Studio Movie
-Upgrade: Atualização
-  * Autoclassificação etária: 14A14
-09:50 - 10:39
-Bull
-O Envelope, Por Favor
-  * Classificação etária: 1414
-08:50 - 10:34
-Filme
-Serra Pelada - A Lenda Da Montanha De Ouro
+Mamma Mia!
+  * 00:00 - 02:59
+Joias Vip
+  * Classificação etária: 1818
+22:30 - 00:20
+Filme - 7 ANOS
+Máquina do Desejo
   * Autoclassificação etária: livreAL
-10:05 - 10:34
-Psicopato
-Downwind na Ilha Maui
+00:00 - 00:54
+Off Docs
+Asas Do Maranhão
   * Autoclassificação etária: livreAL
-10:00 - 11:35
-Palco Principal
-Céu - The Moods
-  * Autoclassificação etária: livreAL
-10:14 - 10:43
-Brasil Visto De Cima À Noite
-Belém
+00:08 - 02:00
+Arquivo Musical
+Michael Jackson's This Is It
+  * Autoclassificação etária: 12A12
+23:49 - 00:12
+Um Brinde Ao Vinho
+Um Brinde Ao Vinho - 1ª Temporada - Ep05
 
 
 ## Orgulho LGBTQIAPN+ no Premium Mostrar mais
@@ -9922,10 +9693,128 @@ Belém
   * ### Prazer Em Conhecer
   * ### Toda Forma de Amor
   * ### Alexander McQueen
+  * ### Todas As Cores do Brasil
   * Mostrar mais
 
 
+## Destaques no Premium
+  * Episódios semanais
+### Avisa Lá Que Eu Vou
+  * Episódios semanais
+### Saia Justa
+  * Episódios semanais
+### Que História É Essa, Porchat?
+  * Episódios semanais
+### Tô de Graça
+  * ### Grimm
+  * ### The Good Doctor - O Bom Doutor
+  * ### Sinhá Moça
+  * Novidade
+### Teacup - O Impostor
+  * ### The Handmaid's Tale - O Conto da Aia
+  * ### The Equalizer: A Protetora
+  * ### Hospital New Amsterdam
+  * ### S.W.A.T. - Força de Intervenção
+  * ### Bates Motel
+  * ### La Brea: A Terra Perdida
+  * ### O Segredo de Feriha
+  * ### Falsa Identidade
+  * Episódios semanais
+### Papo De Segunda
+  * ### Carga Pesada
+  * ### Magnum P.I.
+  * ### House
+  * ### Lady Night
+  * ### Direito de Amar
+  * Até 30/06
+### Cinquenta Tons De Liberdade
+  * ### Tropa De Elite
+
+
+## Cinema Brasileiro no Premium Mostrar mais
+  * ### Aquarius
+  * ### Praia do Futuro
+  * ### Madame Satã
+  * ### O Dia Que Te Conheci
+  * ### Benzinho
+  * ### A Vida Invisível
+  * ### A Hora Da Estrela
+  * ### Gabriel e a Montanha
+  * ### O Menino E O Mundo
+  * ### Estômago
+  * ### Crime Delicado
+  * ### Lavoura Arcaica
+  * ### Tudo Bem
+  * ### O Invasor
+  * ### Cidade; Campo
+  * ### Tinta Bruta
+  * ### Carvão
+  * ### Aos Nossos Filhos
+  * ### Medusa
+  * ### Regra 34
+  * ### Sonhos Roubados
+  * ### Piedade
+  * ### Pérola
+  * Mostrar mais
+
+
+## Novidades no Premium
+  * ### Soul Surfer: Coragem de Viver
+  * ### Céu - The Moods
+  * ### Dá Samba – A Fantástica História De Bira Presidente
+  * Até 13/07
+### João Rock 2025
+  * ### 1961
+  * ### Karaoquem
+  * ### Casas Flutuantes
+  * ### Viração - Novos Empreendedores
+  * ### Replay: Da Lama Ao Caos
+  * ### Cinco Anos De Noivado
+  * ### Polipolar Show
+  * ### O Bom Filho À Casa Torna
+  * ### Expedição Goiás
+  * ### PJ Harvey - Live à L'Olympia
+  * ### Liniker - Jazz à Vienne
+  * ### O Inferno De Dante
+  * ### Nightsleeper
+  * ### IZA Ao Vivo No Rock in Rio
+  * Até 09/07
+### Alcione e Convidados Especiais – Ao Vivo
+  * ### Pôr do Suel
+  * ### Amor Em Little Italy
+  * ### Bono: Waiting On A Saviour
+  * ### Jungle - Le Centquatre-Paris
+  * ### Reclame
+
+
 ## Filmes do Premium
+  * ### Tropa De Elite
+  * Até 30/06
+### Cinquenta Tons De Liberdade
+  * ### Os Farofeiros
+  * ### Cinquenta Tons Mais Escuros
+  * ### Praia do Futuro
+  * ### Jurassic World: Reino Ameaçado
+  * ### Amor Em Little Italy
+  * ### Na Rota do Tráfico
+  * ### Harriet - O Caminho para A Liberdade
+  * ### A Morte Te Dá Parabéns 2
+  * ### Aquarius
+  * ### O Amor Não Tira Férias
+  * ### A Vida Invisível
+  * ### Madame Satã
+  * ### Piedade
+  * ### Regra 34
+  * ### Juntos Para Sempre
+  * ### O Livro dos Prazeres
+  * ### The Kill Team - Dilemas da Guerra
+  * ### Nanny McPhee - A Babá Encantada
+  * ### Estômago
+  * ### Sonhos Roubados
+  * ### Os Mercenários
+  * ### As Ondas
+
+
 ## Todos os produtos Globo e parceiros pra você!
   * No plano Premium
 12x R$ 29,90 
@@ -9939,52 +9828,25 @@ Anual por
   * Conheça mais ofertas
 
 
-## Cinema Brasileiro no Telecine
-  * ### Baby
-  * Novidade
-### Vitória
-  * ### Oeste Outra Vez
-  * ### Kasa Branca
-  * ### Arca de Noé
-  * ### Jorge Da Capadócia
-  * ### Alice Júnior
-  * ### Os Sapos
-  * ### Todo Mundo (Ainda) Tem Problemas Sexuais
-  * ### Chama A Bebel
-  * ### Morando com o Crush
-  * ### O Mensageiro
-  * ### O Clube das Mulheres de Negócios
-  * ### Caindo na Real
-  * ### Avenida Beira-Mar
-  * ### Estômago 2: O Poderoso Chef
-  * ### Corpo Elétrico
-  * ### Motel Destino
-  * ### Tô De Graça - O Filme
-  * ### Mallandro – O Errado Que Deu Certo
-  * ### Minha Mãe É Uma Peça
-  * ### Minha Mãe É Uma Peça 2
-  * ### Minha Mãe É Uma Peça 3
-
-
 ##  Telecine Ao Vivo Mostrar mais
-  * Classificação etária: livreL
-09:51 - 11:30
-Pinocchio: O Menino de Madeira
-  * Autoclassificação etária: 16A16
-09:11 - 11:00
-Famintos
-  * Autoclassificação etária: 12A12
-10:10 - 12:15
-Coração de Campeão
   * Classificação etária: 1212
-08:31 - 10:25
-De Repente Drag
+00:00 - 02:10
+Jurassic World: Reino Ameaçado
+  * Autoclassificação etária: 16A16
+23:55 - 01:40
+Instinto Predador
+  * 00:03 - 00:18
+2/7 BELAS E PERSEGUIDAS
+  * Classificação etária: livreL
+23:51 - 01:26
+Bob Esponja - O Filme
   * Classificação etária: 1414
-10:07 - 12:28
-Velozes & Furiosos 5 - Operação Rio
-  * Classificação etária: 1010
-09:30 - 11:00
-Pequena Garota
+22:04 - 01:02
+O Conde de Monte Cristo (2024)
+  * Autoclassificação etária: 14A14
+21:59 - 00:29
+Mestres Do Cinema - Claude Chabrol
+Madame Bovary (1991)
 
 
 ## Lançamentos Telecine Mostrar mais
@@ -10019,8 +9881,8 @@ Pequena Garota
 ## Páginas especiais
   * Campeonato Brasileiro
   * Copa do Brasil
-  * Nacionais
   * LGBTQIAPN+
+  * Nacionais
   * Circuito Mundial de Surfe
   * Excelência Preta
   * Poder Feminino
@@ -10031,16 +9893,6 @@ Pequena Garota
   * Top 10
 
 
-## Série para você
-  * Autoclassificação etária: 12A12
-  * Disponível em 4K4K
-  * Série
-  * Comédia
-  * 1 Temporada
-
-
-Mais uma série que você pode curtir! Dê o play e comece a maratonar!
-Saiba maisMinha Lista
 ## Continue navegando
   * Drama
   * Comédia

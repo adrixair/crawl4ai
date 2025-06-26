@@ -1,0 +1,47 @@
+```json
+{
+    "website": "https://www.plaenge.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "(41) 3317-1700",
+        "(43) 3294-1000",
+        "(44) 3293-7000",
+        "(67) 3312-1000",
+        "(65) 3616-7100",
+        "(19) 3727-1200",
+        "(47) 3205-1050",
+        "+56 45 2 647178",
+        "+56 2 32249593",
+        "(11) 3040-2500",
+        "(51) 3247-4240"
+    ],
+    "addresses": [
+        "Rua Prof. Pedro Viriato Parigot de Souza, 2001 - Ecoville, CEP: 81200-100, Curitiba",
+        "Avenida Tiradentes, 1000 - Jardim Shangri-lá, CEP: 86070-545, Londrina",
+        "Av. Advogado Horácio Raccanello Filho, 4770 - Zona 7, CEP: 87020-035, Maringá",
+        "Rua Maracaju, 1122 - Centro, CEP: 79002-210, Campo Grande",
+        "Avenida São Sebastião, 2215 - Popular, CEP: 78045-400, Cuiabá",
+        "Rua Maria Monteiro, 1652 - Cambuí, CEP: 13025-152, Campinas",
+        "Av. Antonio Ramos Alvin, 746 - Floresta, CEP: 89211-460, Joinville",
+        "Rua Mostardeiro, 777 - 14ºAndar - Independência, CEP: 90430-091, Porto Alegre",
+        "Reusch 366, Temuco, Chile",
+        "Santa Clara N°301, Oficina 7803, Ciudad Empresarial, Huechuraba, Chile",
+        "Avenida Jesuíno Marcondes Machado, 765, Nova Campinas"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=554133171717&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Curitiba",
+        "https://api.whatsapp.com/send?phone=554332941500&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Londrina",
+        "https://api.whatsapp.com/send?phone=554432937000&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Maringa",
+        "https://api.whatsapp.com/send?phone=556733229600&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Campo Grande",
+        "https://api.whatsapp.com/send?phone=556536167171&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Cuiaba",
+        "https://api.whatsapp.com/send?phone=551937271200&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Campinas",
+        "https://api.whatsapp.com/send?phone=551130402500&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Sao Paulo",
+        "https://api.whatsapp.com/send?phone=554732051070&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Joinville",
+        "https://api.whatsapp.com/send?phone=555132474240&text=Ola, tudo bem? Gostaria de conhecer mais sobre os imoveis em Porto Alegre",
+        "https://www.facebook.com/plaenge",
+        "https://instagram.com/plaenge",
+        "https://www.youtube.com/user/construtoraplaenge",
+        "https://www.linkedin.com/company/plaenge/"
+    ]
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://archshop.com.br",
+    "emails": ["contato@archshop.com.br"],
+    "phone_numbers": ["+55 19 3802-2859"],
+    "addresses": ["R. Fresias, 213, Holambra - SP"],
+    "social_links": [
+        "https://www.instagram.com/archshop_arquitetura",
+        "https://www.facebook.com/archshoplojadearquitetura",
+        "https://www.youtube.com/@ArchShopArquitetura",
+        "https://linkedin.com/company/archshop-arquitetura",
+        "https://twitter.com/ArchShopOficial",
+        "https://www.tiktok.com/@archshoparquitetura",
+        "https://pinterest.com/archshopoficial",
+        "https://api.whatsapp.com/send?phone=5519995198876"
+    ]
+}
+```

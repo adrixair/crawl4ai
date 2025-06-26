@@ -1,0 +1,39 @@
+```json
+{
+    "website": "https://cury.net/",
+    "emails": [
+        "adefinir@cury.net",
+        "cury@maquinacohnwolfe.com",
+        "rhcuryvendas@cury.net"
+    ],
+    "phone_numbers": [
+        "0800 314 9696",
+        "(11) 3117-1300",
+        "(21) 3543-6887",
+        "(11) 3117-1313",
+        "(21) 3554-3350"
+    ],
+    "addresse": [
+        "Rua Funchal, 411 - 1º andar Vila Olímpia - São Paulo - SP",
+        "Rua da Quitanda 86 - 7º andar Centro - Rio de Janeiro/RJ",
+        "Rua Robert Bosch, 544, Barra Funda - São Paulo/SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511943136101&text=Olá! Tenho interesse em saber mais sobre a Cury Construtora SP",
+        "https://www.facebook.com/CuryConstrutora?fref=ts",
+        "https://www.instagram.com/curyconstrutora/",
+        "https://twitter.com/curyconstrutora",
+        "https://www.youtube.com/user/curyconstrutora",
+        "https://www.linkedin.com/company/cury-construtora/",
+        "https://br.pinterest.com/curyconstrutoranet/",
+        "https://www.tiktok.com/@curyconstrutora",
+        "https://open.spotify.com/user/7ibqq6hybxooqerqc8ywnhqe9?si=5WTqJRxfRo6-3RoYe20vYA&nd=1",
+        "https://cury.gupy.io/",
+        "http://www.relacionamentocury.com.br/",
+        "https://ouvidordigital.com.br/curyconstrutora",
+        "https://cury.force.com/portaldocliente/PortalLogin",
+        "https://canal.ouvidordigital.com.br/curylgpd",
+        "https://cury.woxdata.com.br"
+    ]
+}
+```

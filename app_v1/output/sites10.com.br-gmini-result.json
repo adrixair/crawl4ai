@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://sites10.com.br",
+    "emails": ["contato@sites10.com.br"],
+    "phone_numbers": ["41 3618-4039", "5508006181010"],
+    "addresses": ["Rua Buenos Aires, 999 - Água Verde - Curitiba - PR"],
+    "social_links": [
+        "https://www.facebook.com/sites10agencia/",
+        "https://web.whatsapp.com/send?1=pt_BR&phone=5508006181010"
+    ]
+}
+```

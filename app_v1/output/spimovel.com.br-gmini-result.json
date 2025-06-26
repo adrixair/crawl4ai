@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://www.spimovel.com.br",
+    "emails": [
+        "fernanda@spimovel.com.br",
+        "contato@spimovel.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 97315-9142",
+        "3791-5358"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/SPimovel",
+        "https://www.tiktok.com/@spimovel",
+        "https://instagram.com/spimovel/",
+        "https://open.spotify.com/show/0z38mS1goDwBjTM086W2OH?si=03384b6ef9174675",
+        "https://br.linkedin.com/company/grupo-sp-im-vel/",
+        "https://www.youtube.com/@grupospimovel",
+        "https://www.znimovel.com.br",
+        "https://www.zlimovel.com.br",
+        "https://www.zoimovel.com.br",
+        "https://www.zsimovel.com.br",
+        "https://www.abcimovel.com.br"
+    ]
+}
+```

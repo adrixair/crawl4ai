@@ -1,0 +1,39 @@
+```json
+{
+    "website": "https://ensino.einstein.br",
+    "emails": ["vera.sa@einstein.br"],
+    "phone_numbers": ["55 11 2151-1001", "55 11 3004-3306", "(11) 2151-1001"],
+    "addresses": [
+        "Av. Paulista, nº' 2064 - Ed. Paulista - Cond. Setor Office - Shop Center 3 - Cerqueira César - São Paulo",
+        "Av. Paulista, 2064 - Cerqueira César, São Paulo - SP",
+        "Av. Albert Einstein, 627 - Morumbi - São Paulo - SP - 05652-000",
+        "Rua Comendador Elias Jafet, 755 - Morumbi, São Paulo - SP",
+        "Av. Prof. Francisco Morato, 4.293 - Butantã, São Paulo - SP",
+        "Rua Rudolf Lotze, 530 - Paraisópolis, São Paulo - SP",
+        "Av. Paulista, 2300 - Bela Vista, São Paulo - SP",
+        "Rua Madre Cabrini, 462 - Vila Mariana, São Paulo - SP",
+        "Av. Santa Catarina, 2785 - Vila Mascote, São Paulo - SP",
+        "Av. Morumbi, 4884 - Morumbi, São Paulo - SP",
+        "Rua Paraíba, 550 - Savassi, Belo Horizonte - MG",
+        "Praia de Botafogo, 300 - Botafogo, Rio de Janeiro - RJ",
+        "Av. Portugal, 1148 - St. Marista, Goiânia - GO",
+        "Rua Silveira Martins, 355 - Cabula, Salvador - BA"
+
+    ],
+    "social_links": [
+        "https://www.facebook.com/FaculdadeEinstein",
+        "https://www.instagram.com/ensinoepesquisaeinstein/",
+        "https://www.linkedin.com/school/faculdade-israelita-albert-einstein/",
+        "http://youtube.com/c/EnsinoEinstein",
+        "https://www.tiktok.com/@ensinoepesquisaeinstein",
+        "https://api.whatsapp.com/send?phone=551121513330&text=Ol%C3%A1%2C%20Ensino%20Einstein.%20Tenho%20uma%20d%C3%BAvida%20sobre%20seu%20curso%20de%20Arquitetura Hospitalar%20%28SKU%3D9941%29.%20Poderia%20me%20ajudar%3F",
+        "https://www.instagram.com/faculdadeeinstein/",
+        "https://www.youtube.com/@faculdadeeinstein",
+        "https://www.tiktok.com/@faculdadeeinstein",
+        "https://www.instagram.com/escolatecnicaeinstein",
+        "https://www.tiktok.com/@escolatecnicaeinstein",
+        "https://www.linkedin.com/showcase/ensino-e-consultoria-einstein-para-empresas/",
+       "https://wa.me/5534984277030?text=Ol%C3%A1%2C%20gostaria%20de%20receber%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20cursos%20do%20Ensino%20Einstein"
+    ]
+}
+```

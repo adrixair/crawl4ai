@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://uai.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/PortalUAI",
+        "https://twitter.com/portaluai",
+        "https://www.youtube.com/user/PortalUai",
+        "https://www.instagram.com/portaluai/"
+    ]
+}
+```

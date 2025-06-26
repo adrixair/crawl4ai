@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://casavogue.globo.com",
+    "emails": [],
+    "phone_numbers": ["552140025300", "08000218433"],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/casavoguebrasil",
+        "https://twitter.com/casavoguebrasil",
+        "https://instagram.com/casavoguebrasil",
+        "https://pinterest.com/casavoguebrasil",
+        "https://www.youtube.com/c/CasaVogue/featured",
+        "https://web.whatsapp.com/send?text=D%C3%AA%20uma%20olhada%20nessa%20not%C3%ADcia%3A%20https://casavogue.globo.com/Arquitetura/Cidade/noticia/2022/01/13-lugares-que-os-amantes-de-arquitetura-precisam-visitar-em-sao-paulo.html&utm_source=whatsapp&utm_medium=social&utm_campaign=compartilharMobile",
+        "https://api.whatsapp.com/send/?phone=552140025300&text&type=phone_number&app_absent=0"
+    ]
+}
+```

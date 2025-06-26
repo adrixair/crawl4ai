@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://wnez.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+55 11 5054-0200",
+        "(11) 99932-5372"
+    ],
+    "addresse": [
+        "R. Geraldo Flausino Gomes, 85 - 7º Andar Conjunto 71 - Itaim Bibi"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511935009050"
+    ]
+}
+```

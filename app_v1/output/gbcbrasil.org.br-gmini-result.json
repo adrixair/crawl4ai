@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://gbcbrasil.org.br",
+    "emails": ["cursos@gbcbrasil.org.br"],
+    "phone_numbers": ["11 – 41917805", "11 – 4191-7805"],
+    "addresses": [],
+    "social_links": [
+        "https://pt.linkedin.com/company/green-building-council-brasil",
+        "https://www.youtube.com/user/gbcbrasil",
+        "https://www.instagram.com/gbcbrasil/"
+    ]
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.gruporeis.com.br",
+    "emails": [],
+    "phone_numbers": ["551129875000", "5511999844822", "011 98777 8986", "011 97500-8023", "011 97708 1978", "011 99984 4822", "011 99984 4823"],
+    "addresses": ["Nossa Senhora do Loreto, 1022, Vila Medeiros, São Paulo - São Paulo", "Rua Ofion, 110, Vila Guilherme, São Paulo - SP", "Rua Cássio de Almeida, 338, Vila Guilherme, São Paulo - SP", "Rua Padre Paulo Ravier, 167 - Casa 06, Água Fria, São Paulo - SP", "Av Principal, Jardim Disneylandia, Ibiúna - SP", "Estr. Armando Barbosa de Almeida, Mairiporã - SP, 07600-000, Zona Rural, Mairiporã - SP", "Rua Jupiá, 91, Santa Teresinha, São Paulo - SP", "Avenida Nova Cantareira, 3924, Tucuruvi, São Paulo - SP", "Rua Marcelino Simões, 124, Vila Cruz das Almas, São Paulo - SP", "Rua São Paulo, Loteamento João Batista Julião, Guarujá - SP"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551129875000",
+        "https://www.instagram.com/reisgrupo/?hl=pt-br",
+        "https://wa.me/c/5511999844822",
+        "https://twitter.com/dralfredoreis?s=09",
+        "https://www.youtube.com/channel/UCDPYi_ShKJcvh4zVCXPZbnQ",
+        "https://www.facebook.com/grupo.reis.3",
+        "https://www.linkedin.com/in/alfredo-reis-5346b350",
+        "https://instagram.com/grupo_reis.ofc?igshid=YmMyMTA2M2Y="
+    ]
+}
+```

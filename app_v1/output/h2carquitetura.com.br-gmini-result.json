@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.h2carquitetura.com.br",
+    "emails": [
+        "contato@h2carquitetura.com.br",
+        "suppliers@h2carquitetura.com.br",
+        "curriculo@h2carquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 2365 2002",
+        "+55 11 91476-1967"
+    ],
+    "addresses": [
+        "Pinheiros, São Paulo, Brasil"
+    ],
+    "social_links": [
+        "https://www.instagram.com/h2carquitetura/",
+        "https://br.pinterest.com/h2carquitetura/",
+        "https://www.facebook.com/h2carquitetura",
+        "https://wa.me/5511914761967?text=Ol%C3%A1!%20Quero%20conversar%20sobre%20o%20meu%20projeto!"
+    ]
+}
+```

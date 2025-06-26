@@ -1,0 +1,38 @@
+```json
+{
+    "website": "https://oneinnovation.com.br/",
+    "emails": [
+        "one@approach.com.br"
+    ],
+    "phone_numbers": [
+        "11 2222-1250",
+        "11 2601-6059"
+    ],
+    "addresses": [
+        "Rua Cunha Gago, 618 - Pinheiros - SP",
+        "Rua Joaquim Floriano, 316 e 302 – Itaim Bibi - São Paulo",
+        "Av. Santo Amaro 1.117 - Vila Nova Conceição - São Paulo",
+        "RUA MARTINIANO DE CARVALHO, 448 - BELA VISTA - São Paulo",
+        "RUA TEODORO SAMPAIO, 637 - PINHEIROS - SP - São Paulo",
+        "Av. Angélica, 750 - Higienópolis - São Paulo",
+        "Al. dos Maracatins, 614 - Moema - São Paulo",
+        "Rua Dr. Renato Paes Barros, 627 - Itaim Bibi - São Paulo",
+        "Alameda Itu, 225 - Jardim Paulista - São Paulo",
+        "RUA TEODORO SAMPAIO, 637  PINHEIROS - SP",
+        "Av. Angélica, 750 - Higienópolis - SP",
+         "Rua Martiniano de Carvalho, 446 - Bela Vista - São Paulo",
+        "Rua Dr. Renato Paes de Barros, 627  Itaim Bibi - SP",
+        "Avenida Santo Amaro, 1.117 x Rua Balthazar da Veiga - Nova Vila Conceição - SP",
+        "ALAMEDA DOS MARACATINS, 614 - MOEMA- SP",
+        "Rua Tabapuã, 81, 15º andar, Itaim, no município de São Paulo, Estado de São Paulo"
+    ],
+    "social_links": [
+        "https://www.youtube.com/oneinnovation",
+        "https://www.instagram.com/oneinnovation/",
+        "https://www.facebook.com/oneinnovation1",
+        "https://br.linkedin.com/company/oneinnovation1",
+        "https://www.tiktok.com/@oneinnovation1",
+        "https://portaldevendas.one-di.com.br/"
+    ]
+}
+```

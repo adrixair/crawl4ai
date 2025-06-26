@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://spbr.arq.br",
+    "emails": ["spbr@spbr.arq.br"],
+    "phone_numbers": ["+55 11 3815-1171"],
+    "addresses": ["Avenida Faria Lima, 1234 / 121, São Paulo – SP, 01451-001"],
+    "social_links": [
+        "https://www.facebook.com/spbrarquitetos/",
+        "https://www.linkedin.com/company/spbrarquitetos",
+        "https://www.instagram.com/spbr.arquitetos/"
+    ]
+}
+```

@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://www.paulostocco.com",
+    "emails": ["paulostocco@me.com", "juliostocconeto@gmail.com"],
+    "phone_numbers": ["55 (11) 99688-0170", "+351 933 291 208"],
+    "addresses": ["Alameda Santos 415 - 10 andar - Jardins, São Paulo - Brasil"],
+    "social_links": [
+        "http://www.facebook.com/arq.paulostocco",
+        "https://instagram.com/paulostocco",
+        "https://www.mokki.house"
+    ]
+}
+```

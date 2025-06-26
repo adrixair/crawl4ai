@@ -1,0 +1,33 @@
+```json
+{
+    "website": "https://silvanacarvalho.com.br",
+    "emails": [
+        "locacao@silvanacarvalho.com.br"
+    ],
+    "phone_numbers": [
+        "+5511986870110",
+        "1122222868",
+        "1935006662",
+        "11988906361",
+        "11981821557",
+        "11958360388"
+    ],
+    "addresse": [
+        "Centro, Itu - SP, CEP 13300-014, Brasil",
+        "Novo Centro, Itu - SP, CEP 13303-542, Brasil",
+        "Jardim Pompeia, Indaiatuba - SP CEP 13345-020, Brasil"
+    ],
+    "social_links": [
+        "https://www.facebook.com/SilvanaCarvalhoImobiliaria",
+        "https://www.instagram.com/silvanacarvalhoimobiliaria",
+        "https://twitter.com/gsc_altopadrao",
+        "https://www.youtube.com/user/SilvanaCarvalhoItu",
+        "https://www.linkedin.com/company/silvana-carvalho-assessoria-imobili-ria/",
+        "https://api.whatsapp.com/send?l=pt_BR&phone=5511986870110",
+        "https://api.whatsapp.com/send?phone=5511958360388",
+        "https://www.tiktok.com/@gruposilvanacarvalho",
+        "https://api.whatsapp.com/send?l=pt_BR&phone=5511986870110&text=Olá, estou no site da Silvana Carvalho, pode me ajudar?",
+        "https://api.whatsapp.com/send?phone=11988906361"
+    ]
+}
+```

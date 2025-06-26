@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.scielo.br/",
+    "emails": ["anaismp@usp.br", "scielo@scielo.org", "mlbp@usp.br", "webmaster@scielo.org", "davidribeiro@usp.br", "anarosasm@hotmail.com", "angelamariadecastrogomes@gmail.com", "annateresafabris@gmail.com", "aracy.amaral@uol.com.br", "bmk@usp.br", "beatrizrvcoelho@gmail.com", "kuniyoshi_c@hotmail.com", "cmeneguello@gmail.com", "Dominique.Poulot@univ-paris1.fr", "etsaliba@usp.br", "angotti@usp.br", "isabelmendonca@hotmail.com", "jvilardaga@unifesp.br", "jnmeneses@uol.com.br", "josereginaldo.goncalves@gmail.com", "lmalosetticosta@lobianco.com.ar", "lroca@institutomora.edu.mx", "lsegala@id.uff.br", "maraliz.christo@gmail.com", "mrede@usp.br", "marciachuva@gmail.com", "msneves@puc-rio.br", "mhoflexor@gmail.com", "nsanjad@museu-goeldi.br", "rtirello@fec.unicamp.br", "rodrigobastos.arq@gmail.com", "sumocem@gmail.com", "talima8@gmail.com", "trdeluca@uol.com.br", "utbm@uol.com.br", "zitapossamai@gmail.com", "isabeladias@usp.br", "anaalicekoga@usp.br", "vicferraz@usp.br", "scielo.avaliacao@scielo.org"],
+    "phone_numbers": ["(55 11) 2065-6641"],
+    "addresses": ["Rua Dr. Diogo de Faria, 1087 – 9º andar – Vila Clementino 04037-003 São Paulo/SP - Brasil", "Rua Brigadeiro Jordão, 149 - Ipiranga, CEP 04210-000, São Paulo - SP/Brasil"],
+    "social_links": [
+        "https://www.linkedin.com/company/scielo---scientific-electronic-library-online/?originalSubdomain=br",
+        "https://www.facebook.com/SciELONetwork",
+        "https://www.youtube.com/c/SciELONetwork",
+        "https://bsky.app/profile/scielo.org",
+        "https://openbiblio.social/@scielo",
+        "https://www.instagram.com/anaismuseupaulista",
+        "http://www.fapesp.br/",
+        "http://www.cnpq.br/",
+        "http://bvsalud.org/",
+        "http://regional.bvsalud.org/bvs/bireme/homepage.htm",
+        "https://www.fapunifesp.edu.br/",
+        "http://creativecommons.org/licenses/by-nc/4.0/",
+        "http://creativecommons.org/licenses/by/4.0/"
+    ]
+}
+```

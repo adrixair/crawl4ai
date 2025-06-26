@@ -1,0 +1,9 @@
+```json
+{
+    "website": "https://www.salario.com.br",
+    "emails": [],
+    "phone_numbers": ["(11) 96584-1000"],
+    "addresses": [],
+    "social_links": ["https://api.whatsapp.com/send?phone=5511965841000"]
+}
+```

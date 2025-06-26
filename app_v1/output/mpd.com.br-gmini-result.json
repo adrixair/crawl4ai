@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.mpd.com.br/",
+    "emails": ["sarc@mpd.com.br"],
+    "phone_numbers": ["+551121490011", "2149-0011", "2149-0015"],
+    "addresses": ["Alameda Mamoré, 687 - 18º andar  Alphaville - Barueri - SP  CEP: 06454-040"],
+    "social_links": [
+        "https://www.facebook.com/MPDengenharia/",
+        "https://br.linkedin.com/company/mpd-engenharia",
+        "https://www.instagram.com/mpdengenharia/",
+        "https://www.youtube.com/user/mpdengenharia",
+        "https://br.pinterest.com/mpdengenharia/",
+        "https://www.tiktok.com/@mpdengenharia",
+        "https://api.whatsapp.com/send?phone=551121490015&text=Olá preciso de ajuda...",
+        "https://institutompd.org.br/",
+        "https://cubo.network/hub/construliving"
+    ]
+}
+```

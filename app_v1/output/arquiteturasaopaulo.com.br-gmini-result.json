@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://arquiteturasaopaulo.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+55 (11) 2844-8502",
+        "+55 (11) 9-6374-1945"
+    ],
+    "addresses": [
+        "Av. Juscelino Kubitschek, 2041, Torre B, 5º andar. Vila Olímpia. São Paulo, SP, Brasil. CEP 04543-011"
+    ],
+    "social_links": [
+        "https://web.facebook.com/melloecondiniarquitetura",
+        "https://api.whatsapp.com/send?phone=5511941491188&text=Mello%20%26%20Condini%20-%20Mensagem%20via%20Site",
+        "https://twitter.com/melloecondini",
+        "https://www.instagram.com/melloecondini/",
+        "https://www.linkedin.com/company/arquitetura-e-interiores-mello-e-condini/",
+        "https://www.youtube.com/channel/UCM3LiE_PDVwe0Yol9mTh0eA"
+    ]
+}
+```

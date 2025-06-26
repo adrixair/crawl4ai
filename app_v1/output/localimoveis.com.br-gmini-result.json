@@ -1,0 +1,33 @@
+```json
+{
+    "website": "https://www.localimoveis.com.br",
+    "emails": [
+        "olapinheiros@localimoveis.com.br",
+        "olajardins@localimoveis.com.br"
+    ],
+    "phone_numbers": [
+        "+551130940555",
+        "11 3094-0555",
+        "11 3065-0555",
+        "11 97541-7005",
+        "11 97150-8001",
+        "11 3065-0555"
+    ],
+    "addresses": [
+        "Av. Pedroso de Morais, 2646 - Alto de Pinheiros, São Paulo - SP, 05420-003",
+        "R. Estados Unidos, 898 - Jardins, São Paulo - SP, 01427-001"
+    ],
+    "social_links": [
+        "https://web.whatsapp.com/send?text=Ol%C3%A1%2C%20gostaria%20de%20compartilhar%20esse%20im%C3%B3vel%20com%20voc%C3%AA%20%20%3A%20https://www.localimoveis.com.br/imovel/casa-a-venda-sao-paulo-alto-de-pinheiros-500m2-4dormitorios-6vagas/18931",
+        "https://www.instagram.com/localimoveis_oficial/",
+        "https://www.facebook.com/localimoveis",
+        "https://www.youtube.com/user/Localimoveis",
+        "https://twitter.com/localimoveis",
+        "https://www.localupperclass.com.br",
+        "https://www.localbusiness.com.br/",
+        "https://web.whatsapp.com/send?phone=5511971508001&text=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Ol%C3%A1%20estou%20visitando%20o%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%A3o:%20https://www.localimoveis.com.br/agencias",
+        "https://web.whatsapp.com/send?phone=5511975417005&text=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Ol%C3%A1%20estou%20visitando%20o%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%A3o:%20https://www.localimoveis.com.br/agencias",
+        "https://credipronto.blisk.solutions"
+    ]
+}
+```

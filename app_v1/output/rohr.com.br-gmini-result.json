@@ -1,0 +1,26 @@
+```json
+{
+    "website": "https://rohr.com.br",
+    "emails": [
+        "df@rohr.com.br",
+        "bahia@rohr.com.br",
+        "ceara@rohr.com.br",
+        "bh@rohr.com.br",
+        "curitiba@rohr.com.br",
+        "rj@rohr.com.br",
+        "poa@rohr.com.br",
+        "sp@rohr.com.br"
+    ],
+    "phone_numbers": [],
+    "addresses": [
+        "São Paulo",
+        "Rio Grande do Sul"
+    ],
+    "social_links": [
+        "https://pt.linkedin.com/company/rohr-s-a-estruturas-tubulares",
+        "https://www.instagram.com/rohr.engenharia/",
+        "https://www.youtube.com/channel/UCvCaWcak94URyRnaAUf2isw/featured",
+        "https://www.facebook.com/Rohr-Estruturas-Tubulares-481742548516386/"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.udc.edu.br",
+    "emails": [],
+    "phone_numbers": ["(45) 3523-6900"],
+    "addresses": ["Rua Castelo Branco, 349 Foz do Iguaçu - Pr."],
+    "social_links": [
+        "https://www.facebook.com/udcfaculdades",
+        "https://www.youtube.com/channel/UClWDoXZzTIPtBb_V1ETOHIg/videos",
+        "https://www.linkedin.com/company/udcfaculdades",
+        "https://www.instagram.com/udc_faculdades/"
+    ]
+}
+```

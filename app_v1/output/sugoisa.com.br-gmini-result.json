@@ -1,0 +1,34 @@
+```json
+{
+    "website": "https://sugoisa.com.br/",
+    "emails": [
+        "vendas@sugoisa.com.br",
+        "imprensa@sugoisa.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 97248-9579",
+        "11 5898-5758",
+        "11 95079-8290",
+        "11 94112-6246",
+        "11 99879-8195",
+        "11 94942-5050"
+    ],
+    "addresses": [
+        "Av. Nações Unidas, 11.633 – 8º andar – Brooklin – São Paulo/SP",
+        "Av. Guarapiranga, 1471",
+        "Av. Mateo Bei, 2.582 - São Paulo/SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511950798290&text=Ol%C3%A1%2C%20gostaria%20de%20falar%20com%20um%20atendente",
+        "https://www.facebook.com/sugoi.construtora",
+        "https://www.instagram.com/sugoi.incorporadora/",
+        "https://www.youtube.com/@SUGOICONSTRUTORASA",
+        "https://www.linkedin.com/company/sugoi-construtora/",
+        "https://www.tiktok.com/@sugoiconstrutora",
+        "https://sugoisa.cvcrm.com.br/cliente/",
+        "https://api.whatsapp.com/send?phone=%2055%2011%2097248-9579",
+        "https://api.whatsapp.com/send?phone=+%2055%2011%2093216-6777",
+        "https://ul.waze.com/ul?place=EkhSLiBRdWludGFuYSwgMTExNSAtIENpZGFkZSBNb27Dp8O1ZXMsIFPDo28gUGF1bG8gLSBTUCwgMDQ1NjktMDEwLCBCcmF6aWwiURJPCjQKMgn7C6ZNMVfOlBFn1GcuRfAN1xoeCxDuwe6hARoUChIJP0HaOrVQzpQR2JGKqinJFjoMENsIKhQKEgk7bEtdNVfOlBFaTmWEQtbvdQ&ll=-23.60204190%2C-46.69469040&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+    ]
+}
+```

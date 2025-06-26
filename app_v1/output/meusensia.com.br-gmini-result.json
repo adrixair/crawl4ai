@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://meusensia.com.br/",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "AV. Doutor Mário Clappiér Urbinatti, N° 1966, Jardim Canadá – Maringá",
+        "Av. Mario Clapier Urbinati n 1601 sala 09 – Loja Sensia – Maringá/PR",
+        "Av. Dermival Bernardes Siqueira, 1814 – Swiss Park",
+        "Rua Maria Monteiro, 956 – Cambuí",
+        "Rua Rodolfo Noronha, 47, bairro Jardim Nossa Sra. Auxiliadora Campinas/SP",
+        "Rua Antônio Santos Carvalhinho, 160 – Região do Galleria, Campinas / SP",
+        "Rua 9 do Loteamento – Gleba 40, Bairro Cocó – Fortaleza/CE"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send",
+        "https://www.instagram.com/meusensia",
+        "https://www.youtube.com/meusensia",
+        "https://www.facebook.com/meusensia",
+        "https://www.mrv.com.br/institucional/pt/pessoas/trabalhe-conosco"
+    ]
+}
+```

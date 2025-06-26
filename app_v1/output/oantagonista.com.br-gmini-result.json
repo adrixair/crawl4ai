@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://oantagonista.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Av Paulista, 777 4º andar cj 41 Bela Vista, São Paulo-SP   CEP: 01311-914",
+        "SAFS Quadra 02, Bloco 1, Ed. Alvoran Asa Sul. — Brasília (DF).   CEP 70070-600"
+    ],
+    "social_links": [
+        "https://www.youtube.com/@OAntagonista",
+        "https://facebook.com/oantagonista/",
+        "https://twitter.com/o_antagonista/",
+        "https://www.instagram.com/o_antagonista/",
+        "https://whatsapp.com/channel/0029Va2SurQHLHQbI5yJN344"
+    ]
+}
+```

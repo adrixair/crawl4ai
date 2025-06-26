@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://pazzaincorporadora.com.br",
+    "emails": ["contato@pazzaincorporadora.com.br"],
+    "phone_numbers": ["(11) 5198-6148"],
+    "addresses": ["R. Herval, 964 - Belenzinho, São Paulo - SP, 03062-000", "R. Padre Caldas Barbosa, 197 - Vila Guilherme, São Paulo - SP", "Rua Ipanema, 212 – Mooca – São Paulo – SP"],
+    "social_links": [
+        "https://wa.me/551151986148",
+        "https://www.facebook.com/profile.php?id=61563320096804",
+        "https://www.instagram.com/pazza_incorporadora/",
+        "https://www.tiktok.com/@pazza.incorporado",
+        "https://www.linkedin.com/company/pazza-incorporadora/posts/?feedView=all",
+        "https://www.youtube.com/@Pazza.Incorporadora",
+        "https://api.whatsapp.com/send?phone=551151986148&text=Ol%C3%A1,%20estava%20no%20blog%20do%20Ipanema%20212%20na%20Mooca%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20empreendimento."
+    ]
+}
+```

@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.infomoney.com.br",
+    "emails": [],
+    "phone_numbers": ["3004-3700", "0800 723-3700"],
+    "addresses": [],
+    "social_links": [
+        "https://www.youtube.com/channel/UCxm0tptjIc76-i26EKQ9NpA",
+        "https://whatsapp.com/channel/0029VaHC3PWJpe8XVqUquy1f",
+        "https://www.instagram.com/infomoney/",
+        "https://www.facebook.com/InfoMoney",
+        "https://twitter.com/infomoney",
+        "https://www.linkedin.com/company/infomoney/",
+        "https://t.me/infomoney_noticias",
+        "https://www.tiktok.com/@infomoney",
+        "https://www.youtube.com/infomoney"
+    ]
+}
+```

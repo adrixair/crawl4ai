@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.abrainc.org.br",
+    "emails": [
+        "abrainc@abrainc.org.br"
+    ],
+    "phone_numbers": [
+        "+55 11 2737-1400"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/abraincoficial/",
+        "https://www.linkedin.com/company/abrainc/?originalSubdomain=pt",
+        "https://twitter.com/abraincoficial",
+        "https://www.youtube.com/channel/UCZkZpkd_yY7WDJKRPLOC9PA",
+        "https://www.facebook.com/ABRAINC/",
+        "https://open.spotify.com/show/5cd32bLQyl95gdw0ybuUpA",
+        "https://api.whatsapp.com/send?text=https://www.abrainc.org.br/mercado-imobiliario/2024/04/17/abrainc-lanca-estudo-sobre-mercado-imobiliario-de-luxo-em-sao-paulo"
+    ]
+}
+```

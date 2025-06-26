@@ -1,0 +1,30 @@
+```json
+{
+    "website": "https://rossiresidencial.com.br",
+    "emails": ["privacidade@rossiresidencial.com.br"],
+    "phone_numbers": [
+        "(92) 3042-0170",
+        "(91) 4042-1912",
+        "(84) 4042-2092",
+        "(85) 4062-0822",
+        "(79) 3142-1822",
+        "(81) 3264-0950",
+        "(61) 4063-9552",
+        "(11) 4118-1052",
+        "(19) 4042-6805",
+        "(31) 4042-0112",
+        "(21) 2042-0385",
+        "(13) 4062-9818",
+        "(16) 4042-1915",
+        "(41) 3891-0674",
+        "(51) 4042-1833"
+    ],
+    "addresses": ["Rua Henri Dunant, 873 6º Andar, Chácara Santo Antônio, São Paulo / SP, 04709-111"],
+    "social_links": [
+        "http://www.facebook.com/rossiresidencial",
+        "https://www.instagram.com/rossiresidencial",
+        "https://pt.linkedin.com/company/rossi-residencial",
+        "http://www.youtube.com/rossiresidencial"
+    ]
+}
+```

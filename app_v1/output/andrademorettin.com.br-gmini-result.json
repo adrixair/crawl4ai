@@ -1,9 +1,12 @@
 ```json
 {
-    "website": "https://www.andrademorettin.com.br",
-    "emails": ["contato@andrademorettin.com.br"],
-    "phone_numbers": ["(11) 3257 3293"],
-    "addresses": ["rua Major Sertório, 463, conj 22, Vila Buarque, 01222-001, São Paulo-SP, Brasil"],
-    "social_links": []
+    "website": "https://andrademorettin.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/andrademorettin",
+        "https://www.instagram.com/andrademorettin/"
+    ]
 }
 ```

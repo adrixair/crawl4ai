@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://scajdeuropa.com.br",
+    "emails": ["scajdeuropa@scajdeuropa.com.br"],
+    "phone_numbers": ["+55 11 3088 0606", "11 3088 0606"],
+    "addresses": ["Av. Europa, 669Jardim Europa - São Paulo - SP", "CEP: 01449-001"],
+    "social_links": [
+        "https://www.facebook.com/sca.jardimeuropa",
+        "https://www.instagram.com/scajdeuropa/",
+        "https://api.whatsapp.com/send?phone=+55 11 99217-7584&text=Site:"
+    ]
+}
+```

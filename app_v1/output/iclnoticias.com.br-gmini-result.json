@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://iclnoticias.com.br",
+    "emails": ["contato@institutoliberta.com.br"],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?text=Juliana%20Marins%2C%20brasileira%20que%20caiu%20em%20trilha%20de%20vulc%C3%A3o%20na%20Indon%C3%A9sia%2C%20%C3%A9%20encontrada%20morta",
+        "https://www.facebook.com/sharer.php?u=https://iclnoticias.com.br/juliana-marins-brasileira-que-caiu-em-trilha-de-vulcao-na-indonesia-e-encontrada-morta/&t=Juliana%20Marins%2C%20brasileira%20que%20caiu%20em%20trilha%20de%20vulc%C3%A3o%20na%20Indon%C3%A9sia%2C%20%C3%A9%20encontrada%20morta",
+        "https://twitter.com/intent/tweet?text=Juliana%20Marins%2C%20brasileira%20que%20caiu%20em%20trilha%20de%20vulc%C3%A3o%20na%20Indon%C3%A9sia%2C%20%C3%A9%20encontrada%20morta&url=https://iclnoticias.com.br/?p=79240",
+        "https://www.linkedin.com/shareArticle?mini=true&title=Juliana%20Marins%2C%20brasileira%20que%20caiu%20em%20trilha%20de%20vulc%C3%A3o%20na%20Indon%C3%A9sia%2C%20%C3%A9%20encontrada%20morta&url=https://iclnoticias.com.br/juliana-marins-brasileira-que-caiu-em-trilha-de-vulcao-na-indonesia-e-encontrada-morta/",
+        "https://api.whatsapp.com/send?text=Hist%C3%B3rico%20militar%20eleva%20press%C3%A3o%20sobre%20tenente-coronel%20Cid%20em%20acarea%C3%A7%C3%A3o%20com%20general%20Braga%20Netto",
+        "https://www.facebook.com/sharer.php?u=https://iclnoticias.com.br/cid-braga-netto-acareacao-trama-golpista/&t=Hist%C3%B3rico%20militar%20eleva%20press%C3%A3o%20sobre%20tenente-coronel%20Cid%20em%20acarea%C3%A7%C3%A3o%20com%20general%20Braga%20Netto",
+        "https://twitter.com/intent/tweet?text=Hist%C3%B3rico%20militar%20eleva%20press%C3%A3o%20sobre%20tenente-coronel%20Cid%20em%20acarea%C3%A7%C3%A3o%20com%20general%20Braga%20Netto&url=https://iclnoticias.com.br/?p=79193",
+        "https://www.linkedin.com/shareArticle?mini=true&title=Hist%C3%B3rico%20militar%20eleva%20press%C3%A3o%20sobre%20tenente-coronel%20Cid%20em%20acarea%C3%A7%C3%A3o%20com%20general%20Braga%20Netto&url=https://iclnoticias.com.br/cid-braga-netto-acareacao-trama-golpista/",
+        "https://api.whatsapp.com/send?text=%E2%80%98Dia%20e%20noite%20aguardando%20fogo%E2%80%99%3A%20brigadistas%20enfrentam%20inc%C3%AAndios%C2%A0em%C2%A0Corumb%C3%A1%20%28MS%29",
+        "https://www.facebook.com/sharer.php?u=https://iclnoticias.com.br/dia-e-noite-aguardando-fogo-brigadistas/&t=%E2%80%98Dia%20e%20noite%20aguardando%20fogo%E2%80%99%3A%20brigadistas%20enfrentam%20inc%C3%AAndios%C2%A0em%C2%A0Corumb%C3%A1%20%28MS%29",
+        "https://twitter.com/intent/tweet?text=%E2%80%98Dia%20e%20noite%20aguardando%20fogo%E2%80%99%3A%20brigadistas%20enfrentam%20inc%C3%AAndios%C2%A0em%C2%A0Corumb%C3%A1%20%28MS%29&url=https://iclnoticias.com.br/?p=79255",
+        "https://www.linkedin.com/shareArticle?mini=true&title=%E2%80%98Dia%20e%20noite%20aguardando%20fogo%E2%80%99%3A%20brigadistas%20enfrentam%20inc%C3%AAndios%C2%A0em%C2%A0Corumb%C3%A1%20%28MS%29&url=https://iclnoticias.com.br/dia-e-noite-aguardando-fogo-brigadistas/",
+        "https://www.instagram.com/p/DLSUBueOQaQ/?utm_source=ig_embed&utm_campaign=loading"
+    ]
+}
+```

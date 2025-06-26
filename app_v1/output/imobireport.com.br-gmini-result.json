@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://imobireport.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://instagram.com/imobireport",
+        "https://www.youtube.com/c/ImobiReport",
+        "https://www.linkedin.com/company/imobi-report",
+        "https://api.whatsapp.com/send?text=https://imobireport.com.br/imobiliario/refugios-de-sofisticacao-conheca-o-top-5-de-condominios-de-luxo-de-sao-paulo/",
+        "https://x.com/intent/tweet?text=https://imobireport.com.br/imobiliario/refugios-de-sofisticacao-conheca-o-top-5-de-condominios-de-luxo-de-sao-paulo/",
+        "https://www.facebook.com/sharer/sharer.php?u=https://imobireport.com.br/imobiliario/refugios-de-sofisticacao-conheca-o-top-5-de-condominios-de-luxo-de-sao-paulo/",
+        "https://api.whatsapp.com/send?text=https://imobireport.com.br/aluguel/imobiliario-e-futebol-conheca-parcerias-lucrativas-nesses-mercados/",
+        "https://x.com/intent/tweet?text=https://imobireport.com.br/aluguel/imobiliario-e-futebol-conheca-parcerias-lucrativas-nesses-mercados/",
+        "https://www.facebook.com/sharer/sharer.php?u=https://imobireport.com.br/aluguel/imobiliario-e-futebol-conheca-parcerias-lucrativas-nesses-mercados/"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://lzbarquitetura.com.br",
+    "emails": ["lzbarquiteta@gmail.com"],
+    "phone_numbers": ["14 99193 9608", "43 98809 2947"],
+    "addresses": [],
+    "social_links": [
+        "http://instagram.com/luizabc.arq",
+        "https://www.linkedin.com/in/luiza-barbosa-arq/",
+        "https://wa.me/5514991939608?text=Ol%C3%A1%2C%20gostaria%20de%20um%20or%C3%A7amento%20de%20arquitetura.",
+        "https://api.whatsapp.com/send?phone=5543988092947&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20projetos%20de%20arquitetura."
+    ]
+}
+```

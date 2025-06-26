@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://caarquitetura.com.br",
+    "emails": ["contato@caarquitetura.com.br"],
+    "phone_numbers": ["55 11 3085 2814"],
+    "addresses": ["Rua Paes Leme 215 | CJ 2102, 05424-150 | Pinheiros SP"],
+    "social_links": [
+        "https://www.facebook.com/caarquitetura",
+        "https://www.instagram.com/caarquitetura"
+    ]
+}
+```

@@ -1,0 +1,35 @@
+```json
+{
+    "website": "https://www.rededorsaoluiz.com.br",
+    "emails": [],
+    "phone_numbers": ["3003-3230"],
+    "addresses": [
+        "Avenida João Firmino, 250, Assunção, São Bernardo do Campo -CEP 09810-250",
+        "Av. Alfredo Maluf, 430 - Vila Alto de Santo Andre, Santo André - SP, 09240-410",
+        "Rua Martin Afonso, 114, Vila Bocaina – Mauá/SP - Cep:09310-320",
+        "R. Américo Brasiliense, 596 - Centro, São Bernardo do Campo - SP, 09715-021",
+        "Alameda Araguaia, 2550 - Alphaville Industrial - SP, 06455-000 Barueri/SP",
+        "R. Dr. Alceu de Campos Rodrigues, 95 - Vila Nova Conceição, São Paulo - SP, 04544-000",
+        "Rua das Perobas, 344 - Jabaquara, São Paulo - SP, 04321-120",
+        "Rua Engenheiro Oscar Americano, 840 - Jardim Guedala, São Paulo - SP, 05605-050",
+        "R. Lituânia, 260 - Mooca, São Paulo - SP, 03184-020",
+        "Rua das Perobas, 295 - Jardim Oriental, São Paulo - SP, 04321-120",
+        "Rua Votuporanga, 111, Vila Dora - Santo André - SP - CEP 09030-590",
+        "R. Dr. Nicolau Assef, 52 - Centro Alto, Ribeirão Pires - SP, 09424-070",
+        "R. Francisco Marengo, 1312 - Anália Franco, São Paulo - SP, 03313-001",
+        "Av. Andrade Neves, 863, Centro – Campinas/SP",
+        "Av. Tiradentes, 1803 - Jardim Guarulhos, - SP, 07090-000 Guarulhos/SP",
+        "Av. Mal. Rondon, 299 - Centro, Osasco - SP, 06093-020 Osasco/SP",
+        "R. Walter Figueira S/N - Cerâmica, São Caetano do Sul - SP, 09531-205",
+        "Av. Lineu de Moura, 995 - Urbanova, São José dos Campos - SP São José dos Campos/SP"
+    ],
+    "social_links": [
+        "https://pt-br.facebook.com/rededor/",
+        "https://www.linkedin.com/company/rededor-saoluiz/",
+        "https://www.instagram.com/rededor_oficial/",
+        "https://twitter.com/rededor",
+        "https://www.youtube.com/@rededor.oficial/videos",
+        "https://api.whatsapp.com/send?phone=552121012658&text=Ol%C3%A1,%20Dora.%20Gostaria%20de%20fazer%20um%20agendamento.%20"
+    ]
+}
+```

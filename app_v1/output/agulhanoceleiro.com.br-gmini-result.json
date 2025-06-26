@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://agulhanoceleiro.com.br",
+    "emails": ["contato@agulhanoceleiro.com.br"],
+    "phone_numbers": ["(11) 2533 5442"],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/agulhanoceleiro/",
+        "https://www.facebook.com/agulhanoceleiro",
+        "https://wa.me/5511995959510?text=Contato%20pelo%20site",
+        "https://www.youtube.com/c/AgulhanoCeleiroImoveis",
+        "https://www.linkedin.com/company/agulha-no-celeiro"
+    ]
+}
+```

@@ -1,0 +1,46 @@
+```json
+{
+    "website": "https://imobz.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "RUA ITAPAIÚNA 1800, Panamby, SÃO PAULO - SP",
+        "RUA ITAPAIÚNA 1800, Panamby, SÃO PAULO - SP",
+        "RUA ITAJARA 67, GRAND PANAMBY, SÃO PAULO - SP",
+        "Rua Itajara 67, Panamby, São Paulo - SP",
+        "Jardim Monte Kemel, Condomínio Paulistano São Paulo-SP",
+        "Avenida Dona Helena Pereira de Moraes 415, Panamby, São Paulo - SP",
+        "Avenida Dona Helena Pereira de Moraes 415, Panamby, São Paulo - SP",
+        "RUA DEPUTADO JOÃO SUSSUMU HIRATA 38, VILA ANDRADE, SÃO PAULO - SP",
+        "RUA CARVALHO DE FREITAS, 325 - VILA ANDRADE - SÃO PAULO - SP - CEP 05728-030",
+        "AVENIDA JOSÉ GALANTE 650, VILA ANDRADE, SÃO PAULO - SP",
+        "RUA IUBATINGA 14, PANAMBY, SÃO PAULO - SP",
+        "AVENIDA JOSÉ GALANTE 650, VILA ANDRADE, SÃO PAULO - SP",
+        "RUA DEPUTADO LAÉRCIO CORTE 1430, PARAÍSO DO MORUMBI, SÃO PAULO - SP",
+        "RUA PROFESSOR ALEXANDRE CORREIA, 625 - JARDIM VITÓRIA RÉGIA - SÃO PAULO - SP",
+        "Condomínio Menara Morumbi São Paulo-SP",
+        "Super Quadra Morumbi",
+        "Vila Progredior",
+        "Jardim Ampliação",
+        "Parque Rebouças",
+        "RUA CHARLES SPENCER CHAPLIN, 137 - VILA ANDRADE - SÃO PAULO - SP - CEP 05642-010",
+        "Parque do Morumbi",
+        "Jardim Promissão",
+        "Jardim das Acácias",
+        "Vila Sônia",
+        "Santo Amaro",
+        "Vila Olímpia",
+        "Vila Suzana",
+        "Edifício Camboriú: 3 quartos, 1 banheiro, 1 vaga de garagem e 82m²!",
+        "Super Quadra Morumbi - 55m².",
+        "Higienópolis",
+        "JARDIM LEONOR",
+        "Vila Andrade",
+        "Alto da Boa Vista"
+    ],
+    "social_links": [
+        "https://www.instagram.com/imobz.com.br/",
+        "https://wa.me/5511963588888?text=Olá,%20gostaria%20de%20mais%20informações%20sobre%20os%20imóveis!"
+    ]
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.quintoandar.com.br",
+    "emails": ["privacy@quintoandar.com.br"],
+    "phone_numbers": ["5540202185"],
+    "addresses": ["Rua Girassol, nº 555, Torre B, Vila Madalena, São Paulo/SP - CEP 05.433-001", "Av. Getúlio Vargas, n. 1245, Andares 3,4,5,6,7,9,10, Savassi, Belo Horizonte/MG - CEP 30.112-024"],
+    "social_links": [
+        "https://facebook.com/quintoandar.com.br",
+        "https://www.instagram.com/quintoandar",
+        "https://twitter.com/quintoandar",
+        "https://www.linkedin.com/company/2836850",
+        "https://play.google.com/store/apps/details?id=br.com.quintoandar.inquilinos&hl=pt&gl=BR",
+        "https://apps.apple.com/br/app/quintoandar-aluguel-e-compra/id1109011232",
+        "https://api.whatsapp.com/send?phone=5540202185&text=Olá! Gostaria de conversar sobre anunciar meu imóvel"
+    ]
+}
+```

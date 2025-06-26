@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://vdarquitetura.com",
+    "emails": ["contato@vdarquitetura.com"],
+    "phone_numbers": ["11 99622-7354"],
+    "addresses": [
+      "JUNDIAÍ |",
+      "SAO PAULO | Juscelino Kubitschek Avenue, 2041, 5th floor. Tower B, Vila Olímpia",
+      "CAMPINAS | Jose de Souza Campos Avenue, No. 575 - ground floor, Nova Campinas"
+    ],
+    "social_links": [
+        "https://www.facebook.com/vitordiasarquitetura",
+        "https://www.instagram.com/vitordiasarquitetura/",
+        "https://www.linkedin.com/in/glauco-vitor-dias-59866427/",
+        "https://br.pinterest.com/vdarquitetura/",
+        "https://www.youtube.com/channel/UCmnhgm12uBzN3ZPY5TNSw5g?view_as=subscriber"
+    ]
+}
+```

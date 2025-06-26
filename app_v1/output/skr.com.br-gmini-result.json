@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://skr.com.br/",
+    "emails": ["parcerias@skr.com.br"],
+    "phone_numbers": ["+55 11 3088-8100", "11 3088-8100"],
+    "addresses": ["RUA ITAMBÉ, 465 - HIGIENÓPOLIS - SP", "AVENIDA LAVANDISCA, 531 - MOEMA - SP", "RUA CONSTANTINO DE SOUZA, 533 - CAMPO BELO - SP", "RUA CORONEL JOAQUIM FERREIRA LOBO, 331 – VILA OLÍMPIA - SP", "RUA LISBOA, 177 - PINHEIROS - SP", "ALAMEDA FRANCA, 1.557 COM A RUA DA CONSOLAÇÃO - JARDINS - SP", "RUA DR. FERNANDES COELHO, 117 X RUA DOS PINHEIROS, 1.345 - PINHEIROS - SP"],
+    "social_links": [
+        "https://skr.cvcrm.com.br/cliente/",
+        "https://www.instagram.com/skr_arquitetura_viva/",
+        "https://www.facebook.com/skrconstrutora/",
+        "https://www.youtube.com/user/SKREmpreendimentos",
+        "https://www.linkedin.com/company/skr-engenharia-ltda.",
+        "https://apepe.com/",
+        "https://emiiemoema.com.br/"
+    ]
+}
+```

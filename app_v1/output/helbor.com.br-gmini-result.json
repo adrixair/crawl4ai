@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.helbor.com.br",
+    "emails": [
+        "centraldocliente@helbor.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 4736-7630",
+        "+55 11 2500-8551",
+        "+55 11 3674-5500"
+    ],
+    "addresses": [
+        "Av. Vereador Narciso Yague Guimarães, 1.145 Torre Corporate - 15º andar Jardim Armênia - 08780-500 Mogi da Cruzes",
+        "Av. Brig. Faria Lima, 4.055 HBR Corporate Faria Lima - 11º andar Itaim Bibi - 04538-133 São Paulo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Helborsa",
+        "https://br.linkedin.com/company/helbor-empreendimentos-s-a",
+        "https://www.youtube.com/c/HelborConecta",
+        "https://www.instagram.com/helbor",
+        "https://www.tiktok.com/@helborincorporadora"
+    ]
+}
+```

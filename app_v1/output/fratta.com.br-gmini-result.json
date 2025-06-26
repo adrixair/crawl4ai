@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.fratta.com.br",
+    "emails": ["sac@fratta.com.br", "comercial@fratta.com.br", "comercial1@fratta.com.br"],
+    "phone_numbers": ["(11) 5555-1752", "(11) 5061-1666", "(11) 4902-1888", "(11) 5575-6107","(11) 4991-1323"],
+    "addresses": ["Av. Paulista 1337, Conj 21, Bela Vista São Paulo - SP",
+        "R. Vergueiro, 3176, Vila Mariana, São Paulo - SP",
+        "R. Pamplona, 1083, Jardim Paulista, São Paulo - SP",
+        "R. Marquês de Olinda 88, Vila Dom Pedro I, São Paulo - SP",
+        "Av. Dom Pedro II, 2280, Campestre, Santo André – SP"],
+    "social_links": [
+        "https://facebook.com/construtorafratta",
+        "https://instagram.com/frattaconstrutora",
+        "https://www.youtube.com/@frattaconstrutoraeincorpor5747",
+        "https://br.linkedin.com/company/fratta-construtora-e-incorporadora-ltda",
+        "https://wa.me/+5511947191174"
+    ]
+}
+```

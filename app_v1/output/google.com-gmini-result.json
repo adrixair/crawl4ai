@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.google.com",
+    "emails": [],
+    "phone_numbers": [],
+    "addresse": ["1600 Amphitheatre Parkway, Mountain View, Califórnia 94043, EUA"],
+    "social_links": [
+        "https://x.com/googleworkspace",
+        "https://www.youtube.com/channel/UCBmwzQnSoj9b6HzNmFrg_yw/",
+        "https://www.linkedin.com/showcase/googleworkspace/",
+        "https://www.instagram.com/googleworkspace/",
+        "https://www.facebook.com/googleworkspace/"
+    ]
+}
+```

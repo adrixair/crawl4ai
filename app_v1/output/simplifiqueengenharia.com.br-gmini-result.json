@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://simplifiqueengenharia.com.br",
+    "emails": [
+        "contato@simplifiqueengenharia.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 5189-9102",
+        "+55 11 94750-8024"
+    ],
+    "addresses": [
+        "Torre Tarumã, Av. das Nações Unidas, 14.401 - Conj. 1904 São Paulo - SP CEP: 04794-000"
+    ],
+    "social_links": [
+        "https://www.facebook.com/simplifiqueeng/",
+        "https://www.instagram.com/simplifiqueeng/",
+        "https://www.linkedin.com/company/simplifique-engenharia/",
+        "https://wa.me/5511947508024",
+        "https://maps.app.goo.gl/MWgnQiStQVZ5jz1QA"
+    ]
+}
+```

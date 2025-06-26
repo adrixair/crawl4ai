@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://www.arquitetosvendem.com.br",
+    "emails": ["contato@arquitetosvendem.com.br"],
+    "phone_numbers": ["+5511964304748"],
+    "addresses": [],
+    "social_links": [
+        "https://instagram.com/arquitetosvendem",
+        "https://wa.me/5511964304748"
+    ]
+}
+```

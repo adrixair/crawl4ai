@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://transparencia.prefeitura.sp.gov.br",
+    "emails": [],
+    "phone_numbers": ["156"],
+    "addresses": ["Viaduto do Chá, 15 - Centro - CEP: 01002-020"],
+    "social_links": [
+        "https://www.linkedin.com/company/cidade-de-sao-paulo/",
+        "https://www.tiktok.com/@prefsp",
+        "https://www.youtube.com/prefeiturasaopaulo",
+        "https://twitter.com/prefsp",
+        "https://www.instagram.com/prefsp",
+        "https://www.facebook.com/PrefSP",
+        "https://api.whatsapp.com/send?phone=551132305156&text=Oi!%20Eu%20gostaria%20de%20conversar%20com%20o%20Chat%20SP156%20:)"
+    ]
+}
+```

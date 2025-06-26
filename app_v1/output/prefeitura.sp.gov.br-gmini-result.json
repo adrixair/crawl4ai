@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://prefeitura.sp.gov.br",
+    "emails": [],
+    "phone_numbers": ["156"],
+    "addresses": [
+        "Viaduto do Chá, 15 6º Andar - Centro",
+        "Viaduto do Chá, 15 - Centro - CEP: 01002-020",
+        "Viaduto do Chá, 15, 10º Andar – Centro",
+        "Rua Líbero Badaró, 293, 19º andar, Centro, São Paulo – SP – CEP: 01009-907",
+        "Ed. Matarazzo - Viaduto do Chá, 15 Bairro: Centro - São Paulo/SP CEP: 01002-020"
+    ],
+    "social_links": [
+        "https://www.youtube.com/user/prefeiturasaopaulo",
+        "https://twitter.com/saopaulo_agora",
+        "https://api.whatsapp.com/send?text=https://prefeitura.sp.gov.br/web/comunicacao/w/noticias/131210",
+        "https://www.facebook.com/PrefSP",
+        "https://api.whatsapp.com/send?phone=551132305156&text=Oi!%20Eu%20gostaria%20de%20conversar%20com%20o%20Chat%20SP156%20:)"
+    ]
+}
+```

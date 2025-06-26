@@ -1,0 +1,45 @@
+```json
+{
+    "website": "https://www.imovelweb.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Rua Maria Helena da Cunha Casa, Jardim Ester, São Paulo",
+        "R Miranda Guerra, Jardim Petrópolis, São Paulo",
+        "Av Professor Fonseca Rodrigues, Alto de Pinheiros, São Paulo",
+        "R Manduri, Jardim Europa, São Paulo",
+        "Tutóia, Vila Mariana, São Paulo",
+        "Rua Teviot, 134, Vila Nova Conceição, São Paulo",
+        "Rua Manduri, 659, Jardim Paulistano, São Paulo",
+        "Rua Dona Elisa Pereira de Barros, 559, Jardim Europa, São Paulo",
+        "R São Bento do Sul, Alto de Pinheiros, São Paulo",
+        "Rua Ibiapinopolis, Jardim Paulistano, São Paulo",
+        "Patriarca, Cidade Patriarca, São Paulo",
+        "rua tibiriça 185, Brooklin Velho, São Paulo",
+        "Rua Doutor Esdras Pacheco Ferreira, 230, Vila Nova Conceição, São Paulo",
+        "Rua Santa Verônica, Brooklin Paulista, São Paulo",
+        "Rua Pensilvânia , 359, Cidade Monções, São Paulo",
+        "Vila Matilde, Vila Matilde, São Paulo",
+        "R Miranda Guerra, Jardim Petrópolis, São Paulo",
+        "R Marechal Deodoro, Alto da Boa Vista, São Paulo",
+        "R. Carmino Caricchio, 399, Vila Tiradentes, São Paulo",
+        "AV Interlagos, Interlagos, São Paulo",
+        "Rua Edgar Franco, Vila Albertina, São Paulo",
+        "R. Manduri, 619 - Jardim Paulistano, São Paulo - SP",
+        "R. Manduri, 619, Jardim Paulistano, São Paulo",
+        "Rua Dona Elisa Pereira de Barros, Jardim Europa, São Paulo",
+        "Rua Dirceu de Almeida 269, Parque São Domingos, São Paulo",
+        "PRAÇA MACIEL BAIÃO, Jardim Franca, São Paulo",
+        "RUA TERTULIANO BRANCO DE MIRANDA, Santo Amaro, São Paulo",
+        "Rua Ibiapinópolis, 664, Jardim Paulistano, São Paulo",
+        "Av. Prof. Fonseca Rodrigues, Alto de Pinheiros, São Paulo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/imovelweb",
+        "https://instagram.com/imovelweb",
+        "https://youtube.com/user/Imovelweb",
+        "https://apps.apple.com/br/app/imovelweb-imoveis-casas-e/id639341513",
+        "https://play.google.com/store/apps/details?id=maya.im.imovelweb"
+    ]
+}
+```

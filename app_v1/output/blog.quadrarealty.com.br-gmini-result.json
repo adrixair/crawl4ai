@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://blog.quadrarealty.com.br",
+    "emails": ["sac@quadrarealty.com.br"],
+    "phone_numbers": ["11 2776-2129", "11 97056-4335", "12 3884-1418", "12 99718-9752"],
+    "addresses": ["R. Iguatemi, 448 - 15º andar - CJ. 1501  Itaim Bibi - CEP: 01451-010", "Rodovia Rio-Santos, 2500 - Praça I - EL.1 Condomínio Costa Verde Tabatinga CEP: 11679-900"],
+    "social_links": [
+        "https://www.facebook.com/quadrarealtysp/",
+        "https://www.instagram.com/quadrarealty/",
+        "https://www.linkedin.com/company/quadra-realty/",
+        "https://www.youtube.com/channel/UCwHtD4X3mHgQt3Bl4uigf8g",
+        "https://www.tiktok.com/@quadrarealty",
+        "https://wa.me/5511970564335?text=Olá, estou visitando o site e gostaria de mais informações sobre os imóveis."
+    ]
+}
+```

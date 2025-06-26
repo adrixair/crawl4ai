@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.placeconstruincorp.com.br",
+    "emails": ["contato@placeconstruincorp.com.br"],
+    "phone_numbers": ["11 3965-7000", "11 97183-0999"],
+    "addresses": ["Av. Luiz Dumont Villares, nº1565 – Tucuruvi - São Paulo | SP CEP: 02241-170"],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511971830999&text=Ol%C3%A1%20Place%20Construtora",
+        "https://www.instagram.com/placeconstrutoraincorp/",
+        "https://www.facebook.com/placeconstrutoraeinc/",
+        "https://www.youtube.com/channel/UCy_F_xXYoEwDfMbMqPDX8Cw",
+        "https://www.linkedin.com/company/place-construtora-e-incorporadora/about/"
+    ]
+}
+```

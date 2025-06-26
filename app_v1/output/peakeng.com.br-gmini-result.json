@@ -1,0 +1,9 @@
+```json
+{
+    "website": "https://www.peakeng.com.br",
+    "emails": ["contato@peakeng.com.br"],
+    "phone_numbers": ["(11) 3722-5101", "(11) 96472-7626"],
+    "addresses": ["R. Dom Armando Lombardi, 557 Conj 51 - Vila Progredior São Paulo/SP - CEP: 05616-011"],
+    "social_links": ["https://www.instagram.com/peakengenharia/", "https://api.whatsapp.com/send?phone=5511964727626"]
+}
+```

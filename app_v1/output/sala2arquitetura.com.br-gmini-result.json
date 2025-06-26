@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://sala2arquitetura.com.br",
+    "emails": [
+        "sala2@sala2arquitetura.com.br",
+        "decoracao@sala2arquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "+551127742787",
+        "(11) 2774 2787"
+    ],
+    "addresses": [
+        "AV. IBIRAPUERA 2033 | SÃO PAULO • SP",
+        "AVENIDA IBIRAPUERA, 2033 | CJ 83\nENTREGAS: PRAÇA NOSSA SENHORA APARECIDA, 81\nMOEMA | SÃO PAULO, SP | BRASIL\nCEP 04029-100"
+    ],
+    "social_links": [
+        "http://www.facebook.com/sala2arquitetura",
+        "https://www.linkedin.com/company/sala-2-arquitetura-e-design/",
+        "https://br.pinterest.com/Sala2arquitetura",
+        "http://Instagram.com/sala2arquitetura",
+        "https://www.instagram.com/sala2arquitetura/",
+        "https://www.facebook.com/sala2arquitetura/?fref=ts"
+    ]
+}
+```

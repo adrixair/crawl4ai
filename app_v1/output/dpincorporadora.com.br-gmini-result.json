@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://dpincorporadora.com.br",
+    "emails": ["contato@dpinc.com.br"],
+    "phone_numbers": ["(11) 9 9888.2633"],
+    "addresse": ["R. Cláudio Soares, 72 - Pinheiros São Paulo - SP, 05422-030", "Av. Prof. Fonseca Rodrigues, 369  Alto de Pinheiros - São Paulo/SP."],
+    "social_links": [
+        "https://www.linkedin.com/company/dpinc",
+        "https://www.instagram.com/dpincoficial/"
+    ]
+}
+```

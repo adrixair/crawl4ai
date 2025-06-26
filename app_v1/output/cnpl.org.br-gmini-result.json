@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.cnpl.org.br",
+    "emails": [
+        "secpresidencia@cnpl.org.br",
+        "cpd@cnpl.org.br",
+        "imprensa@cnpl.org.br"
+    ],
+    "phone_numbers": [
+        "+55 61 2103-1683",
+        "+55 61 9 9885.4737"
+    ],
+    "addresses": [
+        "SCS Quadra 01, Bloco M, Salas 1301 a 1305; 1317 e 1318 Edifício Gilberto Salomão, Asa Sul, Brasília, DF, CEP: 70305-900"
+    ],
+    "social_links": [
+        "https://www.facebook.com/cnpl.brasil/",
+        "https://www.youtube.com/channel/UCN5h3SB0BAkcCfYM03W1iWA?reload=9"
+    ]
+}
+```

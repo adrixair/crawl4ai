@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.mrv.com.br/",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/mrv.responde",
+        "https://www.facebook.com/MRV/",
+        "https://www.tiktok.com/@@mrvoficial",
+        "https://instagram.com/mrv/",
+        "https://twitter.com/mrvoficial",
+        "https://www.youtube.com/mrv",
+        "https://www.linkedin.com/company/mrvengenharia",
+        "https://api.whatsapp.com/send?phone=553197839298&text=Ol%C3%A1%20%C3%81ttila%2c%20eu%20estou%20interessado%20em%20saber%20mais%20sobre%20o%20Cons%C3%B3rcio%20de%20Im%C3%B3veis%20MRV",
+        "https://api.whatsapp.com/send/?phone=558007289000&text=Quero%20meu%20ap%C3%AA%20de%20novela%20da%20MRV!"
+    ]
+}
+```

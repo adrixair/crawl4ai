@@ -1,0 +1,34 @@
+```json
+{
+    "website": "https://www.habrasconstrutora.com.br",
+    "emails": [
+        "contato@habrasconstrutora.com.br"
+    ],
+    "phone_numbers": [
+        "+55 (11) 2338-7519",
+        "11 99901-1640"
+    ],
+    "addresses": [
+        "R. Fradique Coutinho, 30, 10º andar - Pinheiros, São Paulo - SP, 05416-000",
+        "Januário Zingaro, 411 - Campo Limpo, SP",
+        "Estrada do Campo Limpo, 3.924, Campo Limpo - SP",
+        "Avenida São João , 1600 – Atibaia – SP",
+        "R. Osvaldo Cruz, 881 - Jardim Cristiano, Itaquaquecetuba - SP",
+        "Estr. Velha de Santa Rita, 1193 - Ponto Chic, Nova Iguaçu - RJ",
+        "Rua Brigadeiro Francisco Lima e Silva, 410 - Itaquaquecetuba",
+        "Av. General Teixeira Lott, 146, Centro Carapicuíba, SP",
+        "Av. dos Autonomistas, 250, Ferraz de Vasconcelos - SP",
+        "Av. Dom Pedro II, 77, Ferraz de Vasconcelos - SP",
+        "R. Rosa Umehara Manabe, 431 - Jardim Chacara Mea, Suzano, SP",
+        "Av. Engenheiro Miguel Gemma, 2867, Jardim Armênia - Mogi das Cruzes - SP",
+        "Av. Yoshiteru Onishi, 676 - Mogi das Cruzes - SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511999011640&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20site.%20",
+        "https://www.facebook.com/habrasconstrutora",
+        "https://www.instagram.com/habrasconstrutora/",
+        "https://www.youtube.com/channel/UC59iPUdMpXBkb1AwFXfy9sQ",
+        "https://www.linkedin.com/company/habras"
+    ]
+}
+```

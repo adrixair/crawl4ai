@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.focomagazine.com.br",
+    "emails": [
+        "contato@focomagazine.com.br"
+    ],
+    "phone_numbers": [
+        "35 3521-6153"
+    ],
+    "addresses": [
+        "Rua Coronel João de Barros, 360 Passos/MG",
+        "Rua Coronel João de Barros, 360 Passos/MG"
+    ],
+    "social_links": [
+        "https://facebook.com/focomagazine",
+        "https://instagram.com/focomagazine"
+    ]
+}
+```

@@ -1,0 +1,29 @@
+```json
+{
+    "website": "https://aptoaltopadrao.com/",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Emanuel Pinto, Centro, Balneário Piçarras, SC, 88380-000",
+        "Rua Itacolomí, em Balneário Piçarras",
+        "Avenida Nereu Ramos, esquina com a Rua 4190, número 121, no bairro Itacolomí, em Balneário Piçarras/SC",
+        "Rua André Ampère, 136, Brooklin, Zona Sul de São Paulo",
+        "Rua Tucuna, 250, Perdizes, São Paulo",
+        "Rua 4190, 121, Itacolomí, Piçarras/SC",
+        "Rua Quatá, 317, Vila Olímpia, São Paulo",
+        "Rua Cayowaá, 186, Perdizes, São Paulo",
+        "Rua Sousa Breves, 193, Tatuapé, Leste, São Paulo",
+        "Rua Evaristo Lopes Dutra, Itajuba, Barra Velha",
+        "Rua Arnaldo José Pacífico, 18 – Jardim das Perdizes, São Paulo – SP",
+        "Av. Itajuba, 2862, no bairro Itajuba em Barra Velha",
+        "Nereu Ramos x R. Paulista, 232 – Bairro Itacolomi, Balneário Piçarras",
+        "Rua Fortunato Ferraz,365, Lapa, Oeste, São Paulo",
+        "Rua Bueno Brandão, 257, Vila Nova Conceição, São Paulo",
+        "R. Marc Chagall, s/n – Jardim das Perdizes, São Paulo – SP",
+        "Rua Aimberê, 2022, em Perdizes, Zona Oeste de São Paulo"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone="
+    ]
+}
+```

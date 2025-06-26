@@ -1,0 +1,9 @@
+```json
+{
+    "website": "https://casaleopoldo.com.br",
+    "emails": ["bolsa@bolsadeimoveis.com.br"],
+    "phone_numbers": ["(11) 5503-5900"],
+    "addresses": ["R. Leopoldo Couto de Magalhães Jr., 623", "Av. das Nações Unidas, 11633 – 18º Andar – São Paulo, SP – 04578-000"],
+    "social_links": ["https://api.whatsapp.com/send?phone=1155035900"]
+}
+```

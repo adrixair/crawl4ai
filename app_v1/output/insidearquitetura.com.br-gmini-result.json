@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://insidearquitetura.com.br",
+    "emails": [
+        "ola@insidearquitetura.com.br",
+        "grupo@insidearquitetura.com.br",
+        "financeiro@insidearquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 3135.6454",
+        "(11) 3135-6454",
+        "(11) 9.9951.5853"
+    ],
+    "addresses": [
+        "R. Fidêncio Ramos, 100 - Sala R134 - Vila Olímpia, São Paulo - SP, 04551-010, Brasil",
+        "SEDE VILA OLIMPIA R. Fidêncio Ramos, 100 - Sala R134 - Vila Olímpia, São Paulo - SP, 04551-010, Brasil"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?1=pt_BR&phone=5511999515853",
+        "https://www.facebook.com/pages/Inside-Design-de-Interiores/395930840423571",
+        "https://www.instagram.com/insidearquiteturaedesign/",
+        "https://www.youtube.com/c/insidearquiteturaedesign",
+        "https://br.pinterest.com/insidearquiteturaedesign/",
+        "https://www.houzz.com/pro/insidearquiteturaedesign"
+    ]
+}
+```

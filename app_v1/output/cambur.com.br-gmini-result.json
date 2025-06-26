@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://cambur.com.br",
+    "emails": ["anajuliacambur@gmail.com"],
+    "phone_numbers": ["(11) 3079-4979", "(11) 98961-9393"],
+    "addresse": ["Av. Nove de Julho, 5593 - Jardim Paulista, São Paulo - SP, 01407-200", "Rua Rego Freitas, 255 - Vila Buarque - São Paulo/SP", "Rua Marques de Itu,199", "Av. Francisco Morato, 108", "Rua Salim Izar,36", "Av. Vital Brasil, 157 - Butantã - São Paulo - SP - CEP 05503-001", "Avenida Jorge João Saad, 145 - Vila Progredior - São Paulo-SP CEP 05618-000"],
+    "social_links": [
+        "https://www.facebook.com/CamburConstrutora",
+        "https://www.instagram.com/camburconstrutora/",
+        "https://www.linkedin.com/company/camburconstrutora/",
+        "https://www.youtube.com/channel/UCWRhciuKhs7s6okMlX-lsqg",
+        "https://api.whatsapp.com/send?phone=5511989619393&text=Ol%C3%A1!%20Me%20interessei%20pelo%20Galleria%20SP,%20vamos%20conversar?",
+        "https://api.whatsapp.com/send?phone=5511989619393&text=Ol%C3%A1!%20Me%20interessei%20pelo%20Vista%20Jardim%20Guedala,%20vamos%20conversar?",
+        "https://api.whatsapp.com/send?phone=5511989619393&text=Ol%C3%A1!%20Me%20interessei%20pelo%20Vila%20Parque%20Butant%C3%A3,%20vamos%20conversar?",
+        "http://crmcambur.fwccloud.com.br/",
+        "https://cambur.hypnobox.com.br/?controle=Atendimento&acao=index&produto=9&midia=site-institucional",
+        "https://api.whatsapp.com/send?phone=5511989619393&text=Estou%20no%20site%20e%20preciso%20de%20atendimento",
+        "https://cambur.hypnobox.com.br/?controle=Atendimento&acao=index&produto=6&midia=site-institucional"
+    ]
+}
+```

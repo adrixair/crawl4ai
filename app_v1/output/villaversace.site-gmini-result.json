@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://villaversace.site",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Agami, 364 – Indianópolis, São Paulo – SP, 04522-001"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=undefined"
+    ]
+}
+```

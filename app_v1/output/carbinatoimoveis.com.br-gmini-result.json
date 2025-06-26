@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.carbinatoimoveis.com.br",
+    "emails": ["atendimento@carbinato.com.br"],
+    "phone_numbers": ["(11) 2495-6080", "(11) 99468-6562"],
+    "addresses": ["Rua Padre João Manuel, 1212 - conjunto 81 – Jardim América – CEP: 01411-000 - São Paulo - SP"],
+    "social_links": [
+        "https://www.facebook.com/carbinatoimoveissp/",
+        "https://www.instagram.com/carbinatoimoveis/",
+        "https://web.whatsapp.com/send?phone=5511994686562",
+        "https://wa.me/5511994686562",
+        "https://api.whatsapp.com/send?text=https://www.carbinatoimoveis.com.br/blog/jardim-america-x-jardim-europa-qual-bairro-escolher-em-sao-paulo-spij.html",
+        "https://api.whatsapp.com/send?text=https://www.carbinatoimoveis.com.br/blog/como-valorizar-seu-imovel-no-jardim-america-antes-de-vender.html",
+        "https://api.whatsapp.com/send?text=https://www.carbinatoimoveis.com.br/blog/melhores-bairros-para-investir-em-imoveis-de-luxo-em-sao-paulo-sp.html"
+    ]
+}
+```

@@ -1,0 +1,37 @@
+```json
+{
+    "website": "https://www.properstar.pt",
+    "emails": [],
+    "phone_numbers": [
+        "+55 11 95033-8488",
+        "11988839215",
+        "1138428999",
+        "1139264690",
+        "11991733626",
+        "11996216622"
+    ],
+    "addresse": [
+        "Av. Chucri Zaidan, 1170, 04794-000 São Paulo"
+    ],
+    "social_links": [
+        "https://Facebook.com/ProperstarRealEstate/",
+        "https://Twitter.com/ProperstarCom",
+        "https://Instagram.com/properstar_pt/",
+        "https://LinkedIn.com/company/properstar/",
+        "https://apps.apple.com/app/apple-store/id1253028900?pt=118713609&ct=ps_footer_app_store&mt=8",
+        "https://play.google.com/store/apps/details?id=com.listglobally.properstar&utm_source=properstar&utm_medium=website&utm_campaign=footer",
+        "https://blog.properstar.com/pt",
+        "https://properstar.bamboohr.com/careers",
+        "https://agent.properstar.com/pt",
+        "https://dashboard.properstar.com/pt-PT/home?utm_medium=referrer&utm_source=properstar&utm_campaign=properstar_footer_agent_dashboard",
+        "https://dashboard.properstar.com/pt-PT/home?utm_medium=referrer&utm_source=properstar&utm_campaign=properstar_footer_advertise",
+        "https://maps.google.com/maps?ll=-23.682842,-46.595324&z=9&t=m&hl=en-US&gl=US&mapclient=apiv3",
+        "https://maps.google.com/maps?ll=-23.682792,-46.595667&z=9&t=m&hl=en-US&gl=US&mapclient=apiv3",
+        "https://maps.google.com/maps?ll=-22.597257,-48.635936&z=6&t=m&hl=en-US&gl=US&mapclient=apiv3",
+         "https://maps.google.com/maps?ll=-23.457494,-46.86034&z=8&t=m&hl=en-US&gl=US&mapclient=apiv3",
+        "https://maps.google.com/maps?ll=-18.435533,-44.381281&z=5&t=m&hl=en-US&gl=US&mapclient=apiv3",
+        "https://maps.google.com/maps?ll=-18.527316,-42.553531&z=5&t=m&hl=en-US&gl=US&mapclient=apiv3",
+        "https://maps.google.com/maps?ll=-15.325518,-51.317593&z=3&t=m&hl=en-US&gl=US&mapclient=apiv3"
+    ]
+}
+```

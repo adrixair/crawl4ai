@@ -1,0 +1,31 @@
+```json
+{
+    "website": "https://www.arquitetas.net.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 99930-8945",
+        "11 3289-5066",
+        "11 3258-8383",
+        "11 3661-8111",
+        "11 2092-6850",
+        "11 3031-2260",
+        "11 98383-4185",
+        "11 2389-5660"
+    ],
+    "addresses": [
+        "Av. Eng. Heitor Antônio Eiras García, 1621 - Butantã, São Paulo - SP, 05588-001, Brasil",
+        "R. Cardoso de Melo Júnior, 490 - Alto de Pinheiros, São Paulo - SP, 05462-020, Brasil",
+        "Praça da República, 80 - cj 1004 - República, São Paulo - SP, 01045-900, Brasil",
+        "Largo do Arouche, 161 - República, São Paulo - SP, 01219-011, Brasil",
+        "R. Emílio Mallet, 250 - Vila Gomes Cardim, São Paulo - SP, 03320-001, Brasil",
+        "R. Prof. Artur Ramos, 241 - 103 - Jardim Paulistano, São Paulo - SP, 01454-011, Brasil",
+        "Alto da Lapa, São Paulo - SP, 02675-031, Brasil",
+        "R. Dr. José do Amaral, 280 - Jardim Lisboa, São Paulo - SP, 03675-010, Brasil"
+    ],
+    "social_links": [
+        "https://www.facebook.com/",
+        "https://twitter.com/",
+        "https://www.instagram.com/"
+    ]
+}
+```

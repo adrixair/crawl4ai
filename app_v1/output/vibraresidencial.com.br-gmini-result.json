@@ -1,0 +1,32 @@
+```json
+{
+    "website": "https://vibraresidencial.com.br",
+    "emails": ["rh@associadonv.com.br"],
+    "phone_numbers": ["+55(11) 3371-4340", "(11) 3371-4340", "(11) 91289-0784"],
+    "addresses": [
+        "Rua Mourato Coelho, 936 6º Andar - Pinheiros, CEP 05417-001, São Paulo",
+        "Av. Nossa Senhora do Sabará, 110",
+        "Rua Elias Antonio Zogbi, 5632",
+        "Rua: Dr. Brasilio Machado Neto, 97",
+        "Av. Sapopemba, 15.997",
+        "R. Francisco Siqueira Brito,8",
+        "Av. Nossa Senhora do Ó, 2070",
+        "R. Jericinó, 01 - Chácara Califórnia",
+        "Av. do Oratório, 585",
+        "Av. Rudge, 485 - Bom Retiro",
+        "Avenida Adolfo Pinheiro, 91 - Santo Amaro - SP",
+        "Estrada de Itapecerica, 618 - Vila das Belezas",
+        "Rua Amâncio Klein, 28 - São Paulo - SP",
+        "R. Dom Aguirre, 607 - Vila Sofia - SP",
+        "Rua Vitorino Carmilo, 761 – Barra Funda"
+    ],
+    "social_links": [
+        "https://wa.me/5511912890784",
+        "https://www.facebook.com/vibraresidencial/",
+        "https://www.instagram.com/vibraresidencial/",
+        "https://www.linkedin.com/company/vibra-residencial/?viewAsMember=true",
+        "https://www.tiktok.com/@vibraresidencial",
+        "https://vibra.anapro.com.br/anapro/p/pages/parceiroCadastro/selecionarTipoCadastro.aspx?returnUrl=%2fanapro%2fp%2fpages%2fparceiroCadastro%2fdefault.aspx%3forigem%3dlogin"
+    ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://brasilarquitetura.com/",
+    "emails": ["brasilarquitetura@brasilarquitetura.com"],
+    "phone_numbers": ["+55 (11) 939312716"],
+    "addresses": ["Rua Harmonia 101 CEP 05435-000 São Paulo, SP Brasil"],
+    "social_links": [
+        "https://www.instagram.com/brasilarquitetura/",
+        "https://www.linkedin.com/company/brasilarquitetura/"
+    ]
+}
+```

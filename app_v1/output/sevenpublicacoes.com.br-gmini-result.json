@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://sevenpublicacoes.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5541988362677",
+        "https://scholar.google.com/citations?view_op=list_works&hl=pt-BR&authuser=3&user=J-7CZJoAAAAJ&gmla=AL3_zijVuz9iEUya975VYhVQejam7z26kJKMkihbTQzt8lE7ZdgRQ5wo4X4ZyqyxmZSqkTQETuUn1Lx420tYfDNb3wM0anXPOsg0GI-3D2qnWc8fnX-J8Q",
+         "https://scholar.google.com/citations?hl=pt-BR&view_op=list_works&authuser=4&gmla=AL3_ziglaFwUW2JSA-iHn_wdhXD80JZoeCZrWUJUEcMYKOEqDsbmT9W0ma6_77aHGwF-B7Z9FiJubvbOZyqnrTAbA8OF6ngKFll9rLUlZmwytSULM01ZYg"
+    ]
+}
+```

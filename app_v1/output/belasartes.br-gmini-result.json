@@ -1,0 +1,35 @@
+```json
+{
+    "website": "https://www.belasartes.br",
+    "emails": [
+        "cursos@belasartes.br",
+        "geyse@tamer.com.br",
+        "isabella.araujo@tamer.com.br",
+        "baonline@belasartes.br",
+        "sap@belasartes.br",
+        "estagio@belasartes.br"
+    ],
+    "phone_numbers": [
+        "11 98639-9710",
+        "551140033787",
+        "11 5576-5794"
+    ],
+    "addresses": [
+        "Rua Estela, 64 - SP",
+        "Rua Dr. Alvaro Alvim, 90 - SP",
+        "Av. Magalhães de Castro, 12.000 - SP",
+        "Av. Gisele Constantino, nº1850 - Iguatemi Business, Votorantim-SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/belasartes",
+        "https://www.tiktok.com/@timebelasartes",
+        "https://br.linkedin.com/school/belasartessp/",
+        "https://www.twitter.com/belasartes",
+        "https://www.youtube.com/channel/UCOKDbhNEYpzD3QGaaUKaUgw",
+        "https://www.facebook.com/belasartes",
+        "https://api.whatsapp.com/send?phone=551140033787",
+        "https://instagram.com/atleticabelasartes",
+        "https://www.facebook.com/atleticabelasartes"
+    ]
+}
+```

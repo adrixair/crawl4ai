@@ -1,0 +1,46 @@
+```json
+{
+    "website": "https://www.defensoria.sp.def.br",
+    "emails": [
+        "dlo@defensoria.sp.def.br",
+        "dpg@defensoria.sp.def.br",
+        "PrimeiraSubdefensoria@defensoria.sp.def.br",
+        "dco@defensoria.sp.def.br",
+        "dof@defensoria.sp.def.br",
+        "drh@defensoria.sp.def.br",
+        "secretaria2e3subs@defensoria.sp.def.br",
+        "imprensa@defensoria.sp.def.br",
+        "escola@defensoria.sp.def.br",
+        "assessoria.civel@defensoria.sp.def.br"
+    ],
+    "phone_numbers": [
+        "3105-0919",
+        "3101-9657",
+        "3105-9040",
+        "4802-9630",
+        "(011) 96193-0572"
+    ],
+    "addresses": [
+        "Rua Líbero Badaró, 616, 7º andar  \nCentro, São Paulo, SP  \nCEP: 01008-000",
+        "Rua Coronel Albino Bairão, 160  \nBelenzinho, São Paulo, SP  \nCEP: 03054-020",
+         "Rua Boa Vista, 200, 8.º andar  \nCentro, São Paulo, SP  \nCEP: 01014-000",
+        "Rua Libero Badaró, 616, 5.º andar  \nCentro, São Paulo, SP  \nCEP: 01008-000",
+        "Rua Líbero Badaró, 616, 8º andar - Centro  \nCentro, São Paulo, SP  \nCEP: 01008-000",
+        "Rua Boa Vista, 200, 6.º andar  \nCentro, São Paulo, SP  \nCEP: 01014-000",
+        "Rua Líbero Badaró, 616, 4º e 7º andares  \nCentro, São Paulo, SP  \nCEP: 01008-000"
+    ],
+    "social_links": [
+        "https://www.instagram.com/defensoria_sp",
+        "https://www.facebook.com/DefensoriaPublicaSP",
+        "https://x.com/Defensoriasp",
+        "https://www.youtube.com/user/DefensoriaPublicaSP",
+        "https://www.flickr.com/photos/defensoriapublicasp",
+        "https://app.powerbi.com/view?r=eyJrIjoiOTdhNTNlZjgtYTQxOC00MDA5LTkxYjYtYjhlNmU1ZTMzM2E5IiwidCI6IjliMGIwMjdhLTI2NDAtNDM0YS05ZjYwLTM1MjRiMGIzYWU1YyJ9",
+        "https://www.youtube.com/channel/UCwR5-EyzcnWv2W1gJRKDwJQ",
+        "https://www.facebook.com/EdepeSP/?ref=ts",
+        "https://X.com/EdepeSP",
+        "https://www.instagram.com/edepe.sp/",
+        "https://defensoriasp.sharepoint.com/sites/Material_de_apoio/EDEPE"
+    ]
+}
+```

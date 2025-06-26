@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://www.superlimao.com.br",
+    "emails": ["contato@superlimao.com.br"],
+    "phone_numbers": ["+55 11 3518.8919"],
+    "addresses": ["R. Aspicuelta, 205 Vila Madalena, São Paulo - SP CEP 05433-010"],
+    "social_links": [
+        "https://www.linkedin.com/company/superlimao/",
+        "https://www.instagram.com/superlimao/"
+    ]
+}
+```

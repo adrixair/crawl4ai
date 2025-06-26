@@ -1,0 +1,58 @@
+```json
+{
+    "website": "https://www.uol.com.br",
+    "emails": [
+        "l-lgpd@uolinc.com",
+        "uolads@uol.com.br"
+    ],
+    "phone_numbers": [
+        "4003 5973",
+        "0800 703 3000",
+        "4003 9011",
+        "0800 881 9011",
+        "4003 6118",
+        "0800 771 7774",
+        "4003 2002",
+        "0800 602 2029",
+        "4020-9314",
+        "0800 770 9314",
+        "4003-1838"
+    ],
+    "addresses": [
+        "Av. Brigadeiro Faria Lima, 1.384, São Paulo/SP - CEP 01452-002",
+        "Av. Brigadeiro Faria Lima, 1.384, São Paulo - SP - CEP 01451-001"
+    ],
+    "social_links": [
+        "http://www.facebook.com/UOL",
+        "http://www.twitter.com/UOL",
+        "http://www.instagram.com/uoloficial",
+        "https://www.linkedin.com/company/6668/",
+        "https://www.youtube.com/user/uol",
+        "https://api.whatsapp.com/send?phone=551140039011",
+        "https://www.instagram.com/uolhost",
+        "https://www.facebook.com/uolhost",
+        "https://www.youtube.com/user/uolhost",
+        "https://www.linkedin.com/showcase/uolhost",
+        "https://www.whatsapp.com/channel/0029Vams7vqKWEL0IRWy3u34",
+        "https://wa.me/551140032002/?text=Oi%2C+quero+assinar+Conte%C3%BAdo+Exclusivo+do+UOL%21",
+        "https://wa.me/551140032002/?text=Oi%2C+quero+assinar+UOL+Antiv%C3%ADrus%21",
+        "https://wa.me/551140032002/?text=Oi%2C+quero+assinar+UOL+Assist%C3%AAncia+T%C3%A9cnica%21",
+        "https://wa.me/551140032002/?text=Oi%2C+quero+assinar+UOL+Resolve%21",
+        "https://play.google.com/store/apps/details?id=br.com.uol.mail.uol&utm_source=Mail_footer&utm_medium=links_no_footer&utm_campaign=pg_de_vendas-uolmail&utm_content=app-android",
+        "https://apps.apple.com/br/app/id1372863832?utm_source=Mail_footer&utm_medium=links_no_footer&utm_campaign=pg_de_vendas-uolmail&utm_content=app-ios",
+        "https://wa.me/551140032002/?text=Oi%2C+quero+assinar+UOL+Mail%21",
+        "https://www.youtube.com/playlist?list=PLwf14xKyKJ704SacMVhHFJvNAdGRYo-qS",
+        "https://facebook.com/universauol",
+        "https://instagram.com/universa_uol",
+        "https://twitter.com/universa_uol",
+        "https://www.youtube.com/universauol?sub_confirmation=1",
+        "https://flipboard.com/@uol/universa-1hbgib11z",
+        "https://br.pinterest.com/uol/",
+        "https://www.instagram.com/uolads",
+        "https://www.facebook.com/uolads",
+        "https://www.youtube.com/c/UOLAds",
+        "https://www.linkedin.com/showcase/uol-ads",
+        "https://www.tiktok.com/@uolads"
+    ]
+}
+```

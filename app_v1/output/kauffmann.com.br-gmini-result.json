@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.kauffmann.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+551138977777",
+        "+5511984090809"
+    ],
+    "addresses": [
+        "Al. Gabriel Monteiro da Silva, 1678 Jardim América CEP 01442-002 São Paulo - SP",
+        "Rua Dr. Mário Ferraz, 376 ITAIM BIBI - SÃO PAULO",
+        "Av. Hélio Pellegrino, 600 - Vila Nova Conceição, esquina com R. Marcos Lopes."
+    ],
+    "social_links": [
+        "https://www.instagram.com/kauffmannimoveis/",
+        "https://www.facebook.com/kauffmannimoveis",
+        "https://www.linkedin.com/company/kauffmann-imoveis/",
+        "https://br.pinterest.com/kauffmannsa/pins/",
+        "https://www.youtube.com/user/KauffmannImoveis",
+        "https://wa.me/5511984090809?text=Sou+corretor+e+gostaria+de+mais+informa%C3%A7%C3%B5es+de+parcerias",
+        "https://web.whatsapp.com/send?phone=+5511978291222&text=Gostaria+de+receber+mais+informa%C3%A7%C3%B5es+sobre+o+empreendimento+Palazzo+Grimaldi"
+    ]
+}
+```

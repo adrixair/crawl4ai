@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://aamincorporadora.com.br",
+    "emails": [
+        "relacionamento@aamincorporadora.com.br"
+    ],
+    "phone_numbers": [
+        "11 5054-8333",
+        "11 50548300",
+        "11 41187711",
+        "+551150548333"
+    ],
+    "addresses": [
+        "Av. Ibirapuera 2332, 12º andar  \nConj. 122 - Torre II - São Paulo/SP",
+        "Av. Ibirapuera, 2.332 (Conj. 122 – Bloco II) – Indianópolis – São Paulo/SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/aamincorporadora",
+        "https://www.instagram.com/aam_incorporadora/",
+        "https://www.linkedin.com/company/aam-incorporadora/",
+        "https://www.youtube.com/watch?v=r7_oWsZYmDo",
+        "https://www.youtube.com/channel/UC8tzZHcJgR-N61zSlyvpiCw",
+        "https://aam.dreamhosters.com/tipo_imovel/residencial/?categoria_imovel=portfolio",
+        "https://aam.dreamhosters.com/tipo_imovel/comercial/?categoria_imovel=portfolio",
+        "https://aam.hypnoboxparcerias.com.br/"
+    ]
+}
+```

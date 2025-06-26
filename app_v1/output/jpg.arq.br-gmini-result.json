@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://jpg.arq.br",
+    "emails": ["jpg@jpg.arq.br"],
+    "phone_numbers": ["+55 11 9 7126 1060"],
+    "addresses": ["Rua General Jardim 645, cj.72 – 01223011 Vila Buarque – São Paulo – Brasil", "Avenida Menéres, 456 4450.189 Matosinhos Portugal", "Facultad de Arquitectura, Urbanismo y Diseño de la Universidad del Litoral y de la Universidad de Buenos Aires Santa Fe e Buenos Aires, Argentina", "Universidade do Porto, FAUP Sala Plana Porto, Portugal"],
+    "social_links": [
+        "http://www.instagram.com/jpgarq",
+        "https://www.facebook.com/jpg.arq"
+    ]
+}
+```

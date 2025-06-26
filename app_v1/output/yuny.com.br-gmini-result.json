@@ -1,0 +1,31 @@
+```json
+{
+    "website": "https://www.yuny.com.br",
+    "emails": [
+        "privacidade@yuny.com.br",
+        "fraude@yuny.com.br",
+        "atendimento@yuny.com.br"
+    ],
+    "phone_numbers": [
+        "11 3530-2900",
+        "0800 591 1982",
+        "+55 11 3045-1234",
+        "+551130451234",
+        "+551135302900",
+        "+551130184000"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511985470453&text=Ol%C3%A1!%20Quero%20saber%20mais%20sobre%20os%20empreendimentos%20que%20vi%20no%20site%20da%20Yuny.",
+        "https://www.facebook.com/YunyIncorporadora/",
+        "https://br.linkedin.com/company/yuny-incorporadora",
+        "https://www.youtube.com/yunyincorporadora",
+        "https://www.instagram.com/yunyincorporadora/",
+        "https://api.whatsapp.com/send?phone=5511912767006&text=Ol%C3%A1!%20Quero%20saber%20mais%20sobre%20os%20empreendimentos%20que%20vi%20no%20site%20da%20Yuny.",
+        "https://www.canaldeetica.com.br/yuny/",
+        "https://www.clienteyuny.com.br:82/",
+        "https://yunylab.com.br/",
+        "https://www.yunyvendas.com.br/portal-do-corretor"
+    ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://paulafiorentiniarquitetura.com.br",
+    "emails": ["adm@arquiteturafiorentini.com.br"],
+    "phone_numbers": ["11 3021-9436", "11 3231-2805"],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/paulafiorentiniarquitetura/",
+        "https://www.facebook.com/www.arquiteturafiorentini.com.br"
+    ]
+}
+```

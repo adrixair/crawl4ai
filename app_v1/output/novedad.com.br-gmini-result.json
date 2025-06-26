@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://novedad.com.br",
+    "emails": ["contato@novedad.com.br"],
+    "phone_numbers": ["11 2592-0878"],
+    "addresses": ["Moema - São Paulo - SP, CEP - 04089-015"],
+    "social_links": [
+        "https://www.facebook.com/arquiteturaedesignnovedad",
+        "https://whatsapp.clicklinks.com.br/novedad"
+    ]
+}
+```

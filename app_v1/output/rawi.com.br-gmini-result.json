@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.rawi.com.br/",
+    "emails": ["ola@rawi.com.br", "conteudo@dc33.com.br", "jornalismo@dc33.com.br"],
+    "phone_numbers": ["+55 11 3667-7777", "+55 11 3667-7778", "(11) 98125-7319"],
+    "addresses": ["AV. BRIG. FARIA LIMA. 1690 - CJ. 42, JARDIM PAULISTANO . SÃO PAULO"],
+    "social_links": [
+        "https://www.instagram.com/rawiarquitetura/",
+        "https://www.facebook.com/rawiarquitetura/",
+        "https://br.pinterest.com/rawiarq",
+        "https://br.linkedin.com/company/rawiarquitetura",
+        "https://api.whatsapp.com/send?phone=551136677777&text=Bem-vindo%20%C3%A0%20Rawi%20Arquitetura.%20Transformamos%20sonhos%20em%20projetos%20incr%C3%ADveis.%20Estamos%20aqui%20para%20tornar%20realidade%20suas%20ideias%20de%20design%C2%A0e%C2%A0arquitetura.%0A%0ACliente%20ou%20Fornecedor?%0ANome:%0AE-mail:%0AAssunto:"
+    ]
+}
+```

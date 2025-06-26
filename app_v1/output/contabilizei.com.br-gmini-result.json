@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.contabilizei.com.br",
+    "emails": ["querosercliente@contabilizei.com.br", "ouvidoria@contabilizei.com.br"],
+    "phone_numbers": [],
+    "addresses": ["Avenida Paulista, 1106, Bela Vista, São Paulo 01310-100",
+    "R. Nunes Machado, 68, 16º andar, Centro, Curitiba - PR, 80420-120",
+    "R. Dr Pedrosa, 151, 16º andar, Centro, Curitiba - PR, 80420-120"],
+    "social_links": [
+        "https://contabilizei.gupy.io/",
+        "https://www.facebook.com/Contabilizei/",
+        "https://www.instagram.com/contabilizei/",
+        "https://www.linkedin.com/company/contabilizei/",
+        "https://www.youtube.com/channel/UCNAlIbSjWxrDLDllQUug8dA",
+        "whatsapp://send?text=https%3A%2F%2Fwww.contabilizei.com.br%2Fcontabilidade-online%2Fquanto-ganha-um-arquiteto%2F",
+        "https://canal.ouvidordigital.com.br/contabilizei",
+        "https://www.archathon.com.br/",
+        "https://canal.ouvidordigital.com.br/contabilizei",
+        "https://api.whatsapp.com/send?phone=(41) 4101-0021"
+    ]
+}
+```

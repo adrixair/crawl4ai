@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.thuri.com.br",
+    "emails": ["thuri.imoveis@gmail.com"],
+    "phone_numbers": ["+5511987608558", "+5511940016339", "11 98760-8558"],
+    "addresses": ["Avenida Professor Frederico Herman Júnior, Alto de Pinheiros, São Paulo / SP CEP 05459-010"],
+    "social_links": [
+        "https://www.facebook.com/thurimoveis",
+        "https://www.instagram.com/thurimoveis",
+        "https://api.whatsapp.com/send?l=pt_br&phone=5511987608558",
+        "https://web.whatsapp.com/send?phone=5511987608558",
+        "https://web.whatsapp.com/send?phone=5511940016339"
+    ]
+}
+```

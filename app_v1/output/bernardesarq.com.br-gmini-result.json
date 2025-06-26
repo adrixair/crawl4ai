@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://www.bernardesarq.com.br",
+    "emails": ["bernardes_rj@bernardes.com.br"],
+    "phone_numbers": ["+55 21 2512 7743", "+55 11 5185 0050", "+351 21 823 6502"],
+    "addresses": [
+        "Rua Corcovado, 250, Jardim Botânico, Rio de janeiro",
+        "Rua Aspicuelta, 109. Vila Madalena, São Paulo",
+        "Rua da Escola Politécnica, 167, 2º andar - sala 12 - Príncipe Real, Lisboa"
+    ],
+    "social_links": [
+        "https://www.facebook.com/bernardesarq/",
+        "https://www.instagram.com/bernardesarq/",
+        "https://www.linkedin.com/company/bernardes-arquitetura/",
+        "https://br.pinterest.com/bernardesarquitetura/",
+        "https://www.youtube.com/@bernardesarquitetura899/featured",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/cerimonia-premio-sergio-bernardes-asbea-rj-2024-e-posso-da-nova-diretoria/%0D%0ABernardes Arquitetura%20%2D%20Cerimônia – Prêmio Sérgio Bernardes AsBEA/RJ 2024 e Posse da Nova Diretoria",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/lancamento-em-belo-horizonte-do-livro-tres-pavilhoes-de-sergio-bernardes-contribuicao-a-vanguarda-arquitetonica-moderna-brasileira-em-meados-do-seculo-20-de-fausto-sombra/%0D%0ABernardes Arquitetura%20%2D%20Lançamento em Belo Horizonte do livro “Três pavilhões de Sérgio Bernardes: contribuição à vanguarda arquitetônica moderna brasileira em meados do século 20” de Fausto Sombra",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/exposicao-projeto-de-sergio-bernardes-para-o-concurso-parc-de-la-vilette-paris-franca-de-1982/%0D%0ABernardes Arquitetura%20%2D%20Exposição – Projeto de Sérgio Bernardes para o Concurso Parc de La Vilette, Paris/França, de 1982.",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/lancamento-livro-tres-pavilhoes-de-sergio-bernardes-contribuicao-a-vanguarda-arquitetonica-moderna-brasileira-em-meados-do-seculo-20-de-fausto-sombra/%0D%0ABernardes Arquitetura%20%2D%20Lançamento em São Paulo do livro “Três pavilhões de Sérgio Bernardes: contribuição à vanguarda arquitetônica moderna brasileira em meados do século 20” de Fausto Sombra",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/cerimonia-premio-sergio-bernardes-asbea-rj-2022/%0D%0ABernardes Arquitetura%20%2D%20Cerimônia – Prêmio Sérgio Bernardes AsBEA/RJ 2022",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/premio-sergio-bernardes-asbea-rj-2022/%0D%0ABernardes Arquitetura%20%2D%20Prêmio Sérgio Bernardes AsBEA/RJ 2022",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/projeto/albuquerque-foundation/%0D%0ABernardes Arquitetura%20%2D%20Albuquerque Foundation",
+        "https://api.whatsapp.com/send?text=https://www.bernardesarq.com.br/projeto/hotel-fasano-angra/%0D%0ABernardes Arquitetura%20%2D%20HOTEL FASANO ANGRA DOS REIS + FRAD.E"
+    ]
+}
+```

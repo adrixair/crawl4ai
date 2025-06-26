@@ -1,0 +1,31 @@
+```json
+{
+    "website": "https://fau.usp.br",
+    "emails": [
+        "cgfau@usp.br",
+        "cpgfausec@usp.br",
+        "cdesign@usp.br",
+        "telmaddias@usp.br",
+        "mjsilva@usp.br",
+        "cocaufau@usp.br"
+    ],
+    "phone_numbers": [
+        "+55 11 3091 4795",
+        "+55 11 2648 1900",
+        "+55 (11) 3091 4686",
+        "+55 (11) 3091 3954",
+        "+55 (11) 3091 4555",
+        "+55 (11) 3091 4549"
+    ],
+    "addresses": [
+        "FAU Cidade Universitária, Rua do Lago, 876 – São Paulo – SP – Brasil",
+        "FAU Maranhão, Rua Maranhão, 88 – São Paulo – SP – Brasil"
+    ],
+    "social_links": [
+        "https://www.instagram.com/fauusp",
+        "https://www.facebook.com/fauusp",
+        "https://twitter.com/FAUUSPoficial",
+        "https://www.youtube.com/channel/UCzoZbh43cgIlxQ88VeYHP1w"
+    ]
+}
+```

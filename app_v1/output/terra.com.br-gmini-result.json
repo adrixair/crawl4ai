@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://www.terra.com.br",
+    "emails": [
+        "dpo.br@telefonica.com"
+    ],
+    "phone_numbers": [
+        "0800 777 1234",
+        "0800 777 9797"
+    ],
+    "addresses": [
+        "Av. Engenheiro Luís Carlos Berrini, 1376 - 13º andar, Cidade Monções - São Paulo - SP - CEP 04571-936",
+        "Avenida Engenheiro Luís Carlos Berrini, 1376 - 14º andar -Cidade Monções - São Paulo – SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send/?phone=5508007771234&text=Quero+saber+mais&type=phone_number&app_absent=0&utm_campaign=menu_usuario&utm_source=portal-terra&utm_content=pg&utm_term=compre-via-whatsapp&cdConvenio=CVTR00002081",
+        "https://twitter.com/Terra",
+        "https://www.facebook.com/TerraBrasil/",
+        "https://www.instagram.com/terrabrasil/?hl=pt-br",
+        "https://wa.me/5508007771234/?text=Quero%20saber%20mais&utm_source=terra&utm_medium=btn_whatsapp&utm_campaign=servicos-terra-com-br-para-voce-terra-mail&utm_content=icone-fixo&utm_term=pag-produto",
+        "https://br.linkedin.com/showcase/terraempresas",
+        "https://www.youtube.com/@terraservicos1818",
+        "http://instagram.com/terrameunegocio",
+        "https://www.facebook.com/terraemeunegocio"
+    ]
+}
+```

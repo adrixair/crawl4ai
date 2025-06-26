@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://repositorio.ufba.br",
+    "emails": ["ufbam@il"],
+    "phone_numbers": [],
+    "addresses": ["Rua Barão de Jeremoabo, s/n, Campus Ondina, Salvador-BA, CEP: 40170-290"],
+    "social_links": [
+        "https://gov.br",
+        "http://www.gov.br/secom/pt-br/acesso-a-informacao/comunicabr",
+        "http://www.gov.br/acessoainformacao/",
+        "https://www.gov.br/pt-br/participacao-social/",
+        "http://www4.planalto.gov.br/legislacao/",
+        "http://www.gov.br/pt-br/orgaos-do-governo",
+        "http://www.gov.br/economia/pt-br/canais_atendimento/ouvidoria/simplifique",
+        "https://gov.br/pt-br/canais-do-executivo-federal",
+        "http://www.vlibras.gov.br",
+        "https://heyzine.com/flip-book/0b407b258b.html#page/1",
+        "http://www.periodicos.capes.gov.br/",
+        "https://www.youtube.com/@TVUFBA",
+        "https://www.facebook.com/ufba.oficial",
+        "https://br.linkedin.com/school/ufba/",
+        "https://www.instagram.com/ufba.oficial"
+    ]
+}
+```

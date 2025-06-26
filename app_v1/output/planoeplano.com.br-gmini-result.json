@@ -1,0 +1,38 @@
+```json
+{
+    "website": "https://www.planoeplano.com.br",
+    "emails": [
+        "vizinho@planoeplano.com.br",
+        "promocao@planoeplano.com.br",
+        "imprensaplanoeplano@bcw-global.com",
+        "sac@apegratis.com.br",
+        "privacidade@planoeplano.com.br",
+        "imprensa@planoeplano.com.br"
+    ],
+    "phone_numbers": [
+        "11 4302-8050",
+        "(11) 95771-8536",
+        "(11) 4095-7500",
+        "(11) 4837-4040"
+    ],
+    "addresses": [
+        "Rua Gerivatiba, 207 - Butantã, São Paulo - SP, 05501-030",
+        "R. Gerivatiba, 207 - Butantã São Paulo - SP, 05501-030",
+        "Rua Cardeal Arcoverde, 2811 - 5º andar - Pinheiros - CEP 05407-004 - São Paulo/SP",
+         "Rua Gerivatiba, 207 – São Paulo, SP, Brasil",
+        "Rua Hermantino Coelho, 336 - Mansões Santo Antônio, Campinas - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/planoeplano/",
+        "https://www.tiktok.com/@planoeplano",
+        "https://www.youtube.com/@PlanoePlano",
+        "https://br.linkedin.com/company/planoeplano",
+        "https://www.facebook.com/construtoraplanoeplano/",
+        "https://br.pinterest.com/planoeplano/",
+        "https://www.youtube.com/channel/UCHTnllKnEtCEmoHAfsXRkXg",
+        "https://open.spotify.com/user/sgcjbqxebgl2ell6lmm4lvmm9?si=U90VyID0Q-CRv8BhjepHZw",
+        "https://www.apegratis.com.br/",
+        "https://vimeo.com/planoeplano"
+    ]
+}
+```

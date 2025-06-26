@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://arkitito.com",
+    "emails": ["contato@arkitito.com"],
+    "phone_numbers": ["+55 (11) 956 500 715"],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/arkitito/",
+        "https://api.whatsapp.com/send?phone=5511956500715&text=Ol%C3%A1,%20vim%20do%20seu%20site!"
+    ]
+}
+```

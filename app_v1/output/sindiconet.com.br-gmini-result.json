@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://sindiconet.com.br",
+    "emails": ["contato@coteibem.com.br"],
+    "phone_numbers": ["+5511941608967"],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/sindiconet",
+        "https://www.facebook.com/sindiconet",
+        "https://www.youtube.com/user/Sindiconet",
+        "https://www.linkedin.com/company/sindiconet",
+        "https://whatsapp.com/channel/0029VaAbXjeBfxnzSD7IIR2y",
+        "https://t.me/joinchat/AAAAAFj8_sboaaQiOmz3Wg",
+        "https://wa.me/5511941608967?text=Oi%2C%20gostaria%20de%20atendimento"
+    ]
+}
+```

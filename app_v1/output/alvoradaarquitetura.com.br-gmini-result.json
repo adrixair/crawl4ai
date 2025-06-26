@@ -1,0 +1,12 @@
+```json
+{
+    "website": "https://www.alvoradaarquitetura.com.br",
+    "emails": ["arquiteturaalvorada@gmail.com"],
+    "phone_numbers": ["(11) 2995-7040"],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551129957040&text=Ol%C3%A1%2C+encontrei+seu+site+na+busca+do+Google+e+gostaria+de+mais+informa%C3%A7%C3%B5es.+&type=phone_number&app_absent=0",
+        "https://www.instagram.com/alvorada.arquitetura/?igshid=MzRlODBiNWFlZA%3D%3D"
+    ]
+}
+```

@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://lopesdias.com.br",
+    "emails": ["atendimento@lopesdias.com.br"],
+    "phone_numbers": [],
+    "addresses": ["Av. Leôncio de Magalhães, 1063, Jardim São Paulo – São Paulo/SP – Brasil"],
+    "social_links": [
+        "https://facebook.com/lopesdiasarquitetura",
+        "https://instagram.com/arqlopesdias",
+        "https://pinterest.com/lopesdiasarquitetura",
+        "https://www.linkedin.com/company-beta/24987602/",
+        "https://youtube.com/c/lopesdiasarquitetura",
+        "https://twitter.com/LopesDiasArq"
+    ]
+}
+```

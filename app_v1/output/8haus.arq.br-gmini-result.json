@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://8haus.arq.br",
+    "emails": ["contato@8haus.arq.br"],
+    "phone_numbers": ["+55 15 98180.7865"],
+    "addresses": ["Rua ARISTIDES CARVALHO 321 SALA 01, Sorocaba, 18085-640, Brasil"],
+    "social_links": [
+        "https://www.instagram.com/arquitetos_8haus/",
+        "https://www.facebook.com/8Haus",
+        "https://www.pinterest.com/8haus_arquitetos/",
+        "https://www.homify.com.br/profissionais/3319830/8-haus",
+        "https://api.whatsapp.com/send?phone=5515981807865"
+    ]
+}
+```

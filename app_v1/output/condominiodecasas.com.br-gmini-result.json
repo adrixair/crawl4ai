@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://condominiodecasas.com.br",
+    "emails": [
+        "oliver@condominiodecasas.com.br",
+        "oliver_lopes@hotmail.com"
+    ],
+    "phone_numbers": [
+        "11 93030-8088"
+    ],
+    "addresses": [
+        "Avenida Professor Fonseca Rodrigues, Alto de Pinheiros, São Paulo, São Paulo, Brasil",
+        "Avenida Professor Fonseca Rodrigues, 05461-010, Alto de Pinheiros, São Paulo, São Paulo, Brasil",
+        "Rua Selma ,  N°: 77, Campo Belo, São Paulo, Brasil"
+    ],
+    "social_links": [
+        "https://www.facebook.com/oliver.serralopes",
+        "https://www.linkedin.com/in/%C3%B3liver-lopes/",
+        "https://www.instagram.com/oliver_lopes/",
+        "https://www.youtube.com/channel/UCSd2lIxJbUpSAODeGFlJb3Q",
+        "https://api.whatsapp.com/send?phone=5511930308088"
+    ]
+}
+```

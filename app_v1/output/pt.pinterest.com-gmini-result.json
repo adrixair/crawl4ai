@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://pt.pinterest.com",
+    "emails": ["press@pinterest.com"],
+    "phone_numbers": [],
+    "addresse": [],
+    "social_links": [
+        "https://www.linkedin.com/showcase/pinterest-for-business/",
+        "https://x.com/pinterestbiz",
+        "https://itunes.apple.com/us/app/pinterest/id429047995",
+        "https://play.google.com/store/apps/details?id=com.pinterest"
+    ]
+}
+```

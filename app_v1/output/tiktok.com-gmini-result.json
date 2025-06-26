@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://www.tiktok.com",
+    "emails": ["tiktokturkey@hs03.kep.tr"],
+    "phone_numbers": [],
+    "addresses": ["1 Raffles Quay, #26-10, South Tower, Singapore 048583", "Esentepe Mah. Harman 1 Sk. Nida Kule Blok No:7-9/26 Şişli İstanbul"],
+    "social_links": [
+        "https://www.facebook.com",
+        "https://www.google.com",
+        "https://www.apple.com"
+    ]
+}
+```

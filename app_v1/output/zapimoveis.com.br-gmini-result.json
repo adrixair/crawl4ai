@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.zapimoveis.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Paulista 1.106 - Bela Vista, São Paulo - SP, 01310-914"
+    ],
+    "social_links": [
+        "https://www.facebook.com/zapimoveis",
+        "https://br.pinterest.com/zapimoveis",
+        "https://x.com/zapimoveis",
+        "https://www.youtube.com/ZAPImoveis",
+        "https://www.instagram.com/zapimoveis",
+        "https://www.facebook.com/oficialzapmais/",
+        "https://twitter.com/zapimoveis",
+        "https://br.pinterest.com/zapimoveis/",
+        "https://www.youtube.com/zapmais",
+        "https://br.linkedin.com/company/zapmais",
+        "https://www.instagram.com/oficialzapmais/"
+    ]
+}
+```
