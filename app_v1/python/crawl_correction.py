@@ -14,6 +14,7 @@ from google.genai.errors import ClientError, ServerError
 # --- Gemini API key rotation ---
 API_KEYS = [
     "AIzaSyABPqpjksAXPTWLpOEGNTKGP8ApGRYk090",  # Adrien
+    "AIzaSyACw763HszxKbP-PtEgf8GElg6BctlwmfE",  # Adrien
 ]
 _current_key_index = 0
 
