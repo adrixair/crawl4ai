@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://idealeempreendimentos.com.br/",
+    "emails": [
+        "ideale@idealeempreendimentos.com.br"
+    ],
+    "phone_numbers": [
+        "11 2692-5337"
+    ],
+    "addresses": [
+        "R. Paraíba, 200 - 101 - Brás - São Paulo - SP, 03013-030",
+        "R. Dr. Antônio Bento, 241 – Santo Amaro São Paulo – SP, 04750-000",
+        "R. Jandáia do Sul, 88 – Vila Guilhermina São Paulo – SP, 03545-020",
+        "R. Cônego Ladeira, 350 – Vila Mazzei São Paulo – SP, 02309-080",
+        "R. Pte. Pensa, 210 – Parada Inglesa São Paulo – SP, 02245-110"
+    ],
+    "social_links": [
+        "https://wa.me/5511947605624?text=Oi,%20estava%20no%20site%20da%20Ideale%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20um%20projeto",
+        "https://clientesideale.megaerp.online/"
+    ]
+}
+```

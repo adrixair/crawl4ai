@@ -1,0 +1,18 @@
+```json
+{
+  "website": "https://www.sp.senac.br",
+  "emails": [],
+  "phone_numbers": [],
+  "addresses": [],
+  "social_links": [
+    "https://www.instagram.com/senacsaopaulo",
+    "https://www.linkedin.com/company/senac/",
+    "https://www.youtube.com/c/senacsaopaulo?sub_confirmation=1",
+    "https://br.pinterest.com/senacsaopaulo",
+    "https://open.spotify.com/show/4v1xvOBCTnqvt6ow1Mt9xV",
+    "https://www.tiktok.com/@senac.sp",
+    "https://www.facebook.com/senacsaopaulo",
+    "http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=senacsaopaulo"
+  ]
+}
+```

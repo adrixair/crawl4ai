@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://maxincorporadora.com.br/",
+    "emails": [
+        "relacionamento@maxincorporadora.com.br"
+    ],
+    "phone_numbers": [
+        "1129914638",
+        "11 94573-8396"
+    ],
+    "addresses": [
+    ],
+    "social_links": [
+        "https://www.facebook.com/Max-Incorporadora-115476614476121",
+        "https://www.instagram.com/maxincorporadora/",
+        "https://www.linkedin.com/company/86307246/admin/",
+        "https://wa.me/5511945738396",
+        "https://api.whatsapp.com/send/?phone=5511945738396&text&type=phone_number&app_absent=0"
+    ]
+}
+```

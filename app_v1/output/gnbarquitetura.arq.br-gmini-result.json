@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.gnbarquitetura.arq.br/",
+    "emails": [
+        "suzana@gnbarquitetura.arq.br"
+    ],
+    "phone_numbers": [
+        "(11) 2479-3973"
+    ],
+    "addresses": [
+        "Dona Margarida Galvão, 255 / Sala 5 - Gopoúva, Guarulhos - SP, 07.051-030"
+    ],
+    "social_links": [
+        "https://www.facebook.com/gnbarquitetura",
+        "https://www.instagram.com/gnb_arquitetura/",
+        "https://api.whatsapp.com/send?phone=551124793973&text=Ol%C3%A1!%20Vim%20do%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es",
+        "https://api.whatsapp.com/send?phone=551124793973&text=Ol%C3%A1%21+Vim+do+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es"
+    ]
+}
+```

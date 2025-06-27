@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://staroperaincorporadora.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "1130468877"
+    ],
+    "addresses": [
+        "Rua Girassol, 285 - 1º andar Vila Madalena - São Paulo/SP CEP 05433-002"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send/?phone=5511971999228",
+        "https://www.instagram.com/staroperaincorporadora/",
+        "https://www.facebook.com/staroperaincorporadora",
+        "https://www.linkedin.com/company/emo%C3%A7%C3%B5es-incorporadora/"
+    ]
+}
+```

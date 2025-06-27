@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://sebrae.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "0800 570 0800"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.youtube.com/user/tvsebrae",
+        "https://www.twitter.com/sebrae",
+        "https://www.linkedin.com/company/sebrae/",
+        "https://www.instagram.com/sebrae/",
+        "https://www.facebook.com/sebrae",
+        "https://api.whatsapp.com/send?phone=5508005700800"
+    ]
+}
+```

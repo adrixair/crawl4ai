@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://buccelliarquitetura.com.br/",
+    "emails": [
+        "adm@buccelliarquitetura.com.br",
+        "projetos@buccelliarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "11 99440-2549"
+    ],
+    "addresse": [
+        "Higienópolis - SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/BuccelliArquitetura/",
+        "https://www.instagram.com/buccelli.arquitetura/",
+        "https://api.whatsapp.com/send?phone=5511994402549&text=Clique%20em%20enviar%20para%20iniciar%20uma%20conversa%20com%20a%20Buccelli%20Arquitetura"
+    ]
+}
+```

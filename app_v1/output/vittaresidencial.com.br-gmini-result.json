@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://vittaresidencial.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "0800 761 7102",
+        "55 16 3878-4700",
+        "55 16 3456-8801"
+    ],
+    "addresse": [
+        "Sede Administrativa - Civitas"
+    ],
+    "social_links": [
+        "https://www.facebook.com/vittaresidencial",
+        "https://www.instagram.com/vittaresidencial",
+        "https://www.linkedin.com/company/vitta-residencial",
+        "https://www.youtube.com/user/vittaresidencial",
+        "https://api.whatsapp.com/send?phone=558007617102"
+    ]
+}
+```

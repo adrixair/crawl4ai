@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://guardinistancati.com/",
+    "emails": [
+        "contato@guardinistancati.com"
+    ],
+    "phone_numbers": [
+        "+55 (19) 3790-2900",
+        "+1 786 397.1718",
+        "+1 786 212.8835"
+    ],
+    "addresses": [
+        "Rua Engenheiro Carlos Stevenson, 892  Nova Campinas - Campinas",
+        "2014 NE 155th Street,  North Miami Beach FL 33162"
+    ],
+    "social_links": [
+        "https://www.facebook.com/guardinistancati/",
+        "https://www.instagram.com/guardinistancati/",
+        "https://www.youtube.com/channel/UC7beY7pF1_9SSVYfOL5Qvsw",
+        "https://api.whatsapp.com/send?phone=551937902900"
+    ]
+}
+```

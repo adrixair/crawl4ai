@@ -1,0 +1,27 @@
+```json
+{
+    "website": "https://www.metro.sp.gov.br",
+    "emails": [],
+    "phone_numbers": [
+        "0800 770 7722",
+        "11 97333-2252",
+        "0800 770 7100",
+        "0800-770-7106"
+    ],
+    "addresses": [
+        "Rua Visconde de Ataíde, 315 – Jardim Textil",
+        "Av. Sapopemba com Rua Caxiúna (altura do nº 2.384)",
+        "Av. Montemagno, 230",
+        "Av. Guilherme Giorgi, 159",
+        "Rua Rodeio, 726",
+        "Av. Ragueb Chohfi nº 4.397 – Jardim Três Marias.",
+        "Rua Bernardino de Campos, 1.351 – Campo Belo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/metrosp/",
+        "https://www.instagram.com/metrospoficial/",
+        "https://www.youtube.com/metrospoficial/",
+        "https://www.x.com/metrosp_oficial/"
+    ]
+}
+```

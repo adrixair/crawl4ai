@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.demincorporadora.com.br/",
+    "emails": [
+        "contato@demincorporadora.com.br"
+    ],
+    "phone_numbers": [
+        "11 99975 4057",
+        "11 3567 3291"
+    ],
+    "addresses": [
+        "Av. Iraí, 393 - Cj. 101\nMoema, São Paulo - SP\nCEP 04082-001"
+    ],
+    "social_links": [
+        "https://www.instagram.com/demincorporadora_/",
+        "https://www.facebook.com/incorporadoradem"
+    ]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://querobolsa.com.br",
+    "emails": [
+        "imprensa@querobolsa.com.br"
+    ],
+    "phone_numbers": [
+        "0800 123 2222"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/QueroBolsa",
+        "https://www.instagram.com/querobolsa",
+        "https://www.twitter.com/QueroBolsa",
+        "https://www.youtube.com/querobolsa",
+        "https://api.whatsapp.com/send?phone=558001232222",
+        "https://www.tiktok.com/@quero.bolsa"
+    ]
+}
+```

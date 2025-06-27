@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.senior.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "0800 513 6700"
+    ],
+    "addresses": [],
+    "social_links": [
+        "http://www.linkedin.com/companies/senior-sistemas",
+        "https://www.instagram.com/seniorsistemas/",
+        "https://www.youtube.com/user/seniorsistemas",
+        "https://www.tiktok.com/@senior.sistemas"
+    ]
+}
+```

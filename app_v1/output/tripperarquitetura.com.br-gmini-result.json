@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.tripperarquitetura.com.br",
+    "emails": [
+        "arquitetura@tripperarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "+55 21 99974-4228",
+        "+55 21 99558-1686"
+    ],
+    "addresses": [
+        "Rua Barão da Torre, 135, Casa 1 - Ipanema, Rio de Janeiro",
+        "CEP 22411-003"
+    ],
+    "social_links": [
+        "https://www.instagram.com/tripperarquitetura/",
+        "https://api.whatsapp.com/send?phone=5521999744228"
+    ]
+}
+```

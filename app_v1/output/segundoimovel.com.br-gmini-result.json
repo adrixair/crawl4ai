@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://segundoimovel.com.br",
+    "emails": [
+        "segundoimovel@gmail.com",
+        "contato@segundoimovel.com.br"
+    ],
+    "phone_numbers": [
+        "11999911163"
+    ],
+    "addresses": [
+        "Rua Pascal, 1353, Campo Belo, São Paulo, SP, Brasil"
+    ],
+    "social_links": [
+        "https://www.youtube.com/channel/UC-hApXcBfdii3Yb1LnCWqeA",
+        "https://www.facebook.com/share.php?u=https://segundoimovel.com.br",
+        "https://twitter.com/share?url=https://segundoimovel.com.br&text=SEGUNDO IMÓVEL",
+        "https://www.linkedin.com/shareArticle?mini=true&url=https://segundoimovel.com.br&title=SEGUNDO IMÓVEL"
+    ]
+}
+```

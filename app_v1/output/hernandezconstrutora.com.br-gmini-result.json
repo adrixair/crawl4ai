@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.hernandezconstrutora.com.br/",
+    "emails": [
+        "vendas@hernandezconstrutora.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 2673-4955"
+    ],
+    "addresses": [
+        "R. Antônio de Barros, 2450 - Conjunto 01  Tatuapé - São Paulo/SP  CEP 03401-001"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Hernandez.Construtora/",
+        "https://www.youtube.com/user/hernandezconstrutora",
+        "https://instagram.com/hernandezconstrutora",
+        "https://api.whatsapp.com/send?phone=5511996445648"
+    ]
+}
+```

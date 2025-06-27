@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.dezembro.arq.br",
+    "emails": [
+        "info@dezembro.arq.br"
+    ],
+    "phone_numbers": [
+        "(11) 94362-8313"
+    ],
+    "addresses": [
+        "R. Artur de Azevedo, 1767 - Conjunto 37 - Pinheiros - São Paulo - SP - 05404-014"
+    ],
+    "social_links": [
+        "https://www.instagram.com/dezembro_arquitetos/",
+        "https://br.linkedin.com/company/dezembro-arquitetos",
+        "https://api.whatsapp.com/send?phone=5511943628313&text=Olá, vim pelo site e quero fazer um orçamento para um Projeto."
+    ]
+}
+```

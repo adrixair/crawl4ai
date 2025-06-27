@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.meuliving.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 4502-3456",
+        "(21) 3578-1300",
+        "(21) 99426-8510"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/MeuLiving",
+        "https://www.instagram.com/livingempreendimentos/",
+        "https://www.youtube.com/user/LivingConstrutora",
+        "https://www.tiktok.com/@livingempreendimentos"
+    ]
+}
+```

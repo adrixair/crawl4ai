@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://loja.editoradialetica.com/",
+    "emails": [
+        "livraria@editoradialetica.com"
+    ],
+    "phone_numbers": [
+        "(11) 4118-6308"
+    ],
+    "addresses": [
+        "Avenida Brigadeiro Faria Lima, 3729 - 5º Andar, São Paulo, SP, 04538-905"
+    ],
+    "social_links": [
+        "http://facebook.com.br/editoradialetica",
+        "http://instagram.com.br/editoradialetica",
+        "https://wa.me/551141186308?text=Ol%C3%A1%20Editora%20Dial%C3%A9tica%20eu%20gostaria%20de%20"
+    ]
+}
+```

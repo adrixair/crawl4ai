@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.jussarajustoarquitetura.com.br/",
+    "emails": [
+        "contato@jussarajustoarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 93355-1410",
+        "(11) 3284-7484"
+    ],
+    "addresses": [
+        "Alameda Itu, 563, Jardins - São Paulo, SP CEP 01421-001"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511933551410&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20site%20e%20gostaria%20de%20come%C3%A7ar%20um%20projeto.",
+        "https://wa.me/5511933551410?text=Ol%C3%A1%2C%20visitei%20o%20seu%20site%20e%20gostaria%20de%20come%C3%A7ar%20um%20projeto.",
+        "https://facebook.com/",
+        "http://instagram.com/"
+    ]
+}
+```

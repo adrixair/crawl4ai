@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.nelsonkon.com.br",
+    "emails": [
+        "contato@nelsonkon.com.br",
+        "loja@nelsonkon.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 917690825"
+    ],
+    "addresses": [
+        "Rua General Jardim 645 / cj 31  \n01223-011 São Paulo SP  \nBrasil"
+    ],
+    "social_links": [
+        "https://www.instagram.com/explore/tags/nelsonkon/"
+    ]
+}
+```

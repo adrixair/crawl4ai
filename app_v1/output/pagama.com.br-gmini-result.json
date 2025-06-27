@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.pagama.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "+55 11 2228.3927"
+    ],
+    "addresses": [
+        "São Paulo SP"
+    ],
+    "social_links": [
+        "http://facebook.com/pagama.arquitetura",
+        "http://instagram.com/pagama_arq",
+        "https://br.pinterest.com/pagama_arq/overview/",
+        "https://ph.linkedin.com/company/pagama-arquitetura?trk=similar-companies_org_title"
+    ]
+}
+```

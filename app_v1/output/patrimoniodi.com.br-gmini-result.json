@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://patrimoniodi.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 2942 4010",
+        "0800-723-1723",
+        "(92) 3343-5909",
+        "86 3305 1102"
+    ],
+    "addresses": [
+        "Rua Ulisses Cruz, 761 Tatuapé, CEP: 03077-000",
+        "Rua Belo Horizonte, Nº 9 - Sala 1203 - The Place Business Center - Adrianópolis - CEP: 69057060"
+    ],
+    "social_links": [
+        "https://www.facebook.com/patrimonioincorporadora/",
+        "https://www.linkedin.com/company/patrimonio-const.-e-empreendimentos-imobili-rios-ltda./",
+        "https://www.instagram.com/patrimoniodi/",
+        "https://www.youtube.com/@patrimoniodesenvolvimentoi2466",
+        "https://wa.me/5511974618796",
+        "https://wa.me/551129426242"
+    ]
+}
+```

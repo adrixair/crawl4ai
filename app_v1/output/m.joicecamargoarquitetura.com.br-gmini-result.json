@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://m.joicecamargoarquitetura.com.br/",
+    "emails": [
+        "contato@joicecamargoarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 97335-9681"
+    ],
+    "addresses": [
+        "Rua Catiguá 159 - sala 703, Tatuapé - SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=11973359681"
+    ]
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://www.superprof.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.linkedin.com/company/superprof",
+        "https://www.facebook.com/superprof",
+        "whatsapp://send?text=Ol%C3%A1%2C%0D%0A%0D%0AVeja%20esse%28a%29%20professor%28a%29%20que%20encontrei%20no%20Superprof.%20%0D%0Ahttps%3A%2F%2Fwww.superprof.com.br%2Faulas-artes-arquitetura-design-interiores-particulares-grupo.html%0D%0A%0D%0ADemais%2C%20n%C3%A3o%20%C3%A9%20mesmo%3F%0D%0A%0D%0ABom%20dia",
+        "?subject=Cette annonce devrait t'intéresser&body=Ol%C3%A1%2C%0D%0A%0D%0AVeja%20esse%28a%29%20professor%28a%29%20que%20encontrei%20no%20Superprof.%20%0D%0Ahttps%3A%2F%2Fwww.superprof.com.br%2Faulas-artes-arquitetura-design-interiores-particulares-grupo.html%0D%0A%0D%0ADemais%2C%20n%C3%A3o%20%C3%A9%20mesmo%3F%0D%0A%0D%0ABom%20dia"
+    ]
+}
+```

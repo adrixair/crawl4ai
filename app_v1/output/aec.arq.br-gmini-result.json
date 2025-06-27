@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://aec.arq.br/",
+    "emails": [
+        "contato@aec.arq.br"
+    ],
+    "phone_numbers": [
+        "(11) 3661-4900",
+        "(11) 99274-0931"
+    ],
+    "addresses": [
+        "Rua Baronesa de Itu, 610 – cj. 82  \nHigienópolis – São Paulo (SP)"
+    ],
+    "social_links": [
+        "https://www.facebook.com/aecarquitetura",
+        "https://www.youtube.com/channel/UCZy3Gfu0FbZYg4D8Ee83yZg",
+        "https://www.instagram.com/aecarquitetura/",
+        "https://br.pinterest.com/aecarquitetura/"
+    ]
+}
+```

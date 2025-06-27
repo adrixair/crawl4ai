@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://corretora.ednarodriguez.com.br",
+    "emails": [
+        "corretora@ednarodriguez.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 95104-1826"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/colombianaconsultoradeimoveis?igsh=MWRtaDc2cXJiZXk1cw==",
+        "http://wa.me/5511951041826",
+        "https://www.instagram.com/colombianaconsultoradeimoveis?igsh=N3o0M245NHIyMm83",
+        "https://api.whatsapp.com/send?phone=5511951041826&text=Olá, meu nome é: %0AGostaria mais informação sobre o lançamento (indique com o número correspondente) da Lavvi:%0A1. Heaven%0A2. LeSix%0A3. Soleil%0A4. Outros%0A",
+        "https://api.whatsapp.com/send?phone=5511946441200&text=Olá, meu nome é: %0AGostaria mais informação sobre o lançamento (indique com o número correspondente) da Lavvi:%0A1. Heaven%0A2. LeSix%0A3. Soleil%0A4. Outros%0A",
+        "https://api.whatsapp.com/send?phone=5511951641797&text=Olá, meu nome é: %0AGostaria mais informação sobre o lançamento (indique com o número correspondente) da Lavvi:%0A1. Heaven%0A2. LeSix%0A3. Soleil%0A4. Outros%0A"
+    ]
+}
+```

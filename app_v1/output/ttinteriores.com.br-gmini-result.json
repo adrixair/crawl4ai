@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.ttinteriores.com.br/",
+    "emails": [
+        "contato@ttinteriores.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 99021‑7996"
+    ],
+    "addresses": [
+        "Av. Francisco Matarazzo, 1752\nCj 2509\nSão Paulo \n05001-200"
+    ],
+    "social_links": [
+        "https://wa.me/+5511990217996",
+        "https://www.instagram.com/tt_interiores",
+        "https://www.facebook.com/ttinteriores"
+    ]
+}
+```

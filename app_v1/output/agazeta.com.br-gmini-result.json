@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.agazeta.com.br/",
+    "emails": [
+        "vzagoto@redegazeta.com.br",
+        "assinatura@agazeta.com.br"
+    ],
+    "phone_numbers": [
+        "(27) 3321-8699"
+    ],
+    "addresses": [
+        "Rua Chafic Murad, 902, Monte Belo, Vitória/ES"
+    ],
+    "social_links": [
+        "https://www.facebook.com/agazetaes/",
+        "https://twitter.com/agazetaes/",
+        "https://www.instagram.com/agazetaes/",
+        "https://www.linkedin.com/company/rede-gazeta/",
+        "https://leia.ag/whatsapp",
+        "https://negocios.redegazeta.com.br/",
+        "https://agazeta.zendesk.com/hc/pt-br"
+    ]
+}
+```

@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.tarjab.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "+55(11) 3181-6082"
+    ],
+    "addresses": [
+        "R. Ibirajá, 244  Vila Guarani - São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/tarjabincorporadora/",
+        "https://www.facebook.com/tarjab.construtora/",
+        "https://www.youtube.com/channel/UCKMRQx8Qllqq3FrXi5_UUIw",
+        "https://www.linkedin.com/company/construtora-tarjab-ltda-/"
+    ]
+}
+```

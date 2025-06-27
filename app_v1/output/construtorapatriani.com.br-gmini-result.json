@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.construtorapatriani.com.br",
+    "emails": [
+        "privacidade@construtorapatriani.com.br"
+    ],
+    "phone_numbers": [
+        "4000-1556",
+        "4000-1557"
+    ],
+    "addresses": [
+        "Av. Padre Manuel da Nóbrega, 385 Bairro Jardim, Santo André – SP 09080-140"
+    ],
+    "social_links": [
+        "https://www.facebook.com/ConstrutoraPatriani",
+        "https://www.instagram.com/construtorapatriani",
+        "https://www.linkedin.com/company/construtorapatriani",
+        "https://www.youtube.com/channel/UCKbqhrMb_Wf_0EcHQyDtGXg",
+        "https://www.tiktok.com/@construtorapatriani",
+        "https://br.pinterest.com/construtorapatriani",
+        "https://api.whatsapp.com/send?phone=5511976731715&text=Ol%C3%A1%2C%20visitei%20o%20site%20da%20PATRIANI%20e%20quero%20informa%C3%A7%C3%B5es%20sobre%20um%20empreendimento."
+    ]
+}
+```

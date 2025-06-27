@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://andrademelloarquitetura.com.br/",
+    "emails": [
+        "contato@andrademello.com.br"
+    ],
+    "phone_numbers": [
+        "2309 4208",
+        "2309 4198"
+    ],
+    "addresses": [
+        "Av. Sena Madureira, 151 | Vila Clementino | Conjunto 106"
+    ],
+    "social_links": [
+        "https://www.facebook.com/andradeemelloarquitetura/",
+        "https://www.instagram.com/ondeafamiliaacontece/",
+        "https://br.pinterest.com/andrademelloarq/?eq=andrade%20mello&etslf=9293",
+        "https://www.youtube.com/channel/UC5zPziACcIfLzoRU3gmpqJw/videos"
+    ]
+}
+```

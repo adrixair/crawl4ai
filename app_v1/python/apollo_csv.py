@@ -1,7 +1,7 @@
 import os
 import json
 import csv
-from google import genai
+import google.generativeai as genai
 import time
 from google.genai.errors import ServerError
 import datetime
@@ -15,14 +15,10 @@ import googlemaps
 MAPS_API_KEY = "AIzaSyC7c1m_Jyz3uw6lbIQUNuH3e6o0NKc_8hk"
 # Client Google Maps
 gmaps_client = googlemaps.Client(key=MAPS_API_KEY)
-
-# Liste de clés API Gemini
+model = genai.GenerativeModel("gemini-2.0-flash")
+# --- Gemini API key rotation ---
 API_KEYS = [
-    "AIzaSyDPKtNEHkYLTxyro_sChX4DkaO3c4U4l9o",
-    "AIzaSyAl_bK7SZR2-TZXHiJi8X7v-6cNnaMev-Y",
-    "AIzaSyABPqpjksAXPTWLpOEGNTKGP8ApGRYk090",
-    "AIzaSyBKym2yV21Pe0XOw_HziG02r8AN0uXjFLY",
-    "AIzaSyAjRWfrypGrgLZqLaXh97z5s8Ryiht6rgY",
+    "AIzaSyABPqpjksAXPTWLpOEGNTKGP8ApGRYk090",  # Adrien
 ]
 _current_key_index = 0
 
@@ -31,12 +27,6 @@ def next_key():
     global _current_key_index
     _current_key_index = (_current_key_index + 1) % len(API_KEYS)
     return API_KEYS[_current_key_index]
-
-def get_client():
-    """Retourne un client genai en utilisant la clé API courante."""
-    global _current_key_index
-    key = API_KEYS[_current_key_index]
-    return genai.Client(api_key=key)
 
 def strip_json_fences(text):
     """Remove surrounding Markdown JSON code fences if present."""
@@ -153,10 +143,10 @@ def load_and_extract(filepath):
     retry_delay = 5
     enriched = None
     while True:
-        client = get_client()
         try:
-            response = client.models.generate_content(
-                model="gemini-2.0-flash",
+            genai.configure(api_key=API_KEYS[_current_key_index])
+            model = genai.GenerativeModel("gemini-2.0-flash")
+            response = model.generate_content(
                 contents=prompt
             )
             print(f"Debug: Gemini response text for {filepath}: {response.text}")
@@ -179,9 +169,17 @@ def load_and_extract(filepath):
 
     website = enriched.get("website", "")
     emails = enriched.get("contact_email", "")
+    if isinstance(emails, list):
+        emails = " | ".join(emails)
+
     phones = enriched.get("contact_phone", "")
-    address_dict = enriched.get("address", {})
+    if isinstance(phones, list):
+        phones = " | ".join(phones)
+
+    address_dict = enriched.get("address", "")
     social_links = enriched.get("social_links", [])
+    if isinstance(social_links, list):
+        social_links = " | ".join(social_links)
 
     street, city, state, country, postal_code = parse_address(address_dict)
 
@@ -195,7 +193,7 @@ def load_and_extract(filepath):
         "contact_place_state": state,
         "contact_place_country": country,
         "contact_place_postal_code": postal_code,
-        "social_links": " | ".join(social_links) if isinstance(social_links, list) else social_links
+        "social_links": social_links
     }
 
 def batch_process(limit=None):
@@ -236,7 +234,7 @@ def batch_process(limit=None):
             
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process Gemini JSON outputs into a CSV.")
-    parser.add_argument("--limit", type=int, default=10,
+    parser.add_argument("--limit", type=int, default=None,
                         help="Maximum number of JSON files to process (default: all).")
     args = parser.parse_args()
     batch_process(limit=args.limit)

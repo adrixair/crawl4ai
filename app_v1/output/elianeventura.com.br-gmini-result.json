@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://elianeventura.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 2274-5595",
+        "(11) 91681-5577"
+    ],
+    "addresses": [
+        "Rua Guinle, 377\nVila Monumento\nSão Paulo, SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/elianeventuraarquitetura/",
+        "https://br.pinterest.com/arqelianeventura/",
+        "https://www.youtube.com/channel/UCzoFHZIiZRXszKYkGDwSmgQ",
+        "https://api.whatsapp.com/send?phone=5511916815577&text=Ol%C3%A1!%20Quero%20%22Contratar%20o%20Escrit%C3%B3rio%22.%20%20",
+        "https://api.whatsapp.com/send?phone=5511916815577&text=Ol%C3%A1!%20Quero%20%22Ser%20um%20Fornecedor%22.%20%20",
+        "https://api.whatsapp.com/send?phone=5511916815577&text=Ol%C3%A1!%20Quero%20%22Enviar%20um%20Curr%C3%ADculo%22.",
+        "https://g.page/elianeventuraarquiteta?share"
+    ]
+}
+```

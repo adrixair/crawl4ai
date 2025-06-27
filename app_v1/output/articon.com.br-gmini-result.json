@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.articon.com.br/",
+    "emails": [
+        "articon@articon.com.br",
+        "comercial@articon.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 2979-4000",
+        "+55 11 97622-7571"
+    ],
+    "addresses": [
+        "Rua Ezequiel Freire, Nº 192, Conj.: 1507, Santana,\nSão Paulo - SP. \nCEP: 02034-000.",
+        "Rua Ezequiel Freire, nº 192  \nConj.: 1507 - Santana,  \nSão Paulo - SP.  \nCep: 02034-000"
+    ],
+    "social_links": [
+        "http://www.linkedin.com/company/articonincorporadora",
+        "http://www.instagram.com/articonoficial",
+        "http://www.facebook.com/articonoficial",
+        "https://www.youtube.com/@articoninc.4333"
+    ]
+}
+```

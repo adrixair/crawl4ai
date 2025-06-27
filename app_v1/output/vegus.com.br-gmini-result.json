@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://vegus.com.br",
+    "emails": [
+        "contato@vegus.com.br",
+        "vendas.contato@vegus.com.br"
+    ],
+    "phone_numbers": [
+        "11 5908-7444",
+        "(11) 5908-7420"
+    ],
+    "addresse": [
+        "Rua Estela, 515, Bloco F – 12º Andar  \nVila Mariana  \nSão Paulo – SP 04011-002"
+    ],
+    "social_links": [
+        "https://www.facebook.com/VegusConstrutora",
+        "http://instagram.com/vegus",
+        "http://www.youtube.com/tvvegus",
+        "http://www.pinterest.com/vegusconstrutor",
+        "https://api.whatsapp.com/send/?phone=551159087420&text=Ol%C3%A1+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+produtos+Vegus.+[SITE]&app_absent=0",
+        "https://api.whatsapp.com/send?phone=551159087420&text=Ol%C3%A1+quero+saber+mais+sobre+os+empreendimentos+Vegus!+[SITE]"
+    ]
+}
+```

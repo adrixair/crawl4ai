@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://renatosouzaarquitetura.com.br/",
+    "emails": [
+        "contato@renatosouzaarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "15 | 3034-2527",
+        "15 | 9 9640-4091"
+    ],
+    "addresses": [
+        "Rua Avelino Agnello Rosa, 60 - Pq. Campolim, Sorocaba - SP, 18047-642"
+    ],
+    "social_links": [
+        "https://www.instagram.com/renatosouzaarquitetura/",
+        "https://www.facebook.com/renatosouzaarquiteturaeinteriores/",
+        "https://www.youtube.com/channel/UC9IKUtmQMqkxOGFFYUNeBMQ",
+        "https://api.whatsapp.com/send?phone=5515996404091&text=Ol%C3%A1%2C%20tudo%20bem%3F%20Vim%20pelo%20site%20http%3A%2F%2Frenatosouzaarquitetura.com.br%20.Pode%20me%20ajudar%3F"
+    ]
+}
+```

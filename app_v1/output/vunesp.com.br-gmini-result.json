@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.vunesp.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 3874-6300",
+        "+55113874-6300"
+    ],
+    "addresses": [
+        "Rua Dona Germaine Burchard, 515  \nÁgua Branca - São Paulo SP  \nCEP: 05002-062"
+    ],
+    "social_links": [
+        "https://pt-br.facebook.com/Funda%C3%A7%C3%A3o-Vunesp-166983440032673/",
+        "https://twitter.com/vunesp",
+        "https://www.instagram.com/vunesp/",
+        "https://huggy.io/pt-br/huggy-chat/?utm_source=huggy-chat&utm_medium=2150&utm_campaign=www.vunesp.com.br"
+    ]
+}
+```

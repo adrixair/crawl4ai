@@ -1,0 +1,23 @@
+```json
+{
+  "website": "https://www.rfm.com.br/",
+  "emails": [
+    "sac@rfm.com.br",
+    "relacionamento@rfm.com.br"
+  ],
+  "phone_numbers": [
+    "+55 11 2132 8900",
+    "551121328900"
+  ],
+  "addresses": [
+    "Rua Ramos Batista, 444 12º andar Vila Olímpia, São Paulo - SP, Brasil 04552-020"
+  ],
+  "social_links": [
+    "https://www.instagram.com/rfmincorporadora/",
+    "https://www.linkedin.com/company/rfm-incorporadora",
+    "https://www.facebook.com/profile.php?id=100086516718564",
+    "https://www.youtube.com/@rfmincorporadora1842",
+    "https://wa.me/5511932232546?text="
+  ]
+}
+```

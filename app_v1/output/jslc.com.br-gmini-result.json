@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://jslc.com.br/",
+    "emails": [
+        "contato@jslc.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 4427-9989",
+        "(11) 9 8553-0192"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/jslc_incorporadora/"
+    ]
+}
+```

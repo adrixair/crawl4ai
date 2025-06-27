@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://dseven7.com.br/",
+    "emails": [
+        "faleconosco@dseven7.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 2737-1007"
+    ],
+    "addresses": [
+        "R. Irmãos Leme, 81 - Tatuapé, São Paulo - SP, 03313-030"
+    ],
+    "social_links": [
+        "https://www.instagram.com/_dseven7",
+        "https://www.facebook.com/dseven7empreendimentosimobiliarios/",
+        "https://br.linkedin.com/company/dseven7-empreendimentos-imobili%C3%A1rios",
+        "https://www.youtube.com/@Dseven7EmpreendimentosImobilia",
+        "http://wa.me/551127371007",
+        "https://api.whatsapp.com/send?phone=551127371007"
+    ]
+}
+```

@@ -1,0 +1,26 @@
+```json
+{
+    "website": "https://absolutaconstrutora.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "5511950010736"
+    ],
+    "addresses": [
+        "Rua do Cruzeiro nº 98, Vila Duzzi, São Bernardo do Campo, São Paulo, 09725-310",
+        "Avenida Kennedy, 27",
+        "Rua Taubaté, 77",
+        "Avenida 11 de Agosto, 222",
+        "Rua Cristiano Angeli, 2100",
+        "R. José Monteiro Filho, 166 - Centro, São Bernardo do Campo - SP, 09750-140",
+        "Av. Senador Vergueiro, 1440 - Rudge Ramos, São Bernardo do Campo - SP, 09750-001",
+        "R. Eugênio Aronchi, 102",
+        "R. Continental, 561 - Jardim do Mar, São Bernardo do Campo - SP, 09726-410"
+    ],
+    "social_links": [
+        "https://www.facebook.com/absolutaconstrutoraeincorporadora",
+        "https://www.instagram.com/absolutaconstrutora/",
+        "https://www.youtube.com/channel/UCKI21j_Q_Vo-w99oaQQlvfQ",
+        "https://api.whatsapp.com/send?phone=5511950010736"
+    ]
+}
+```

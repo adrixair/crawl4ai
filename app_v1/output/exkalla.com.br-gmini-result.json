@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://exkalla.com.br/",
+    "emails": [
+        "contato@exkalla.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 94058-7953",
+        "(11) 96590-3438",
+        "(11) 99747-9354"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/exkalla",
+        "https://www.instagram.com/exkalla/",
+        "https://www.linkedin.com/company/exkalla/?originalSubdomain=br",
+        "https://www.youtube.com/channel/UCYsksONLlSshb6oo5PTC_oA",
+        "https://wa.me/5511940587953",
+        "https://wa.me/5511965903438",
+        "https://wa.me/5511997479354"
+    ]
+}
+```

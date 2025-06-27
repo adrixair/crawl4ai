@@ -6,17 +6,12 @@ import json
 import traceback
 
 import time
-from google import genai
+import google.generativeai as genai
 from google.genai.errors import ClientError, ServerError
 
 # --- Gemini API key rotation ---
 API_KEYS = [
-    "AIzaSyDPKtNEHkYLTxyro_sChX4DkaO3c4U4l9o",
-    "AIzaSyAl_bK7SZR2-TZXHiJi8X7v-6cNnaMev-Y",
-    "AIzaSyABPqpjksAXPTWLpOEGNTKGP8ApGRYk090",
-    "AIzaSyBKym2yV21Pe0XOw_HziG02r8AN0uXjFLY",
-    "AIzaSyAjRWfrypGrgLZqLaXh97z5s8Ryiht6rgY",
-    "AIzaSyBrhIctdOK8mRwTUIp3OE05NuaBtD6cgVI",
+    "AIzaSyDqNHrjuRSFDyqym52Q29cChjnzHAAGsk0", #Adrien
 ]
 _current_key_index = 0
 
@@ -25,9 +20,6 @@ def next_key():
     _current_key_index = (_current_key_index + 1) % len(API_KEYS)
     return API_KEYS[_current_key_index]
 
-def get_client():
-    """Return a genai client using the current API key."""
-    return genai.Client(api_key=API_KEYS[_current_key_index])
 
 
 from main import main  # Importer la fonction main depuis le fichier main.py
@@ -84,10 +76,13 @@ Exemple de structure JSON attendue :
 async def process_site(url: str) -> None:
     """Crawl a single URL, save its Markdown and Gemini JSON, nothing else."""
     print(f"\n=== Crawl : {url} ===")
+    if url in no_results_sites:
+        print(f"🚫 {url} est listé dans no_results_sites, skipping.")
+        return
 
     # Skip banned domains
     banned_domains = (
-        "instagram.com",
+        "instagram.com",'H'
         "twitter.com",
         "facebook.com",
         "reddit.com",
@@ -131,9 +126,11 @@ async def process_site(url: str) -> None:
             # Rotate through keys until one succeeds
             for attempt in range(len(API_KEYS)):
                 try:
-                    # Ensure gminimarkdown uses the current key
-                    gminimarkdown.client = get_client()
-                    gmini_result = gminimarkdown(prompt_template, url, markdown_content)
+                    # Ensure genai uses the current key
+                    genai.configure(api_key=API_KEYS[_current_key_index])
+                    from google.generativeai import GenerativeModel
+                    model = genai.GenerativeModel("gemini-2.0-flash-lite")
+                    gmini_result = gminimarkdown(prompt_template, url, markdown_content, model)
                     output_json_path.write_text(gmini_result or "")
                     print(f"→ Résultat Gemini enregistré dans {output_json_path}")
                     break

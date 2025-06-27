@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://conx.com.br/",
+    "emails": [
+        "relacionamento.conx@conx.com.br"
+    ],
+    "phone_numbers": [
+        "11 5555-5290"
+    ],
+    "addresses": [
+        "R. Funchal, 375 - 12º andar   \nVila Olímpia - 04551-060   \nSão Paulo, SP"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/conx-construtora-e-incorporadora/",
+        "https://www.instagram.com/conxincorporadora/",
+        "https://www.facebook.com/conxoficial",
+        "https://twitter.com/conxincorporadora",
+        "https://www.youtube.com/user/conxconstrutora",
+        "https://wa.me/551155555290",
+        "https://br.pinterest.com/conxincorporadora/",
+        "https://www.tiktok.com/@conxincorporadora"
+    ]
+}
+```

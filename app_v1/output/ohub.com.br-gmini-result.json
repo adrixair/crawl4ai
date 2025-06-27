@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.ohub.com.br",
+    "emails": [
+        "atendimento@ohub.com.br"
+    ],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. das Nações Unidas 14.261 - 25º andar - Ala B, Chácara Santo Antonio, 04794-000, São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/ohub-b2b",
+        "https://www.facebook.com/oHub.B2B/",
+        "https://twitter.com/oHubB2B"
+    ]
+}
+```

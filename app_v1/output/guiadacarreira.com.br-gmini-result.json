@@ -1,0 +1,13 @@
+```json
+{
+    "website": "https://www.guiadacarreira.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "0800 942 7777"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=558009427777"
+    ]
+}
+```

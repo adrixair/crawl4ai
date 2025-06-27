@@ -1,0 +1,18 @@
+```json
+{
+  "website": "https://www.threedi.com.br/",
+  "emails": [
+    "contato@threedi.com.br"
+  ],
+  "phone_numbers": [
+    "+55 (11) 3078-3767"
+  ],
+  "addresses": [
+    "Rua Pedroso Alvarenga 691,  Cj. 905   Itaim Bibi – CEP 04531-011  São Paulo – SP"
+  ],
+  "social_links": [
+    "https://www.instagram.com/threedi.com.br/",
+    "https://wa.me/5511917377621?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20portf%C3%B3lio%20da%20Three."
+  ]
+}
+```

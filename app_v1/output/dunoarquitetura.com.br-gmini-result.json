@@ -1,0 +1,21 @@
+```json
+{
+    "website": "http://dunoarquitetura.com.br/",
+    "emails": [
+        "contato@dunoarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 94450-7805",
+        "(11) 94391-9505"
+    ],
+    "addresses": [
+        "Av. Rouxinol 1041 CJ 1208 / Moema / SP 04516-001"
+    ],
+    "social_links": [
+        "https://www.instagram.com/duno.arq/",
+        "https://www.linkedin.com/company/duno-arquitetura-interiores/",
+        "https://api.whatsapp.com/send?phone=5511943919505",
+        "https://api.whatsapp.com/send?phone=5511944507805"
+    ]
+}
+```

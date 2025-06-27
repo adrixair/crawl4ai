@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://daalarquitetura.com.br/",
+    "emails": [
+        "contato@daalarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "(13) 3301-0117"
+    ],
+    "addresses": [
+        "Rua Guaiaó, 66, Sala 1811 - CEP 11035-260. Santos/São Paulo - Brasil"
+    ],
+    "social_links": [
+        "https://www.facebook.com/daalarquitetura",
+        "https://www.instagram.com/daalarquitetura/",
+        "https://web.whatsapp.com/send?phone=551333010117&text=Ol%C3%A1%2C+acessei+o+site+Daal+Arquitetura+e+tenho+uma+d%C3%BAvida.",
+        "https://www.youtu.be/rV9gci4BfwE"
+    ]
+}
+```

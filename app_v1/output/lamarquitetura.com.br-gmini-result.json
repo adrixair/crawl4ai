@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.lamarquitetura.com.br/",
+    "emails": [
+        "contato@lamarquiteturainteriores.com.br"
+    ],
+    "phone_numbers": [
+        "11 2726.5452",
+        "11 94758.5620",
+        "11 94758.5622"
+    ],
+    "addresses": [
+        "Rua Azevedo Soares, 1040 - Conj. 58\n  \n  Tatuapé - São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/lam_arquitetura_interiores/",
+        "https://m.facebook.com/LamArquitetura/",
+        "https://br.pinterest.com/lamarquitetura/?invite_code=110e0d0842bf43e4ac66cd8b79036271&sender=7881505506383199",
+        "https://api.whatsapp.com/send?phone=5511947585622"
+    ]
+}
+```

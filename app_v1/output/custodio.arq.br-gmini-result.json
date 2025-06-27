@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://custodio.arq.br",
+    "emails": [
+        "contato@custodio.arq.br"
+    ],
+    "phone_numbers": [
+        "+55 21 3549-1204",
+        "+55 11 5182-6361"
+    ],
+    "addresses": [
+        "Praia de Botafogo, 440 – 22º andar – Rio de Janeiro/RJ",
+        "Av das Nações Unidas 14401 – Torre Tarumã Sala 1911 – São Paulo/SP",
+        "Av das Nações Unidas 14401 - Torre  Tarumã Sala 1007 – São Paulo/SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/custodiosolucoes/?hl=pt",
+        "https://wa.me/552135491204",
+        "https://wa.me/551151826361"
+    ]
+}
+```

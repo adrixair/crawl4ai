@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.marearquitetura.com.br/",
+    "emails": [
+        "mare@marearquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "11 98605-3927"
+    ],
+    "addresses": [
+        "Rua Marquês de Itu, 306 - Santa Cecília, São Paulo, SP"
+    ],
+    "social_links": [
+        "http://www.instagram.com/_marearq/",
+        "https://www.facebook.com/marearqui",
+        "https://br.pinterest.com/mare_arquitetura",
+        "https://www.linkedin.com/company/mare-arquitetura/",
+        "https://api.whatsapp.com/send/?phone=5511986053927",
+        "https://wa.me/5511986053927?text"
+    ]
+}
+```

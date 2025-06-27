@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.casa2arquitetos.com.br/",
+    "emails": [
+        "contato@casa2arquitetos.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 98244-1370",
+        "(11) 99931-0961"
+    ],
+    "addresses": [
+        "Rua Padre Chico, 221 conj. 219\nPerdizes, São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/casa2arquitetos/",
+        "https://br.pinterest.com/casa2arquitetos/",
+        "https://api.whatsapp.com/send?phone=5511942038300&text=Ol%C3%A1%2C%20Casa%202%20Arquitetos%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es..",
+        "https://api.whatsapp.com/send?phone=5511942038300&text=Ol%C3%A1%2C%20Casa%202%20Arquitetos%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es",
+        "https://wa.link/4h4p43",
+        "(11) 94203-8300"
+    ]
+}
+```

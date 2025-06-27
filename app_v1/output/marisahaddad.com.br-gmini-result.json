@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://marisahaddad.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 3714 5869",
+        "(11) 3768 7162"
+    ],
+    "addresses": [
+        "Av. Dr. Cândido Mota Filho, 102  \nVila São Francisco - São Paulo - SP"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511999474953",
+        "https://br.linkedin.com/in/marisa-haddad-02264962",
+        "https://www.facebook.com/arquiteta.marisa.haddad/",
+        "https://www.instagram.com/marisahaddadarquitetura/",
+        "https://br.pinterest.com/marisahaddad/"
+    ]
+}
+```

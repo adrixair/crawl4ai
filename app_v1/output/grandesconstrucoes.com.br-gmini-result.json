@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://grandesconstrucoes.com.br",
+    "emails": [
+        "marcelo@sobratema.org.br",
+        "melina@sobratema.org.br",
+        "sobratema@sobratema.org.br"
+    ],
+    "phone_numbers": [
+        "+55 11 3662-4159"
+    ],
+    "addresses": [
+        "Av. Francisco Matarazzo, 404 Cj. 701/703 Água Branca - CEP 05001-000 São Paulo/SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/revista_gc/?hl=pt-br",
+        "https://www.facebook.com/RevistaGC1",
+        "https://twitter.com/revistagc1",
+        "https://www.youtube.com/sobratema"
+    ]
+}
+```

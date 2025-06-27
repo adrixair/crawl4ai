@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.officeconnection.com.br/",
+    "emails": [
+        "gustavo@ralestrategia.com.br"
+    ],
+    "phone_numbers": [
+        "+55-11983850223"
+    ],
+    "addresses": [
+        "Rua Irmã Gabriela, 51 - Cidade Monções, São Paulo - SP, Brasil"
+    ],
+    "social_links": [
+        "https://www.instagram.com/officeconnection/",
+        "https://br.linkedin.com/company/office-connection-arquitetura-corporativa",
+        "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.officeconnection.com.br%2F",
+        "https://www.youtube.com/channel/UCD3OkyKhY0UUn9zvauNAihw"
+    ]
+}
+```

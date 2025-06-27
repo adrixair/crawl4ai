@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.spazioarquitetura.com.br/",
+    "emails": [
+        "atendimento@spazioarquitetura.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 5055 3871",
+        "1150553871"
+    ],
+    "addresses": [
+        "Av. Rouxinol, 1041 - 17° andar - cj. 1702 - Moema - São Paulo - CEP: 04516-001"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Spazio-Arquitetura-e-Design-141025306067275/",
+        "https://www.instagram.com/spazioarquitetura/"
+    ]
+}
+```

@@ -1,0 +1,20 @@
+```json
+{
+  "website": "https://www.arqtab.com.br",
+  "emails": [
+    "ola@arqtab.com.br"
+  ],
+  "phone_numbers": [
+    "+55 11 91112-0079"
+  ],
+  "addresses": [
+    "Avenida Ibirapuera, 2033 - Sala 81\nMoema - São Paulo, SP"
+  ],
+  "social_links": [
+    "https://www.instagram.com/arq.tab/?hl=pt-br",
+    "https://www.facebook.com/aarqtab/",
+    "https://www.linkedin.com/company/arqtab-arquitetura-e-design/",
+    "https://www.youtube.com/channel/UCNaVVnt0WyW_MmSUcXgMsgw"
+  ]
+}
+```

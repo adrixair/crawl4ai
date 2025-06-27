@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://idaliadaudt.com.br",
+    "emails": [
+        "contato@idaliadaudt.com.br",
+        "idaudt@idaliadaudt.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 3873-3308",
+        "+55 11 99905-5730"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/idalia.daudt",
+        "https://instagram.com/idaliamariadaudt",
+        "https://api.whatsapp.com/send?phone=5511999055730",
+        "https://wa.me/5511999055730"
+    ]
+}
+```

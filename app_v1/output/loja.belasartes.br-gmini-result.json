@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://loja.belasartes.br",
+    "emails": [
+        "cursoslivres@belasartes.br"
+    ],
+    "phone_numbers": [
+        "(11) 4003-3787"
+    ],
+    "addresses": [
+        "Rua Estela, 64 – SP",
+        "Rua Dr. Alvaro Alvim, 90 – SP",
+        "Av. Magalhães de Castro, 12.000 – SP",
+        "Av. Gisele Constantino, nº1850 – Iguatemi   Business, Votorantim-SP"
+    ],
+    "social_links": [
+        "https://br.linkedin.com/school/belasartessp/",
+        "https://www.facebook.com/belasartes",
+        "https://www.twitter.com/belasartes",
+        "https://www.instagram.com/belasartes",
+        "https://www.tiktok.com/@timebelasartes",
+        "https://api.whatsapp.com/send?phone=551140033787"
+    ]
+}
+```

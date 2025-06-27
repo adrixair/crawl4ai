@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.marcelarocca.com.br/",
+    "emails": [
+        "marcelaroccainteriores@gmail.com",
+        "contato@marcelarocca.com.br"
+    ],
+    "phone_numbers": [
+        "+55(11) 99617-8941",
+        "11996178941"
+    ],
+    "addresses": [
+        "Avenida Paulista , 1471, (Conj. 511 CP 2804), Bella Vista, São Paulo, SP, 01311-927",
+        "São Paulo/SP."
+    ],
+    "social_links": [
+        "https://www.youtube.com/channel/UCQavkCsMuqF5Tii7p2_RMCQ?view_as=subscriber",
+        "https://www.facebook.com/marcelaroccainteriores/",
+        "https://www.instagram.com/marcelaroccainteriores/",
+        "https://wa.me/5511996178941",
+        "https://web.whatsapp.com/send?phone=5511996178941"
+    ]
+}
+```

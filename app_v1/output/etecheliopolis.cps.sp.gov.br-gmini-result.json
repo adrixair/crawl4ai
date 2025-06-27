@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://etecheliopolis.cps.sp.gov.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 2083 -2727"
+    ],
+    "addresses": [
+        "Estrada das Lágrimas, 2461 - Bairro São João Clímaco - Heliópolis - São Paulo/SP - CEP: 04232-000"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Etechelipa/",
+        "https://www.instagram.com/etecheliopolis_oficial/",
+        "https://api.whatsapp.com/send?phone=1120832727"
+    ]
+}
+```

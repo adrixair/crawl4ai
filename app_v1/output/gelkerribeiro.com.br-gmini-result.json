@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://gelkerribeiro.com.br",
+    "emails": [
+        "gelkerribeiro@gmail.com"
+    ],
+    "phone_numbers": [
+        "21 979449-6666",
+        "21 98756-6070"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/GelkerRibeiroArquiteto",
+        "https://www.instagram.com/arquiteto.gelker.ribeiro/",
+        "https://www.youtube.com/@arquiteto.gelker.ribeiro",
+        "https://wa.me/+5521979496666",
+        "https://api.whatsapp.com/send?phone=5521987566070&text=Ol%C3%A1%20gostaria%20da%20ajuda%20do%20Arquiteto%20Vi%20Seus%20Projetos%20no%20site%20gelkerribeiro.com.br"
+    ]
+}
+```

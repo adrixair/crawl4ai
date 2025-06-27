@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://primearquitetura.com",
+    "emails": [],
+    "phone_numbers": [
+        "(15) 3033-1183"
+    ],
+    "addresses": [
+        "Av. Eng Carlos Reinaldo Mendes, 3200 - 4º Andar",
+        "CEP: 18013-280",
+        "Alto da Boa Vista, Sorocaba, São Paulo"
+    ],
+    "social_links": [
+        "https://www.instagram.com/prime.arquitetura/?hl=pt-br",
+        "https://www.facebook.com/prime.arquitetura.sorocaba",
+        "https://www.youtube.com/@PrimeArquiteturaSorocaba"
+    ]
+}
+```

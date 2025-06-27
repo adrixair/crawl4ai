@@ -1,0 +1,15 @@
+```json
+{
+    "website": "https://www.reclameaqui.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/ReclameAqui",
+        "https://twitter.com/reclameaqui",
+        "https://www.youtube.com/channel/UCHSTgEYmopZluZ7N4BSGPpw",
+        "https://www.instagram.com/reclameaqui/",
+        "https://www.linkedin.com/company/reclame-aqui/"
+    ]
+}
+```

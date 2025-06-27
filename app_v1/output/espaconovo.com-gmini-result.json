@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://espaconovo.com/",
+    "emails": [
+        "espaconovo@espaconovo.com"
+    ],
+    "phone_numbers": [
+        "+55 11 9 9183-1205",
+        "+55 11 3051-6007"
+    ],
+    "addresses": [
+        "Rua Teixeira da Silva, 329. Conj. 11  \nParaíso, São Paulo, SP. 04002-031"
+    ],
+    "social_links": [
+        "https://www.instagram.com/espaconovoarq/",
+        "https://wa.me/5511991831205",
+        "https://www.facebook.com/espaconovoarq"
+    ]
+}
+```

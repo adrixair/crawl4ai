@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://construliga.com.br/",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Rua Pais Leme, 215 - Cj. 2411 - Pinheiros"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/liga---a-constru%C3%A7%C3%A3o-conectada/",
+        "https://www.instagram.com/constru.liga/",
+        "https://www.facebook.com/construliga",
+        "https://www.youtube.com/channel/UC0hBbx-Of-380GBhuuMASmA",
+        "https://api.whatsapp.com/send?phone=5511984555019"
+    ]
+}
+```

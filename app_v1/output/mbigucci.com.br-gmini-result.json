@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://mbigucci.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 97527-3015",
+        "(11) 4040-2765",
+        "(11) 5067-6550"
+    ],
+    "addresses": [
+        "Av. Senador Vergueiro, 3597  \n9º andar - Rudge Ramos  \nSão Bernardo do Campo - SP  \nCEP 09601-000"
+    ],
+    "social_links": [
+        "https://www.instagram.com/mbigucci",
+        "https://www.facebook.com/mbigucci",
+        "https://twitter.com/mbigucci",
+        "https://www.linkedin.com/company/mbigucci-construtora/",
+        "https://www.pinterest.com/mbigucci/",
+        "https://www.youtube.com/mbigucci"
+    ]
+}
+```

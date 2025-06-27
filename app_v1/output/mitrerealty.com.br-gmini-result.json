@@ -1,0 +1,18 @@
+```json
+{
+    "website": "https://www.mitrerealty.com.br/",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Alameda Santos, 700 - 5º Andar - Jardim Paulista, São Paulo - SP, 01418-100"
+    ],
+    "social_links": [
+        "https://www.facebook.com/mitrerealty/",
+        "https://br.linkedin.com/company/mitre-realty",
+        "https://www.youtube.com/channel/UCEnXzz_h_E71PZ8xvlNawAQ",
+        "https://www.instagram.com/mitrerealty",
+        "https://www.tiktok.com/@mitrerealty?_t=8gN8zJTLZA5&_r=1",
+        "https://api.whatsapp.com/send?phone=551148100552&text=Quero%20falar%20com%20a%20Mitre%20Realty"
+    ]
+}
+```

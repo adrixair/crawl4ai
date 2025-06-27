@@ -1,0 +1,19 @@
+```json
+{
+    "website": "http://republica.arq.br/",
+    "emails": [
+        "contato@republica.arq.br",
+        "luciano@republica.arq.br",
+        "cristina@republica.arq.br",
+        "mateus@republica.arq.br"
+    ],
+    "phone_numbers": [
+        "11 3129 3996",
+        "11 99920 3703"
+    ],
+    "addresses": [
+        "rua bento freitas 306 cj 62  \n01220 000 são paulo sp  \nedifício sede do IAB/SP"
+    ],
+    "social_links": []
+}
+```

@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://lzba.com.br/",
+    "emails": [
+        "atendimento@lzba.com.br",
+        "antoniacorretora@lzba.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 2691-9059",
+        "(11)99961-8125",
+        "(11) 2099-1799"
+    ],
+    "addresses": [
+        "AV MAZZEI 326 - TUCURUVI - SÃO PAULO",
+        "RUA CAPITÃO RABELO, 560 JARDIM SÃO PAULO - SÃO PAULO"
+    ],
+    "social_links": [
+        "https://www.facebook.com/incorporadoralzba/",
+        "https://www.instagram.com/construtoralzba/",
+        "https://www.linkedin.com/company/incorporadora-lzba/about/",
+        "https://api.whatsapp.com/send?phone=5511999618125&text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Residencial%20Season%205?",
+        "https://api.whatsapp.com/send?phone=5511999618125&text=Ol%C3%A1%20eu%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
+    ]
+}
+```

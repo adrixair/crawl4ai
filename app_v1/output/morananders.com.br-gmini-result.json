@@ -1,0 +1,24 @@
+```json
+{
+    "website": "https://www.morananders.com.br",
+    "emails": [
+        "contato@morananders.com.br",
+        "francisco@morananders.com.br",
+        "gustavo@morananders.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 2536 1593",
+        "+55 11 4208 6648",
+        "(11) 98791 0406"
+    ],
+    "addresses": [
+        "Alameda Madeira, 162, Cj. 1302  \nAlphaville, Barueri, SP\n06454-010",
+        "Avenida Ipanema, 165, Cj. 609  \n18 do Forte Empresarial Alphaville, Barueri, SP\n06472-002"
+    ],
+    "social_links": [
+        "https://www.facebook.com/morananders/",
+        "https://www.instagram.com/morananders/",
+        "https://wa.me/5511987910406"
+    ]
+}
+```

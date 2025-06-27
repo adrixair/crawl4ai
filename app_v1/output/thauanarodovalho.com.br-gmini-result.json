@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.thauanarodovalho.com.br/",
+    "emails": [
+        "contato@thauanarodovalho.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 98199-2206"
+    ],
+    "addresses": [
+        "Zona Leste, Tatuapé - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/arq.thauanarodovalho/",
+        "https://www.facebook.com/thauanarodovalhoarquitetura/",
+        "https://api.whatsapp.com/send?1=pt_br&phone=55011981992206&text=Ol%C3%A1,+vi+o+seu+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es",
+        "https://api.whatsapp.com/send?1=pt_br&phone=55011981992206&text=Ol%C3%A1,+vi+o+seu+site+egostaria+de+mais+informa%C3%A7%C3%B5es"
+    ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://emccamp.com.br/",
+    "emails": [
+        "renata.dias@emccamp.com.br",
+        "miliane.souza@emccamp.com.br"
+    ],
+    "phone_numbers": [
+        "0800 200 7070",
+        "31 2391 4040"
+    ],
+    "addresses": [
+        "Rua Gonçalves Dias, 744, Funcionários - Belo Horizonte, MG, Brasil."
+    ],
+    "social_links": [
+        "https://www.facebook.com/Emccamp",
+        "https://instagram.com/emccampresidencial",
+        "https://www.youtube.com/emccamp",
+        "https://www.tiktok.com/@emccamp",
+        "https://emccamp.com/sistemas/"
+    ]
+}
+```

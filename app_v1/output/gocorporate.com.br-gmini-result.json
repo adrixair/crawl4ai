@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://gocorporate.com.br",
+    "emails": [
+        "contato@gocorporate.com.br"
+    ],
+    "phone_numbers": [
+        "+55 (11) 4750 1185",
+        "+55 (11) 99336-3222"
+    ],
+    "addresses": [
+        "Rua Amauri, 116 – Jardim Europa"
+    ],
+    "social_links": []
+}
+```

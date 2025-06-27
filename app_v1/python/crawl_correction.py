@@ -13,12 +13,7 @@ from google.genai.errors import ClientError, ServerError
 
 # --- Gemini API key rotation ---
 API_KEYS = [
-    "AIzaSyDPKtNEHkYLTxyro_sChX4DkaO3c4U4l9o", #ezer
-    "AIzaSyBvMWoY-AZLUlTt8LCl5j1LWnW_o-Cqvws", #contato
-    "AIzaSyDl7WFqRKh5X7UHgFlXH-Y_HdhrSwEj-bM", #Adrien
-    "AIzaSyBDboCr6mYKJ0GpKckUdbuBPn4mSN3oFLk",
-
-
+    "AIzaSyABPqpjksAXPTWLpOEGNTKGP8ApGRYk090",  # Adrien
 ]
 _current_key_index = 0
 
@@ -110,10 +105,10 @@ async def process_site(url: str) -> None:
         print(f"⚠️ {url} est un lien de médias sociaux, suppression des fichiers et skipping.")
         return
 
-    # Vérifier si le markdown existant est suffisamment long (>=500 car.) et le JSON existe
+    # Vérifier si le markdown existant est suffisamment long (>=100 car.) et le JSON existe
     if out_path.exists():
         existing_md = out_path.read_text() or ""
-        if len(existing_md) >= 500 and output_json_path.exists():
+        if len(existing_md) >= 100 and output_json_path.exists():
             no_results_file = OUTPUT_DIR / "no_results_sites.txt"
             if no_results_file.exists():
                 lines = no_results_file.read_text().splitlines()
@@ -123,7 +118,7 @@ async def process_site(url: str) -> None:
             print(f"✅ Fichiers valides déjà existants pour {url}, skipping.")
             return
         # sinon, supprimer markdown trop court ou JSON manquant pour nouvelle tentative
-        print(f"⚠️ Markdown existant trop court (<500 car.) ou JSON manquant pour {url}, suppression pour nouvelle tentative.")
+        print(f"⚠️ Markdown existant trop court (<100 car.) ou JSON manquant pour {url}, suppression pour nouvelle tentative.")
         out_path.unlink()
         if output_json_path.exists():
             output_json_path.unlink()
@@ -134,7 +129,7 @@ async def process_site(url: str) -> None:
 
         # Vérifier la longueur du Markdown
         length = len(markdown_content or "")
-        if length < 500:
+        if length < 100:
             print(f"⚠️ Markdown trop court ({length} caractères) pour {url}, suppression et ajout aux non-traités.")
             if out_path.exists():
                 out_path.unlink()
@@ -150,7 +145,9 @@ async def process_site(url: str) -> None:
         retry_delay = 5
         for attempt in range(len(API_KEYS)):
             try:
-                gmini_result = gminimarkdown(prompt_template, url, markdown_content)
+                # Use new Gemini model and gminimarkdown as per instructions
+                model = genai.GenerativeModel("gemini-2.0-flash-lite")
+                gmini_result = gminimarkdown(prompt_template, url, markdown_content, model)
                 output_json_path.write_text(gmini_result or "")
                 print(f"→ Markdown enregistré dans {out_path}")
                 print(f"→ Résultat Gemini enregistré dans {output_json_path}")

@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://consthruir.com.br/",
+    "emails": [
+        "atendimento@consthruir.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 91315-9014",
+        "(11) 94735-5594"
+    ],
+    "addresses": [
+        "Rua do Grito, 387  \nIpiranga – São Paulo/SP  \nCEP: 04217-000"
+    ],
+    "social_links": [
+        "https://www.facebook.com/consthruir/",
+        "https://www.instagram.com/consthruir/",
+        "https://www.linkedin.com/company/consthruir/about/"
+    ]
+}
+```

@@ -2,8 +2,9 @@ from google import genai
 import time
 from google.genai.errors import ServerError
 
-def gminimarkdown(prompt_template: str, url: str, markdown_content: str) -> str:
-    client = genai.Client(api_key="AIzaSyAl_bK7SZR2-TZXHiJi8X7v-6cNnaMev-Y")
+def gminimarkdown(prompt_template: str, url: str, markdown_content: str, model=None) -> str:
+    if model is None:
+        model = genai.GenerativeModel("gemini-2.0-flash-lite")
     full_prompt = prompt_template + "\n\nURL de recherche:\n" + url + "\n\n" + markdown_content
 
     max_retries = 10
@@ -11,10 +12,7 @@ def gminimarkdown(prompt_template: str, url: str, markdown_content: str) -> str:
 
     for attempt in range(1, max_retries + 1):
         try:
-            response = client.models.generate_content(
-                model="gemini-2.0-flash",
-                contents=full_prompt
-            )
+            response = model.generate_content(full_prompt)
             return response.text
         except ServerError as e:
             if "503" in str(e) and attempt < max_retries:
