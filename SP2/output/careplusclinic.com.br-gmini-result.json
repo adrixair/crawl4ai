@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://www.careplusclinic.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "08004071686",
+        "+552138045875"
+    ],
+    "addresses": [
+        "Alameda Araguaia, 871, Bairro Alphaville",
+        "Av. das Nações Unidas, 12.901, 9º andar – Conjunto 901 – Torre Oeste, Empresarial Nações Unidas",
+        "Avenida Vereador José Diniz, 3643, Térreo - Loja 3561, Bairro Campo Belo",
+        "Avenida Roque Petroni Júnior, 1089, Conj. 1004/1005/1006/1008, Bairro Jardim das Acácias",
+        "Rua Luís Coelho, 223, Térreo, Bairro Consolação",
+        "Rua Fidêncio Ramos, 302, 12º andar – Torre B, Vila Olímpia Corporate",
+        "Rua Lauro Muller, 116, 5º andar – Sala 501, Rio Sul Center"
+    ],
+    "social_links": [
+        "https://www.instagram.com/careplus_clinic/",
+        "https://www.facebook.com/careplusclinicoficial/",
+        "https://www.youtube.com/user/careplusnarede"
+    ],
+    "description": "A Care Plus Clinic é uma rede de clínicas multidisciplinares focada em dermatologia e odontologia. Oferece tratamentos modernos e de alta qualidade, visando o bem-estar e a saúde dos pacientes. Possui diversas unidades em São Paulo, Rio de Janeiro e Barueri, com foco em atendimento técnico e de ponta."
+}
+```

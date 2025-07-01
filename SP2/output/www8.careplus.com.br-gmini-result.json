@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www8.careplus.com.br/portal/portal/modulos/rede/pesquisaRedeCP.aspx",
+    "emails": [],
+    "phone_numbers": [
+        "0800-013-2992",
+        "0800-771-7750",
+        "0800 407-9000"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://br.linkedin.com/company/care-plus",
+        "https://www.instagram.com/careplusoficial/",
+        "https://www.facebook.com/careplusnarede/",
+        "https://www.youtube.com/user/careplusnarede",
+        "https://www.onetrust.com/products/cookie-consent/"
+    ],
+    "description": "A Care Plus é uma operadora de saúde premium com mais de 30 anos de experiência no mercado brasileiro. Ela oferece planos de saúde e odontológicos para empresas de diferentes portes, com foco em humanização, qualidade de vida e soluções personalizadas. A empresa se destaca por seus diferenciais, como a Rede Plus, gestão de saúde, e programas voltados ao bem-estar dos beneficiários."
+}
+```

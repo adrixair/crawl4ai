@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.waze.com/",
+    "emails": [
+        "privacy@waze.com",
+        "support@waze.com",
+        "copyright@linqmap.com"
+    ],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/Waze",
+        "https://twitter.com/waze",
+        "https://www.youtube.com/waze",
+        "https://instagram.com/waze",
+        "https://developers.google.com/waze"
+    ],
+    "description": "Waze é um aplicativo de navegação e tráfego em tempo real que permite aos motoristas encontrar a melhor rota, receber alertas de trânsito e compartilhar informações com outros usuários. Ele oferece mapas atualizados, informações sobre incidentes nas estradas e ferramentas de colaboração para uma experiência de condução mais segura e eficiente."
+}
+```

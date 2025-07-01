@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://institucional.convexbrasil.com.br/",
+    "emails": [
+        "site@convexbrasil.com.br",
+        "dmkt@convexbrasil.com.br"
+    ],
+    "phone_numbers": [
+        "17 3334-8444"
+    ],
+    "addresses": [
+        "Rua Coronel Spínola de Castro, 3696, Centro, CEP: 15015-500, São José do Rio Preto - SP"
+    ],
+    "social_links": [
+        "https://wa.me/5517992731985?text=Olá, tenho uma dúvida...",
+        "https://franquiaconvex.com.br/?utm_source=botao-site&utm_medium=Referral&utm_campaign=site-principal",
+        "https://revendedoradejoias.com.br/"
+    ],
+    "description": "A Convex Brasil é a maior indústria de joias em aço do Brasil, com mais de 35 anos de experiência. A empresa fabrica joias em aço, prata, e prata revestida em ouro 18K, oferecendo beleza, estilo e experiências únicas aos seus clientes. A Convex está presente em shoppings, revendas e lojas em todo o Brasil, com 7 centros de distribuição e 22 distribuidores autorizados, com foco em inovação e sustentabilidade."
+}
+```

@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://metroquadrado.com/",
+    "emails": [
+        "comercial@metroquadrado.com"
+    ],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/metroquadradonews/",
+        "https://twitter.com/metroquadrado_",
+        "https://www.linkedin.com/company/metroquadrado/",
+        "https://www.instagram.com/metroquadrado/"
+    ],
+    "description": "Metro Quadrado é um veículo de notícias focado no mercado imobiliário brasileiro, cobrindo áreas como residencial, comercial, cidades e investimentos. O site oferece notícias, análises e informações para investidores, construtoras e todos os interessados no setor imobiliário do Brasil."
+}
+```

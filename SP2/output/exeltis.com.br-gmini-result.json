@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://exeltis.com.br/",
+    "emails": [
+        "sac@exeltis.com",
+        "dataprotection@insudpharma.com"
+    ],
+    "phone_numbers": [
+        "0800 607 5556"
+    ],
+    "addresses": [
+        "Rua Helena, 260  4º Andar  Conjuntos 42 e 44  Vila Olímpia  São Paulo - SP  04552-050",
+        "Rua 1.015, 775  Setor Pedro Ludovico  Goiânia - GO  74820-285"
+    ],
+    "social_links": [
+        "https://entreelas.com.br/"
+    ],
+    "description": "A Exeltis Brasil é um laboratório farmacêutico com foco na saúde feminina, oferecendo soluções completas para as mulheres em todas as fases da vida. A empresa, parte do grupo Insud Pharma, investe em pesquisa e desenvolvimento, buscando inovação e qualidade para atender as necessidades das mulheres brasileiras. Seus produtos incluem contraceptivos, suplementos e outros cuidados para a saúde feminina."
+}
+```

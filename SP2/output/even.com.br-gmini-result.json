@@ -1,0 +1,30 @@
+```json
+{
+    "website": "https://www.even.com.br",
+    "emails": [
+        "sac@even.com.br",
+        "dpo@even.com.br",
+        "lgpd@even.com.br",
+        "construacomaeven@even.com.br",
+        "even@nectarc.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 98134-8441",
+        "(11) 97677-2967",
+        "0800-591-3457"
+    ],
+    "addresses": [
+        "Rua Hungria, 1.400 - 2° andar - Jardim Europa São Paulo/SP - 01455-000",
+        "Av. das Américas, 3.443 2º andar - Bloco 3B Barra da Tijuca Rio de Janeiro - RJ 22640-102",
+        "R. Carlos Trein Filho, 551 - Auxiliadora",
+        "Rua Arquiteto Olavo Redig de Campos, 105 – Bloco A - Conjunto 161 – 16º andar, Chácara Santo Antônio"
+    ],
+    "social_links": [
+        "https://www.instagram.com/evenconstrutora/",
+        "http://www.facebook.com/evenconstrutora",
+        "https://pt.linkedin.com/company/even",
+        "http://www.youtube.com/evenconstrutora"
+    ],
+    "description": "A Even é uma construtora e incorporadora brasileira com mais de 40 anos de história, atuando principalmente em São Paulo, Rio de Janeiro, e Rio Grande do Sul. A empresa se destaca por seu foco em empreendimentos de alto padrão, práticas de sustentabilidade e programas como o Morar Even e o Studio Excluseven. A Even se concentra em transformar o jeito de morar, trabalhar e conviver das pessoas, oferecendo projetos inovadores."
+}
+```

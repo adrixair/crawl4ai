@@ -1,0 +1,29 @@
+```json
+{
+    "website": "https://planosmedsenior.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 3256-7276"
+    ],
+    "addresses": [
+        "Avenida Brasil, 376, Jardim América, São Paulo"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=5511978252970&text=QueroinformaessobreoplanoMedseniorSaúde",
+        "https://api.whatsapp.com/send?phone=5511978252970&text=Quero%20informa%C3%A7%C3%B5es%20sobre%20o%20plano%20Medsenior%20Sa%C3%BAde",
+        "https://www.facebook.com/sharer.php?u=https://planosmedsenior.com.br/medicina-preventiva/",
+        "https://twitter.com/share?url=https://planosmedsenior.com.br/medicina-preventiva/",
+        "https://pinterest.com/pin/create/button/?url=https://planosmedsenior.com.br/medicina-preventiva/&media=https://planosmedsenior.com.br/wp-content/uploads/2023/11/foto-medico-medicina-preventiva-medsenior-1024x683.jpg",
+        "https://www.linkedin.com/shareArticle?mini=true&url=https://planosmedsenior.com.br/medicina-preventiva/&title=Medicina%20Preventiva",
+        "https://www.facebook.com/sharer.php?u=https://planosmedsenior.com.br/nova-unidade-medsenior-avenida-brasil-em-sao-paulo/",
+        "https://twitter.com/share?url=https://planosmedsenior.com.br/nova-unidade-medsenior-avenida-brasil-em-sao-paulo/",
+        "https://pinterest.com/pin/create/button/?url=https://planosmedsenior.com.br/nova-unidade-medsenior-avenida-brasil-em-sao-paulo/&media=https://planosmedsenior.com.br/wp-content/uploads/2023/12/Nova-Unidade-MedSenior-Avenida-Brasil-Sao-Paulo.jpg",
+        "https://www.linkedin.com/shareArticle?mini=true&url=https://planosmedsenior.com.br/nova-unidade-medsenior-avenida-brasil-em-sao-paulo/&title=Nova%20Unidade%20MedS%C3%AAnior%20Avenida%20Brasil%20em%20S%C3%A3o%20Paulo",
+        "https://www.facebook.com/sharer.php?u=https://planosmedsenior.com.br/plano-de-saude-para-terceira-idade/",
+        "https://twitter.com/share?url=https://planosmedsenior.com.br/plano-de-saude-para-terceira-idade/",
+        "https://pinterest.com/pin/create/button/?url=https://planosmedsenior.com.br/plano-de-saude-para-terceira-idade/&media=https://planosmedsenior.com.br/wp-content/uploads/2023/11/Plano-de-Saude-para-terceira-idade.jpg",
+        "https://www.linkedin.com/shareArticle?mini=true&url=https://planosmedsenior.com.br/plano-de-saude-para-terceira-idade/&title=Plano%20de%20Sa%C3%BAde%20para%20terceira%20idade"
+    ],
+    "description": "A MedSênior é uma operadora de planos de saúde especializada em cuidados preventivos para a terceira idade. Oferece planos abrangentes com foco na medicina preventiva, atendimento humanizado, e uma ampla rede credenciada que inclui hospitais e laboratórios. A empresa busca promover o envelhecimento saudável através de programas e unidades próprias."
+}
+```

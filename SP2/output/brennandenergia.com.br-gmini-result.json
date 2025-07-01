@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.brennandenergia.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "+55 (81) 2137 7000",
+        "+55 (11) 3811 3190"
+    ],
+    "addresses": [
+        "Av. Engenheiro Domingos Ferreira, 2589, 8º andar, Boa Viagem, Recife, PE, Brasil CEP: 51.020-031"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=558121377000"
+    ],
+    "description": "A Brennand Energia, fundada nos anos 2000, produz e comercializa energia renovável no Brasil. Ela opera 10 pequenas centrais hidrelétricas e 10 parques eólicos, com capacidade instalada de 526 MW, gerando energia limpa e sustentável, com foco no desenvolvimento sustentável e apoio a programas socio culturais e de preservação ambiental."
+}
+```

@@ -1,0 +1,14 @@
+```json
+{
+    "website": "https://ecoberrini.com.br/",
+    "emails": [
+        "sindico@ecoberrini.com.br"
+    ],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Engenheiro Luiz Carlos Berrini, 1376 Cidade Monções - São Paulo - SP CEP: 04571-936"
+    ],
+    "social_links": [],
+    "description": "O Edifício Eco Berrini, localizado em São Paulo, é um empreendimento com foco em sustentabilidade, buscando ser referência em arquitetura e engenharia. Possui certificação LEED Platinum, com soluções para reduzir impactos ambientais. O edifício oferece estacionamento, bicicletário e diversas facilidades, além de estar localizado em uma região valorizada da cidade, com fácil acesso a serviços e transporte público."
+}
+```

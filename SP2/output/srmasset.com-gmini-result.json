@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.srmasset.com/",
+    "emails": [
+        "SRM@SRMASSET.COM",
+        "dpo@srmasset.com"
+    ],
+    "phone_numbers": [
+        "+55 (11) 3334-2100",
+        "0800 878 1005",
+        "+55 11 9.9153-6872"
+    ],
+    "addresses": [
+        "Alameda Cleveland, 509 - São Paulo, SP"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/srmasset",
+        "https://www.facebook.com/SRMASSET/",
+        "https://www.instagram.com/srmasset/"
+    ],
+    "description": "A SRM é uma gestora de fundos de investimento com foco em direitos creditórios e empréstimos, atuando desde 2005. Oferece soluções financeiras para empresas de médio e grande porte, com destaque para fundos de investimento em Direitos Creditórios (FIDCs) e operações de crédito. Localizada em São Paulo, a empresa se destaca pela inovação, flexibilidade e expertise no mercado financeiro."
+}
+```

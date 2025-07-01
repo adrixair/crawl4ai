@@ -1,0 +1,26 @@
+```json
+{
+    "website": "https://medsenior.com.br",
+    "emails": [
+        "imprensa@medsenior.com.br"
+    ],
+    "phone_numbers": [
+        "4007-2001",
+        "0800 080 0551",
+        "0800 605 5505",
+        "4000-1717"
+    ],
+    "addresses": [
+        "Edifício Barão do Amparo - Avenida Paulista, 2006 - 15º andar, Bela Vista, São Paulo - SP",
+        "Rua Pedro Fonseca, 170 - Monte Belo, Vitória - ES, CEP 29.053-280"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/medseniorbrasil",
+        "https://www.instagram.com/medseniorbrasil/",
+        "https://www.facebook.com/medseniorbrasil/",
+        "https://www.youtube.com/c/MedS%C3%AAniorBrasil",
+        "https://api.whatsapp.com/send?phone=558008405505&text=Ol%C3%A1!"
+    ],
+    "description": "A MedSênior é um plano de saúde especializado em cuidados para pessoas com 49 anos ou mais. Com foco em medicina preventiva, a empresa oferece planos sem coparticipação, com unidades próprias e uma ampla rede credenciada. Presente em diversos estados, a MedSênior promove o bem-estar e a autonomia, garantindo uma melhor qualidade de vida na terceira idade."
+}
+```

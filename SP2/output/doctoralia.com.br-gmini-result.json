@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://www.doctoralia.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Rua Afonso Bráz 579 Conj 12, São Paulo",
+        "Rua Vergueiro 1855, São Paulo",
+        "R. Maestro Cardim, 1293 - Cj. 84, São Paulo",
+        "Rua Pedro de Toledo 108, São Paulo",
+        "Rua Manoel da Nobrega 456, cj74, São Paulo",
+        "Rua Itapeva 378 cj 163, São Paulo",
+        "Av. Ver. Abel Ferreira, 1900, São Paulo",
+        "Rua José Versolato 111, São Paulo",
+        "Av.Domingos de Moraes 2781-Vila Mariana, São Paulo",
+        "R. Maria José Rodrigues 122a, São Paulo",
+        "Avenida Antônio Carlos Costa 1260, Osasco",
+        "R. Dr. Homem de Melo 644, São Paulo",
+        "Rua Doutor Thirso Martins, 44, São Paulo"
+    ],
+    "social_links": [
+        "https://www.facebook.com/doctoralia.br/",
+        "https://www.instagram.com/doctoralia_br/",
+        "https://www.linkedin.com/company/doctoralia-brasil/"
+    ],
+    "description": "Doctoralia é uma plataforma de saúde que conecta pacientes a profissionais de saúde, permitindo o agendamento de consultas online. A plataforma oferece ferramentas para profissionais de saúde gerenciarem seus agendamentos e melhorarem a comunicação com os pacientes."
+}
+```

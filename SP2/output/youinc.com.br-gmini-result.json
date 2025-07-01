@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://www.youinc.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 3074-0788",
+        "11 3181-9019",
+        "11 3199-7900",
+        "11 4780-0000"
+    ],
+    "addresses": [
+        "Rua dos Pinheiros, 1.518",
+        "Av. Pres. Juscelino Kubitschek, 360 – 2º andar – São Paulo/SP – CEP: 04543-000",
+        "Av. Presidente Juscelino Kubitschek, 360 - 4º andar São Paulo - SP",
+        "Av. Prefeito Fábio Prado, 211 - Chácara Klabin - São Paulo/SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/youincorporadora",
+        "https://instagram.com/youinc",
+        "https://www.linkedin.com/company/you-inc-incorporadora?trk=biz-companies-cym",
+        "https://www.youtube.com/user/youincorporadora",
+        "https://br.pinterest.com/youincincorporadora/_created/",
+        "https://www.tiktok.com/@youinc_",
+        "https://api.whatsapp.com/send?phone=551130740788"
+    ],
+    "description": "A You,Inc é uma incorporadora imobiliária que atua em São Paulo, especializada em empreendimentos de médio e alto padrão, com foco em apartamentos compactos. A empresa busca oferecer soluções inovadoras para moradia, com foco em mobilidade, praticidade e qualidade de vida, entregando projetos diferenciados em locais estratégicos da cidade."
+}
+```

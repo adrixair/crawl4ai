@@ -1,0 +1,50 @@
+```json
+{
+    "website": "https://cury.net",
+    "emails": [
+        "adefinir@cury.net",
+        "cury@maquinacohnwolfe.com",
+        "rhcuryvendas@cury.net"
+    ],
+    "phone_numbers": [
+        "(11) 3117-1300",
+        "(21) 3543-6887",
+        "(11) 3117-1313",
+        "(21) 3554-3350",
+        "0800 314 9696"
+    ],
+    "addresses": [
+        "Rua Funchal, 411 - 1º andar Vila Olímpia - São Paulo - SP",
+        "Rua da Quitanda 86 - 7º andar Centro - Rio de Janeiro/RJ",
+        "Rua Robert Bosch, 544, Barra Funda - São Paulo/SP",
+        "Avenida Anastácio, 740, City América. São Paulo - SP",
+        "Rua CÔNEGO VICENTE MIGUEL MARINO, 134, Barra Funda. SÃO PAULO - SP",
+        "Rua Adriano José Marchini, 50B, Água Branca. São Paulo - SP",
+        "Avenida Santa Marina, S/N, Água Branca. São Paulo - SP",
+        "Avenida Rudge, S/N, Bom Retiro. São Paulo - SP",
+        "Rua Climaco Barbosa, 583, Cambuci. São Paulo - SP",
+        "Rua Dona Ana Neri x Rua Serra de Paracaína, 1201, Cambuci. São Paulo - SP",
+        "Rua José Guerra, 626, Chácara Santo Antônio. São Paulo - SP",
+        "Rua Alexandre Dumas, 2051, Chácara Santo Antônio. São Paulo - SP",
+        "Avenida Guarulhos, 3459, Ponte Grande. Guarulhos - SP",
+        "Rua Claudio Sergio Bere , 122 - Ponte Grande",
+        "Rua Nossa Senhora do Bom Conselho, 59, Campo Limpo. São Paulo - SP",
+        "AV. JAGUARÉ, 1487, JAGUARÉ. SÃO PAULO - SP",
+        "Avenida Torres de Oliveira, S/N, Jaguaré. São Paulo - SP"
+
+    ],
+    "social_links": [
+        "https://www.facebook.com/CuryConstrutora?fref=ts",
+        "https://www.instagram.com/curyconstrutora/",
+        "https://twitter.com/curyconstrutora",
+        "https://www.youtube.com/user/curyconstrutora",
+        "https://www.linkedin.com/company/cury-construtora/",
+        "https://br.pinterest.com/curyconstrutoranet/",
+        "https://www.tiktok.com/@curyconstrutora",
+        "https://open.spotify.com/user/7ibqq6hybxooqerqc8ywnhqe9?si=5WTqJRxfRo6-3RoYe20vYA&nd=1",
+        "https://api.whatsapp.com/send?phone=5511943136101&text=Olá! Tenho interesse em saber mais sobre a Cury Construtora SP",
+         "https://cury.gupy.io/"
+    ],
+    "description": "A Cury Construtora e Incorporadora S.A. é uma empresa com foco na construção e venda de imóveis residenciais, especialmente dentro dos programas habitacionais como o Minha Casa Minha Vida. Com atuação em São Paulo e Rio de Janeiro, a Cury busca oferecer moradias acessíveis e de qualidade, com projetos em diversas regiões. A empresa também investe em inovação e sustentabilidade."
+}
+```

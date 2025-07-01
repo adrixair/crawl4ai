@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.multilaser.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/multi_br/",
+        "https://www.facebook.com/Multi/",
+        "https://www.youtube.com/user/OficialMultilaser",
+        "https://twitter.com/Multilaser_BR",
+        "https://www.linkedin.com/company/grupo_multi/"
+    ],
+    "description": "A Multilaser é uma empresa brasileira que oferece uma ampla gama de produtos eletrônicos e de informática, incluindo TVs, áudio, eletroportáteis, smartphones, e acessórios. Atua como loja virtual e tem como objetivo fornecer produtos para consumidores, revendedores e empresas, com foco em inovação e qualidade."
+}
+```

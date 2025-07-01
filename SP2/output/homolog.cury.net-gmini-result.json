@@ -1,0 +1,38 @@
+```json
+{
+    "website": "https://homolog.cury.net",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [
+        "Rua Candomba, 01, Parque Continental. São Paulo - SP",
+        "Avenida Alexandre Mackenzie, 619, Jaguaré. São Paulo - SP",
+        "Avenida Antártica, 1, Barra Funda. São Paulo - SP",
+        "Rua da Mooca, 1290, Mooca. São Paulo - SP",
+        "Rua Curuça, 649, Vila Maria. São Paulo - SP",
+        "Av Brigadeiro Faria Lima, 1740. São Paulo - SP",
+        "Av Paulista, 688, Cerqueira Cesar. São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/CuryConstrutora?fref=ts",
+        "https://www.instagram.com/curyconstrutora/",
+        "https://twitter.com/curyconstrutora",
+        "https://www.youtube.com/user/curyconstrutora",
+        "https://www.linkedin.com/company/cury-construtora/",
+        "https://br.pinterest.com/curyconstrutoranet/",
+        "https://www.tiktok.com/@curyconstrutora",
+        "http://www.relacionamentocury.com.br/",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Cidade Jaguaré - Vila Pinheiros.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre a Cury Construtora SP",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Flow Barra Funda 2.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Flow Barra Funda.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Jardim.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Mérito Vila Maria.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Cidade Mooca.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Cidade Mooca Vila Palermo.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Square Panamby Itapaiuna.",
+        "https://api.whatsapp.com/send?phone=5521999923476&text=Olá! Tenho interesse em saber mais sobre o imóvel Cury Dez Bom Retiro.",
+        "https://api.whatsapp.com/send?phone=5511943136101&text=Olá! Tenho interesse em saber mais sobre a Cury Construtora SP"
+    ],
+    "description": "A Cury Construtora é uma empresa do setor imobiliário com foco em empreendimentos residenciais, especialmente para o programa Minha Casa Minha Vida. A empresa oferece apartamentos com lazer completo, localizados em São Paulo e Rio de Janeiro. Cury se dedica a oferecer qualidade, cumprimento de prazos e satisfação aos seus clientes, buscando sempre inovação."
+}
+```

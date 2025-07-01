@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://finsidersbrasil.com.br",
+    "emails": [
+        "redacao@finsidersbrasil.com.br"
+    ],
+    "phone_numbers": [
+        "5511985545457"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.instagram.com/finsidersbrasil_/",
+        "https://www.linkedin.com/company/finsidersbrasil",
+        "https://www.youtube.com/c/FintechsBrasilnot%C3%ADciaseneg%C3%B3cios",
+        "https://api.whatsapp.com/send?text=https://finsidersbrasil.com.br/giro-noticias/srm-asset-lanca-venture-studio-focado-na-criacao-de-fintechs/%3Futm_source=whatsapp%26utm_medium=referral%26utm_campaign=share_alongisde%20-%20SRM%20Asset%20lan%C3%A7a%20Venture%20Studio%20focado%20na%20cria%C3%A7%C3%A3o%20de%20fintechs",
+         "https://www.whatsapp.com/channel/0029VaBQvpyADTOMvhjmER2n"
+    ],
+    "description": "O Finsiders Brasil é um portal de notícias especializado em fintechs, que fornece informações sobre as últimas novidades, tendências e inovações no mercado financeiro brasileiro. O site oferece reportagens exclusivas e análises detalhadas para um público de fundadores, investidores e executivos do setor."
+}
+```

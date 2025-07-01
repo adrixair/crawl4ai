@@ -81,6 +81,7 @@ async def process_site(url: str) -> None:
         "reddit.com",
         "youtube.com",
         "youtu.be",
+        "linkedin.com",
         "tripadvisor.com",
         "airbnb.com",
         "booking.com",

@@ -29,7 +29,7 @@ from gemini_markdown import gminimarkdown  # importe la fonction de recherche Ge
 
 # Définir OUTPUT_DIR et le chemin du fichier texte contenant les URLs
 OUTPUT_DIR = Path(__file__).parent / ".." / "output"
-text_file_path = OUTPUT_DIR / "google_urls_result_SP.txt"
+text_file_path = OUTPUT_DIR / "sites_empresas_brl.txt"
 
 # --- Load no_results_sites.txt and skip URLs listed there ---
 no_results_file = OUTPUT_DIR / "no_results_sites.txt"
@@ -48,6 +48,8 @@ Objectif : retourner un JSON structuré avec les champs suivants :
 - phone_numbers : liste des numéros de téléphone de contact.
 - addresses : liste des adresses postales ou physiques identifiées.
 - social_links : liste des URLs officielles du site pour ces plateformes ou services : LinkedIn, Instagram, Facebook, Twitter/X, YouTube, WhatsApp Web, API WhatsApp Business, et tout autre endpoint API officiel détecté (REST, GraphQL, etc.).
+
+En plus de l'extraction des contacts, ajoute une **description de l’entreprise** (résumée à partir du contenu du site) rédigée en **portugais** en 5 à 10 lignes maximum. Cette description doit présenter l’activité principale de l’entreprise, ses services ou produits, sa localisation (si précisée) et tout élément distinctif utile pour la compréhension rapide du visiteur.
 
 Contraintes :
 - Uniquement les informations appartenant au site cible (pas de données de sites tiers).
@@ -69,7 +71,8 @@ Exemple de structure JSON attendue :
         "https://twitter.com/exemple",
         "https://www.youtube.com/c/exemple",
         "https://api.whatsapp.com/send?phone=123456789"
-    ]
+    ],
+    "description": ""
 }
 """
 

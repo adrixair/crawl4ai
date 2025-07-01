@@ -1,0 +1,28 @@
+```json
+{
+    "website": "https://drconsulta.com",
+    "emails": [
+        "atendimento@drconsulta.com",
+        "assessoriaimprensa@drconsulta.com",
+        "suprimento@drconsulta.com",
+        "comercial@drconsulta.com",
+        "privacidade@drconsulta.com"
+    ],
+    "phone_numbers": [
+        "4090-1510"
+    ],
+    "addresses": [
+        "Plaza Centenário - Av. das Nações Unidas, 12995 - 8° andar Cidade Monções, São Paulo - SP, 04578-911"
+    ],
+    "social_links": [
+        "https://www.facebook.com/doutorconsulta",
+        "https://www.instagram.com/drconsulta/",
+        "https://www.youtube.com/user/DrConsulta",
+        "https://www.linkedin.com/company/drconsulta",
+        "https://www.tiktok.com/@dr.consulta",
+        "https://twitter.com/drconsulta",
+        "https://api.whatsapp.com/send/?phone=551141181339&text=Ol%C3%A1+dr.consulta%2C+gostaria+de+saber+mais+informa%C3%A7%C3%B5es.&amp"
+    ],
+    "description": "A dr.consulta é uma plataforma de gestão de saúde que oferece consultas presenciais e online, exames, odontologia e outros serviços médicos. Com 29 centros médicos em São Paulo, a empresa busca facilitar o acesso à saúde de qualidade, com foco em tecnologia e preços acessíveis."
+}
+```

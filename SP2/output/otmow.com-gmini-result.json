@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://otmow.com/pt-BR",
+    "emails": [
+        "mailsupport@otmow.com",
+        "support@otmow.com"
+    ],
+    "phone_numbers": [
+        "(11) 97310-6054"
+    ],
+    "addresses": [
+        "Avenida Ibirapuera, 2033\nCJ 203\nSão Paulo, SP 04029-100",
+        "614 N. DuPont Highway\nSuite 210\nDover, DE 19901"
+    ],
+    "social_links": [
+        "https://wa.me/+5511973106054"
+    ],
+    "description": "A Ótmow, fintech fundada no Brasil, oferece soluções financeiras para antecipar recebíveis de empresas que fornecem ao governo. A empresa se destaca pela inovação e foco em fornecer liquidez e crescimento sustentável, com uma missão de ser referência em securitização no país. Oferece também artigos sobre licitações e finanças."
+}
+```

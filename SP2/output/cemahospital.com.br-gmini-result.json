@@ -1,0 +1,25 @@
+```json
+{
+    "website": "https://www.cemahospital.com.br",
+    "emails": [
+        "dpo@cemahospital.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 2602-8000",
+        "+55 11 2602-4000",
+        "11 2602-8000",
+        "11 2602-4000",
+        "11 2602-4197"
+    ],
+    "addresses": [
+        "Rua Padre Adelino, 333 - Belém - São Paulo | SP",
+        "Rua Treze de Maio, 1.947 – Bela Vista, São Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/cemahospital/",
+        "https://www.facebook.com/hospitalcema/",
+        "https://br.linkedin.com/company/cema-hospital-especializado-ltda"
+    ],
+    "description": "O Hospital CEMA é uma referência em oftalmologia e otorrinolaringologia em São Paulo, com diversas unidades. Oferece atendimento completo, incluindo pronto atendimento, consultas com hora marcada, exames e cirurgias, com foco em excelência e atendimento humanizado. Conta com uma unidade na Paulista, dentro do Shopping Pátio Paulista, no Piso Bela Vista."
+}
+```

@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.andbank.com/",
+    "emails": [
+        "INFO@ANDBANK.COM"
+    ],
+    "phone_numbers": [
+        "+376 873 030",
+        "+376 873 300",
+        "+376 873 356"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.linkedin.com/company/andbank/",
+        "https://www.facebook.com/AndbankAND/",
+        "https://twitter.com/AndbankAND",
+        "https://www.instagram.com/andbank_and"
+    ],
+    "description": "O Andbank é um banco privado com mais de 90 anos de experiência, presente em onze países, buscando criar valor para seus clientes. Oferece serviços de gestão de patrimônio, banca privada, gestão de ativos e assessoria global, com foco em investimentos e soluções financeiras personalizadas. A empresa se destaca por sua abordagem familiar e compromisso com a responsabilidade social."
+}
+```

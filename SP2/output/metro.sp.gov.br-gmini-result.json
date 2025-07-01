@@ -1,0 +1,32 @@
+```json
+{
+    "website": "https://www.metro.sp.gov.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 3107-3794",
+        "11 3291-7436",
+        "11 3291-7437"
+    ],
+    "addresses": [
+        "AV. DR. ARNALDO, 555",
+        "Av. Dr. Eduardo Cotching, 1172 Vila Formosa – CEP 03356-000",
+        "Rua São Joaquim, 123"
+    ],
+    "social_links": [
+        "https://www.flickr.com/governosp/",
+        "https://www.linkedin.com/company/governosp/",
+        "https://www.tiktok.com/@governosp",
+        "https://www.youtube.com/governosp/",
+        "https://www.instagram.com/governosp/",
+        "https://www.facebook.com/governosp/",
+        "https://br.linkedin.com/company/metro-de-sao-paulo",
+        "https://www.tiktok.com/@metrosp",
+        "https://www.youtube.com/metrospoficial/",
+        "https://www.x.com/metrosp_oficial/",
+        "https://www.instagram.com/metrospoficial/",
+        "https://www.facebook.com/metrosp/",
+         "tel:08007707722"
+    ],
+    "description": "O Metrô de São Paulo é responsável pela operação e expansão da rede metroviária na Região Metropolitana de São Paulo. Ele opera as linhas 1-Azul, 2-Verde, 3-Vermelha e 15-Prata, que transportam milhões de passageiros diariamente. Além disso, o site oferece informações sobre as estações, horários, acessibilidade e projetos de expansão."
+}
+```

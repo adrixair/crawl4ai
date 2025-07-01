@@ -1,0 +1,59 @@
+```json
+{
+    "website": "https://www.spxcapital.com",
+    "emails": [
+        "ri@spxcapital.com",
+        "ri.real.estate@spxcapital.com",
+        "ri.private.equity@spxcapital.com",
+        "privacidade@spxcapital.com"
+    ],
+    "phone_numbers": [
+        "+44 20 3911-0640",
+        "+55 11 3508.7500",
+        "+55 21 3203.1550",
+        "+1 212-386-5810",
+        "+351 211 452 180",
+        "+65 6715 1864",
+        "11 2503 7525",
+        "21 99118 9393"
+    ],
+    "addresses": [
+        "1 New Burlington Place, 4th Floor | Mayfair, London | W1S 2HR",
+        "Av. Brg. Faria Lima, 3732, 21 º andar, Itaim Bibi | São Paulo – SP, CEP 04538.932",
+        "Rua Humaitá, 275, 5º & 6º Andar, Humaitá | Rio de Janeiro – RJ, CEP 22261.005",
+        "3 Columbus Circle,15th floor, New York, NY 10019",
+        "Marina de Cascais, 1° andar – Loja 64, Cascais | Portugal, CEP 2750-800",
+        "2 Central Boulevard, #31-01 IOI Central Boulevard West Tower, Singapore 018916",
+        "Rua Santa Clara, 161 | 301 | Copacabana | 22041-011 | RJ"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/spx-capital/",
+        "https://www.youtube.com/channel/UC-b_1h6ki5zqn8v5d6aBbmg/featured",
+        "https://www.instagram.com/spxcapital/",
+        "https://spe.tbe.taleo.net/spe01/ats/careers/v2/jobSearch?org=U2K2Y2&cws=44",
+        "https://relatoconfidencial.com.br/spxcapital/",
+        "https://unitri.com.br",
+        "https://www.agorainvestimentos.com.br/",
+        "https://www.ativainvestimentos.com.br/",
+        "https://www.bb.com.br/site/",
+        "https://www.btgpactual.com/",
+        "https://www.c6bank.com.br/",
+        "https://www.daycoval.com.br/",
+        "https://eqiasset.com.br/",
+        "https://www.genialinvestimentos.com.br/",
+        "https://inter.co/",
+        "https://www.itau.com.br/",
+        "https://ion.itau/",
+        "https://corretora.miraeasset.com.br/",
+        "https://nubank.com.br/",
+        "https://www.rbinvestimentos.com/",
+        "https://www.terrainvestimentos.com.br/",
+        "https://www.toroinvestimentos.com.br/",
+        "https://warren.com.br/",
+        "https://www.xpi.com.br/",
+        "https://www.institutoorizon.org/",
+        "https://ambikira.org.br/"
+    ],
+    "description": "A SPX Capital, fundada em 2010, é uma gestora global de ativos que busca retornos atrativos para seus investidores. Com atuação em diferentes negócios, incluindo multimercado, ações e crédito, a empresa opera em escritórios no Brasil, Londres, Nova York, Cascais e Singapura. A SPX se destaca por sua parceria meritocrática, processos de investimento robustos e valores éticos."
+}
+```

@@ -1,0 +1,19 @@
+```json
+{
+  "website": "https://loft.com.br/",
+  "emails": [
+    "meajuda@loft.com.br",
+    "imprensa@loft.com.br"
+  ],
+  "phone_numbers": [
+    "+55 4020-2208"
+  ],
+  "addresses": [
+    "Rua Tabapuã, 743 - Itaim Bibi, São Paulo - SP, 04533-012"
+  ],
+  "social_links": [
+    "https://www.instagram.com/loft_br/"
+  ],
+  "description": "A Loft é uma imobiliária que facilita a compra, venda e aluguel de imóveis, impulsionando o setor no Brasil. Oferece soluções comerciais e tecnológicas, incluindo um portal online, para proprietários, compradores e imobiliárias, atuando em diversas cidades brasileiras, com foco em São Paulo e Rio de Janeiro."
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://realestate.patria.com",
+    "emails": [
+        "RI.RE@patria.com",
+        "Locacao.RE@patria.com"
+    ],
+    "phone_numbers": [],
+    "addresses": [
+        "Av. Engenheiro Luiz Carlos Berrini, 105  \nSão Paulo - SP"
+    ],
+    "social_links": [
+        "https://www.instagram.com/patriainvestments/",
+        "https://www.linkedin.com/company/patriainvestments-brasil",
+        "http://www.youtube.com/@patriainvestments",
+        "https://www.facebook.com/share/1XSSNkwY4P/?",
+        "https://open.spotify.com/show/3yK6u08nUm9X1u51BjvpuM?si=c035557f79f24a85",
+        "https://deezer.page.link/4H4YsVNpnChagHQn9",
+        "https://podcasts.apple.com/us/podcast/patria-investimentos/id1596976339"
+    ],
+    "description": "A Patria Investimentos é uma gestora líder em investimentos alternativos, com mais de 35 anos de experiência, especializada em setores de alta resiliência. Atua no mercado imobiliário, oferecendo fundos de investimento em diversas classes de ativos. O Berrini One, localizado em São Paulo, é um empreendimento corporativo de alto padrão, com certificação LEED Gold."
+}
+```

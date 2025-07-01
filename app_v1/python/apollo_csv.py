@@ -42,7 +42,7 @@ INPUT_FOLDER = os.path.abspath(os.path.join(os.path.dirname(__file__), "../outpu
 fieldnames = [
     "company_name", "company_website", "contact_email", "contact_phone",
     "contact_place_street", "contact_place_city", "contact_place_state", "contact_place_country",
-    "contact_place_postal_code", "social_links"
+    "contact_place_postal_code", "social_links", "description"
 ]
 
 def parse_address(address):
@@ -88,7 +88,8 @@ def load_and_extract(filepath):
         "- contact_email (une liste de toutes les adresses email trouvées, au format standard)\n"
         "- contact_phone (une liste de tous les numéros de téléphone trouvés, au format E.164, sans espaces ni séparateurs)\n"
         "- address : un objet {street, city, state, country, postal_code} complet, utilisant les informations disponibles pour combler les éventuels manques.\n"
-        "- social_links (une liste de liens sociaux, sans barres verticales comme séparateurs)\n\n"
+        "- social_links (une liste de liens sociaux, sans barres verticales comme séparateurs)\n"
+        "- description : un résumé clair et concis de l’activité de l’entreprise, basé sur les données fournies ou une recherche rapide si nécessaire.\n\n"
         "Donne-moi uniquement un objet JSON bien formaté, sans autre texte."
     )
 
@@ -140,6 +141,7 @@ def load_and_extract(filepath):
         social_links = " | ".join(social_links)
 
     street, city, state, country, postal_code = parse_address(address_dict)
+    description = enriched.get("description", "")
 
     return {
         "company_name": website.replace("https://", "").replace("www.", "").split('/')[0],
@@ -151,7 +153,8 @@ def load_and_extract(filepath):
         "contact_place_state": state,
         "contact_place_country": country,
         "contact_place_postal_code": postal_code,
-        "social_links": social_links
+        "social_links": social_links,
+        "description": description
     }
 
 def batch_process(limit=None):
@@ -195,7 +198,7 @@ def batch_process(limit=None):
             
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process Gemini JSON outputs into a CSV.")
-    parser.add_argument("--limit", type=int, default=3,
+    parser.add_argument("--limit", type=int, default=None,
                         help="Maximum number of JSON files to process (default: all).")
     args = parser.parse_args()
     batch_process(limit=args.limit)

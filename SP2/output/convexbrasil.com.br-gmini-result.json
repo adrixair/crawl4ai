@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://www.convexbrasil.com.br/",
+    "emails": [
+        "site@convexbrasil.com.br",
+        "dmkt@convexbrasil.com.br"
+    ],
+    "phone_numbers": [
+        "17 3334-8444"
+    ],
+    "addresses": [
+        "Rua Coronel Spínola de Castro, 3696, Centro, CEP: 15015-500, São José do Rio Preto - SP"
+    ],
+    "social_links": [],
+    "description": "A Convex Brasil é uma empresa com 38 anos de história, especializada em joias, com foco em alianças de ouro, aço e outras joias. A empresa se destaca pela beleza, qualidade e design inovador de seus produtos, com presença em todo o Brasil através de lojas físicas e online, com foco em joias que traduzem emoções e eternizam momentos especiais."
+}
+```

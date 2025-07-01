@@ -1,0 +1,32 @@
+```json
+{
+    "website": "https://participemais.prefeitura.sp.gov.br",
+    "emails": [
+        "participemais@prefeitura.sp.gov.br"
+    ],
+    "phone_numbers": [
+        "(11) 3113-9499",
+        "156",
+        "(11) 3113-8525"
+    ],
+    "addresses": [
+        "Viaduto do Chá, 15 - Centro - São Paulo, SP. CEP: 01002-020"
+    ],
+    "social_links": [
+        "https://www.facebook.com/participemais/",
+        "https://www.instagram.com/participemais",
+        "@participemais",
+        "https://www.linkedin.com/company/cidade-de-sao-paulo/",
+        "https://www.tiktok.com/@prefsp",
+        "https://www.youtube.com/prefeiturasaopaulo",
+        "https://twitter.com/prefsp",
+        "https://www.youtube.com/c/govabertocidadesp",
+        "https://m.facebook.com/GovernoAbertoCidadeSP/",
+        "https://twitter.com/govabertoprefsp",
+        "https://www.instagram.com/govabertocidadesp/",
+        "http://codigoaberto.prefeitura.sp.gov.br/casacivil/participemais.git",
+        "http://codigoaberto.prefeitura.sp.gov.br/casacivil/participemais.git"
+    ],
+    "description": "O Participe+ é a plataforma de participação social da Prefeitura de São Paulo. Nela, os cidadãos podem participar de consultas públicas, do Orçamento Cidadão e de votações. O objetivo é promover a colaboração entre a população e o governo na formulação de políticas públicas, com foco em transparência e inovação."
+}
+```

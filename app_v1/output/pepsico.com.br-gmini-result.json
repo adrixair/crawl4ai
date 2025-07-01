@@ -1,0 +1,32 @@
+```json
+{
+    "website": "https://pepsico.com.br/",
+    "emails": [
+        "sac@pepsico.com",
+        "pepsico.corp@inpresspni.com.br",
+        "pepsico@inpresspni.com.br",
+        "encarregado.lgpd@pepsico.com",
+        "encarregado.Igpd@pepsico.com",
+        "ITWebAccessibilityCoE@pepsico.com"
+    ],
+    "phone_numbers": [
+        "0800 703 4444",
+        "(11) 4871-7124",
+        "(11) 4871-1492",
+        "0800 725 0001"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.linkedin.com/company/pepsico",
+        "https://www.instagram.com/pepsicojobs/",
+        "https://www.instagram.com/pepsicosocialimpact/",
+        "https://www.facebook.com/PepsiCoBrasil",
+        "https://x.com/pepsicobrasil",
+        "https://www.youtube.com/@PepsiCoBrasil",
+        "https://www.instagram.com/pepsico_br/",
+        "https://www.pepsico.com/our-impact/sustainability/esg-summary",
+         "https://www.pepsicojobs.com/main/our-locations/latinamerica/brazil?lang=pt-BR"
+    ],
+    "description": "A PepsiCo Brasil, uma das maiores empresas de alimentos e bebidas do mundo, oferece um amplo portfólio de produtos, incluindo marcas icônicas como LAY'S®, PEPSI® e QUAKER®. A empresa está focada em sustentabilidade e em criar momentos de alegria para os consumidores, trabalhando com uma estratégia ESG (Environmental, Social, and Governance - Governança Ambiental, Social e Corporativa) robusta."
+}
+```

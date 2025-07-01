@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://abraceel.com.br/",
+    "emails": [],
+    "phone_numbers": [
+        "(61) 3223-0081"
+    ],
+    "addresses": [
+        "SHS Quadra 06 Conjunto A Bloco C Sala 1707   \nCEP: 70322-915 - Brasília - DF"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Abraceel/?ref=br_rs",
+        "https://twitter.com/Abraceel1",
+        "https://www.instagram.com/abraceel/",
+        "https://br.linkedin.com/company/abraceel"
+    ],
+    "description": "A Abraceel é uma associação que promove a livre competição no mercado de energia elétrica, etanol e gás natural. Atua na defesa dos interesses de seus associados, fomenta a inovação e eficiência, e busca a consolidação do mercado livre de energia, com foco na sociedade e no desenvolvimento sustentável do setor."
+}
+```

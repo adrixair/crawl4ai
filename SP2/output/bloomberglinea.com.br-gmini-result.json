@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.bloomberglinea.com",
+    "emails": [
+        "ads@bloomberglinea.com",
+        "summit@bloomberglinea.com",
+        "support@bloomberglinea.com"
+    ],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/BloombergLineaBrasil",
+        "https://twitter.com/BloombergLineaB",
+        "https://www.youtube.com/channel/UCBc9G2aqKQDaMZbeeqgNpSA",
+        "https://www.instagram.com/bloomberglineabrasil/",
+        "https://www.linkedin.com/company/bloomberglínea",
+        "https://www.tiktok.com/@bloomberglineabrasil",
+        "https://open.spotify.com/show/1JhleHHeSjIwtnEOi2Scd5"
+    ],
+    "description": "Bloomberg Línea é uma plataforma de notícias focada em economia e negócios, com cobertura em português, espanhol e inglês. Com recursos globais e uma equipe de jornalistas em vários países, oferece notícias e análises sobre o mercado latino-americano e global, incluindo artigos, vídeos, podcasts e eventos."
+}
+```

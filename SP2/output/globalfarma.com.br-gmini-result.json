@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://www.globalfarma.com.br",
+    "emails": [
+        "sac@globalfarma.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 2090-4777",
+        "+55 11 91550-4777"
+    ],
+    "addresses": [
+        "Rua Diamante Preto, 413  Tatuapé São Paulo (SP)  CEP 03317-040"
+    ],
+    "social_links": [
+        "https://www.facebook.com/globalfarmamedicamentos/",
+        "https://www.linkedin.com/in/global-farma-b084b0231/",
+        "https://api.whatsapp.com/message/J73X6HE2JRZFD1?autoload=1&app_absent=0",
+        "https://wa.me//5511915504777"
+    ],
+    "description": "A Global Farma é uma farmácia que oferece uma vasta gama de produtos de saúde e bem-estar, incluindo medicamentos, dermocosméticos, produtos de higiene e ortopedia. Localizada em São Paulo, a empresa se dedica ao atendimento a pessoas físicas, planos de saúde, clínicas e hospitais, com foco na segurança do paciente e atenção farmacêutica. Oferece também serviços para empresas, como montagem de ambulatórios médicos."
+}
+```

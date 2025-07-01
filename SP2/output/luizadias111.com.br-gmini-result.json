@@ -1,0 +1,41 @@
+```json
+{
+    "website": "https://www.luizadias111.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "(11) 3031-3175",
+        "(11) 3088-3390",
+        "+55 11 97216-0563",
+        "+55 11 99880-1196",
+        "+55 21 2210-7100",
+        "+55 11 3473-9150",
+        "+55 11 3063-4596",
+        "+55 13 3234-3158",
+        "+55 31 4726-3215",
+        "+55 15 3318-5838",
+        "+55 31 2511-6061",
+        "+55 34 3214-4510"
+    ],
+    "addresses": [
+        "Rua Mateus Grou, 509  Pinheiros - São Paulo/Sp",
+        "Rua Dr Melo Alves, 287  Jardins - São Paulo/Sp",
+        "Av. Ataulfo de Paiva, 1120 - Loja D – Leblon  Rio de Janeiro/RJ",
+        "R. Normandia, 41  Moema - São Paulo/SP",
+        "R. Bela Cintra, 1705  Cerqueira César - São Paulo/SP",
+        "R. Azevedo Sodré, 54  Santos/SP",
+        "Mogi Shopping  Mogi das Cruzes / SP",
+        "Shopping Iguatemi Esplanada  Sorocaba / SP",
+        "R. Lavras, 92  São Pedro – Belo Horizonte/MG",
+        "Av. Alexandre Ribeiro Guimarães, 111  Santa Maria – Uberlândia/MG"
+    ],
+    "social_links": [
+        "https://www.instagram.com/luizadias111_/",
+        "https://www.tiktok.com/@luizadias111_",
+        "https://br.pinterest.com/luizadias111/",
+        "https://www.facebook.com/luizadias111",
+        "https://wa.me/5511969012880",
+        "https://www.instagram.com/111studio__/"
+    ],
+    "description": "Luiza Dias 111 é uma marca de acessórios com design contemporâneo, criada em 2012. A marca se destaca pela combinação do clássico com o inusitado. Com um time 100% feminino, a produção é manual. Possui lojas em São Paulo e revendedores no Rio de Janeiro, Santos, Mogi das Cruzes e Uberlândia. Oferece colares, brincos, anéis e pulseiras."
+}
+```

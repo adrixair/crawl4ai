@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://www.institutomedicopaulista.com.br/",
+    "emails": [
+        "contato@institutomedicopaulista.com.br"
+    ],
+    "phone_numbers": [
+        "(11) 5181-6867",
+        "11 5181 6867"
+    ],
+    "addresses": [
+        "R. JOAQUIM GUARANI, 360- BROOKLIN  \nSÃO PAULO – SP  \nCEP-04707-061"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=551151816867",
+        "https://instagram.com/institutomedicopaulista",
+        "https://facebook.com/institutomedicopaulista"
+    ],
+    "description": "O Instituto Médico Paulista (IPMD) é uma policlínica localizada em São Paulo, que oferece diversas especialidades médicas, incluindo clínica geral, psicologia, nutrição, e fisioterapia. O centro também oferece tratamentos de bem-estar e estética. A clínica é dirigida pela Dra. Ana Lúcia Anauati."
+}
+```

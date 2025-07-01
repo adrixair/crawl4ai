@@ -1,0 +1,33 @@
+```json
+{
+    "website": "https://www.instaagro.com",
+    "emails": [
+        "sac@instaagro.com"
+    ],
+    "phone_numbers": [
+        "0800 - 882 - 4000",
+        "(11) 93750-2245",
+        "(11) 95025-8301",
+        "(11) 93331-7979"
+    ],
+    "addresses": [
+        "Avenida Adolfo Pinheiro, 1029, CJ 116 - Santo Amaro, Estado de São Paulo, CEP 04733-100",
+        "Rua Cristovão de Vita, 260 - Galpão 14 - Bairro das Pedras, Vargem Grande Paulista - Estado de São Paulo, CEP 06730-452",
+        "Avenida Eurípedes Menezes, s/n, Q 4, L. 014-017, SL 09, Parque Industrial Vice-Presidente José Alencar, Município de Aparecida de Goiânia, Estado de Goiás, CEP 74993-540",
+        "Rodovia BR 050 km 185, bairro Jardim Santa Clara, Município de Uberaba, Estado de Minas Gerais, CEP 38038-050",
+        "Avenida Constante Pavan, nº 4.633, Armazém 1M, SL InstaAgro, bairro Betel, Paulínia, Estado de São Paulo, CEP 13148-198",
+        "Rodovia PR-090, Km 5, nº 5695, Parque Industrial Nenê Favoretto, Município de Ibiporã, Estado do Paraná, CEP 86200-000",
+        "Avenida das Indústrias, 2020, bairro de Ouro Preto, Município de Carazinho, Estado do Rio Grande do Sul, CEP 99500-000",
+        "Rodovia BR 230, s/nº, Km 411,5, Zona Rural, Município de Balsas, Estado do Maranhão, CEP 65800-000",
+        "Rua “C”, nº 290, Bairro Ondumar Marabá, Município de Luís Eduardo Magalhães, Estado da Bahia, CEP 47852-732"
+    ],
+    "social_links": [
+        "https://www.facebook.com/instaagrobrasil/",
+        "https://www.instagram.com/instaagrobr/",
+        "https://www.linkedin.com/company/instaagro/",
+        "https://api.whatsapp.com/send?phone=5511937502245&text=Ol%C3%A1!",
+        "https://api.whatsapp.com/send?phone=5511937502245"
+    ],
+    "description": "A InstaAgro é uma empresa de soluções em agronegócio que oferece uma ampla gama de produtos para diversas áreas, incluindo defensivos, biológicos, orgânicos, fertilizantes, sementes, irrigação e equipamentos agrícolas. A empresa possui diversas unidades em todo o Brasil, fornecendo produtos para o setor agropecuário e auxiliando produtores rurais em suas atividades."
+}
+```

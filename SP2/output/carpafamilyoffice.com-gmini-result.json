@@ -1,0 +1,22 @@
+```json
+{
+    "website": "https://carpafamilyoffice.com/",
+    "emails": [
+        "contato@carpafamilyoffice.com"
+    ],
+    "phone_numbers": [
+        "+ 55 11 5633-2766",
+        "+55 21 2525-2766"
+    ],
+    "addresses": [
+        "Av. Brigadeiro Faria Lima, 4300, 3º andar, Cj. 31 – Itaim Bibi – São Paulo SP – CEP 04538-132",
+        "Rua Visconde de Pirajá, 470, 5º andar – Ipanema – Rio de Janeiro  RJ – CEP 22410-002"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/carpa-familyoffice/",
+        "https://www.instagram.com/carpafamilyoffice/",
+        "https://api.whatsapp.com/send/?phone=551156332764&text=Ol%C3%A1.+Desejo+mais+informa%C3%A7%C3%B5es&app_absent=0"
+    ],
+    "description": "A Carpa Family Office é uma empresa que oferece soluções personalizadas para famílias, desde investimentos até serviços relacionados ao estilo de vida. Atua como um multi-family office com conceito de single-family office, proporcionando gestão integrada de patrimônio e planejamento. Possui escritórios em São Paulo e Rio de Janeiro, e oferece um atendimento personalizado focado em construir valor para seus clientes."
+}
+```

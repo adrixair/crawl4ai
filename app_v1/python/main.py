@@ -35,7 +35,7 @@ async def main(url):
 
         deep_crawl_strategy=BestFirstCrawlingStrategy(
             max_depth=2,
-            max_pages=5,
+            max_pages=30,
             include_external=False,
             filter_chain=filter_chain,
             url_scorer=keyword_scorer

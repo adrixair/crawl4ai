@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://www.siila.com.br",
+    "emails": [
+        "contato@siila.com.br"
+    ],
+    "phone_numbers": [
+        "+55 11 3046-9595"
+    ],
+    "addresses": [
+        "Rua Gomes de Carvalho, nº 1069, cj. 22, Vila Olímpia, São Paulo, SP, CEP: 04547-004, Brasil"
+    ],
+    "social_links": [
+        "https://www.linkedin.com/company/siila-br",
+        "https://www.youtube.com/c/SiiLABR",
+        "https://web.facebook.com/SiiLA.BR/",
+        "https://www.instagram.com/siila.br",
+        "https://twitter.com/SiiLA_br",
+        "https://www.tiktok.com/@siilaspot.br"
+    ],
+    "description": "A SiiLA é uma empresa de inteligência de mercado focada no setor imobiliário comercial na América Latina, oferecendo dados e análises. Fornece informações sobre escritórios, galpões, shoppings e outros imóveis comerciais, ajudando investidores, proprietários e ocupantes a tomar decisões estratégicas. A SiiLA está localizada no Brasil, com sede em São Paulo."
+}
+```

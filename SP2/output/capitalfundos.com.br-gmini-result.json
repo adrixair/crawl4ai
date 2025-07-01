@@ -1,0 +1,17 @@
+```json
+{
+    "website": "https://capitalfundos.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "55 (21) 3509-2150",
+        "55 (11) 3095-7070",
+        "(21) 3509-2150"
+    ],
+    "addresses": [
+        "Av. Ataulfo de Paiva, 204/901 – Leblon",
+        "Av. Brigadeiro Faria Lima, 2.179 – 8º andar – Jd. Paulistano"
+    ],
+    "social_links": [],
+    "description": "A Capital Investimentos, fundada em 1998, é uma das empresas mais antigas de gestão de patrimônio e aconselhamento financeiro no Brasil. Com escritórios no Rio de Janeiro e São Paulo, oferece produtos e serviços diferenciados para investidores individuais, famílias, empresas e clientes institucionais. A Capital se dedica à avaliação e ao acompanhamento das melhores alternativas de investimento."
+}
+```

@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://mandatum.com.br",
+    "emails": ["mandatum@mandatum.com.br"],
+    "phone_numbers": ["(31) 3264-0070", "3132640070"],
+    "addresses": [
+        "Alameda Oscar Niemeyer, 119, Sala 803 Vila da Serra - Nova Lima/MG",
+        "Av. Faria Lima, 4055, Sala 905, Torre Lead Offices Itaim Bibi - Sao Paulo/SP"
+    ],
+    "social_links": [
+        "https://www.facebook.com/Guerra-2184044945026317",
+        "https://www.instagram.com/mandatum_consultoria",
+        "https://www.linkedin.com/company/mandatum-consultoria",
+        "https://www.youtube.com/@mandatumconsultoria2936",
+        "https://api.whatsapp.com/send?l=pt&phone=553132640070",
+        "https://www.youtube.com/channel/UChRMRZ3_uqiHdajL-rzPSrw",
+        "https://sgcompliance.net/sg/mandatum/"
+    ],
+    "description": "A Mandatum Consultoria é um escritório de advocacia que atua em diversos ramos do direito, oferecendo consultoria e assessoria empresarial.  Com atuação em direito público, administrativo, econômico, imobiliário, tributário e fiscal, a empresa busca atender seus clientes de forma competente e criativa, com foco em segurança e confiabilidade, abrangendo também transações internacionais."
+}
+```

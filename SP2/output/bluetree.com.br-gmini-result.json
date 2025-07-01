@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://www.bluetree.com.br/hotel/blue-tree-premium-faria-lima",
+    "emails": [
+        "reservas.farialima@bluetree.com.br"
+    ],
+    "phone_numbers": [
+        "+55 (11) 3896-7544"
+    ],
+    "addresses": [
+        "Av. Brigadeiro Faria Lima, 3989 • Itaim Bibi •São Paulo • CEP: 04538-133"
+    ],
+    "social_links": [
+        "https://www.facebook.com/bluetreepremiumfarialima/",
+        "https://www.instagram.com/bluetreefarialima/",
+        "https://api.whatsapp.com/send/?phone=551138967544&text&app_absent=0"
+    ],
+    "description": "O Blue Tree Premium Faria Lima, localizado em São Paulo, oferece acomodações modernas na principal avenida de negócios da cidade. Com piscina climatizada e vista 360 graus, o hotel oferece quartos com ar-condicionado, TV a cabo e Wi-Fi cortesia. Dispõe de restaurante Noah com room service 24 horas e está situado a 7 km do Aeroporto de Congonhas, com heliponto."
+}
+```

@@ -1,0 +1,19 @@
+```json
+{
+    "website": "https://www.papelariapinheiro.com.br",
+    "emails": [
+        "atendimento@papelariapinheiro.com.br"
+    ],
+    "phone_numbers": [
+        "34-38231314"
+    ],
+    "addresses": [
+        "Avenida Fátima Porto , 2881- Jardim Centro, Patos de Minas , MG, 38705-184"
+    ],
+    "social_links": [
+        "https://api.whatsapp.com/send?phone=553438231314",
+        "https://www.instagram.com/_papelariapinheiro"
+    ],
+    "description": "A Papelaria Pinheiro é uma loja em Patos de Minas que oferece uma ampla variedade de produtos de papelaria, desde materiais escolares e de escritório até artigos para presentes e artesanato. A empresa também vende mochilas e outros itens relacionados."
+}
+```

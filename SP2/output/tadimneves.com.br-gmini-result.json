@@ -1,0 +1,36 @@
+```json
+{
+    "website": "https://tadimneves.com.br/",
+    "emails": [
+        "juridico@tadimneves.com"
+    ],
+    "phone_numbers": [
+        "(11) 94239-7752",
+        "(11) 2031-1000"
+    ],
+    "addresse": [
+        "Av. Marquês de São Vicente, 1619 - Sala 2701 - Barra Funda, São Paulo, SP, Brazil, 01139-0039"
+    ],
+    "social_links": [
+        "https://www.facebook.com/tadimnevesadvocacia/",
+        "https://br.linkedin.com/company/tadim-neves-advocacia",
+        "https://www.instagram.com/tadimnevesadvocacia/",
+        "https://twitter.com/nevestadim",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ol%C3%A1%2C+eu+vim+atrav%C3%A9s+do+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es.&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://www.google.com/maps/place/Tadim+Neves+Advocacia/@-23.5199553,-46.6768191,15z/data=!4m2!3m1!1s0x0:0x64bd4525a93f100b?sa=X&ved=2ahUKEwiP6NHpqPH6AhUYI7kGHXtRDy8Q_BJ6BAhEEAU",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0",
+        "https://api.whatsapp.com/send/?phone=5511942397752&text=Ola%21+Vim+atrav%C3%A9s+do+site+Tadim+Neves+Advocacia%2C+e+gostaria+de+conversar+com+um+atendente...&type=phone_number&app_absent=0"
+    ],
+    "description": "Tadim Neves Advocacia é um escritório especializado em Direito Trabalhista, com atuação em diversas áreas do direito, como Direito Previdenciário, Civil e Internacional. Com anos de experiência, o escritório oferece assessoria jurídica para empresas e trabalhadores, focando na defesa de direitos e na busca por soluções eficientes. Localizado em São Paulo, o escritório possui cinco filiais, buscando sempre o atendimento humanizado e a excelência nos serviços."
+}
+```

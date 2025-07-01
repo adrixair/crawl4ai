@@ -1,0 +1,23 @@
+```json
+{
+    "website": "https://vejasp.abril.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "+55 11 3584-9200"
+    ],
+    "addresses": [
+        "301 Usina – Avenida Alcides Sangirardi, s/n – Espaço C – Cidade Jardim – São Paulo/SP – CEP 05672-015"
+    ],
+    "social_links": [
+        "https://facebook.com/vejasp",
+        "https://x.com/vejasp",
+        "https://instagram.com/vejasp",
+        "https://youtube.com/vejasp",
+        "https://institutoveja.com.br/",
+        "https://api.whatsapp.com/send?phone=551135849200",
+        "https://api.whatsapp.com/send?phone=551131925586&text=Oi",
+        "https://api.whatsapp.com/send?phone=5531992388180&text=Oi"
+    ],
+    "description": "A Veja São Paulo é uma revista que cobre eventos culturais, notícias da cidade, dicas gastronômicas, e colunas diversas sobre a vida em São Paulo. A revista pertence ao Grupo Abril, oferecendo notícias e informações de qualidade sobre a cidade, com foco em cultura, lazer, e gastronomia. Inclui promoções, eventos e dicas de segurança para os leitores."
+}
+```

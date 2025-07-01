@@ -1,0 +1,16 @@
+```json
+{
+  "website": "https://mapma.com.br",
+  "emails": [],
+  "phone_numbers": [
+    "(21) 2102-1312",
+    "0800 025 1312"
+  ],
+  "addresses": [],
+  "social_links": [
+    "https://api.whatsapp.com/send?phone=552122164800",
+    "https://wa.me/2122164800"
+  ],
+  "description": "A MedSênior é uma empresa brasileira focada em planos de saúde para idosos, fundada em 2005. Ela oferece um atendimento especializado, com foco na prevenção de doenças e no bem-estar. Seus planos abrangem desde o essencial até o Black, com hospitais e laboratórios credenciados em várias regiões do Brasil, como Rio de Janeiro, Paraná, Minas Gerais e São Paulo."
+}
+```

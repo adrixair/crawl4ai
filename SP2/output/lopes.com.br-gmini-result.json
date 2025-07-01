@@ -1,0 +1,16 @@
+```json
+{
+    "website": "https://www.lopes.com.br",
+    "emails": [],
+    "phone_numbers": [],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/imobiliaria.lopes",
+        "https://www.twitter.com/Lopes_Imoveis",
+        "https://www.instagram.com/lopesimoveis/",
+        "https://www.linkedin.com/company/lopes-consultoria-de-imoveis",
+        "https://www.youtube.com/user/lopesconsultoria"
+    ],
+    "description": "A Lopes é uma imobiliária com grande atuação no mercado brasileiro, oferecendo uma vasta gama de imóveis para venda e aluguel em São Paulo e outras cidades. A empresa atua na intermediação de negócios imobiliários, desde apartamentos e casas até terrenos e imóveis comerciais, com foco em facilitar a busca de seus clientes."
+}
+```

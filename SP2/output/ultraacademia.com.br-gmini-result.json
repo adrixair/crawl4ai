@@ -1,0 +1,20 @@
+```json
+{
+    "website": "https://ultraacademia.com.br/",
+    "emails": [
+        "marketing@ultraacademia.com.br"
+    ],
+    "phone_numbers": [
+        "5511989351233"
+    ],
+    "addresses": [],
+    "social_links": [
+        "https://www.facebook.com/ultra.academias",
+        "https://www.instagram.com/ultra_academias",
+        "https://www.youtube.com/channel/UCh2YMdhWe2dWtAslvzYDWcg",
+        "https://www.linkedin.com/company/grupo-ultra-academias",
+        "https://wa.me/5511989351233"
+    ],
+    "description": "A Ultra Academia oferece um conceito de academia com foco em bem-estar, com atividades como ballet, yoga e dança. Possui diversas unidades e também oferece a possibilidade de franquias. O grupo Ultra, que inclui outras marcas como Spider Kick, BYD, Ride State e The Flame, busca a transformação através da atividade física, com diferentes modelos de negócio para atender diversos públicos."
+}
+```

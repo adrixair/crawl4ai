@@ -1,0 +1,21 @@
+```json
+{
+    "website": "https://hospitaligesp.com.br",
+    "emails": [],
+    "phone_numbers": [
+        "11 3147 6200",
+        "13 4042 0999"
+    ],
+    "addresses": [
+        "Rua Alferes Magalhães, 315 – Santana, São Paulo",
+        "R. Silvia, 276 – Bela Vista São Paulo – SP"
+    ],
+    "social_links": [
+        "https://www.youtube.com/@hospital_igesp",
+        "https://www.facebook.com/hospitaligesp",
+        "https://www.linkedin.com/company/hospital-igesp-oficial",
+        "https://www.instagram.com/hospital_igesp/"
+    ],
+    "description": "O Hospital IGESP é uma instituição de saúde que oferece atendimento geral adulto e pediátrico, contando com Pronto Atendimento 24h e diversas especialidades médicas. Possui unidades em São Paulo e Praia Grande, além de serviços como centro de diagnóstico, centro cirúrgico e unidades de internação, buscando sempre a excelência no atendimento e o bem-estar dos pacientes."
+}
+```
