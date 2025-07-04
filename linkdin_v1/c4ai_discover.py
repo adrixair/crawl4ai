@@ -175,7 +175,7 @@ def _openai_friendly_number(text: str) -> Optional[int]:
 # Core async workers
 # ---------------------------------------------------------------------------
 async def crawl_company_search(crawler: AsyncWebCrawler, url: str, schema: Dict, limit: int) -> List[Dict]:
-    """Paginate 10-item company search pages until `limit` reached."""
+    """Paginate 1-item company search pages until `limit` reached."""
     extraction = JsonCssExtractionStrategy(schema)
     cfg = CrawlerRunConfig(
         extraction_strategy=extraction,
@@ -187,7 +187,7 @@ async def crawl_company_search(crawler: AsyncWebCrawler, url: str, schema: Dict,
         verbose= False,
     )
     companies, page = [], 1
-    while len(companies) < max(limit, 10):
+    while len(companies) < max(limit, 1):
         paged_url = f"{url}&page={page}"
         res = await crawler.arun(paged_url, config=cfg)
         batch = json.loads(res[0].extracted_content)
@@ -217,7 +217,7 @@ async def crawl_company_search(crawler: AsyncWebCrawler, url: str, schema: Dict,
             f"[dim]Page {page}[/] — running total: {len(companies)}/{limit} companies"
         )
 
-    return companies[:max(limit, 10)]
+    return companies[:max(limit, 1)]
 
 
 async def crawl_people_page(
