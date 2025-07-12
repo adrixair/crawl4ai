@@ -175,8 +175,9 @@ def _openai_friendly_number(text: str) -> Optional[int]:
 # Core async workers
 # ---------------------------------------------------------------------------
 async def crawl_company_search(crawler: AsyncWebCrawler, url: str, schema: Dict, limit: int) -> List[Dict]:
-    """Paginate 1-item company search pages until `limit` reached."""
+    """Paginate 10-item company search pages until `limit` reached."""
     extraction = JsonCssExtractionStrategy(schema)
+    print("[DEBUG] Schéma utilisé pour l'extraction des entreprises :", json.dumps(schema, indent=2))
     cfg = CrawlerRunConfig(
         extraction_strategy=extraction,
         cache_mode=CacheMode.BYPASS,
@@ -187,13 +188,14 @@ async def crawl_company_search(crawler: AsyncWebCrawler, url: str, schema: Dict,
         verbose= False,
     )
     companies, page = [], 1
-    while len(companies) < max(limit, 1):
+    while len(companies) < max(limit, 10):
         paged_url = f"{url}&page={page}"
         res = await crawler.arun(paged_url, config=cfg)
         batch = json.loads(res[0].extracted_content)
         if not batch:
             break
         for item in batch:
+            print("[DEBUG] Entreprise brute extraite :", json.dumps(item, ensure_ascii=False))
             name = item.get("name", "").strip()
             handle = item.get("handle", "").strip()
             if not handle or not name:
@@ -217,7 +219,7 @@ async def crawl_company_search(crawler: AsyncWebCrawler, url: str, schema: Dict,
             f"[dim]Page {page}[/] — running total: {len(companies)}/{limit} companies"
         )
 
-    return companies[:max(limit, 1)]
+    return companies[:max(limit, 10)]
 
 
 async def crawl_people_page(
@@ -229,6 +231,7 @@ async def crawl_people_page(
 ) -> List[Dict]:
     people_u = f"{people_url}?keywords={quote(title_kw)}"
     extraction = JsonCssExtractionStrategy(schema)
+    print("[DEBUG] Schéma utilisé pour l'extraction des personnes :", json.dumps(schema, indent=2))
     cfg = CrawlerRunConfig(
         extraction_strategy=extraction,
         # scan_full_page=True,
@@ -244,6 +247,7 @@ async def crawl_people_page(
     raw = json.loads(res[0].extracted_content)
     people = []
     for p in raw[:limit]:
+        print("[DEBUG] Personne brute extraite :", json.dumps(p, ensure_ascii=False))
         followers = _openai_friendly_number(str(p.get("followers", "")))
         people.append(
             {
