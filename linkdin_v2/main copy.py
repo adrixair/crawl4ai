@@ -24,6 +24,24 @@ def slugify_url(url):
     return slug.lower()
 
 async def main():
+    # Define interaction script for loading all people entries
+    script = """
+# Handle dynamic content loading
+WAIT `.org-people-profile-card` 5
+
+# Accept cookies if needed
+IF (EXISTS `.cookie-banner`) THEN CLICK `.accept-all`
+
+# Déclare la procédure
+PROC scroll_and_click
+  SCROLL DOWN 1000
+  CLICK `.scaffold-finite-scroll__load-button`
+  WAIT `.org-people-profile-card` 2
+ENDPROC
+
+# Exécute scroll_and_click tant que le bouton est présent
+REPEAT (scroll_and_click, 10)
+    """
     browser_config = BrowserConfig(
         headless=False,
         verbose=True,
@@ -41,7 +59,7 @@ async def main():
         excluded_tags=['form', 'header', 'script', 'style'],
         process_iframes=True,
         remove_overlay_elements=True,
-        cache_mode=CacheMode.ENABLED,
+        cache_mode=CacheMode.DISABLED,
         scan_full_page=True,
         scroll_delay=0.5,
         scraping_strategy=LXMLWebScrapingStrategy(),
@@ -64,27 +82,25 @@ async def main():
         ),
         magic=True,
         simulate_user=True,
-        override_navigator=True
+        override_navigator=True,
+        c4a_script=script,
+        wait_for=".org-people-profile-card",
+        screenshot=True,
     )
 
     async with AsyncWebCrawler(config=browser_config) as crawler:
         url = "https://www.linkedin.com/company/sanofi/people/?keywords=Brazil"
+        import time
+        start_time = time.time()
         result = await crawler.arun(
             url=url,
             config=run_config
         )
+        end_time = time.time()
+        print(f"⏱ Temps d'exécution du crawl : {end_time - start_time:.2f} secondes")
 
         if result.success:
-            print("=== MARKDOWN RESULT ===")
-            print(result.markdown)
-
-            if result.media.get("images"):
-                for image in result.media["images"]:
-                    print(f"[IMG] {image.get('src')}")
-
-            if result.links.get("internal"):
-                for link in result.links["internal"]:
-                    print(f"[INTERNAL LINK] {link.get('href')}")
+            print(f"✅ Longueur du markdown : {len(result.markdown)} caractères")
 
             # Build slug and output directory based on URL
             slug = slugify_url(url)

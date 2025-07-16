@@ -14,7 +14,7 @@ def wait_for_q(loop):
 async def open_profile():
     async with async_playwright() as p:
         context = await p.chromium.launch_persistent_context(
-            user_data_dir="/Users/adrien/.crawl4ai/profiles/prof",
+            user_data_dir="/Users/adrien/.crawl4ai/profiles/Martin",
             headless=False
         )
         page = await context.new_page()

@@ -40,7 +40,7 @@ async def main(url):
             filter_chain=filter_chain,
             url_scorer=keyword_scorer
         ),
-        cache_mode=CacheMode.BYPASS,
+        cache_mode=CacheMode.ENABLED,
         scraping_strategy=LXMLWebScrapingStrategy(),
         stream=True,
         verbose=True,
